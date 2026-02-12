@@ -1,0 +1,92 @@
+<DimensionalModel name="RetailStoreStarSchema">
+
+    <Dimensions>
+
+        <Dimension name="CustomerDim" table="Dim_Customers">
+            <Attribute name="customer_sk" type="INT" role="SURROGATE_KEY"/>
+            <Attribute name="customer_id" type="STRING" role="BUSINESS_KEY"/>
+            <Attribute name="first_name" type="STRING"/>
+            <Attribute name="last_name" type="STRING"/>
+            <Attribute name="email" type="STRING"/>
+            <Attribute name="residential_location" type="STRING"/>
+            <Attribute name="customer_segment" type="STRING"/>
+        </Dimension>
+
+
+        <Dimension name="ProductDim" table="Dim_Products">
+            <Attribute name="product_sk" type="INT" role="SURROGATE_KEY"/>
+            <Attribute name="product_id" type="STRING" role="BUSINESS_KEY"/>
+            <Attribute name="product_name" type="STRING"/>
+            <Attribute name="category" type="STRING"/>
+            <Attribute name="brand" type="STRING"/>
+            <Attribute name="origin_location" type="STRING"/>
+        </Dimension>
+
+
+        <Dimension name="StoreDim" table="Dim_Stores">
+            <Attribute name="store_sk" type="INT" role="SURROGATE_KEY"/>
+            <Attribute name="store_id" type="STRING" role="BUSINESS_KEY"/>
+            <Attribute name="store_name" type="STRING"/>
+            <Attribute name="store_type" type="STRING"/>
+            <Attribute name="store_location" type="STRING"/>
+            <Attribute name="store_manager_sk" type="INT"/>
+        </Dimension>
+
+
+        <Dimension name="SalespersonDim" table="Dim_Salesperson">
+            <Attribute name="salesperson_sk" type="INT" role="SURROGATE_KEY"/>
+            <Attribute name="salesperson_id" type="STRING" role="BUSINESS_KEY"/>
+            <Attribute name="salesperson_name" type="STRING"/>
+            <Attribute name="salesperson_role" type="STRING"/>
+        </Dimension>
+
+
+        <Dimension name="CampaignDim" table="Dim_Campaign">
+            <Attribute name="campaign_sk" type="INT" role="SURROGATE_KEY"/>
+            <Attribute name="campaign_id" type="STRING" role="BUSINESS_KEY"/>
+            <Attribute name="campaign_name" type="STRING"/>
+            <Attribute name="start_date_sk" type="INT"/>
+            <Attribute name="end_date_sk" type="INT"/>
+            <Attribute name="campaign_budget" type="FLOAT"/>
+        </Dimension>
+
+
+        <Dimension name="DateDim" table="Dim_Dates">
+            <Attribute name="date_sk" type="INT" role="SURROGATE_KEY"/>
+            <Attribute name="full_date" type="DATE"/>
+            <Attribute name="year" type="INT"/>
+            <Attribute name="month" type="INT"/>
+            <Attribute name="day" type="INT"/>
+            <Attribute name="day_of_week" type="STRING"/>
+            <Attribute name="quarter" type="INT"/>
+
+            <Hierarchy name="CalendarHierarchy">
+                <Level name="Year" column="year"/>
+                <Level name="Quarter" column="quarter"/>
+                <Level name="Month" column="month"/>
+                <Level name="Day" column="day"/>
+            </Hierarchy>
+        </Dimension>
+
+    </Dimensions>
+
+
+    <Facts>
+
+        <FactTable name="SalesFact" table="Fact_Sales">
+
+            <ForeignKey dimension="CustomerDim" column="customer_sk"/>
+            <ForeignKey dimension="ProductDim" column="product_sk"/>
+            <ForeignKey dimension="StoreDim" column="store_sk"/>
+            <ForeignKey dimension="SalespersonDim" column="salesperson_sk"/>
+            <ForeignKey dimension="CampaignDim" column="campaign_sk"/>
+            <ForeignKey dimension="DateDim" column="sales_date"/>
+
+            <Measure name="total_amount" type="FLOAT" aggregation="SUM"/>
+
+            <Measure name="sales_count" type="INT" aggregation="COUNT"/>
+        </FactTable>
+
+    </Facts>
+
+</DimensionalModel>

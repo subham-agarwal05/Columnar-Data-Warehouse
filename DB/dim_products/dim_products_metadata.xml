@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Metadata>
+    <Table name="dim_products">
+        <RowCount>1500</RowCount>
+        <Properties>
+            <Property name="CreatedDate">2023-10-27</Property>
+            <Property name="LastUpdated">2023-11-15</Property>
+        </Properties>
+        <Columns>
+            <Column name="product_sk">
+                <DistinctCount>1500</DistinctCount>
+                <Min>1</Min>
+                <Max>1500</Max>
+            </Column>
+            <Column name="product_id">
+                <DistinctCount>1500</DistinctCount>
+            </Column>
+            <Column name="product_name">
+                <DistinctCount>1450</DistinctCount>
+            </Column>
+            <Column name="category">
+                <DistinctCount>25</DistinctCount>
+                <Compression>Dictionary</Compression>
+                <Dictionary>
+                    <File path="DB/dim_products/dim_products_category.dict"/>
+                </Dictionary>
+            </Column>
+            <Column name="brand">
+                <DistinctCount>120</DistinctCount>
+            </Column>
+            <Column name="origin_location">
+                <DistinctCount>50</DistinctCount>
+            </Column>
+        </Columns>
+    </Table>
+</Metadata>

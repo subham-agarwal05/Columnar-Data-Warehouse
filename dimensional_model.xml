@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <DimensionalModel name="RetailStoreStarSchema">
 
     <Dimensions>
@@ -75,6 +76,8 @@
 
         <FactTable name="SalesFact" table="Fact_Sales">
 
+            <Attribute name="sales_sk" type="INT" role="SURROGATE_KEY"/>
+            <Attribute name="sales_id" type="STRING" role="BUSINESS_KEY"/>
             <ForeignKey dimension="CustomerDim" column="customer_sk"/>
             <ForeignKey dimension="ProductDim" column="product_sk"/>
             <ForeignKey dimension="StoreDim" column="store_sk"/>

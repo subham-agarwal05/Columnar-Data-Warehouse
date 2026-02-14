@@ -1,61 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Schema>
-    <Table name="dim_campaigns">
-        <Column name="campaign_sk" type="Integer" path="Data/dim_campaigns/campaign_sk.dat" />
-        <Column name="campaign_id" type="String" path="Data/dim_campaigns/campaign_id.dat" />
-        <Column name="campaign_name" type="String" path="Data/dim_campaigns/campaign_name.dat" />
-        <Column name="start_date_sk" type="Integer" path="Data/dim_campaigns/start_date_sk.dat" />
-        <Column name="end_date_sk" type="Integer" path="Data/dim_campaigns/end_date_sk.dat" />
-        <Column name="campaign_budget" type="Float" path="Data/dim_campaigns/campaign_budget.dat" />
-    </Table>
-    <Table name="dim_customers">
-        <Column name="customer_sk" type="Integer" path="Data/dim_customers/customer_sk.dat" />
-        <Column name="customer_id" type="String" path="Data/dim_customers/customer_id.dat" />
-        <Column name="first_name" type="String" path="Data/dim_customers/first_name.dat" />
-        <Column name="last_name" type="String" path="Data/dim_customers/last_name.dat" />
-        <Column name="email" type="String" path="Data/dim_customers/email.dat" />
-        <Column name="residential_location" type="String" path="Data/dim_customers/residential_location.dat" />
-        <Column name="customer_segment" type="String" path="Data/dim_customers/customer_segment.dat" />
-    </Table>
-    <Table name="dim_dates">
-        <Column name="full_date" type="String" path="Data/dim_dates/full_date.dat" />
-        <Column name="date_sk" type="Integer" path="Data/dim_dates/date_sk.dat" />
-        <Column name="year" type="Integer" path="Data/dim_dates/year.dat" />
-        <Column name="month" type="Integer" path="Data/dim_dates/month.dat" />
-        <Column name="day" type="Integer" path="Data/dim_dates/day.dat" />
-        <Column name="weekday" type="Integer" path="Data/dim_dates/weekday.dat" />
-        <Column name="quarter" type="Integer" path="Data/dim_dates/quarter.dat" />
-    </Table>
-    <Table name="dim_products">
-        <Column name="product_sk" type="Integer" path="Data/dim_products/product_sk.dat" />
-        <Column name="product_id" type="String" path="Data/dim_products/product_id.dat" />
-        <Column name="product_name" type="String" path="Data/dim_products/product_name.dat" />
-        <Column name="category" type="String" path="Data/dim_products/category.dat" />
-        <Column name="brand" type="String" path="Data/dim_products/brand.dat" />
-        <Column name="origin_location" type="String" path="Data/dim_products/origin_location.dat" />
-    </Table>
-    <Table name="dim_salespersons">
-        <Column name="salesperson_sk" type="Integer" path="Data/dim_salespersons/salesperson_sk.dat" />
-        <Column name="salesperson_id" type="String" path="Data/dim_salespersons/salesperson_id.dat" />
-        <Column name="salesperson_name" type="String" path="Data/dim_salespersons/salesperson_name.dat" />
-        <Column name="salesperson_role" type="String" path="Data/dim_salespersons/salesperson_role.dat" />
-    </Table>
-    <Table name="dim_stores">
-        <Column name="store_sk" type="Integer" path="Data/dim_stores/store_sk.dat" />
-        <Column name="store_id" type="String" path="Data/dim_stores/store_id.dat" />
-        <Column name="store_name" type="String" path="Data/dim_stores/store_name.dat" />
-        <Column name="store_type" type="String" path="Data/dim_stores/store_type.dat" />
-        <Column name="store_location" type="String" path="Data/dim_stores/store_location.dat" />
-        <Column name="store_manager_sk" type="Integer" path="Data/dim_stores/store_manager_sk.dat" />
-    </Table>
-    <Table name="fact_sales_normalized">
-        <Column name="sales_sk" type="Integer" path="Data/fact_sales_normalized/sales_sk.dat" />
-        <Column name="sales_id" type="String" path="Data/fact_sales_normalized/sales_id.dat" />
-        <Column name="customer_sk" type="Integer" path="Data/fact_sales_normalized/customer_sk.dat" />
-        <Column name="product_sk" type="Integer" path="Data/fact_sales_normalized/product_sk.dat" />
-        <Column name="store_sk" type="Integer" path="Data/fact_sales_normalized/store_sk.dat" />
-        <Column name="salesperson_sk" type="Integer" path="Data/fact_sales_normalized/salesperson_sk.dat" />
-        <Column name="campaign_sk" type="Integer" path="Data/fact_sales_normalized/campaign_sk.dat" />
-        <Column name="sales_date" type="String" path="Data/fact_sales_normalized/sales_date.dat" />
-        <Column name="total_amount" type="Float" path="Data/fact_sales_normalized/total_amount.dat" />
-    </Table>
+    <DBRoot name="sales" path="DB">
+        <Table name="dim_campaigns">
+            <Column name="campaign_sk" type="Integer" path="DB/dim_campaigns/campaign_sk.dat" />
+            <Column name="campaign_id" type="String" path="DB/dim_campaigns/campaign_id.dat" />
+            <Column name="campaign_name" type="String" path="DB/dim_campaigns/campaign_name.dat" />
+            <Column name="start_date_sk" type="Integer" path="DB/dim_campaigns/start_date_sk.dat" />
+            <Column name="end_date_sk" type="Integer" path="DB/dim_campaigns/end_date_sk.dat" />
+            <Column name="campaign_budget" type="Float" path="DB/dim_campaigns/campaign_budget.dat" />
+            <Metadata name="dim_campaigns_metadata" path="DB/dim_campaigns/dim_campaigns_metadata.xml"/>
+        </Table>
+        <Table name="dim_customers">
+            <Column name="customer_sk" type="Integer" path="DB/dim_customers/customer_sk.dat" />
+            <Column name="customer_id" type="String" path="DB/dim_customers/customer_id.dat" />
+            <Column name="first_name" type="String" path="DB/dim_customers/first_name.dat" />
+            <Column name="last_name" type="String" path="DB/dim_customers/last_name.dat" />
+            <Column name="email" type="String" path="DB/dim_customers/email.dat" />
+            <Column name="residential_location" type="String" path="DB/dim_customers/residential_location.dat" />
+            <Column name="customer_segment" type="String" path="DB/dim_customers/customer_segment.dat" />
+            <Metadata name="dim_customers_metadata" path="DB/dim_customers/dim_customers_metadata.xml"/>
+        </Table>
+        <Table name="dim_dates">
+            <Column name="full_date" type="String" path="DB/dim_dates/full_date.dat" />
+            <Column name="date_sk" type="Integer" path="DB/dim_dates/date_sk.dat" />
+            <Column name="year" type="Integer" path="DB/dim_dates/year.dat" />
+            <Column name="month" type="Integer" path="DB/dim_dates/month.dat" />
+            <Column name="day" type="Integer" path="DB/dim_dates/day.dat" />
+            <Column name="weekday" type="Integer" path="DB/dim_dates/weekday.dat" />
+            <Column name="quarter" type="Integer" path="DB/dim_dates/quarter.dat" />
+            <Metadata name="dim_dates_metadata" path="DB/dim_dates/dim_dates_metadata.xml"/>
+        </Table>
+        <Table name="dim_products">
+            <Column name="product_sk" type="Integer" path="DB/dim_products/product_sk.dat" />
+            <Column name="product_id" type="String" path="DB/dim_products/product_id.dat" />
+            <Column name="product_name" type="String" path="DB/dim_products/product_name.dat" />
+            <Column name="category" type="String" path="DB/dim_products/category.dat" />
+            <Column name="brand" type="String" path="DB/dim_products/brand.dat" />
+            <Column name="origin_location" type="String" path="DB/dim_products/origin_location.dat" />
+            <Metadata name="dim_products_metadata" path="DB/dim_products/dim_products_metadata.xml"/>
+        </Table>
+        <Table name="dim_salespersons">
+            <Column name="salesperson_sk" type="Integer" path="DB/dim_salespersons/salesperson_sk.dat" />
+            <Column name="salesperson_id" type="String" path="DB/dim_salespersons/salesperson_id.dat" />
+            <Column name="salesperson_name" type="String" path="DB/dim_salespersons/salesperson_name.dat" />
+            <Column name="salesperson_role" type="String" path="DB/dim_salespersons/salesperson_role.dat" />
+            <Metadata name="dim_salespersons_metadata" path="DB/dim_salespersons/dim_salespersons_metadata.xml"/>
+        </Table>
+        <Table name="dim_stores">
+            <Column name="store_sk" type="Integer" path="DB/dim_stores/store_sk.dat" />
+            <Column name="store_id" type="String" path="DB/dim_stores/store_id.dat" />
+            <Column name="store_name" type="String" path="DB/dim_stores/store_name.dat" />
+            <Column name="store_type" type="String" path="DB/dim_stores/store_type.dat" />
+            <Column name="store_location" type="String" path="DB/dim_stores/store_location.dat" />
+            <Column name="store_manager_sk" type="Integer" path="DB/dim_stores/store_manager_sk.dat" />
+            <Metadata name="dim_stores_metadata" path="DB/dim_stores/dim_stores_metadata.xml"/>
+        </Table>
+        <Table name="fact_sales_normalized">
+            <Column name="sales_sk" type="Integer" path="DB/fact_sales_normalized/sales_sk.dat" />
+            <Column name="sales_id" type="String" path="DB/fact_sales_normalized/sales_id.dat" />
+            <Column name="customer_sk" type="Integer" path="DB/fact_sales_normalized/customer_sk.dat" />
+            <Column name="product_sk" type="Integer" path="DB/fact_sales_normalized/product_sk.dat" />
+            <Column name="store_sk" type="Integer" path="DB/fact_sales_normalized/store_sk.dat" />
+            <Column name="salesperson_sk" type="Integer" path="DB/fact_sales_normalized/salesperson_sk.dat" />
+            <Column name="campaign_sk" type="Integer" path="DB/fact_sales_normalized/campaign_sk.dat" />
+            <Column name="sales_date" type="Date" path="DB/fact_sales_normalized/sales_date.dat" />
+            <Column name="total_amount" type="Float" path="DB/fact_sales_normalized/total_amount.dat" />
+            <Metadata name="fact_sales_normalized_metadata" path="DB/fact_sales_normalized/fact_sales_normalized_metadata.xml"/>
+        </Table>
+    </DBRoot>
 </Schema>

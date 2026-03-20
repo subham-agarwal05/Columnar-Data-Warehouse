@@ -1,0 +1,6 @@
+/Data
+/DB
+*.exe
+pugixml.cpp
+pugixml.hpp
+pugiconfig.hpp

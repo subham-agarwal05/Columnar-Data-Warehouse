@@ -1,5 +1,6 @@
 /Data
 /DB
+/Cuboids
 *.exe
 pugixml.cpp
 pugixml.hpp

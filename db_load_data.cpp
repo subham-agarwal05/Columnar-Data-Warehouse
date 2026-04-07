@@ -20,14 +20,19 @@ struct DimSchema {
     bool not_null;
     bool unique;
     string attribute_type;
+    string encoding;  // "dictionary" or empty
     unordered_set<string> seen_values;
 };
 
 struct ColumnSchema {
     string name;
     string file;
+    string dict_file;  // dictionary file path (empty if not encoded)
     unique_ptr<ofstream> out_stream;
     DimSchema* dim;
+    // Dictionary state (used during loading for dictionary-encoded columns)
+    unordered_map<string, uint32_t> dict_map;    // value -> code
+    vector<string> dict_entries;                   // code -> value (ordered)
 };
 
 vector<string> parse_csv_line(const string& line) {
@@ -65,6 +70,39 @@ void write_offset(size_t offset) {
     out.close();
 }
 
+// Load existing dictionary from a .dict.bin file
+void load_existing_dictionary(ColumnSchema& col) {
+    ifstream in(col.dict_file, ios::binary);
+    if (!in.is_open() || in.peek() == EOF) return;
+    
+    uint32_t entry_count;
+    in.read(reinterpret_cast<char*>(&entry_count), sizeof(uint32_t));
+    if (!in) return;
+    
+    for (uint32_t i = 0; i < entry_count; i++) {
+        uint16_t len;
+        in.read(reinterpret_cast<char*>(&len), sizeof(uint16_t));
+        if (!in) break;
+        string s(len, '\0');
+        in.read(s.data(), len);
+        col.dict_map[s] = i;
+        col.dict_entries.push_back(s);
+    }
+}
+
+// Write dictionary to a .dict.bin file
+void write_dictionary(const ColumnSchema& col) {
+    ofstream out(col.dict_file, ios::binary | ios::trunc);
+    uint32_t entry_count = static_cast<uint32_t>(col.dict_entries.size());
+    out.write(reinterpret_cast<const char*>(&entry_count), sizeof(uint32_t));
+    for (auto& s : col.dict_entries) {
+        uint16_t len = static_cast<uint16_t>(s.size());
+        out.write(reinterpret_cast<const char*>(&len), sizeof(uint16_t));
+        out.write(s.data(), len);
+    }
+    out.close();
+}
+
 int main() {
     string cds_path = "cds_schema.xml";
     string dim_path = "dim_schema.xml";
@@ -87,6 +125,12 @@ int main() {
         ds->not_null = string(col.attribute("not_null").value()) == "true";
         ds->unique = string(col.attribute("unique").value()) == "true";
         ds->attribute_type = col.attribute("attribute_type").value();
+        
+        // Check for encoding child element
+        xml_node enc = col.child("Encoding");
+        if (enc) {
+            ds->encoding = enc.attribute("type").value();
+        }
         
         dim_map[name] = std::move(ds);
     }
@@ -112,9 +156,11 @@ int main() {
         return 1;
     }
 
+    int dict_count = 0;
     for (xml_node colElement = table.child("Column"); colElement; colElement = colElement.next_sibling("Column")) {
         string name = colElement.attribute("name").value();
         string file = colElement.attribute("file").value();
+        string dict_file = colElement.attribute("dict").value();
 
         if (!name.empty() && !file.empty()) {
             if (dim_map.find(name) == dim_map.end()) {
@@ -125,18 +171,26 @@ int main() {
             ColumnSchema col;
             col.name = name;
             col.file = file;
+            col.dict_file = dict_file;
             col.dim = dim_map[name].get();
             
-            col.out_stream = make_unique<ofstream>(col.file, ios::app);
+            col.out_stream = make_unique<ofstream>(col.file, ios::app | ios::binary);
             if (!col.out_stream->is_open()) {
                 cerr << "Failed to open output file for column " << col.name << " at " << col.file << endl;
                 return 1;
             }
+
+            // Load existing dictionary if this is a dictionary-encoded column
+            if (col.dim->encoding == "dictionary" && !col.dict_file.empty()) {
+                load_existing_dictionary(col);
+                dict_count++;
+            }
+
             columns.push_back(std::move(col));
         }
     }
 
-    cout << "Opened " << columns.size() << " column files for appending." << endl;
+    cout << "Opened " << columns.size() << " column files for appending (" << dict_count << " dictionary-encoded)." << endl;
 
     //Read the current offset
     size_t prev_offset = read_offset();
@@ -207,7 +261,7 @@ int main() {
             continue;
         }
 
-        //Persist
+        //Persist (binary format)
         for (size_t i = 0; i < columns.size(); ++i) {
             auto& col = columns[i];
             auto& field = fields[i];
@@ -217,20 +271,35 @@ int main() {
                 col.dim->seen_values.insert(field);
             }
 
-            if (col.dim->type == "integer") {
+            if (col.dim->encoding == "dictionary" && !col.dict_file.empty()) {
+                // Dictionary-encoded string: write uint32_t code
+                auto it = col.dict_map.find(field);
+                uint32_t code;
+                if (it != col.dict_map.end()) {
+                    code = it->second;
+                } else {
+                    code = static_cast<uint32_t>(col.dict_entries.size());
+                    col.dict_map[field] = code;
+                    col.dict_entries.push_back(field);
+                }
+                out.write(reinterpret_cast<const char*>(&code), sizeof(uint32_t));
+            } else if (col.dim->type == "integer") {
                 int32_t val = 0;
                 if (!field.empty()) {
                     try { val = stoi(field); } catch(...) {}
                 }
-                out << val << "\n";
+                out.write(reinterpret_cast<const char*>(&val), sizeof(int32_t));
             } else if (col.dim->type == "float") {
                 float val = 0.0f;
                 if (!field.empty()) {
                     try { val = stof(field); } catch(...) {}
                 }
-                out << val << "\n";
+                out.write(reinterpret_cast<const char*>(&val), sizeof(float));
             } else if (col.dim->type == "string") {
-                out << field << "\n";
+                // Non-encoded string: length-prefixed
+                uint16_t len = static_cast<uint16_t>(field.size());
+                out.write(reinterpret_cast<const char*>(&len), sizeof(uint16_t));
+                out.write(field.data(), len);
             }
         }
         new_rows++;
@@ -240,11 +309,21 @@ int main() {
         }
     }
 
+    // Write dictionaries to disk
+    int dicts_written = 0;
+    for (auto& col : columns) {
+        if (col.dim->encoding == "dictionary" && !col.dict_file.empty()) {
+            write_dictionary(col);
+            dicts_written++;
+        }
+    }
+
     //Update offset
     size_t total_offset = prev_offset + new_rows;
     write_offset(total_offset);
 
     cout << "Finished! Appended " << new_rows << " new rows (total: " << total_offset << ")." << endl;
+    cout << "Wrote " << dicts_written << " dictionaries to disk." << endl;
     if (validation_errors > 0) {
         cout << "Encountered " << validation_errors << " validation errors that were skipped." << endl;
     }

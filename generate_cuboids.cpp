@@ -124,65 +124,155 @@ map<string, DimColumnInfo> parse_dim_schema(const string& path) {
     return result;
 }
 
-map<string, string> parse_cds_schema(const string& path) {
-    map<string, string> result;
+// CDS schema entry: file path + optional dictionary path
+struct CdsColumnInfo {
+    string file;
+    string dict;  // empty if not dictionary-encoded
+};
+
+map<string, CdsColumnInfo> parse_cds_schema(const string& path) {
+    map<string, CdsColumnInfo> result;
     xml_document doc;
     if (!doc.load_file(path.c_str())) { cerr << "Error: Failed to parse " << path << endl; return result; }
     xml_node table = doc.child("ColumnStoreSchema").child("Table");
     for (xml_node col = table.child("Column"); col; col = col.next_sibling("Column")) {
-        result[col.attribute("name").value()] = col.attribute("file").value();
+        CdsColumnInfo info;
+        info.file = col.attribute("file").value();
+        info.dict = col.attribute("dict").value();
+        result[col.attribute("name").value()] = info;
     }
     return result;
 }
 
-// Column loaders
-vector<string> load_column(const string& file_path) {
+// Dictionary loader: reads a .dict.bin file into a vector<string>
+vector<string> load_dictionary(const string& dict_path) {
+    vector<string> dict;
+    ifstream in(dict_path, ios::binary);
+    if (!in.is_open()) { cerr << "Error: Cannot open dictionary " << dict_path << endl; return dict; }
+    uint32_t entry_count;
+    in.read(reinterpret_cast<char*>(&entry_count), sizeof(uint32_t));
+    if (!in) return dict;
+    dict.reserve(entry_count);
+    for (uint32_t i = 0; i < entry_count; i++) {
+        uint16_t len;
+        in.read(reinterpret_cast<char*>(&len), sizeof(uint16_t));
+        if (!in) break;
+        string s(len, '\0');
+        in.read(s.data(), len);
+        dict.push_back(std::move(s));
+    }
+    return dict;
+}
+
+// Column loaders — non-encoded strings (uint16_t length + raw bytes)
+vector<string> load_column_raw(const string& file_path) {
     vector<string> data;
-    ifstream in(file_path);
+    ifstream in(file_path, ios::binary);
     if (!in.is_open()) { cerr << "Error: Cannot open " << file_path << endl; return data; }
-    string line;
-    while (getline(in, line)) data.push_back(line);
+    while (in.peek() != EOF) {
+        uint16_t len;
+        in.read(reinterpret_cast<char*>(&len), sizeof(uint16_t));
+        if (!in) break;
+        string s(len, '\0');
+        in.read(s.data(), len);
+        data.push_back(std::move(s));
+    }
     return data;
 }
 
+// Column loader — dictionary-encoded (uint32_t codes, decoded via dictionary)
+vector<string> load_column_dict(const string& file_path, const vector<string>& dict) {
+    vector<string> data;
+    ifstream in(file_path, ios::binary);
+    if (!in.is_open()) { cerr << "Error: Cannot open " << file_path << endl; return data; }
+    uint32_t code;
+    while (in.read(reinterpret_cast<char*>(&code), sizeof(uint32_t))) {
+        if (code < dict.size()) {
+            data.push_back(dict[code]);
+        } else {
+            data.push_back("<INVALID>");
+        }
+    }
+    return data;
+}
+
+// Smart column loader: auto-detects encoding from CDS schema
+vector<string> load_column(const CdsColumnInfo& col_info) {
+    if (!col_info.dict.empty()) {
+        auto dict = load_dictionary(col_info.dict);
+        return load_column_dict(col_info.file, dict);
+    }
+    return load_column_raw(col_info.file);
+}
+
+// Measure loader (binary format: raw float values, 4 bytes each)
 vector<double> load_measure_column(const string& file_path) {
     vector<double> data;
-    ifstream in(file_path);
+    ifstream in(file_path, ios::binary);
     if (!in.is_open()) { cerr << "Error: Cannot open " << file_path << endl; return data; }
-    string line;
-    while (getline(in, line)) {
-        try { data.push_back(stod(line)); } catch (...) { data.push_back(0.0); }
+    float val;
+    while (in.read(reinterpret_cast<char*>(&val), sizeof(float))) {
+        data.push_back(static_cast<double>(val));
     }
     return data;
 }
 
 // Range loaders (for incremental refresh)
-vector<string> load_column_range(const string& file_path, size_t start, size_t end) {
+// Non-encoded strings: variable-length, must iterate from beginning
+vector<string> load_column_range_raw(const string& file_path, size_t start, size_t end) {
     vector<string> data;
-    ifstream in(file_path);
+    ifstream in(file_path, ios::binary);
     if (!in.is_open()) { cerr << "Cannot open " << file_path << endl; return data; }
-    string line;
     size_t cur = 0;
-    while (getline(in, line)) {
-        if (cur >= start && cur < end) data.push_back(line);
-        if (cur >= end) break;
+    while (in.peek() != EOF && cur < end) {
+        uint16_t len;
+        in.read(reinterpret_cast<char*>(&len), sizeof(uint16_t));
+        if (!in) break;
+        if (cur >= start) {
+            string s(len, '\0');
+            in.read(s.data(), len);
+            data.push_back(std::move(s));
+        } else {
+            in.seekg(len, ios::cur);
+        }
         cur++;
     }
     return data;
 }
 
+// Dictionary-encoded range: O(1) seek since each code is 4 bytes
+vector<string> load_column_range_dict(const string& file_path, const vector<string>& dict, size_t start, size_t end) {
+    vector<string> data;
+    ifstream in(file_path, ios::binary);
+    if (!in.is_open()) { cerr << "Cannot open " << file_path << endl; return data; }
+    in.seekg(static_cast<streamoff>(start * sizeof(uint32_t)), ios::beg);
+    for (size_t i = start; i < end; i++) {
+        uint32_t code;
+        if (!in.read(reinterpret_cast<char*>(&code), sizeof(uint32_t))) break;
+        data.push_back(code < dict.size() ? dict[code] : "<INVALID>");
+    }
+    return data;
+}
+
+// Smart range loader: auto-detects encoding
+vector<string> load_column_range(const CdsColumnInfo& col_info, size_t start, size_t end) {
+    if (!col_info.dict.empty()) {
+        auto dict = load_dictionary(col_info.dict);
+        return load_column_range_dict(col_info.file, dict, start, end);
+    }
+    return load_column_range_raw(col_info.file, start, end);
+}
+
+// Float range: O(1) seek since each record is exactly 4 bytes
 vector<double> load_measure_range(const string& file_path, size_t start, size_t end) {
     vector<double> data;
-    ifstream in(file_path);
+    ifstream in(file_path, ios::binary);
     if (!in.is_open()) { cerr << "Cannot open " << file_path << endl; return data; }
-    string line;
-    size_t cur = 0;
-    while (getline(in, line)) {
-        if (cur >= start && cur < end) {
-            try { data.push_back(stod(line)); } catch (...) { data.push_back(0.0); }
-        }
-        if (cur >= end) break;
-        cur++;
+    in.seekg(static_cast<streamoff>(start * sizeof(float)), ios::beg);
+    for (size_t i = start; i < end; i++) {
+        float val;
+        if (!in.read(reinterpret_cast<char*>(&val), sizeof(float))) break;
+        data.push_back(static_cast<double>(val));
     }
     return data;
 }
@@ -320,10 +410,8 @@ void write_offset(const string& path, size_t offset) {
     out << offset << endl;
 }
 
-// ================================================================
-// GENERATE: Full computation of all cuboids from the column store
-// ================================================================
-int generate_cuboids(const map<string, string>& cds_schema) {
+
+int generate_cuboids(const map<string, CdsColumnInfo>& cds_schema) {
     string output_dir = "Cuboids";
     vector<string> selected_dims = get_selected_dimensions();
     string measure_col = get_measure_column();
@@ -339,7 +427,7 @@ int generate_cuboids(const map<string, string>& cds_schema) {
         dim_data[i] = load_column(cds_schema.at(selected_dims[i]));
         cout << "  Loaded " << selected_dims[i] << " (" << dim_data[i].size() << " rows)" << endl;
     }
-    vector<double> measure_data = load_measure_column(cds_schema.at(measure_col));
+    vector<double> measure_data = load_measure_column(cds_schema.at(measure_col).file);
     cout << "  Loaded " << measure_col << " (" << measure_data.size() << " rows)" << endl;
 
     size_t num_rows = measure_data.size();
@@ -372,7 +460,7 @@ int generate_cuboids(const map<string, string>& cds_schema) {
     return 0;
 }
 
-int refresh_cuboids(const map<string, string>& cds_schema) {
+int refresh_cuboids(const map<string, CdsColumnInfo>& cds_schema) {
     Config cfg;
     vector<string> selected_dims = get_selected_dimensions();
     string measure_col = get_measure_column();
@@ -400,7 +488,7 @@ int refresh_cuboids(const map<string, string>& cds_schema) {
         dim_data[i] = load_column_range(cds_schema.at(selected_dims[i]), cuboid_offset, db_offset);
         cout << "  Loaded " << selected_dims[i] << " (" << dim_data[i].size() << " new values)" << endl;
     }
-    vector<double> measure_data = load_measure_range(cds_schema.at(measure_col), cuboid_offset, db_offset);
+    vector<double> measure_data = load_measure_range(cds_schema.at(measure_col).file, cuboid_offset, db_offset);
     cout << "  Loaded " << measure_col << " (" << measure_data.size() << " new values)" << endl;
 
     // Connect to MySQL

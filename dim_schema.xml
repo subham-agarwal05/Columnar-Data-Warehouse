@@ -7,26 +7,64 @@
     <Column name="first_name" type="string" not_null="false" unique="false" attribute_type="dimension"/>
     <Column name="last_name" type="string" not_null="false" unique="false" attribute_type="dimension"/>
     <Column name="email" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="residential_location" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="customer_segment" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="product_id" type="string" not_null="true" unique="false" attribute_type="dimension"/>
-    <Column name="product_name" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="category" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="brand" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="origin_location" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="store_id" type="string" not_null="true" unique="false" attribute_type="dimension"/>
-    <Column name="store_name" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="store_type" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="store_location" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="salesperson_id" type="string" not_null="true" unique="false" attribute_type="dimension"/>
-    <Column name="salesperson_name" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="salesperson_role" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="campaign_id" type="string" not_null="true" unique="false" attribute_type="dimension"/>
-    <Column name="campaign_name" type="string" not_null="false" unique="false" attribute_type="dimension"/>
+    <Column name="residential_location" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="customer_segment" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="product_id" type="string" not_null="true" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="product_name" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="category" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="brand" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="origin_location" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="store_id" type="string" not_null="true" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="store_name" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="store_type" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="store_location" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="salesperson_id" type="string" not_null="true" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="salesperson_name" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="salesperson_role" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="campaign_id" type="string" not_null="true" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="campaign_name" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
     <Column name="campaign_budget" type="integer" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="store_manager_id" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="store_manager_name" type="string" not_null="false" unique="false" attribute_type="dimension"/>
-    <Column name="store_manager_role" type="string" not_null="false" unique="false" attribute_type="dimension"/>
+    <Column name="store_manager_id" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="store_manager_name" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
+    <Column name="store_manager_role" type="string" not_null="false" unique="false" attribute_type="dimension">
+        <Encoding type="dictionary"/>
+    </Column>
     <Column name="campaign_start_date" type="string" not_null="false" unique="false" attribute_type="dimension"/>
     <Column name="campaign_start_year" type="integer" not_null="false" unique="false" attribute_type="dimension"/>
     <Column name="campaign_start_month" type="integer" not_null="false" unique="false" attribute_type="dimension"/>

@@ -43,16 +43,28 @@ int main() {
     int files_created = 0;
     for (xml_node colElement = table.child("Column"); colElement; colElement = colElement.next_sibling("Column")) {
         string file = colElement.attribute("file").value();
+        string dict_file = colElement.attribute("dict").value();
 
         if (!file.empty()) {
-            // Using trunc deletes existing data if the file already exists
-            ofstream out_stream(file, ios::trunc); 
+            // Create empty column file
+            ofstream out_stream(file, ios::binary | ios::trunc); 
             
             if (!out_stream.is_open()) {
                 cerr << "Failed to initialize and open output file " << file << endl;
                 return 1;
             }
             out_stream.close();
+            files_created++;
+        }
+
+        if (!dict_file.empty()) {
+            // Create empty dictionary file
+            ofstream dict_stream(dict_file, ios::binary | ios::trunc);
+            if (!dict_stream.is_open()) {
+                cerr << "Failed to initialize dictionary file " << dict_file << endl;
+                return 1;
+            }
+            dict_stream.close();
             files_created++;
         }
     }

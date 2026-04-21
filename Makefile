@@ -7,7 +7,7 @@ MYSQL_INCLUDE = -I"$(MYSQL_DIR)\include"
 MYSQL_LIB = -L"$(MYSQL_DIR)\lib" -lmysql
 MYSQL_DLL = libmysql.dll
 
-all: db_init db_load_data generate_cuboids load_to_mysql
+all: db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids
 
 setup:
 	@if not exist $(MYSQL_DLL) copy "$(MYSQL_DIR)\lib\$(MYSQL_DLL)" .
@@ -24,7 +24,10 @@ generate_cuboids: setup generate_cuboids.cpp $(PUGI)
 load_to_mysql: setup load_to_mysql.cpp $(PUGI)
 	$(CXX) $(CXXFLAGS) load_to_mysql.cpp $(PUGI) -o load_to_mysql.exe $(MYSQL_INCLUDE) $(MYSQL_LIB)
 
+iceberg_cuboids: iceberg_cuboids.cpp $(PUGI)
+	$(CXX) $(CXXFLAGS) iceberg_cuboids.cpp $(PUGI) -o iceberg_cuboids.exe
+
 clean:
 	del /Q *.exe $(MYSQL_DLL) 2>nul
 
-.PHONY: all clean setup db_init db_load_data generate_cuboids load_to_mysql
+.PHONY: all clean setup db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids

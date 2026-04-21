@@ -1,6 +1,7 @@
 /Data
 /DB
 /Cuboids
+/IcebergCuboids
 *.exe
 pugixml.cpp
 pugixml.hpp

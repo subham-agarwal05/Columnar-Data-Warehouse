@@ -1,0 +1,361 @@
+category,brand,store_type,salesperson_role,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Adidas,Large Malls / Complexes,Manager,7237192.78,2607,2776.06,501.32,4994.20
+Clothing,Adidas,Large Malls / Complexes,Sales Associate,7495518.89,2718,2757.73,500.83,4999.76
+Clothing,Adidas,Large Malls / Complexes,Salesperson,7652139.44,2787,2745.65,505.52,4999.95
+Clothing,Adidas,Large Malls / Complexes,Senior Salesperson,6456074.72,2345,2753.12,500.11,4999.86
+Clothing,Adidas,Small Stores / Shops,Manager,7527254.67,2735,2752.20,500.17,4996.59
+Clothing,Adidas,Small Stores / Shops,Sales Associate,7721903.23,2821,2737.29,500.58,4999.41
+Clothing,Adidas,Small Stores / Shops,Salesperson,8005373.49,2904,2756.67,502.17,4998.34
+Clothing,Adidas,Small Stores / Shops,Senior Salesperson,6701633.16,2449,2736.48,503.07,4994.90
+Clothing,Adidas,Supermarkets ,Manager,7908975.13,2933,2696.55,500.53,4999.38
+Clothing,Adidas,Supermarkets ,Sales Associate,8339480.01,3049,2735.15,500.52,4998.40
+Clothing,Adidas,Supermarkets ,Salesperson,8022514.12,2947,2722.26,501.20,4998.80
+Clothing,Adidas,Supermarkets ,Senior Salesperson,6992918.96,2559,2732.68,500.46,4999.86
+Clothing,Levi's,Large Malls / Complexes,Manager,7424553.84,2694,2755.96,500.37,4996.58
+Clothing,Levi's,Large Malls / Complexes,Sales Associate,7614660.14,2784,2735.15,500.60,4997.07
+Clothing,Levi's,Large Malls / Complexes,Salesperson,7670770.90,2764,2775.24,502.63,4999.97
+Clothing,Levi's,Large Malls / Complexes,Senior Salesperson,6432604.19,2349,2738.44,502.02,4999.60
+Clothing,Levi's,Small Stores / Shops,Manager,7588139.88,2765,2744.35,500.17,4999.21
+Clothing,Levi's,Small Stores / Shops,Sales Associate,8166933.32,3014,2709.67,501.31,4999.49
+Clothing,Levi's,Small Stores / Shops,Salesperson,8320393.44,3005,2768.85,503.19,4998.97
+Clothing,Levi's,Small Stores / Shops,Senior Salesperson,7398909.06,2663,2778.41,502.23,4997.36
+Clothing,Levi's,Supermarkets ,Manager,7961911.93,2884,2760.72,500.17,4998.47
+Clothing,Levi's,Supermarkets ,Sales Associate,8553856.91,3116,2745.14,500.12,4999.85
+Clothing,Levi's,Supermarkets ,Salesperson,7967795.78,2907,2740.90,501.79,4996.75
+Clothing,Levi's,Supermarkets ,Senior Salesperson,7246327.58,2621,2764.72,506.33,4994.57
+Clothing,Nike,Large Malls / Complexes,Manager,7070182.42,2601,2718.26,501.20,4999.12
+Clothing,Nike,Large Malls / Complexes,Sales Associate,7704760.56,2791,2760.57,500.72,4998.76
+Clothing,Nike,Large Malls / Complexes,Salesperson,7572380.41,2785,2718.99,500.82,4999.19
+Clothing,Nike,Large Malls / Complexes,Senior Salesperson,6579937.36,2417,2722.36,500.29,4999.01
+Clothing,Nike,Small Stores / Shops,Manager,7916540.91,2841,2786.53,500.55,4996.81
+Clothing,Nike,Small Stores / Shops,Sales Associate,8301236.73,3007,2760.64,500.14,4999.95
+Clothing,Nike,Small Stores / Shops,Salesperson,8366356.49,3016,2773.99,502.13,4998.67
+Clothing,Nike,Small Stores / Shops,Senior Salesperson,6986016.36,2523,2768.93,500.65,4999.08
+Clothing,Nike,Supermarkets ,Manager,7944303.79,2857,2780.65,500.89,4999.75
+Clothing,Nike,Supermarkets ,Sales Associate,8627940.31,3103,2780.52,500.77,4994.34
+Clothing,Nike,Supermarkets ,Salesperson,8078887.46,2936,2751.66,500.43,4999.33
+Clothing,Nike,Supermarkets ,Senior Salesperson,7189040.47,2585,2781.06,501.15,4998.67
+Clothing,Puma,Large Malls / Complexes,Manager,7293733.71,2678,2723.57,503.81,4998.56
+Clothing,Puma,Large Malls / Complexes,Sales Associate,7717327.91,2794,2762.11,500.18,4999.45
+Clothing,Puma,Large Malls / Complexes,Salesperson,7173520.37,2621,2736.94,500.66,4998.12
+Clothing,Puma,Large Malls / Complexes,Senior Salesperson,6385498.04,2346,2721.87,504.71,4997.93
+Clothing,Puma,Small Stores / Shops,Manager,7711294.22,2775,2778.84,503.51,4999.40
+Clothing,Puma,Small Stores / Shops,Sales Associate,7957169.01,2885,2758.12,500.57,4997.38
+Clothing,Puma,Small Stores / Shops,Salesperson,7976884.30,2903,2747.81,505.09,4998.14
+Clothing,Puma,Small Stores / Shops,Senior Salesperson,7395220.62,2636,2805.47,500.07,4999.68
+Clothing,Puma,Supermarkets ,Manager,7679772.54,2796,2746.70,500.82,4998.51
+Clothing,Puma,Supermarkets ,Sales Associate,8221731.80,3026,2717.03,502.20,4999.85
+Clothing,Puma,Supermarkets ,Salesperson,8337063.06,3025,2756.05,501.80,4999.17
+Clothing,Puma,Supermarkets ,Senior Salesperson,7193048.46,2595,2771.89,500.07,4999.98
+Clothing,Zara,Large Malls / Complexes,Manager,7039849.48,2580,2728.62,500.46,4998.58
+Clothing,Zara,Large Malls / Complexes,Sales Associate,7686966.04,2778,2767.09,501.59,4999.91
+Clothing,Zara,Large Malls / Complexes,Salesperson,7456282.50,2704,2757.50,500.93,4999.80
+Clothing,Zara,Large Malls / Complexes,Senior Salesperson,6670110.79,2381,2801.39,502.52,4999.71
+Clothing,Zara,Small Stores / Shops,Manager,7656642.25,2791,2743.33,500.32,4997.51
+Clothing,Zara,Small Stores / Shops,Sales Associate,8034961.00,2914,2757.36,502.03,4995.99
+Clothing,Zara,Small Stores / Shops,Salesperson,7752474.46,2827,2742.30,500.50,4999.82
+Clothing,Zara,Small Stores / Shops,Senior Salesperson,6847710.60,2479,2762.29,501.24,4999.81
+Clothing,Zara,Supermarkets ,Manager,8077279.08,2923,2763.35,501.71,4997.44
+Clothing,Zara,Supermarkets ,Sales Associate,8326195.64,3020,2757.02,502.48,4993.90
+Clothing,Zara,Supermarkets ,Salesperson,8056598.11,2956,2725.51,503.25,4998.98
+Clothing,Zara,Supermarkets ,Senior Salesperson,6977073.84,2540,2746.88,501.28,4997.44
+Electronics,Apple,Large Malls / Complexes,Manager,7127334.62,2565,2778.69,500.64,4999.20
+Electronics,Apple,Large Malls / Complexes,Sales Associate,7337178.90,2689,2728.59,500.60,4999.77
+Electronics,Apple,Large Malls / Complexes,Salesperson,7768288.03,2800,2774.39,500.25,4999.83
+Electronics,Apple,Large Malls / Complexes,Senior Salesperson,6342732.41,2338,2712.89,504.78,4999.96
+Electronics,Apple,Small Stores / Shops,Manager,7822733.72,2834,2760.32,501.68,4999.80
+Electronics,Apple,Small Stores / Shops,Sales Associate,8188342.96,2947,2778.54,500.55,4998.11
+Electronics,Apple,Small Stores / Shops,Salesperson,8099876.65,2964,2732.75,500.80,4997.50
+Electronics,Apple,Small Stores / Shops,Senior Salesperson,6906518.12,2513,2748.32,500.26,4998.48
+Electronics,Apple,Supermarkets ,Manager,7964369.60,2895,2751.08,509.10,4994.08
+Electronics,Apple,Supermarkets ,Sales Associate,8177009.48,3010,2716.61,500.70,4997.96
+Electronics,Apple,Supermarkets ,Salesperson,8397740.33,3051,2752.46,501.00,4999.96
+Electronics,Apple,Supermarkets ,Senior Salesperson,6976061.51,2552,2733.57,502.32,4997.92
+Electronics,LG,Large Malls / Complexes,Manager,7160956.69,2608,2745.77,502.94,4998.42
+Electronics,LG,Large Malls / Complexes,Sales Associate,7861738.86,2829,2778.98,500.70,4995.01
+Electronics,LG,Large Malls / Complexes,Salesperson,7702226.77,2753,2797.76,502.05,4999.10
+Electronics,LG,Large Malls / Complexes,Senior Salesperson,6737925.73,2409,2796.98,504.25,4999.45
+Electronics,LG,Small Stores / Shops,Manager,7693520.45,2783,2764.47,501.23,4998.70
+Electronics,LG,Small Stores / Shops,Sales Associate,8123990.40,2992,2715.24,500.75,4997.66
+Electronics,LG,Small Stores / Shops,Salesperson,8197885.00,2963,2766.75,502.12,4999.20
+Electronics,LG,Small Stores / Shops,Senior Salesperson,6771150.35,2451,2762.61,501.06,4998.59
+Electronics,LG,Supermarkets ,Manager,7848697.43,2884,2721.46,500.17,4996.53
+Electronics,LG,Supermarkets ,Sales Associate,8285739.57,3016,2747.26,501.39,4999.77
+Electronics,LG,Supermarkets ,Salesperson,8157522.96,2985,2732.84,502.26,4998.82
+Electronics,LG,Supermarkets ,Senior Salesperson,7170891.71,2597,2761.22,503.23,4999.09
+Electronics,Panasonic,Large Malls / Complexes,Manager,7359451.61,2649,2778.20,501.86,4999.78
+Electronics,Panasonic,Large Malls / Complexes,Sales Associate,7703338.83,2826,2725.88,501.34,4999.83
+Electronics,Panasonic,Large Malls / Complexes,Salesperson,7459630.99,2698,2764.87,500.80,4999.40
+Electronics,Panasonic,Large Malls / Complexes,Senior Salesperson,6706137.48,2418,2773.42,502.33,4996.10
+Electronics,Panasonic,Small Stores / Shops,Manager,7747734.06,2827,2740.62,501.05,4997.91
+Electronics,Panasonic,Small Stores / Shops,Sales Associate,8172224.07,2972,2749.74,502.39,4996.82
+Electronics,Panasonic,Small Stores / Shops,Salesperson,8317971.56,2988,2783.79,500.20,4998.99
+Electronics,Panasonic,Small Stores / Shops,Senior Salesperson,7070605.94,2549,2773.87,500.14,4999.96
+Electronics,Panasonic,Supermarkets ,Manager,7818404.66,2842,2751.02,500.20,4999.87
+Electronics,Panasonic,Supermarkets ,Sales Associate,8624353.81,3119,2765.10,504.69,4999.90
+Electronics,Panasonic,Supermarkets ,Salesperson,8448345.69,3043,2776.32,500.09,4999.67
+Electronics,Panasonic,Supermarkets ,Senior Salesperson,7074628.43,2554,2770.02,500.51,4998.89
+Electronics,Samsung,Large Malls / Complexes,Manager,7336211.24,2646,2772.57,504.32,4995.60
+Electronics,Samsung,Large Malls / Complexes,Sales Associate,7494513.69,2745,2730.24,501.55,4996.43
+Electronics,Samsung,Large Malls / Complexes,Salesperson,7316562.79,2670,2740.29,501.27,4999.50
+Electronics,Samsung,Large Malls / Complexes,Senior Salesperson,6647337.51,2398,2772.03,501.48,4998.35
+Electronics,Samsung,Small Stores / Shops,Manager,7937112.97,2874,2761.70,504.67,4998.39
+Electronics,Samsung,Small Stores / Shops,Sales Associate,8189211.61,2980,2748.06,501.85,4997.47
+Electronics,Samsung,Small Stores / Shops,Salesperson,8109545.62,2949,2749.93,504.18,4996.78
+Electronics,Samsung,Small Stores / Shops,Senior Salesperson,7342986.81,2621,2801.60,501.42,4999.69
+Electronics,Samsung,Supermarkets ,Manager,8025422.23,2916,2752.20,500.13,4998.97
+Electronics,Samsung,Supermarkets ,Sales Associate,8373056.58,3054,2741.67,501.03,4999.63
+Electronics,Samsung,Supermarkets ,Salesperson,8401409.68,3014,2787.46,500.93,4999.71
+Electronics,Samsung,Supermarkets ,Senior Salesperson,7323331.13,2655,2758.32,501.98,4997.91
+Electronics,Sony,Large Malls / Complexes,Manager,7352616.46,2709,2714.14,500.55,4998.89
+Electronics,Sony,Large Malls / Complexes,Sales Associate,7923690.90,2846,2784.15,502.69,4999.95
+Electronics,Sony,Large Malls / Complexes,Salesperson,7477272.54,2763,2706.22,502.59,4998.62
+Electronics,Sony,Large Malls / Complexes,Senior Salesperson,6524372.75,2386,2734.44,500.80,4997.33
+Electronics,Sony,Small Stores / Shops,Manager,7668263.72,2796,2742.58,500.08,4998.52
+Electronics,Sony,Small Stores / Shops,Sales Associate,7793893.15,2853,2731.82,500.72,4999.82
+Electronics,Sony,Small Stores / Shops,Salesperson,7707293.88,2812,2740.86,501.33,4997.06
+Electronics,Sony,Small Stores / Shops,Senior Salesperson,6915277.47,2538,2724.70,501.00,4997.03
+Electronics,Sony,Supermarkets ,Manager,7841107.73,2833,2767.78,500.05,4999.15
+Electronics,Sony,Supermarkets ,Sales Associate,8523106.82,3081,2766.34,500.19,4999.96
+Electronics,Sony,Supermarkets ,Salesperson,8169752.85,2968,2752.61,505.16,4998.47
+Electronics,Sony,Supermarkets ,Senior Salesperson,7019295.43,2564,2737.63,500.69,4998.40
+Furniture,Godrej Interio,Large Malls / Complexes,Manager,7083203.48,2573,2752.90,500.68,4999.65
+Furniture,Godrej Interio,Large Malls / Complexes,Sales Associate,7536241.05,2754,2736.47,500.23,4998.10
+Furniture,Godrej Interio,Large Malls / Complexes,Salesperson,7555518.48,2730,2767.59,500.38,4999.01
+Furniture,Godrej Interio,Large Malls / Complexes,Senior Salesperson,6628371.73,2391,2772.22,503.27,4999.77
+Furniture,Godrej Interio,Small Stores / Shops,Manager,7883174.43,2892,2725.86,501.02,4997.34
+Furniture,Godrej Interio,Small Stores / Shops,Sales Associate,7846443.67,2858,2745.43,500.57,4999.44
+Furniture,Godrej Interio,Small Stores / Shops,Salesperson,7942764.67,2893,2745.51,501.91,4998.30
+Furniture,Godrej Interio,Small Stores / Shops,Senior Salesperson,7063256.63,2634,2681.57,501.18,4999.40
+Furniture,Godrej Interio,Supermarkets ,Manager,7816330.29,2881,2713.06,501.67,4997.96
+Furniture,Godrej Interio,Supermarkets ,Sales Associate,8331321.27,3041,2739.67,502.89,4998.80
+Furniture,Godrej Interio,Supermarkets ,Salesperson,8259054.11,3040,2716.79,503.47,4999.17
+Furniture,Godrej Interio,Supermarkets ,Senior Salesperson,7330266.70,2643,2773.46,502.59,4999.39
+Furniture,Home Centre,Large Malls / Complexes,Manager,7259371.02,2673,2715.81,501.07,4999.60
+Furniture,Home Centre,Large Malls / Complexes,Sales Associate,7765563.25,2812,2761.58,503.37,4998.34
+Furniture,Home Centre,Large Malls / Complexes,Salesperson,7678507.40,2737,2805.45,500.35,4999.33
+Furniture,Home Centre,Large Malls / Complexes,Senior Salesperson,6687204.41,2421,2762.17,500.56,4997.41
+Furniture,Home Centre,Small Stores / Shops,Manager,7914633.11,2824,2802.63,500.93,4999.89
+Furniture,Home Centre,Small Stores / Shops,Sales Associate,8548902.05,3070,2784.66,501.40,4998.90
+Furniture,Home Centre,Small Stores / Shops,Salesperson,7986378.00,2868,2784.65,503.77,4999.64
+Furniture,Home Centre,Small Stores / Shops,Senior Salesperson,7059030.04,2541,2778.05,502.75,4999.30
+Furniture,Home Centre,Supermarkets ,Manager,7941785.32,2889,2748.97,501.93,4999.90
+Furniture,Home Centre,Supermarkets ,Sales Associate,8476928.37,3096,2738.03,502.08,4999.68
+Furniture,Home Centre,Supermarkets ,Salesperson,8176254.65,2974,2749.25,500.23,4997.23
+Furniture,Home Centre,Supermarkets ,Senior Salesperson,6996107.87,2573,2719.05,500.58,4998.45
+Furniture,IKEA,Large Malls / Complexes,Manager,7011921.32,2547,2753.01,502.21,4996.31
+Furniture,IKEA,Large Malls / Complexes,Sales Associate,7995142.25,2910,2747.47,504.41,4999.69
+Furniture,IKEA,Large Malls / Complexes,Salesperson,7591449.72,2762,2748.53,505.20,4997.00
+Furniture,IKEA,Large Malls / Complexes,Senior Salesperson,6388711.87,2337,2733.72,501.95,4996.11
+Furniture,IKEA,Small Stores / Shops,Manager,7950500.91,2892,2749.14,504.36,4999.21
+Furniture,IKEA,Small Stores / Shops,Sales Associate,8080048.36,2890,2795.86,500.31,4998.88
+Furniture,IKEA,Small Stores / Shops,Salesperson,7976838.10,2877,2772.62,501.83,4998.02
+Furniture,IKEA,Small Stores / Shops,Senior Salesperson,6944222.60,2569,2703.08,500.06,4998.66
+Furniture,IKEA,Supermarkets ,Manager,8025985.64,2935,2734.58,501.84,4992.85
+Furniture,IKEA,Supermarkets ,Sales Associate,8619191.93,3104,2776.80,501.50,4998.49
+Furniture,IKEA,Supermarkets ,Salesperson,8531663.46,3119,2735.38,500.31,4999.12
+Furniture,IKEA,Supermarkets ,Senior Salesperson,7122197.68,2619,2719.43,501.39,4996.87
+Furniture,Pepperfry,Large Malls / Complexes,Manager,7361527.19,2676,2750.94,503.79,4996.52
+Furniture,Pepperfry,Large Malls / Complexes,Sales Associate,7587068.07,2755,2753.93,500.56,4999.16
+Furniture,Pepperfry,Large Malls / Complexes,Salesperson,7437031.50,2692,2762.64,501.63,4998.48
+Furniture,Pepperfry,Large Malls / Complexes,Senior Salesperson,6647464.68,2410,2758.28,500.36,4998.32
+Furniture,Pepperfry,Small Stores / Shops,Manager,7652833.46,2742,2790.97,501.05,4998.77
+Furniture,Pepperfry,Small Stores / Shops,Sales Associate,7972332.60,2894,2754.78,502.71,4999.03
+Furniture,Pepperfry,Small Stores / Shops,Salesperson,8152533.57,2939,2773.91,502.41,4999.47
+Furniture,Pepperfry,Small Stores / Shops,Senior Salesperson,7082102.49,2572,2753.54,501.27,4998.96
+Furniture,Pepperfry,Supermarkets ,Manager,8288942.46,3027,2738.34,500.89,4995.95
+Furniture,Pepperfry,Supermarkets ,Sales Associate,8205180.06,2992,2742.37,501.84,4999.26
+Furniture,Pepperfry,Supermarkets ,Salesperson,8157213.78,2979,2738.24,505.59,4998.80
+Furniture,Pepperfry,Supermarkets ,Senior Salesperson,7112389.65,2581,2755.67,503.92,4998.58
+Furniture,Urban Ladder,Large Malls / Complexes,Manager,7377411.43,2723,2709.30,500.56,4999.11
+Furniture,Urban Ladder,Large Malls / Complexes,Sales Associate,7595668.75,2782,2730.29,502.02,4998.17
+Furniture,Urban Ladder,Large Malls / Complexes,Salesperson,8134419.21,2882,2822.49,502.15,4999.62
+Furniture,Urban Ladder,Large Malls / Complexes,Senior Salesperson,6630180.40,2414,2746.55,500.29,4999.88
+Furniture,Urban Ladder,Small Stores / Shops,Manager,7352498.78,2655,2769.30,500.07,4999.31
+Furniture,Urban Ladder,Small Stores / Shops,Sales Associate,8289621.53,2990,2772.45,501.28,4998.26
+Furniture,Urban Ladder,Small Stores / Shops,Salesperson,7822185.57,2819,2774.81,500.34,4997.58
+Furniture,Urban Ladder,Small Stores / Shops,Senior Salesperson,6634501.17,2410,2752.91,501.29,4995.72
+Furniture,Urban Ladder,Supermarkets ,Manager,8075100.11,2961,2727.15,502.39,4996.26
+Furniture,Urban Ladder,Supermarkets ,Sales Associate,8300040.06,3002,2764.84,502.37,4999.59
+Furniture,Urban Ladder,Supermarkets ,Salesperson,8293658.07,2995,2769.17,502.65,4999.22
+Furniture,Urban Ladder,Supermarkets ,Senior Salesperson,7303012.60,2645,2761.06,503.33,4997.23
+Groceries,Amul,Large Malls / Complexes,Manager,7141724.91,2611,2735.25,500.47,4998.19
+Groceries,Amul,Large Malls / Complexes,Sales Associate,7702784.03,2800,2750.99,501.41,4997.68
+Groceries,Amul,Large Malls / Complexes,Salesperson,7265230.92,2656,2735.40,500.26,4998.30
+Groceries,Amul,Large Malls / Complexes,Senior Salesperson,6409105.45,2342,2736.59,501.33,4999.80
+Groceries,Amul,Small Stores / Shops,Manager,7623841.13,2805,2717.95,501.42,4998.98
+Groceries,Amul,Small Stores / Shops,Sales Associate,8073228.15,2919,2765.75,503.67,4995.02
+Groceries,Amul,Small Stores / Shops,Salesperson,8036728.63,2938,2735.44,500.62,4996.14
+Groceries,Amul,Small Stores / Shops,Senior Salesperson,7197605.44,2603,2765.12,502.25,4996.88
+Groceries,Amul,Supermarkets ,Manager,8089162.45,2946,2745.81,505.72,4995.56
+Groceries,Amul,Supermarkets ,Sales Associate,8293869.29,3045,2723.77,500.74,4998.75
+Groceries,Amul,Supermarkets ,Salesperson,8380979.43,3059,2739.78,504.05,4997.96
+Groceries,Amul,Supermarkets ,Senior Salesperson,7272527.38,2644,2750.58,500.84,4996.48
+Groceries,Britannia,Large Malls / Complexes,Manager,6924016.88,2543,2722.78,502.96,4999.40
+Groceries,Britannia,Large Malls / Complexes,Sales Associate,7356275.05,2735,2689.68,502.18,4999.95
+Groceries,Britannia,Large Malls / Complexes,Salesperson,7442400.92,2682,2774.94,506.50,4999.56
+Groceries,Britannia,Large Malls / Complexes,Senior Salesperson,6424879.80,2339,2746.85,500.98,4998.24
+Groceries,Britannia,Small Stores / Shops,Manager,7811179.91,2802,2787.72,500.31,4999.83
+Groceries,Britannia,Small Stores / Shops,Sales Associate,8186634.08,2983,2744.43,501.28,4997.84
+Groceries,Britannia,Small Stores / Shops,Salesperson,7836615.83,2862,2738.16,500.43,4996.15
+Groceries,Britannia,Small Stores / Shops,Senior Salesperson,6801835.69,2491,2730.56,500.75,4998.54
+Groceries,Britannia,Supermarkets ,Manager,7836679.86,2872,2728.65,500.56,4994.55
+Groceries,Britannia,Supermarkets ,Sales Associate,8354994.89,3055,2734.86,504.60,4999.16
+Groceries,Britannia,Supermarkets ,Salesperson,8101151.68,2982,2716.68,503.77,4996.82
+Groceries,Britannia,Supermarkets ,Senior Salesperson,7308730.14,2640,2768.46,504.64,4997.17
+Groceries,Kellogg's,Large Malls / Complexes,Manager,7188786.04,2634,2729.23,513.24,4998.78
+Groceries,Kellogg's,Large Malls / Complexes,Sales Associate,7791097.74,2831,2752.07,501.42,4999.51
+Groceries,Kellogg's,Large Malls / Complexes,Salesperson,7759743.82,2804,2767.38,500.73,4999.86
+Groceries,Kellogg's,Large Malls / Complexes,Senior Salesperson,6563731.34,2357,2784.78,500.54,4999.96
+Groceries,Kellogg's,Small Stores / Shops,Manager,7519123.53,2735,2749.22,500.37,4998.35
+Groceries,Kellogg's,Small Stores / Shops,Sales Associate,8055967.47,2928,2751.36,503.77,4998.79
+Groceries,Kellogg's,Small Stores / Shops,Salesperson,8192207.35,3005,2726.19,500.64,4999.20
+Groceries,Kellogg's,Small Stores / Shops,Senior Salesperson,7073672.21,2541,2783.81,500.73,4999.89
+Groceries,Kellogg's,Supermarkets ,Manager,7725389.25,2797,2762.03,500.12,4999.58
+Groceries,Kellogg's,Supermarkets ,Sales Associate,8304879.08,3031,2739.98,500.98,4999.73
+Groceries,Kellogg's,Supermarkets ,Salesperson,8375777.10,3011,2781.73,500.16,4999.85
+Groceries,Kellogg's,Supermarkets ,Senior Salesperson,7000701.25,2549,2746.45,503.39,4999.82
+Groceries,Nestle,Large Malls / Complexes,Manager,6876827.96,2533,2714.89,501.89,4997.02
+Groceries,Nestle,Large Malls / Complexes,Sales Associate,7542658.15,2723,2769.98,501.31,4999.92
+Groceries,Nestle,Large Malls / Complexes,Salesperson,7339337.11,2630,2790.62,500.36,4998.49
+Groceries,Nestle,Large Malls / Complexes,Senior Salesperson,6497100.73,2395,2712.78,502.89,4999.39
+Groceries,Nestle,Small Stores / Shops,Manager,7794045.85,2754,2830.08,500.60,4999.70
+Groceries,Nestle,Small Stores / Shops,Sales Associate,8161420.29,2978,2740.57,501.53,4998.48
+Groceries,Nestle,Small Stores / Shops,Salesperson,8094389.08,2941,2752.26,504.13,4996.98
+Groceries,Nestle,Small Stores / Shops,Senior Salesperson,6847773.47,2508,2730.37,501.97,4998.37
+Groceries,Nestle,Supermarkets ,Manager,8055653.38,2917,2761.62,501.65,4996.80
+Groceries,Nestle,Supermarkets ,Sales Associate,8473729.38,3084,2747.64,505.33,4998.90
+Groceries,Nestle,Supermarkets ,Salesperson,8265472.49,3009,2746.92,502.13,4998.94
+Groceries,Nestle,Supermarkets ,Senior Salesperson,7227571.76,2655,2722.25,500.03,4999.88
+Groceries,Tata,Large Malls / Complexes,Manager,7263525.90,2647,2744.06,501.54,4999.13
+Groceries,Tata,Large Malls / Complexes,Sales Associate,7533437.05,2723,2766.59,503.77,4998.03
+Groceries,Tata,Large Malls / Complexes,Salesperson,7491268.42,2653,2823.70,505.51,4999.97
+Groceries,Tata,Large Malls / Complexes,Senior Salesperson,7002806.14,2521,2777.79,500.32,4999.90
+Groceries,Tata,Small Stores / Shops,Manager,7772625.90,2818,2758.21,500.83,4998.73
+Groceries,Tata,Small Stores / Shops,Sales Associate,8356609.92,3049,2740.77,500.01,4999.35
+Groceries,Tata,Small Stores / Shops,Salesperson,7899470.73,2917,2708.08,500.47,4997.51
+Groceries,Tata,Small Stores / Shops,Senior Salesperson,7080237.22,2568,2757.10,502.02,4995.88
+Groceries,Tata,Supermarkets ,Manager,8148763.08,2929,2782.10,500.97,4998.75
+Groceries,Tata,Supermarkets ,Sales Associate,8433173.06,3070,2746.96,504.05,4996.14
+Groceries,Tata,Supermarkets ,Salesperson,8033550.88,2942,2730.64,505.16,4999.34
+Groceries,Tata,Supermarkets ,Senior Salesperson,7000476.48,2543,2752.84,500.33,4993.94
+Home Appliances,Bosch,Large Malls / Complexes,Manager,7247131.95,2679,2705.16,500.88,4998.91
+Home Appliances,Bosch,Large Malls / Complexes,Sales Associate,7451962.50,2744,2715.73,501.60,4999.74
+Home Appliances,Bosch,Large Malls / Complexes,Salesperson,7349241.30,2691,2731.04,500.80,4998.98
+Home Appliances,Bosch,Large Malls / Complexes,Senior Salesperson,6498906.81,2378,2732.93,500.71,4999.30
+Home Appliances,Bosch,Small Stores / Shops,Manager,7537170.51,2764,2726.91,503.76,4998.02
+Home Appliances,Bosch,Small Stores / Shops,Sales Associate,7839231.71,2864,2737.16,504.11,4997.54
+Home Appliances,Bosch,Small Stores / Shops,Salesperson,7953704.37,2913,2730.42,502.07,4998.12
+Home Appliances,Bosch,Small Stores / Shops,Senior Salesperson,6864886.62,2537,2705.91,500.98,4998.56
+Home Appliances,Bosch,Supermarkets ,Manager,8100707.18,2962,2734.88,502.91,4999.80
+Home Appliances,Bosch,Supermarkets ,Sales Associate,8413469.76,3106,2708.78,500.10,4998.09
+Home Appliances,Bosch,Supermarkets ,Salesperson,8262612.02,2993,2760.65,500.13,4998.61
+Home Appliances,Bosch,Supermarkets ,Senior Salesperson,7095464.57,2595,2734.28,500.65,4994.48
+Home Appliances,Haier,Large Malls / Complexes,Manager,7218534.06,2627,2747.82,501.18,4998.92
+Home Appliances,Haier,Large Malls / Complexes,Sales Associate,7532179.66,2729,2760.05,500.36,4997.27
+Home Appliances,Haier,Large Malls / Complexes,Salesperson,7530405.69,2729,2759.40,500.27,4997.58
+Home Appliances,Haier,Large Malls / Complexes,Senior Salesperson,6523780.82,2370,2752.65,500.33,4998.01
+Home Appliances,Haier,Small Stores / Shops,Manager,7923085.56,2911,2721.77,500.92,4999.06
+Home Appliances,Haier,Small Stores / Shops,Sales Associate,8318922.20,2975,2796.28,500.57,4997.98
+Home Appliances,Haier,Small Stores / Shops,Salesperson,7868190.14,2943,2673.53,500.66,4997.95
+Home Appliances,Haier,Small Stores / Shops,Senior Salesperson,6975076.27,2549,2736.40,500.05,4990.66
+Home Appliances,Haier,Supermarkets ,Manager,7961247.04,2870,2773.95,500.00,4997.36
+Home Appliances,Haier,Supermarkets ,Sales Associate,8473951.74,3114,2721.24,501.47,4998.93
+Home Appliances,Haier,Supermarkets ,Salesperson,8189697.99,2963,2763.99,500.39,4999.91
+Home Appliances,Haier,Supermarkets ,Senior Salesperson,7204088.13,2636,2732.96,501.43,4999.84
+Home Appliances,LG,Large Malls / Complexes,Manager,7359576.93,2684,2742.02,500.28,4999.91
+Home Appliances,LG,Large Malls / Complexes,Sales Associate,7544335.32,2767,2726.54,500.93,4999.48
+Home Appliances,LG,Large Malls / Complexes,Salesperson,8037849.62,2890,2781.26,500.92,4999.75
+Home Appliances,LG,Large Malls / Complexes,Senior Salesperson,6773063.89,2442,2773.57,501.49,4999.46
+Home Appliances,LG,Small Stores / Shops,Manager,7736850.60,2839,2725.20,502.61,4999.15
+Home Appliances,LG,Small Stores / Shops,Sales Associate,8218068.77,2979,2758.67,500.98,4998.01
+Home Appliances,LG,Small Stores / Shops,Salesperson,7727361.62,2854,2707.55,502.35,4998.54
+Home Appliances,LG,Small Stores / Shops,Senior Salesperson,6940890.17,2524,2749.96,502.45,4998.29
+Home Appliances,LG,Supermarkets ,Manager,7926299.63,2859,2772.40,502.00,4997.34
+Home Appliances,LG,Supermarkets ,Sales Associate,8240832.44,2967,2777.50,500.36,4997.12
+Home Appliances,LG,Supermarkets ,Salesperson,8196855.41,2978,2752.47,504.80,4999.43
+Home Appliances,LG,Supermarkets ,Senior Salesperson,7040510.63,2593,2715.20,501.38,4997.96
+Home Appliances,Samsung,Large Malls / Complexes,Manager,7445738.24,2690,2767.93,500.13,4998.26
+Home Appliances,Samsung,Large Malls / Complexes,Sales Associate,7962391.63,2880,2764.72,501.53,4997.52
+Home Appliances,Samsung,Large Malls / Complexes,Salesperson,7543354.17,2748,2745.03,503.96,4999.90
+Home Appliances,Samsung,Large Malls / Complexes,Senior Salesperson,6538505.81,2382,2744.96,505.94,4999.94
+Home Appliances,Samsung,Small Stores / Shops,Manager,7860109.45,2864,2744.45,500.15,4998.14
+Home Appliances,Samsung,Small Stores / Shops,Sales Associate,8158430.77,2945,2770.27,500.21,4999.98
+Home Appliances,Samsung,Small Stores / Shops,Salesperson,8009780.99,2948,2717.02,500.09,4999.87
+Home Appliances,Samsung,Small Stores / Shops,Senior Salesperson,6829486.71,2517,2713.34,500.17,4999.22
+Home Appliances,Samsung,Supermarkets ,Manager,8114738.67,2953,2747.96,502.11,4998.07
+Home Appliances,Samsung,Supermarkets ,Sales Associate,8296466.13,2990,2774.74,500.68,4997.89
+Home Appliances,Samsung,Supermarkets ,Salesperson,7897955.18,2864,2757.67,500.99,4999.66
+Home Appliances,Samsung,Supermarkets ,Senior Salesperson,7278135.11,2647,2749.58,500.36,4999.21
+Home Appliances,Whirlpool,Large Malls / Complexes,Manager,7520794.76,2710,2775.20,501.18,4999.74
+Home Appliances,Whirlpool,Large Malls / Complexes,Sales Associate,7806036.55,2857,2732.25,502.08,4998.47
+Home Appliances,Whirlpool,Large Malls / Complexes,Salesperson,7393668.42,2675,2763.99,500.61,4995.61
+Home Appliances,Whirlpool,Large Malls / Complexes,Senior Salesperson,6617684.73,2453,2697.79,502.82,4998.83
+Home Appliances,Whirlpool,Small Stores / Shops,Manager,7964066.91,2904,2742.45,502.22,4998.46
+Home Appliances,Whirlpool,Small Stores / Shops,Sales Associate,8086543.73,2955,2736.56,501.49,4999.78
+Home Appliances,Whirlpool,Small Stores / Shops,Salesperson,7883440.97,2897,2721.24,500.69,4999.73
+Home Appliances,Whirlpool,Small Stores / Shops,Senior Salesperson,6966605.95,2506,2779.97,500.21,4998.33
+Home Appliances,Whirlpool,Supermarkets ,Manager,7876677.24,2863,2751.20,505.46,4999.93
+Home Appliances,Whirlpool,Supermarkets ,Sales Associate,8182761.00,2978,2747.74,501.35,4999.38
+Home Appliances,Whirlpool,Supermarkets ,Salesperson,8223134.98,3014,2728.31,501.53,4999.48
+Home Appliances,Whirlpool,Supermarkets ,Senior Salesperson,7448222.99,2671,2788.55,501.55,4999.12
+Sports & Outdoors,Adidas,Large Malls / Complexes,Manager,7412667.11,2653,2794.07,500.43,4998.18
+Sports & Outdoors,Adidas,Large Malls / Complexes,Sales Associate,7822421.18,2849,2745.67,503.01,4998.10
+Sports & Outdoors,Adidas,Large Malls / Complexes,Salesperson,7704816.62,2776,2775.51,501.08,4995.87
+Sports & Outdoors,Adidas,Large Malls / Complexes,Senior Salesperson,6801766.47,2460,2764.95,500.23,4998.24
+Sports & Outdoors,Adidas,Small Stores / Shops,Manager,7683526.00,2777,2766.84,507.68,4999.05
+Sports & Outdoors,Adidas,Small Stores / Shops,Sales Associate,8187548.14,2966,2760.47,502.59,4999.78
+Sports & Outdoors,Adidas,Small Stores / Shops,Salesperson,7955408.50,2901,2742.30,503.31,4997.05
+Sports & Outdoors,Adidas,Small Stores / Shops,Senior Salesperson,7063607.15,2571,2747.42,500.73,4995.17
+Sports & Outdoors,Adidas,Supermarkets ,Manager,7851376.68,2802,2802.06,500.33,4998.83
+Sports & Outdoors,Adidas,Supermarkets ,Sales Associate,8179540.04,2937,2785.00,503.76,4999.33
+Sports & Outdoors,Adidas,Supermarkets ,Salesperson,7945337.88,2886,2753.06,500.89,4995.87
+Sports & Outdoors,Adidas,Supermarkets ,Senior Salesperson,7419964.97,2739,2709.01,501.44,4996.37
+Sports & Outdoors,Decathlon,Large Malls / Complexes,Manager,7167887.03,2581,2777.17,500.07,4995.74
+Sports & Outdoors,Decathlon,Large Malls / Complexes,Sales Associate,7441385.13,2693,2763.23,500.42,4998.97
+Sports & Outdoors,Decathlon,Large Malls / Complexes,Salesperson,7670659.68,2779,2760.22,501.50,4997.18
+Sports & Outdoors,Decathlon,Large Malls / Complexes,Senior Salesperson,6313464.01,2349,2687.72,501.43,4997.59
+Sports & Outdoors,Decathlon,Small Stores / Shops,Manager,7702601.14,2810,2741.14,500.22,4996.23
+Sports & Outdoors,Decathlon,Small Stores / Shops,Sales Associate,8303826.81,3019,2750.52,500.23,4998.94
+Sports & Outdoors,Decathlon,Small Stores / Shops,Salesperson,8193782.53,2967,2761.64,500.15,4999.25
+Sports & Outdoors,Decathlon,Small Stores / Shops,Senior Salesperson,6995320.09,2511,2785.87,502.80,4997.17
+Sports & Outdoors,Decathlon,Supermarkets ,Manager,7911783.82,2907,2721.63,505.25,4999.97
+Sports & Outdoors,Decathlon,Supermarkets ,Sales Associate,8441146.47,3083,2737.97,500.09,4999.17
+Sports & Outdoors,Decathlon,Supermarkets ,Salesperson,8182360.30,2992,2734.75,500.60,4999.77
+Sports & Outdoors,Decathlon,Supermarkets ,Senior Salesperson,7327202.01,2658,2756.66,502.21,4999.49
+Sports & Outdoors,Nike,Large Malls / Complexes,Manager,7490212.82,2727,2746.69,504.23,4995.45
+Sports & Outdoors,Nike,Large Malls / Complexes,Sales Associate,7654755.00,2788,2745.61,503.69,4999.19
+Sports & Outdoors,Nike,Large Malls / Complexes,Salesperson,7424542.16,2671,2779.69,503.37,4999.02
+Sports & Outdoors,Nike,Large Malls / Complexes,Senior Salesperson,6501406.45,2373,2739.74,501.80,4997.66
+Sports & Outdoors,Nike,Small Stores / Shops,Manager,7958847.00,2876,2767.33,500.14,4999.83
+Sports & Outdoors,Nike,Small Stores / Shops,Sales Associate,8076146.33,2900,2784.88,503.94,4998.97
+Sports & Outdoors,Nike,Small Stores / Shops,Salesperson,8118873.98,2942,2759.64,500.01,4996.11
+Sports & Outdoors,Nike,Small Stores / Shops,Senior Salesperson,7302029.36,2613,2794.50,500.07,4999.44
+Sports & Outdoors,Nike,Supermarkets ,Manager,8008038.74,2935,2728.46,501.18,4996.57
+Sports & Outdoors,Nike,Supermarkets ,Sales Associate,8479825.03,3151,2691.15,501.50,4999.02
+Sports & Outdoors,Nike,Supermarkets ,Salesperson,8516072.48,3083,2762.27,505.18,4998.69
+Sports & Outdoors,Nike,Supermarkets ,Senior Salesperson,7398836.64,2654,2787.81,500.31,4999.05
+Sports & Outdoors,Puma,Large Malls / Complexes,Manager,7444276.21,2680,2777.72,501.96,4998.69
+Sports & Outdoors,Puma,Large Malls / Complexes,Sales Associate,7648369.92,2761,2770.14,500.10,4999.78
+Sports & Outdoors,Puma,Large Malls / Complexes,Salesperson,7365253.73,2715,2712.80,500.37,4998.09
+Sports & Outdoors,Puma,Large Malls / Complexes,Senior Salesperson,6634316.32,2417,2744.86,501.93,4999.61
+Sports & Outdoors,Puma,Small Stores / Shops,Manager,7788882.41,2800,2781.74,500.04,4997.71
+Sports & Outdoors,Puma,Small Stores / Shops,Sales Associate,8219730.57,2987,2751.83,502.43,4996.57
+Sports & Outdoors,Puma,Small Stores / Shops,Salesperson,8093935.71,2993,2704.29,500.41,4998.46
+Sports & Outdoors,Puma,Small Stores / Shops,Senior Salesperson,7410916.92,2727,2717.61,500.03,4997.06
+Sports & Outdoors,Puma,Supermarkets ,Manager,8022405.02,2906,2760.63,500.04,4995.80
+Sports & Outdoors,Puma,Supermarkets ,Sales Associate,8353919.33,3031,2756.16,504.11,4997.56
+Sports & Outdoors,Puma,Supermarkets ,Salesperson,7985320.83,2917,2737.51,500.66,4999.89
+Sports & Outdoors,Puma,Supermarkets ,Senior Salesperson,7439431.61,2681,2774.87,500.81,4997.46
+Sports & Outdoors,Reebok,Large Malls / Complexes,Manager,7395550.53,2717,2721.95,503.56,4999.34
+Sports & Outdoors,Reebok,Large Malls / Complexes,Sales Associate,7974844.41,2897,2752.79,502.11,4996.62
+Sports & Outdoors,Reebok,Large Malls / Complexes,Salesperson,7853563.23,2840,2765.34,500.30,4996.59
+Sports & Outdoors,Reebok,Large Malls / Complexes,Senior Salesperson,6801798.37,2439,2788.77,500.26,4996.40
+Sports & Outdoors,Reebok,Small Stores / Shops,Manager,7813289.94,2828,2762.83,500.50,4999.30
+Sports & Outdoors,Reebok,Small Stores / Shops,Sales Associate,8064208.60,2894,2786.53,500.37,4996.75
+Sports & Outdoors,Reebok,Small Stores / Shops,Salesperson,8006053.70,2921,2740.86,501.32,4999.65
+Sports & Outdoors,Reebok,Small Stores / Shops,Senior Salesperson,6996862.40,2565,2727.82,501.12,4998.61
+Sports & Outdoors,Reebok,Supermarkets ,Manager,7867290.69,2871,2740.26,500.04,4998.53
+Sports & Outdoors,Reebok,Supermarkets ,Sales Associate,8536777.43,3093,2760.03,504.14,4999.33
+Sports & Outdoors,Reebok,Supermarkets ,Salesperson,8154887.93,2945,2769.06,502.16,4999.55
+Sports & Outdoors,Reebok,Supermarkets ,Senior Salesperson,7222531.24,2638,2737.88,502.81,4999.53

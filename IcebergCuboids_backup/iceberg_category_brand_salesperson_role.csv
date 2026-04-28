@@ -1,0 +1,121 @@
+category,brand,salesperson_role,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Adidas,Manager,22673422.58,8275,2739.99,500.17,4999.38
+Clothing,Adidas,Sales Associate,23556902.14,8588,2743.00,500.52,4999.76
+Clothing,Adidas,Salesperson,23680027.05,8638,2741.38,501.20,4999.95
+Clothing,Adidas,Senior Salesperson,20150626.84,7353,2740.46,500.11,4999.86
+Clothing,Levi's,Manager,22974605.64,8343,2753.76,500.17,4999.21
+Clothing,Levi's,Sales Associate,24335450.37,8914,2730.03,500.12,4999.85
+Clothing,Levi's,Salesperson,23958960.12,8676,2761.52,501.79,4999.97
+Clothing,Levi's,Senior Salesperson,21077840.83,7633,2761.41,502.02,4999.60
+Clothing,Nike,Manager,22931027.12,8299,2763.11,500.55,4999.75
+Clothing,Nike,Sales Associate,24633937.60,8901,2767.55,500.14,4999.95
+Clothing,Nike,Salesperson,24017624.36,8737,2748.96,500.43,4999.33
+Clothing,Nike,Senior Salesperson,20754994.18,7525,2758.14,500.29,4999.08
+Clothing,Puma,Manager,22684800.46,8249,2750.01,500.82,4999.40
+Clothing,Puma,Sales Associate,23896228.73,8705,2745.12,500.18,4999.85
+Clothing,Puma,Salesperson,23487467.73,8549,2747.39,500.66,4999.17
+Clothing,Puma,Senior Salesperson,20973767.12,7577,2768.08,500.07,4999.98
+Clothing,Zara,Manager,22773770.80,8294,2745.81,500.32,4998.58
+Clothing,Zara,Sales Associate,24048122.68,8712,2760.34,501.59,4999.91
+Clothing,Zara,Salesperson,23265355.06,8487,2741.29,500.50,4999.82
+Clothing,Zara,Senior Salesperson,20494895.22,7400,2769.58,501.24,4999.81
+Electronics,Apple,Manager,22914437.94,8294,2762.77,500.64,4999.80
+Electronics,Apple,Sales Associate,23702531.34,8646,2741.44,500.55,4999.77
+Electronics,Apple,Salesperson,24265905.00,8815,2752.80,500.25,4999.96
+Electronics,Apple,Senior Salesperson,20225312.04,7403,2732.04,500.26,4999.96
+Electronics,LG,Manager,22703174.57,8275,2743.59,500.17,4998.70
+Electronics,LG,Sales Associate,24271468.83,8837,2746.57,500.70,4999.77
+Electronics,LG,Salesperson,24057634.73,8701,2764.93,502.05,4999.20
+Electronics,LG,Senior Salesperson,20679967.78,7457,2773.23,501.06,4999.45
+Electronics,Panasonic,Manager,22925590.33,8318,2756.14,500.20,4999.87
+Electronics,Panasonic,Sales Associate,24499916.70,8917,2747.55,501.34,4999.90
+Electronics,Panasonic,Salesperson,24225948.24,8729,2775.34,500.09,4999.67
+Electronics,Panasonic,Senior Salesperson,20851371.85,7521,2772.42,500.14,4999.96
+Electronics,Samsung,Manager,23298746.44,8436,2761.82,500.13,4998.97
+Electronics,Samsung,Sales Associate,24056781.88,8779,2740.26,501.03,4999.63
+Electronics,Samsung,Salesperson,23827518.09,8633,2760.05,500.93,4999.71
+Electronics,Samsung,Senior Salesperson,21313655.45,7674,2777.39,501.42,4999.69
+Electronics,Sony,Manager,22861987.91,8338,2741.90,500.05,4999.15
+Electronics,Sony,Sales Associate,24240690.86,8780,2760.90,500.19,4999.96
+Electronics,Sony,Salesperson,23354319.27,8543,2733.74,501.33,4998.62
+Electronics,Sony,Senior Salesperson,20458945.65,7488,2732.23,500.69,4998.40
+Furniture,Godrej Interio,Manager,22782708.19,8346,2729.78,500.68,4999.65
+Furniture,Godrej Interio,Sales Associate,23714005.99,8653,2740.55,500.23,4999.44
+Furniture,Godrej Interio,Salesperson,23757337.26,8663,2742.39,500.38,4999.17
+Furniture,Godrej Interio,Senior Salesperson,21021895.06,7668,2741.51,501.18,4999.77
+Furniture,Home Centre,Manager,23115789.45,8386,2756.47,500.93,4999.90
+Furniture,Home Centre,Sales Associate,24791393.67,8978,2761.35,501.40,4999.68
+Furniture,Home Centre,Salesperson,23841140.05,8579,2779.01,500.23,4999.64
+Furniture,Home Centre,Senior Salesperson,20742342.32,7535,2752.80,500.56,4999.30
+Furniture,IKEA,Manager,22988407.87,8374,2745.21,501.84,4999.21
+Furniture,IKEA,Sales Associate,24694382.54,8904,2773.40,500.31,4999.69
+Furniture,IKEA,Salesperson,24099951.28,8758,2751.76,500.31,4999.12
+Furniture,IKEA,Senior Salesperson,20455132.15,7525,2718.29,500.06,4998.66
+Furniture,Pepperfry,Manager,23303303.11,8445,2759.42,500.89,4998.77
+Furniture,Pepperfry,Sales Associate,23764580.73,8641,2750.21,500.56,4999.26
+Furniture,Pepperfry,Salesperson,23746778.85,8610,2758.05,501.63,4999.47
+Furniture,Pepperfry,Senior Salesperson,20841956.82,7563,2755.78,500.36,4998.96
+Furniture,Urban Ladder,Manager,22805010.32,8339,2734.74,500.07,4999.31
+Furniture,Urban Ladder,Sales Associate,24185330.35,8774,2756.48,501.28,4999.59
+Furniture,Urban Ladder,Salesperson,24250262.85,8696,2788.67,500.34,4999.62
+Furniture,Urban Ladder,Senior Salesperson,20567694.17,7469,2753.74,500.29,4999.88
+Groceries,Amul,Manager,22854728.49,8362,2733.17,500.47,4998.98
+Groceries,Amul,Sales Associate,24069881.48,8764,2746.45,500.74,4998.75
+Groceries,Amul,Salesperson,23682938.98,8653,2736.96,500.26,4998.30
+Groceries,Amul,Senior Salesperson,20879238.27,7589,2751.25,500.84,4999.80
+Groceries,Britannia,Manager,22571876.65,8217,2746.97,500.31,4999.83
+Groceries,Britannia,Sales Associate,23897904.02,8773,2724.03,501.28,4999.95
+Groceries,Britannia,Salesperson,23380168.42,8526,2742.22,500.43,4999.56
+Groceries,Britannia,Senior Salesperson,20535445.63,7470,2749.06,500.75,4998.54
+Groceries,Kellogg's,Manager,22433298.82,8166,2747.16,500.12,4999.58
+Groceries,Kellogg's,Sales Associate,24151944.28,8790,2747.66,500.98,4999.73
+Groceries,Kellogg's,Salesperson,24327728.27,8820,2758.25,500.16,4999.86
+Groceries,Kellogg's,Senior Salesperson,20638104.81,7447,2771.33,500.54,4999.96
+Groceries,Nestle,Manager,22726527.20,8204,2770.18,500.60,4999.70
+Groceries,Nestle,Sales Associate,24177807.82,8785,2752.17,501.31,4999.92
+Groceries,Nestle,Salesperson,23699198.68,8580,2762.14,500.36,4998.94
+Groceries,Nestle,Senior Salesperson,20572445.96,7558,2721.94,500.03,4999.88
+Groceries,Tata,Manager,23184914.87,8394,2762.08,500.83,4999.13
+Groceries,Tata,Sales Associate,24323220.03,8842,2750.87,500.01,4999.35
+Groceries,Tata,Salesperson,23424290.03,8512,2751.91,500.47,4999.97
+Groceries,Tata,Senior Salesperson,21083519.84,7632,2762.52,500.32,4999.90
+Home Appliances,Bosch,Manager,22885009.64,8405,2722.79,500.88,4999.80
+Home Appliances,Bosch,Sales Associate,23704663.97,8714,2720.30,500.10,4999.74
+Home Appliances,Bosch,Salesperson,23565557.69,8597,2741.14,500.13,4998.98
+Home Appliances,Bosch,Senior Salesperson,20459258.01,7510,2724.27,500.65,4999.30
+Home Appliances,Haier,Manager,23102866.67,8408,2747.72,500.00,4999.06
+Home Appliances,Haier,Sales Associate,24325053.60,8818,2758.57,500.36,4998.93
+Home Appliances,Haier,Salesperson,23588293.82,8635,2731.71,500.27,4999.91
+Home Appliances,Haier,Senior Salesperson,20702945.22,7555,2740.30,500.05,4999.84
+Home Appliances,LG,Manager,23022727.15,8382,2746.69,500.28,4999.91
+Home Appliances,LG,Sales Associate,24003236.52,8713,2754.88,500.36,4999.48
+Home Appliances,LG,Salesperson,23962066.65,8722,2747.31,500.92,4999.75
+Home Appliances,LG,Senior Salesperson,20754464.69,7559,2745.66,501.38,4999.46
+Home Appliances,Samsung,Manager,23420586.36,8507,2753.10,500.13,4998.26
+Home Appliances,Samsung,Sales Associate,24417288.54,8815,2769.97,500.21,4999.98
+Home Appliances,Samsung,Salesperson,23451090.34,8560,2739.61,500.09,4999.90
+Home Appliances,Samsung,Senior Salesperson,20646127.63,7546,2736.04,500.17,4999.94
+Home Appliances,Whirlpool,Manager,23361538.91,8477,2755.87,501.18,4999.93
+Home Appliances,Whirlpool,Sales Associate,24075341.28,8790,2738.95,501.35,4999.78
+Home Appliances,Whirlpool,Salesperson,23500244.38,8586,2737.04,500.61,4999.73
+Home Appliances,Whirlpool,Senior Salesperson,21032513.67,7630,2756.55,500.21,4999.12
+Sports & Outdoors,Adidas,Manager,22947569.80,8232,2787.61,500.33,4999.05
+Sports & Outdoors,Adidas,Sales Associate,24189509.36,8752,2763.88,502.59,4999.78
+Sports & Outdoors,Adidas,Salesperson,23605563.00,8563,2756.69,500.89,4997.05
+Sports & Outdoors,Adidas,Senior Salesperson,21285338.59,7770,2739.43,500.23,4998.24
+Sports & Outdoors,Decathlon,Manager,22782272.00,8298,2745.51,500.07,4999.97
+Sports & Outdoors,Decathlon,Sales Associate,24186358.41,8795,2750.01,500.09,4999.17
+Sports & Outdoors,Decathlon,Salesperson,24046802.51,8738,2751.98,500.15,4999.77
+Sports & Outdoors,Decathlon,Senior Salesperson,20635986.11,7518,2744.88,501.43,4999.49
+Sports & Outdoors,Nike,Manager,23457098.56,8538,2747.38,500.14,4999.83
+Sports & Outdoors,Nike,Sales Associate,24210726.36,8839,2739.08,501.50,4999.19
+Sports & Outdoors,Nike,Salesperson,24059488.63,8696,2766.73,500.01,4999.02
+Sports & Outdoors,Nike,Senior Salesperson,21202272.45,7640,2775.17,500.07,4999.44
+Sports & Outdoors,Puma,Manager,23255563.64,8386,2773.14,500.04,4998.69
+Sports & Outdoors,Puma,Sales Associate,24222019.82,8779,2759.09,500.10,4999.78
+Sports & Outdoors,Puma,Salesperson,23444510.27,8625,2718.20,500.37,4999.89
+Sports & Outdoors,Puma,Senior Salesperson,21484664.86,7825,2745.64,500.03,4999.61
+Sports & Outdoors,Reebok,Manager,23076131.16,8416,2741.94,500.04,4999.34
+Sports & Outdoors,Reebok,Sales Associate,24575830.44,8884,2766.30,500.37,4999.33
+Sports & Outdoors,Reebok,Salesperson,24014504.85,8706,2758.39,500.30,4999.65
+Sports & Outdoors,Reebok,Senior Salesperson,21021192.01,7642,2750.74,500.26,4999.53

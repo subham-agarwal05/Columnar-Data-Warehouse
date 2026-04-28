@@ -27,6 +27,13 @@ struct AggregateResult {
     double avg() const {
         return count > 0 ? sum_amount / count : 0.0;
     }
+
+    void merge(const AggregateResult& other) {
+        sum_amount += other.sum_amount;
+        if (other.min_amount < min_amount) min_amount = other.min_amount;
+        if (other.max_amount > max_amount) max_amount = other.max_amount;
+        count += other.count;
+    }
 };
 
 
@@ -211,6 +218,46 @@ string build_key_from_bits(const vector<vector<string>>& dim_data,
         }
     }
     return key.empty() ? "ALL" : key;
+}
+
+string project_key(const string& child_key, int child_mask, int parent_mask) {
+    int dropped_bit = __builtin_ctz(child_mask ^ parent_mask);
+    int drop_idx = 0;
+    for (int i = 0; i < dropped_bit; i++) {
+        if (child_mask & (1 << i)) drop_idx++;
+    }
+    vector<string> parts;
+    stringstream ss(child_key);
+    string token;
+    while (getline(ss, token, '|')) parts.push_back(token);
+    string result;
+    bool first = true;
+    for (int i = 0; i < (int)parts.size(); i++) {
+        if (i == drop_idx) continue;
+        if (!first) result += "|";
+        result += parts[i];
+        first = false;
+    }
+    return result.empty() ? "ALL" : result;
+}
+
+map<string, AggregateResult> compute_cuboid_from_child(
+    const map<string, AggregateResult>& child_agg,
+    int child_mask, int parent_mask
+) {
+    map<string, AggregateResult> parent_agg;
+    if (parent_mask == 0) {
+        AggregateResult& apex = parent_agg["ALL"];
+        for (auto& [key, agg] : child_agg) {
+            apex.merge(agg);
+        }
+    } else {
+        for (auto& [child_key, child_result] : child_agg) {
+            string parent_key = project_key(child_key, child_mask, parent_mask);
+            parent_agg[parent_key].merge(child_result);
+        }
+    }
+    return parent_agg;
 }
 
 // Extract the projected key for a parent mask from a child's full dim values.
@@ -469,21 +516,12 @@ int main(int argc, char* argv[]) {
         levels[__builtin_popcount(mask)].push_back(mask);
     }
 
-    // Pruned keys per cuboid (bitmask → set of pruned key strings)
-    unordered_map<int, unordered_set<string>> pruned_keys;
-
-    // Cuboids where ALL cells were pruned (zero survivors)
-    unordered_set<int> fully_pruned_masks;
-
     // Statistics
     int64_t total_cells_before   = 0;
     int64_t total_cells_after    = 0;
     int64_t total_pruned_cells   = 0;
-    int64_t total_rows_skipped   = 0;   // rows skipped via Apriori
     int cuboids_materialized     = 0;
     int cuboids_fully_pruned     = 0;
-    int cuboids_skipped_apriori  = 0;   // cuboids skipped because ALL parent
-                                        // cuboids were themselves fully pruned
 
     struct CuboidSummary {
         string name;
@@ -492,169 +530,165 @@ int main(int argc, char* argv[]) {
         int64_t cells_before;
         int64_t cells_after;
         int64_t pruned;
-        int64_t rows_skipped;
         bool materialized;
-        bool skipped_entirely;
     };
     vector<CuboidSummary> summaries;
 
+    // Store full (unpruned) cuboid results for deriving lower-level cuboids
+    unordered_map<int, map<string, AggregateResult>> cuboid_results;
+
     int progress = 0;
 
-    cout << "Computing Iceberg cuboids with Apriori pruning...\n" << endl;
+    cout << "Computing Iceberg cuboids (level-by-level optimization)...\n" << endl;
 
-    for (int level = 0; level <= K; level++) {
+    // Level K: compute from base data (only one full scan of raw data)
+    int full_mask = (1 << K) - 1;
+    {
+        cout << "--- Level " << K << " (1 cuboid, computed from base data) ---" << endl;
+        auto indices    = mask_to_indices(full_mask, K);
+        string tbl_name = make_table_name(selected_dims, indices);
+        string dim_str  = mask_to_dim_string(full_mask, K, selected_dims);
+
+        map<string, AggregateResult> agg_map;
+        for (size_t row = 0; row < num_rows; row++) {
+            string key = build_key_from_bits(dim_data, full_mask, K, row);
+            agg_map[key].add(measure_data[row]);
+        }
+
+        // Store full results for derivation
+        cuboid_results[full_mask] = agg_map;
+
+        // Apply iceberg pruning for output
+        CuboidSummary summary;
+        summary.name     = tbl_name;
+        summary.dims     = dim_str;
+        summary.num_dims = K;
+        summary.cells_before = (int64_t)agg_map.size();
+        int64_t pruned_count = 0;
+        for (auto it = agg_map.begin(); it != agg_map.end(); ) {
+            if (get_aggregate_value(it->second, agg_func) < threshold) {
+                it = agg_map.erase(it);
+                pruned_count++;
+            } else {
+                ++it;
+            }
+        }
+        summary.cells_after = (int64_t)agg_map.size();
+        summary.pruned      = pruned_count;
+        total_cells_before += summary.cells_before;
+        total_cells_after  += summary.cells_after;
+        total_pruned_cells += pruned_count;
+
+        if (agg_map.empty()) {
+            cuboids_fully_pruned++;
+            summary.materialized = false;
+        } else {
+            write_iceberg_csv(output_dir, tbl_name, selected_dims, full_mask, K, agg_map);
+            cuboids_materialized++;
+            summary.materialized = true;
+        }
+        summaries.push_back(summary);
+        progress++;
+        cout << "  Processed " << progress << "/" << total_cuboids
+             << "  (materialized: " << cuboids_materialized
+             << ", pruned: " << cuboids_fully_pruned << ")" << endl;
+    }
+
+    // Levels K-1 down to 0: derive each cuboid from a child at the level above
+    for (int level = K - 1; level >= 0; level--) {
         cout << "--- Level " << level << " (" << levels[level].size()
-             << " cuboids) ---" << endl;
+             << " cuboids, derived from level " << (level + 1) << ") ---" << endl;
 
         for (int mask : levels[level]) {
             auto indices    = mask_to_indices(mask, K);
             string tbl_name = make_table_name(selected_dims, indices);
             string dim_str  = mask_to_dim_string(mask, K, selected_dims);
 
-            CuboidSummary summary;
-            summary.name     = tbl_name;
-            summary.dims     = dim_str;
-            summary.num_dims = (int)indices.size();
-
-            // Check if we can skip this cuboid entirely.
-            bool skip_entirely = false;
-            if (level >= 1 && is_antimonotone(agg_func)) {
-                // Only apply Apriori pruning for anti-monotone aggregates
-                auto parents = get_parent_masks(mask);
-                for (int pmask : parents) {
-                    if (fully_pruned_masks.count(pmask)) {
-                        skip_entirely = true;
+            // Find a child cuboid (one extra bit set) at level+1
+            int child_mask = -1;
+            for (int i = 0; i < K; i++) {
+                if (!(mask & (1 << i))) {
+                    int candidate = mask | (1 << i);
+                    if (cuboid_results.count(candidate)) {
+                        child_mask = candidate;
                         break;
                     }
                 }
             }
 
-            // ── Aggregation with Apriori row-skipping ──
+            // Compute by merging from child
             map<string, AggregateResult> agg_map;
-            int64_t rows_skipped_this = 0;
-
-            if (skip_entirely) {
-                // Nothing to compute
-            } else if (mask == 0) {
-                // Apex cuboid — aggregate everything, no parents to check
-                AggregateResult& agg = agg_map["ALL"];
-                for (size_t row = 0; row < num_rows; row++) {
-                    agg.add(measure_data[row]);
-                }
+            if (child_mask != -1) {
+                agg_map = compute_cuboid_from_child(cuboid_results[child_mask], child_mask, mask);
             } else {
-                // Get immediate parent masks for Apriori check
-                auto parents = get_parent_masks(mask);
-
-                // Filter to only parents that have pruned keys (only for anti-monotone functions)
-                vector<int> active_parents;
-                if (is_antimonotone(agg_func)) {
-                    for (int pmask : parents) {
-                        if (pruned_keys.count(pmask) && !pruned_keys[pmask].empty()) {
-                            active_parents.push_back(pmask);
-                        }
-                    }
-                }
-
+                // Fallback: compute from base data
                 for (size_t row = 0; row < num_rows; row++) {
-                    // Apriori check: can we skip this row? (only for anti-monotone functions)
-                    bool skip_row = false;
-                    if (!active_parents.empty()) {
-                        for (int pmask : active_parents) {
-                            string parent_key =
-                                build_key_from_bits(dim_data, pmask, K, row);
-                            if (pruned_keys[pmask].count(parent_key)) {
-                                skip_row = true;
-                                break;
-                            }
-                        }
-                    }
-
-                    if (skip_row) {
-                        rows_skipped_this++;
-                        continue;
-                    }
-
-                    // Aggregate
                     string key = build_key_from_bits(dim_data, mask, K, row);
                     agg_map[key].add(measure_data[row]);
                 }
             }
 
-            total_rows_skipped += rows_skipped_this;
+            // Store full results for derivation of lower levels
+            cuboid_results[mask] = agg_map;
 
-            // ── Prune cells below threshold ──
-            int64_t cells_before = (int64_t)agg_map.size();
+            // Apply iceberg pruning for output
+            CuboidSummary summary;
+            summary.name     = tbl_name;
+            summary.dims     = dim_str;
+            summary.num_dims = (int)indices.size();
+            summary.cells_before = (int64_t)agg_map.size();
             int64_t pruned_count = 0;
-            unordered_set<string> this_pruned;
-
             for (auto it = agg_map.begin(); it != agg_map.end(); ) {
-                double agg_value = get_aggregate_value(it->second, agg_func);
-                if (agg_value < threshold) {
-                    this_pruned.insert(it->first);
+                if (get_aggregate_value(it->second, agg_func) < threshold) {
                     it = agg_map.erase(it);
                     pruned_count++;
                 } else {
                     ++it;
                 }
             }
-
-            // Store pruned keys for this cuboid (children will read them)
-            // Only store for anti-monotone functions (where Apriori pruning is valid)
-            if (!this_pruned.empty() && is_antimonotone(agg_func)) {
-                pruned_keys[mask] = std::move(this_pruned);
-            }
-
-            int64_t cells_after = (int64_t)agg_map.size();
-            total_cells_before += cells_before;
-            total_cells_after  += cells_after;
+            summary.cells_after = (int64_t)agg_map.size();
+            summary.pruned      = pruned_count;
+            total_cells_before += summary.cells_before;
+            total_cells_after  += summary.cells_after;
             total_pruned_cells += pruned_count;
-
-            summary.cells_before    = cells_before;
-            summary.cells_after     = cells_after;
-            summary.pruned          = pruned_count;
-            summary.rows_skipped    = rows_skipped_this;
-            summary.skipped_entirely = skip_entirely;
 
             if (agg_map.empty()) {
                 cuboids_fully_pruned++;
-                fully_pruned_masks.insert(mask);
-                if (skip_entirely) cuboids_skipped_apriori++;
                 summary.materialized = false;
             } else {
-                write_iceberg_csv(output_dir, tbl_name, selected_dims,
-                                  mask, K, agg_map);
+                write_iceberg_csv(output_dir, tbl_name, selected_dims, mask, K, agg_map);
                 cuboids_materialized++;
                 summary.materialized = true;
             }
 
             summaries.push_back(summary);
             progress++;
-
             if (progress % 10 == 0 || progress == total_cuboids) {
                 cout << "  Processed " << progress << "/" << total_cuboids
                      << "  (materialized: " << cuboids_materialized
-                     << ", pruned: " << cuboids_fully_pruned
-                     << ", rows skipped by Apriori: " << total_rows_skipped
-                     << ")" << endl;
+                     << ", pruned: " << cuboids_fully_pruned << ")" << endl;
             }
+        }
+
+        // Free level+1 results (no longer needed for derivation)
+        for (int m : levels[level + 1]) {
+            cuboid_results.erase(m);
         }
     }
 
     // ── Summary report ─────────────────────────────────────────────────────
     cout << "\n========================================================="
-         << "\n  ICEBERG CUBOID GENERATION — SUMMARY (Apriori-Optimized)"
+         << "\n  ICEBERG CUBOID GENERATION — SUMMARY (Level-by-Level)"
          << "\n========================================================="
          << "\n  Threshold (" << agg_func << " >= )        : " << threshold
          << "\n  Total lattice nodes         : " << total_cuboids
-         << "\n  Apriori Pruning             : " << (is_antimonotone(agg_func) ? "ENABLED" : "DISABLED (non-monotone)")
+         << "\n  Optimization                : Level-by-level (child → parent)"
          << "\n  Cuboids materialized        : " << cuboids_materialized
          << "\n  Cuboids fully pruned        : " << cuboids_fully_pruned
-         << "\n  Cuboids skipped (Apriori)   : " << cuboids_skipped_apriori
          << "\n---------------------------------------------------------"
          << "\n  Total cells (before prune)  : " << total_cells_before
          << "\n  Total cells (after prune)   : " << total_cells_after
          << "\n  Cells pruned                : " << total_pruned_cells
-         << "\n  Rows skipped (Apriori)      : " << total_rows_skipped
          << "\n  Cell pruning ratio          : "
          << (total_cells_before > 0
                  ? (100.0 * total_pruned_cells / total_cells_before)
@@ -670,23 +704,18 @@ int main(int argc, char* argv[]) {
          << setw(12) << "Before"
          << setw(12) << "After"
          << setw(12) << "Pruned"
-         << setw(16) << "Rows Skipped"
          << setw(14) << "Status"
          << endl;
-    cout << string(122, '-') << endl;
+    cout << string(106, '-') << endl;
 
     for (auto& s : summaries) {
-        string status;
-        if (s.skipped_entirely) status = "SKIP(Apriori)";
-        else if (!s.materialized) status = "PRUNED";
-        else status = "KEPT";
+        string status = s.materialized ? "KEPT" : "PRUNED";
 
         cout << left  << setw(50) << s.name
              << right << setw(6)  << s.num_dims
              << setw(12) << s.cells_before
              << setw(12) << s.cells_after
              << setw(12) << s.pruned
-             << setw(16) << s.rows_skipped
              << setw(14) << status
              << endl;
     }

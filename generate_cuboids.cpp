@@ -54,6 +54,13 @@ struct AggregateResult {
     double avg() const {
         return count > 0 ? sum_amount / count : 0.0;
     }
+
+    void merge(const AggregateResult& other) {
+        sum_amount += other.sum_amount;
+        if (other.min_amount < min_amount) min_amount = other.min_amount;
+        if (other.max_amount > max_amount) max_amount = other.max_amount;
+        count += other.count;
+    }
 };
 
 // MySQL Connection wrapper
@@ -314,6 +321,54 @@ map<string, AggregateResult> compute_cuboid(
     return agg_map;
 }
 
+vector<int> mask_to_indices(int mask, int K) {
+    vector<int> indices;
+    for (int i = 0; i < K; i++) {
+        if (mask & (1 << i)) indices.push_back(i);
+    }
+    return indices;
+}
+
+string project_key(const string& child_key, int child_mask, int parent_mask) {
+    int dropped_bit = __builtin_ctz(child_mask ^ parent_mask);
+    int drop_idx = 0;
+    for (int i = 0; i < dropped_bit; i++) {
+        if (child_mask & (1 << i)) drop_idx++;
+    }
+    vector<string> parts;
+    stringstream ss(child_key);
+    string token;
+    while (getline(ss, token, '|')) parts.push_back(token);
+    string result;
+    bool first = true;
+    for (int i = 0; i < (int)parts.size(); i++) {
+        if (i == drop_idx) continue;
+        if (!first) result += "|";
+        result += parts[i];
+        first = false;
+    }
+    return result.empty() ? "ALL" : result;
+}
+
+map<string, AggregateResult> compute_cuboid_from_child(
+    const map<string, AggregateResult>& child_agg,
+    int child_mask, int parent_mask
+) {
+    map<string, AggregateResult> parent_agg;
+    if (parent_mask == 0) {
+        AggregateResult& apex = parent_agg["ALL"];
+        for (auto& [key, agg] : child_agg) {
+            apex.merge(agg);
+        }
+    } else {
+        for (auto& [child_key, child_result] : child_agg) {
+            string parent_key = project_key(child_key, child_mask, parent_mask);
+            parent_agg[parent_key].merge(child_result);
+        }
+    }
+    return parent_agg;
+}
+
 // Table name helpers
 string abbreviate(const string& name) {
     static unordered_map<string, string> abbr = {
@@ -438,19 +493,69 @@ int generate_cuboids(const map<string, CdsColumnInfo>& cds_schema) {
         }
     }
 
-    auto all_subsets = generate_all_subsets(K);
-
     if (!fs::exists(output_dir)) fs::create_directory(output_dir);
 
+    // Group masks by level (popcount)
+    vector<vector<int>> levels(K + 1);
+    for (int mask = 0; mask < total_cuboids; mask++) {
+        levels[__builtin_popcount(mask)].push_back(mask);
+    }
+
+    // Store computed cuboid results keyed by bitmask
+    unordered_map<int, map<string, AggregateResult>> cuboid_results;
+
     cout << "Computing aggregations and writing CSV files..." << endl;
+    cout << "  (Optimized: level-by-level, deriving parents from children)" << endl;
     int progress = 0;
-    for (auto& subset : all_subsets) {
-        string table_name = make_table_name(selected_dims, subset);
-        auto agg_map = compute_cuboid(dim_data, measure_data, subset, num_rows);
-        write_cuboid_csv(output_dir, table_name, selected_dims, subset, agg_map);
+
+    // Level K: compute the most detailed cuboid from base data (only full scan)
+    int full_mask = (1 << K) - 1;
+    {
+        vector<int> indices = mask_to_indices(full_mask, K);
+        auto agg_map = compute_cuboid(dim_data, measure_data, indices, num_rows);
+        string table_name = make_table_name(selected_dims, indices);
+        write_cuboid_csv(output_dir, table_name, selected_dims, indices, agg_map);
+        cuboid_results[full_mask] = std::move(agg_map);
         progress++;
-        if (progress % 10 == 0 || progress == total_cuboids)
-            cout << "  Computed " << progress << "/" << total_cuboids << " cuboids..." << endl;
+        cout << "  Level " << K << ": computed from base data (" << num_rows << " rows)" << endl;
+    }
+
+    // Levels K-1 down to 0: derive each cuboid from a child at the level above
+    for (int level = K - 1; level >= 0; level--) {
+        for (int mask : levels[level]) {
+            // Find a child cuboid (one extra bit set) at level+1
+            int child_mask = -1;
+            for (int i = 0; i < K; i++) {
+                if (!(mask & (1 << i))) {
+                    int candidate = mask | (1 << i);
+                    if (cuboid_results.count(candidate)) {
+                        child_mask = candidate;
+                        break;
+                    }
+                }
+            }
+
+            vector<int> indices = mask_to_indices(mask, K);
+            string table_name = make_table_name(selected_dims, indices);
+            map<string, AggregateResult> agg_map;
+
+            if (child_mask != -1) {
+                agg_map = compute_cuboid_from_child(cuboid_results[child_mask], child_mask, mask);
+            } else {
+                // Fallback to base data (should not happen)
+                agg_map = compute_cuboid(dim_data, measure_data, indices, num_rows);
+            }
+
+            write_cuboid_csv(output_dir, table_name, selected_dims, indices, agg_map);
+            cuboid_results[mask] = std::move(agg_map);
+            progress++;
+            if (progress % 10 == 0 || progress == total_cuboids)
+                cout << "  Computed " << progress << "/" << total_cuboids << " cuboids (level " << level << ")..." << endl;
+        }
+        // Free level+1 results (no longer needed)
+        for (int m : levels[level + 1]) {
+            cuboid_results.erase(m);
+        }
     }
 
     // Set cuboid offset to match full data

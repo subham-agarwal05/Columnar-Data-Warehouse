@@ -1,0 +1,1698 @@
+brand,store_type,salesperson_role,campaign_name,sum_amount,count,avg_amount,min_amount,max_amount
+Adidas,Large Malls / Complexes,Manager,Autumn Deals Drive,316517.49,113,2801.04,593.03,4982.21
+Adidas,Large Malls / Complexes,Manager,Black Friday Blowout,300806.88,107,2811.28,502.05,4947.74
+Adidas,Large Malls / Complexes,Manager,Cart Crasher Campaign,305650.48,111,2753.61,653.28,4979.31
+Adidas,Large Malls / Complexes,Manager,Clearance Countdown,334129.93,113,2956.90,532.69,4986.35
+Adidas,Large Malls / Complexes,Manager,Customer Appreciation Week,344905.71,117,2947.91,591.30,4937.49
+Adidas,Large Malls / Complexes,Manager,Cyber Monday Mania,303428.48,100,3034.28,548.84,4986.22
+Adidas,Large Malls / Complexes,Manager,Double Points Bonanza,314699.92,108,2913.89,550.21,4996.56
+Adidas,Large Malls / Complexes,Manager,Early Bird Specials,319390.30,109,2930.19,526.61,4998.17
+Adidas,Large Malls / Complexes,Manager,End of Season Sale,302234.87,111,2722.84,555.33,4983.53
+Adidas,Large Malls / Complexes,Manager,Exclusive Insider Offers,340642.74,120,2838.69,526.99,4927.69
+Adidas,Large Malls / Complexes,Manager,Final Call Frenzy,314367.61,120,2619.73,525.27,4907.49
+Adidas,Large Malls / Complexes,Manager,"Gift More, Spend Less",324570.08,126,2575.95,561.11,4990.08
+Adidas,Large Malls / Complexes,Manager,Holiday Shopping Rush,304405.50,107,2844.91,506.77,4978.37
+Adidas,Large Malls / Complexes,Manager,Limited Time Treasures,301325.26,105,2869.76,500.43,4983.53
+Adidas,Large Malls / Complexes,Manager,Midnight Madness,322366.39,115,2803.19,556.43,4938.34
+Adidas,Large Malls / Complexes,Manager,Price Drop Parade,329604.44,120,2746.70,507.14,4984.37
+Adidas,Large Malls / Complexes,Manager,Shop & Save Spectacular,300984.48,100,3009.84,511.32,4960.40
+Adidas,Large Malls / Complexes,Manager,Spring Refresh Event,304333.43,104,2926.28,565.27,4985.02
+Adidas,Large Malls / Complexes,Manager,Summer Sizzle Promo,306540.95,108,2838.34,544.24,4886.96
+Adidas,Large Malls / Complexes,Manager,Super Savings Week,311039.65,119,2613.78,528.70,4962.64
+Adidas,Large Malls / Complexes,Manager,VIP Access Sale,329612.75,118,2793.33,552.68,4976.34
+Adidas,Large Malls / Complexes,Manager,Weekend Warrior Specials,320816.48,117,2742.02,545.88,4861.83
+Adidas,Large Malls / Complexes,Sales Associate,12 Days of Deals,306858.15,106,2894.89,600.10,4929.55
+Adidas,Large Malls / Complexes,Sales Associate,Autumn Deals Drive,312769.02,108,2896.01,518.04,4982.16
+Adidas,Large Malls / Complexes,Sales Associate,BOGO Blitz,341840.28,123,2779.19,533.73,4998.71
+Adidas,Large Malls / Complexes,Sales Associate,Black Friday Blowout,325950.21,114,2859.21,507.51,4964.85
+Adidas,Large Malls / Complexes,Sales Associate,Cart Crasher Campaign,304651.94,104,2929.35,555.02,4994.25
+Adidas,Large Malls / Complexes,Sales Associate,Cashback Carnival,377190.85,133,2836.02,515.77,4971.77
+Adidas,Large Malls / Complexes,Sales Associate,Clearance Countdown,342296.90,132,2593.16,503.83,4949.25
+Adidas,Large Malls / Complexes,Sales Associate,Customer Appreciation Week,318042.83,119,2672.63,510.44,4928.12
+Adidas,Large Malls / Complexes,Sales Associate,Cyber Monday Mania,315827.53,109,2897.50,666.88,4923.88
+Adidas,Large Malls / Complexes,Sales Associate,Deal of the Month,304362.85,108,2818.17,540.57,4950.00
+Adidas,Large Malls / Complexes,Sales Associate,End of Season Sale,304663.09,106,2874.18,560.40,4828.73
+Adidas,Large Malls / Complexes,Sales Associate,Exclusive Insider Offers,320778.83,112,2864.10,503.34,4975.61
+Adidas,Large Malls / Complexes,Sales Associate,Final Call Frenzy,310416.20,117,2653.13,541.76,4978.28
+Adidas,Large Malls / Complexes,Sales Associate,Flash Frenzy Friday,341081.16,119,2866.23,591.95,4943.55
+Adidas,Large Malls / Complexes,Sales Associate,Golden Hour Bargains,337332.41,124,2720.42,503.10,4999.76
+Adidas,Large Malls / Complexes,Sales Associate,Holiday Shopping Rush,381850.53,128,2983.21,506.26,4981.68
+Adidas,Large Malls / Complexes,Sales Associate,Instant Gratification Sale,327884.34,115,2851.17,517.51,4997.63
+Adidas,Large Malls / Complexes,Sales Associate,Midnight Madness,301560.17,109,2766.61,512.27,4950.57
+Adidas,Large Malls / Complexes,Sales Associate,Mystery Discount Days,314417.93,115,2734.07,579.44,4976.22
+Adidas,Large Malls / Complexes,Sales Associate,Red Tag Clearance,321496.55,110,2922.70,521.17,4935.44
+Adidas,Large Malls / Complexes,Sales Associate,Seasonal Surprise Box,347519.28,126,2758.09,551.05,4973.71
+Adidas,Large Malls / Complexes,Sales Associate,Shop & Save Spectacular,332888.38,122,2728.59,507.72,4992.75
+Adidas,Large Malls / Complexes,Sales Associate,Smart Shopper Week,359592.62,128,2809.32,518.23,4972.34
+Adidas,Large Malls / Complexes,Sales Associate,Spring Splash Discounts,333851.41,124,2692.35,535.63,4933.73
+Adidas,Large Malls / Complexes,Sales Associate,Summer Sizzle Promo,303475.74,113,2685.63,506.00,4982.52
+Adidas,Large Malls / Complexes,Sales Associate,Super Savings Week,313015.02,110,2845.59,522.46,4947.53
+Adidas,Large Malls / Complexes,Sales Associate,Weekend Warrior Specials,352059.94,129,2729.15,556.93,4872.44
+Adidas,Large Malls / Complexes,Sales Associate,Winter Clearance Carnival,355766.26,129,2757.88,628.77,4997.18
+Adidas,Large Malls / Complexes,Sales Associate,Winter Wonders Sale,315812.94,120,2631.77,573.86,4983.97
+Adidas,Large Malls / Complexes,Salesperson,12 Days of Deals,321637.89,122,2636.38,523.07,4954.87
+Adidas,Large Malls / Complexes,Salesperson,Autumn Deals Drive,313424.06,111,2823.64,519.22,4981.81
+Adidas,Large Malls / Complexes,Salesperson,BOGO Blitz,350017.14,125,2800.14,550.36,4938.39
+Adidas,Large Malls / Complexes,Salesperson,Cashback Carnival,336838.91,112,3007.49,531.84,4944.52
+Adidas,Large Malls / Complexes,Salesperson,Clearance Countdown,317446.82,114,2784.62,505.52,4995.33
+Adidas,Large Malls / Complexes,Salesperson,Countdown to Savings,324559.58,112,2897.85,681.12,4872.73
+Adidas,Large Malls / Complexes,Salesperson,Customer Appreciation Week,321960.12,123,2617.56,548.99,4957.35
+Adidas,Large Malls / Complexes,Salesperson,Cyber Monday Mania,301369.89,114,2643.60,538.62,4986.44
+Adidas,Large Malls / Complexes,Salesperson,Early Bird Specials,357067.70,129,2767.97,567.13,4982.97
+Adidas,Large Malls / Complexes,Salesperson,Exclusive Insider Offers,347226.55,121,2869.64,521.53,4987.28
+Adidas,Large Malls / Complexes,Salesperson,Festive Fever Promo,347970.37,129,2697.44,532.59,4945.80
+Adidas,Large Malls / Complexes,Salesperson,Flash Frenzy Friday,371910.95,128,2905.55,514.40,4981.24
+Adidas,Large Malls / Complexes,Salesperson,"Gift More, Spend Less",300530.66,108,2782.69,504.14,4994.22
+Adidas,Large Malls / Complexes,Salesperson,Golden Hour Bargains,300626.43,106,2836.10,508.67,4952.14
+Adidas,Large Malls / Complexes,Salesperson,Green Weekend Deals,303858.99,108,2813.51,560.33,4956.83
+Adidas,Large Malls / Complexes,Salesperson,Happy Hour Discounts,320893.06,106,3027.29,510.62,4933.42
+Adidas,Large Malls / Complexes,Salesperson,Instant Gratification Sale,337505.08,119,2836.18,542.57,4966.50
+Adidas,Large Malls / Complexes,Salesperson,Mega Weekend Bonanza,304498.09,105,2899.98,575.16,4915.82
+Adidas,Large Malls / Complexes,Salesperson,Midnight Madness,314112.46,120,2617.60,564.97,4952.37
+Adidas,Large Malls / Complexes,Salesperson,Mystery Discount Days,316308.41,121,2614.12,528.21,4922.26
+Adidas,Large Malls / Complexes,Salesperson,New Arrival Showcase,349956.82,122,2868.50,513.68,4892.63
+Adidas,Large Malls / Complexes,Salesperson,New Product Launch Promo,333540.05,115,2900.35,520.95,4999.95
+Adidas,Large Malls / Complexes,Salesperson,New Year Kickoff,381423.33,137,2784.11,522.48,4957.93
+Adidas,Large Malls / Complexes,Salesperson,Smart Shopper Week,314684.32,122,2579.38,540.58,4998.23
+Adidas,Large Malls / Complexes,Salesperson,Spring Refresh Event,325404.31,108,3013.00,543.53,4985.65
+Adidas,Large Malls / Complexes,Salesperson,Summer Sizzle Promo,328895.24,120,2740.79,508.62,4958.89
+Adidas,Large Malls / Complexes,Salesperson,Super Savings Week,315695.21,110,2869.96,502.34,4949.70
+Adidas,Large Malls / Complexes,Salesperson,Ultimate Value Event,360451.06,130,2772.70,593.54,4979.03
+Adidas,Large Malls / Complexes,Salesperson,Winter Clearance Carnival,330102.83,117,2821.39,612.49,4993.51
+Adidas,Large Malls / Complexes,Salesperson,Winter Wonders Sale,312994.60,113,2769.86,512.88,4927.28
+Adidas,Large Malls / Complexes,Senior Salesperson,Back to School Boost,336454.74,119,2827.35,518.87,4981.81
+Adidas,Large Malls / Complexes,Senior Salesperson,Black Friday Blowout,307036.81,104,2952.28,557.08,4967.45
+Adidas,Large Malls / Complexes,Senior Salesperson,Double Points Bonanza,331715.46,109,3043.26,544.68,4984.67
+Adidas,Large Malls / Complexes,Senior Salesperson,Happy Hour Discounts,305179.75,103,2962.91,535.53,4994.51
+Adidas,Large Malls / Complexes,Senior Salesperson,Holiday Shopping Rush,307009.28,117,2624.01,545.23,4973.96
+Adidas,Large Malls / Complexes,Senior Salesperson,Loyalty Rewards Blast,302223.13,104,2905.99,665.25,4979.35
+Adidas,Small Stores / Shops,Manager,12 Days of Deals,364717.59,125,2917.74,585.70,4987.39
+Adidas,Small Stores / Shops,Manager,Autumn Deals Drive,302091.71,118,2560.10,518.04,4998.38
+Adidas,Small Stores / Shops,Manager,Back to School Boost,340557.05,123,2768.76,593.48,4953.86
+Adidas,Small Stores / Shops,Manager,Birthday Bash Sale,309872.47,109,2842.87,509.00,4893.86
+Adidas,Small Stores / Shops,Manager,Black Friday Blowout,321978.30,119,2705.70,574.29,4926.91
+Adidas,Small Stores / Shops,Manager,Countdown to Savings,337631.86,118,2861.29,633.76,4992.78
+Adidas,Small Stores / Shops,Manager,Early Bird Specials,308785.20,113,2732.61,556.33,4995.32
+Adidas,Small Stores / Shops,Manager,End of Season Sale,336929.83,122,2761.72,521.54,4893.43
+Adidas,Small Stores / Shops,Manager,Flash Frenzy Friday,333091.20,122,2730.26,584.15,4937.84
+Adidas,Small Stores / Shops,Manager,"Gift More, Spend Less",335033.65,120,2791.95,546.51,4988.68
+Adidas,Small Stores / Shops,Manager,Golden Hour Bargains,329970.09,119,2772.86,567.72,4976.21
+Adidas,Small Stores / Shops,Manager,Green Weekend Deals,340033.42,129,2635.92,522.76,4973.68
+Adidas,Small Stores / Shops,Manager,Hot Picks Promo,302659.98,108,2802.41,523.47,4982.12
+Adidas,Small Stores / Shops,Manager,Limited Time Treasures,329194.29,114,2887.67,571.04,4901.98
+Adidas,Small Stores / Shops,Manager,Loyalty Rewards Blast,344415.66,124,2777.55,532.86,4909.87
+Adidas,Small Stores / Shops,Manager,Mega Weekend Bonanza,374995.99,130,2884.58,537.81,4996.59
+Adidas,Small Stores / Shops,Manager,New Product Launch Promo,347736.20,123,2827.12,541.28,4979.03
+Adidas,Small Stores / Shops,Manager,Price Drop Parade,346898.62,116,2990.51,536.82,4979.30
+Adidas,Small Stores / Shops,Manager,Red Tag Clearance,336307.18,118,2850.06,534.18,4995.28
+Adidas,Small Stores / Shops,Manager,Shop & Save Spectacular,348410.67,122,2855.83,536.53,4974.46
+Adidas,Small Stores / Shops,Manager,Spring Splash Discounts,327994.20,115,2852.12,503.97,4995.14
+Adidas,Small Stores / Shops,Manager,Super Savings Week,307469.89,110,2795.18,528.38,4959.27
+Adidas,Small Stores / Shops,Manager,Weekend Warrior Specials,305286.77,114,2677.95,502.44,4989.77
+Adidas,Small Stores / Shops,Manager,Winter Clearance Carnival,308532.56,106,2910.68,524.08,4909.08
+Adidas,Small Stores / Shops,Sales Associate,Autumn Deals Drive,369229.20,130,2840.22,652.27,4965.27
+Adidas,Small Stores / Shops,Sales Associate,BOGO Blitz,310264.46,111,2795.18,509.05,4988.61
+Adidas,Small Stores / Shops,Sales Associate,Back to School Boost,301175.27,118,2552.33,501.04,4994.39
+Adidas,Small Stores / Shops,Sales Associate,Birthday Bash Sale,316008.84,114,2772.01,500.58,4998.00
+Adidas,Small Stores / Shops,Sales Associate,Black Friday Blowout,327096.19,121,2703.27,562.65,4954.24
+Adidas,Small Stores / Shops,Sales Associate,Cashback Carnival,334917.32,127,2637.14,532.95,4981.92
+Adidas,Small Stores / Shops,Sales Associate,Clearance Countdown,331509.95,121,2739.75,605.70,4996.24
+Adidas,Small Stores / Shops,Sales Associate,Countdown to Savings,316488.03,117,2705.03,531.85,4955.79
+Adidas,Small Stores / Shops,Sales Associate,Customer Appreciation Week,332385.03,112,2967.72,528.34,4977.50
+Adidas,Small Stores / Shops,Sales Associate,Early Bird Specials,358214.64,124,2888.83,600.74,4927.36
+Adidas,Small Stores / Shops,Sales Associate,Exclusive Insider Offers,333405.08,126,2646.07,532.79,4951.25
+Adidas,Small Stores / Shops,Sales Associate,Final Call Frenzy,356219.27,123,2896.09,564.73,4989.90
+Adidas,Small Stores / Shops,Sales Associate,"Gift More, Spend Less",346333.88,123,2815.72,524.46,4958.60
+Adidas,Small Stores / Shops,Sales Associate,Happy Hour Discounts,329879.10,122,2703.93,525.65,4881.74
+Adidas,Small Stores / Shops,Sales Associate,Holiday Shopping Rush,312713.90,126,2481.86,542.11,4878.77
+Adidas,Small Stores / Shops,Sales Associate,Hot Picks Promo,356961.40,115,3104.01,583.88,4969.93
+Adidas,Small Stores / Shops,Sales Associate,Instant Gratification Sale,390043.20,134,2910.77,535.85,4984.04
+Adidas,Small Stores / Shops,Sales Associate,Loyalty Rewards Blast,312678.76,106,2949.80,510.40,4940.38
+Adidas,Small Stores / Shops,Sales Associate,Mid-Year Madness,303931.04,113,2689.66,743.00,4949.66
+Adidas,Small Stores / Shops,Sales Associate,Mystery Discount Days,342513.33,118,2902.66,554.37,4950.82
+Adidas,Small Stores / Shops,Sales Associate,New Arrival Showcase,328979.57,118,2787.96,547.42,4988.89
+Adidas,Small Stores / Shops,Sales Associate,New Product Launch Promo,361430.98,126,2868.50,519.44,4984.79
+Adidas,Small Stores / Shops,Sales Associate,Price Drop Parade,349094.34,125,2792.75,537.35,4987.71
+Adidas,Small Stores / Shops,Sales Associate,Red Tag Clearance,324590.18,112,2898.13,544.64,4982.81
+Adidas,Small Stores / Shops,Sales Associate,Seasonal Surprise Box,361074.39,137,2635.58,533.53,4980.91
+Adidas,Small Stores / Shops,Sales Associate,Smart Shopper Week,343439.15,126,2725.71,558.79,4988.00
+Adidas,Small Stores / Shops,Sales Associate,Spring Refresh Event,328346.59,122,2691.37,524.13,4999.78
+Adidas,Small Stores / Shops,Sales Associate,Spring Splash Discounts,323265.03,118,2739.53,535.84,4974.21
+Adidas,Small Stores / Shops,Sales Associate,Summer Sizzle Promo,383630.73,136,2820.81,607.99,4956.91
+Adidas,Small Stores / Shops,Sales Associate,Super Savings Week,303524.96,107,2836.68,674.19,4998.86
+Adidas,Small Stores / Shops,Sales Associate,Ultimate Value Event,358188.07,132,2713.55,502.59,4998.36
+Adidas,Small Stores / Shops,Sales Associate,VIP Access Sale,323957.56,114,2841.73,558.18,4989.16
+Adidas,Small Stores / Shops,Sales Associate,Weekend Warrior Specials,316535.19,114,2776.62,511.44,4964.54
+Adidas,Small Stores / Shops,Sales Associate,Winter Clearance Carnival,324228.58,123,2636.00,510.29,4945.48
+Adidas,Small Stores / Shops,Salesperson,12 Days of Deals,384404.21,138,2785.54,538.90,4974.07
+Adidas,Small Stores / Shops,Salesperson,Autumn Deals Drive,305759.56,116,2635.86,538.66,4980.77
+Adidas,Small Stores / Shops,Salesperson,BOGO Blitz,340021.53,114,2982.65,518.34,4997.05
+Adidas,Small Stores / Shops,Salesperson,Back to School Boost,336888.60,122,2761.38,527.30,4945.79
+Adidas,Small Stores / Shops,Salesperson,Birthday Bash Sale,366929.65,128,2866.64,502.17,4993.81
+Adidas,Small Stores / Shops,Salesperson,Black Friday Blowout,327475.44,119,2751.89,567.65,4994.34
+Adidas,Small Stores / Shops,Salesperson,Cart Crasher Campaign,331832.66,114,2910.81,515.37,4931.02
+Adidas,Small Stores / Shops,Salesperson,Clearance Countdown,315314.36,121,2605.90,511.56,4964.25
+Adidas,Small Stores / Shops,Salesperson,Countdown to Savings,321375.12,117,2746.80,509.94,4827.42
+Adidas,Small Stores / Shops,Salesperson,Customer Appreciation Week,304121.36,113,2691.34,523.17,4980.59
+Adidas,Small Stores / Shops,Salesperson,Cyber Monday Mania,312787.00,112,2792.74,576.58,4993.46
+Adidas,Small Stores / Shops,Salesperson,Double Points Bonanza,352367.35,124,2841.67,507.03,4986.54
+Adidas,Small Stores / Shops,Salesperson,End of Season Sale,304642.23,112,2720.02,558.29,4978.41
+Adidas,Small Stores / Shops,Salesperson,Exclusive Insider Offers,319355.45,116,2753.06,516.58,4982.41
+Adidas,Small Stores / Shops,Salesperson,Festive Fever Promo,306709.09,107,2866.44,513.73,4955.04
+Adidas,Small Stores / Shops,Salesperson,Final Call Frenzy,326870.12,122,2679.26,530.19,4992.84
+Adidas,Small Stores / Shops,Salesperson,"Gift More, Spend Less",305312.73,110,2775.57,510.65,4901.85
+Adidas,Small Stores / Shops,Salesperson,Golden Hour Bargains,385839.99,146,2642.74,505.89,4913.24
+Adidas,Small Stores / Shops,Salesperson,Happy Hour Discounts,338983.29,126,2690.34,531.80,4925.49
+Adidas,Small Stores / Shops,Salesperson,Hot Picks Promo,376019.31,135,2785.33,520.65,4918.04
+Adidas,Small Stores / Shops,Salesperson,Limited Time Treasures,336186.33,118,2849.04,511.13,4916.16
+Adidas,Small Stores / Shops,Salesperson,Loyalty Rewards Blast,317623.16,111,2861.47,503.40,4989.94
+Adidas,Small Stores / Shops,Salesperson,Mega Weekend Bonanza,316080.65,112,2822.15,600.61,4931.29
+Adidas,Small Stores / Shops,Salesperson,Mid-Year Madness,335163.98,115,2914.47,529.64,4871.52
+Adidas,Small Stores / Shops,Salesperson,Midnight Madness,366937.46,132,2779.83,520.72,4986.14
+Adidas,Small Stores / Shops,Salesperson,Mystery Discount Days,321592.66,112,2871.36,681.07,4983.78
+Adidas,Small Stores / Shops,Salesperson,New Arrival Showcase,375260.61,127,2954.81,566.44,4995.28
+Adidas,Small Stores / Shops,Salesperson,New Product Launch Promo,315814.22,121,2610.03,526.80,4977.65
+Adidas,Small Stores / Shops,Salesperson,New Year Kickoff,309716.04,118,2624.71,503.31,4955.49
+Adidas,Small Stores / Shops,Salesperson,Seasonal Surprise Box,304514.99,108,2819.58,531.49,4941.89
+Adidas,Small Stores / Shops,Salesperson,Shop & Save Spectacular,364150.46,136,2677.58,528.50,4949.92
+Adidas,Small Stores / Shops,Salesperson,Smart Shopper Week,343928.05,122,2819.08,507.17,4991.97
+Adidas,Small Stores / Shops,Salesperson,Spring Splash Discounts,305748.78,114,2682.01,548.00,4927.91
+Adidas,Small Stores / Shops,Salesperson,Summer Sizzle Promo,304080.51,107,2841.87,561.41,4983.81
+Adidas,Small Stores / Shops,Salesperson,Ultimate Value Event,314557.07,113,2783.69,683.41,4980.77
+Adidas,Small Stores / Shops,Salesperson,VIP Access Sale,303736.66,113,2687.94,534.21,4954.84
+Adidas,Small Stores / Shops,Salesperson,Weekend Warrior Specials,345686.33,136,2541.81,533.71,4929.58
+Adidas,Small Stores / Shops,Salesperson,Winter Clearance Carnival,318065.79,109,2918.03,532.03,4992.09
+Adidas,Small Stores / Shops,Salesperson,Winter Wonders Sale,345821.53,128,2701.73,612.68,4970.45
+Adidas,Small Stores / Shops,Senior Salesperson,Birthday Bash Sale,329944.81,115,2869.09,532.08,4933.99
+Adidas,Small Stores / Shops,Senior Salesperson,Cart Crasher Campaign,319205.33,112,2850.05,527.92,4983.68
+Adidas,Small Stores / Shops,Senior Salesperson,Customer Appreciation Week,305185.55,111,2749.42,503.78,4934.22
+Adidas,Small Stores / Shops,Senior Salesperson,Festive Fever Promo,323629.59,113,2863.98,534.76,4924.03
+Adidas,Small Stores / Shops,Senior Salesperson,Instant Gratification Sale,316980.08,108,2935.00,597.04,4994.90
+Adidas,Small Stores / Shops,Senior Salesperson,Mega Weekend Bonanza,300385.35,105,2860.81,515.58,4902.25
+Adidas,Small Stores / Shops,Senior Salesperson,Mystery Discount Days,301090.95,111,2712.53,531.52,4962.98
+Adidas,Small Stores / Shops,Senior Salesperson,New Arrival Showcase,302284.03,111,2723.28,530.40,4993.32
+Adidas,Small Stores / Shops,Senior Salesperson,Red Tag Clearance,346842.93,122,2842.97,518.26,4955.62
+Adidas,Small Stores / Shops,Senior Salesperson,Shop & Save Spectacular,313364.87,115,2724.91,503.19,4966.83
+Adidas,Small Stores / Shops,Senior Salesperson,Spring Splash Discounts,313391.01,117,2678.56,534.24,4960.86
+Adidas,Small Stores / Shops,Senior Salesperson,Winter Clearance Carnival,310235.84,110,2820.33,540.64,4984.27
+Adidas,Supermarkets ,Manager,12 Days of Deals,359279.04,128,2806.87,505.04,4998.46
+Adidas,Supermarkets ,Manager,Autumn Deals Drive,339863.53,120,2832.20,500.33,4997.38
+Adidas,Supermarkets ,Manager,BOGO Blitz,390680.29,143,2732.03,561.81,4990.14
+Adidas,Supermarkets ,Manager,Back to School Boost,320493.74,110,2913.58,605.49,4965.45
+Adidas,Supermarkets ,Manager,Black Friday Blowout,350465.87,128,2738.01,535.84,4952.48
+Adidas,Supermarkets ,Manager,Cart Crasher Campaign,345964.61,124,2790.04,570.74,4950.61
+Adidas,Supermarkets ,Manager,Cashback Carnival,325909.53,112,2909.91,509.51,4978.45
+Adidas,Supermarkets ,Manager,Customer Appreciation Week,323599.40,114,2838.59,529.43,4954.61
+Adidas,Supermarkets ,Manager,Cyber Monday Mania,334481.10,113,2960.01,516.07,4978.33
+Adidas,Supermarkets ,Manager,Deal of the Month,318557.72,116,2746.19,518.06,4982.42
+Adidas,Supermarkets ,Manager,Early Bird Specials,309788.46,107,2895.22,615.84,4996.74
+Adidas,Supermarkets ,Manager,End of Season Sale,313068.00,118,2653.12,552.42,4933.50
+Adidas,Supermarkets ,Manager,Festive Fever Promo,332205.11,124,2679.07,520.59,4982.65
+Adidas,Supermarkets ,Manager,Final Call Frenzy,335242.12,119,2817.16,501.90,4971.11
+Adidas,Supermarkets ,Manager,"Gift More, Spend Less",300805.99,118,2549.20,510.97,4986.37
+Adidas,Supermarkets ,Manager,Golden Hour Bargains,318449.89,116,2745.26,536.94,4885.13
+Adidas,Supermarkets ,Manager,Green Weekend Deals,333041.86,116,2871.05,513.01,4920.02
+Adidas,Supermarkets ,Manager,Hot Picks Promo,363162.28,136,2670.31,554.94,4938.72
+Adidas,Supermarkets ,Manager,Instant Gratification Sale,316788.61,117,2707.59,501.99,4993.28
+Adidas,Supermarkets ,Manager,Mid-Year Madness,310984.25,112,2776.65,502.53,4991.08
+Adidas,Supermarkets ,Manager,Midnight Madness,334370.61,113,2959.03,500.45,4985.69
+Adidas,Supermarkets ,Manager,Mystery Discount Days,306052.31,115,2661.32,506.53,4998.07
+Adidas,Supermarkets ,Manager,New Product Launch Promo,325912.70,119,2738.76,564.61,4898.65
+Adidas,Supermarkets ,Manager,New Year Kickoff,302310.25,109,2773.49,506.98,4977.99
+Adidas,Supermarkets ,Manager,Price Drop Parade,327565.24,121,2707.15,522.55,4970.18
+Adidas,Supermarkets ,Manager,Red Tag Clearance,373498.69,129,2895.34,520.14,4957.70
+Adidas,Supermarkets ,Manager,Seasonal Surprise Box,331946.24,115,2886.49,515.20,4956.42
+Adidas,Supermarkets ,Manager,Shop & Save Spectacular,322878.72,110,2935.26,582.86,4969.48
+Adidas,Supermarkets ,Manager,Smart Shopper Week,354197.03,126,2811.09,528.74,4978.10
+Adidas,Supermarkets ,Manager,Spring Refresh Event,319594.78,119,2685.67,529.10,4977.82
+Adidas,Supermarkets ,Manager,Spring Splash Discounts,325166.89,121,2687.33,561.36,4984.88
+Adidas,Supermarkets ,Manager,Summer Sizzle Promo,333825.90,110,3034.78,580.01,4974.26
+Adidas,Supermarkets ,Manager,Ultimate Value Event,360849.42,133,2713.15,501.61,4918.07
+Adidas,Supermarkets ,Manager,VIP Access Sale,302322.95,106,2852.10,510.81,4991.78
+Adidas,Supermarkets ,Manager,Weekend Warrior Specials,332561.37,118,2818.32,501.72,4998.83
+Adidas,Supermarkets ,Manager,Winter Clearance Carnival,320706.63,122,2628.74,509.53,4988.66
+Adidas,Supermarkets ,Manager,Winter Wonders Sale,307992.77,119,2588.17,506.23,4975.48
+Adidas,Supermarkets ,Sales Associate,Autumn Deals Drive,328476.46,123,2670.54,546.07,4991.85
+Adidas,Supermarkets ,Sales Associate,BOGO Blitz,322082.68,115,2800.72,509.20,4982.08
+Adidas,Supermarkets ,Sales Associate,Back to School Boost,312842.13,123,2543.43,550.18,4989.82
+Adidas,Supermarkets ,Sales Associate,Birthday Bash Sale,347665.93,124,2803.76,520.20,4978.32
+Adidas,Supermarkets ,Sales Associate,Black Friday Blowout,326081.58,115,2835.49,503.18,4991.94
+Adidas,Supermarkets ,Sales Associate,Cart Crasher Campaign,374339.75,134,2793.58,522.03,4840.61
+Adidas,Supermarkets ,Sales Associate,Cashback Carnival,301946.79,112,2695.95,527.96,4982.89
+Adidas,Supermarkets ,Sales Associate,Clearance Countdown,308418.22,116,2658.78,509.58,4998.56
+Adidas,Supermarkets ,Sales Associate,Countdown to Savings,389968.35,138,2825.86,510.74,4957.19
+Adidas,Supermarkets ,Sales Associate,Customer Appreciation Week,325555.46,124,2625.45,520.41,4865.45
+Adidas,Supermarkets ,Sales Associate,Cyber Monday Mania,352864.42,130,2714.34,601.18,4989.43
+Adidas,Supermarkets ,Sales Associate,Deal of the Month,328043.57,125,2624.35,520.13,4963.30
+Adidas,Supermarkets ,Sales Associate,Double Points Bonanza,334541.41,118,2835.10,503.76,4973.05
+Adidas,Supermarkets ,Sales Associate,Exclusive Insider Offers,343778.61,129,2664.95,574.07,4884.21
+Adidas,Supermarkets ,Sales Associate,Festive Fever Promo,343143.84,128,2680.81,504.43,4860.15
+Adidas,Supermarkets ,Sales Associate,"Gift More, Spend Less",374327.35,139,2693.00,543.24,4972.49
+Adidas,Supermarkets ,Sales Associate,Golden Hour Bargains,343884.18,124,2773.26,534.86,4971.94
+Adidas,Supermarkets ,Sales Associate,Green Weekend Deals,350051.47,121,2892.99,504.25,4977.75
+Adidas,Supermarkets ,Sales Associate,Happy Hour Discounts,319971.33,117,2734.80,517.25,4965.62
+Adidas,Supermarkets ,Sales Associate,Holiday Shopping Rush,326082.48,117,2787.03,507.47,4971.68
+Adidas,Supermarkets ,Sales Associate,Hot Picks Promo,316454.37,116,2728.05,523.60,4990.00
+Adidas,Supermarkets ,Sales Associate,Instant Gratification Sale,337633.03,123,2744.98,500.95,4998.40
+Adidas,Supermarkets ,Sales Associate,Limited Time Treasures,394468.60,137,2879.33,596.64,4952.45
+Adidas,Supermarkets ,Sales Associate,Mega Weekend Bonanza,328079.25,126,2603.80,518.73,4980.14
+Adidas,Supermarkets ,Sales Associate,Mid-Year Madness,318835.23,119,2679.29,550.59,4991.43
+Adidas,Supermarkets ,Sales Associate,Midnight Madness,372307.14,122,3051.70,512.42,4990.39
+Adidas,Supermarkets ,Sales Associate,Mystery Discount Days,343946.51,118,2914.80,529.02,4950.33
+Adidas,Supermarkets ,Sales Associate,New Arrival Showcase,378461.83,133,2845.58,526.98,4997.59
+Adidas,Supermarkets ,Sales Associate,New Product Launch Promo,348818.74,121,2882.80,541.18,4979.77
+Adidas,Supermarkets ,Sales Associate,New Year Kickoff,324591.13,113,2872.49,503.72,4986.87
+Adidas,Supermarkets ,Sales Associate,Price Drop Parade,396271.70,137,2892.49,539.68,4932.51
+Adidas,Supermarkets ,Sales Associate,Seasonal Surprise Box,359290.04,124,2897.50,500.52,4982.93
+Adidas,Supermarkets ,Sales Associate,Shop & Save Spectacular,336948.50,123,2739.42,519.63,4936.87
+Adidas,Supermarkets ,Sales Associate,Smart Shopper Week,308146.30,110,2801.33,520.02,4983.10
+Adidas,Supermarkets ,Sales Associate,Spring Refresh Event,303490.84,111,2734.15,527.90,4987.97
+Adidas,Supermarkets ,Sales Associate,Spring Splash Discounts,304668.37,121,2517.92,560.52,4990.13
+Adidas,Supermarkets ,Sales Associate,Summer Sizzle Promo,332442.27,117,2841.39,527.09,4879.01
+Adidas,Supermarkets ,Sales Associate,Super Savings Week,327172.23,124,2638.49,515.33,4992.84
+Adidas,Supermarkets ,Sales Associate,Ultimate Value Event,312373.84,114,2740.12,650.19,4950.06
+Adidas,Supermarkets ,Sales Associate,VIP Access Sale,378807.53,149,2542.33,506.71,4996.65
+Adidas,Supermarkets ,Sales Associate,Weekend Warrior Specials,303604.09,117,2594.91,529.97,4974.91
+Adidas,Supermarkets ,Sales Associate,Winter Clearance Carnival,373003.15,129,2891.50,548.74,4978.12
+Adidas,Supermarkets ,Sales Associate,Winter Wonders Sale,324058.78,108,3000.54,609.23,4996.30
+Adidas,Supermarkets ,Salesperson,Autumn Deals Drive,341449.17,125,2731.59,549.97,4967.23
+Adidas,Supermarkets ,Salesperson,Back to School Boost,334311.36,120,2785.93,501.52,4978.26
+Adidas,Supermarkets ,Salesperson,Birthday Bash Sale,307549.70,120,2562.91,506.71,4963.09
+Adidas,Supermarkets ,Salesperson,Black Friday Blowout,335998.48,115,2921.73,570.03,4961.89
+Adidas,Supermarkets ,Salesperson,Cashback Carnival,335269.71,126,2660.87,502.87,4977.61
+Adidas,Supermarkets ,Salesperson,Clearance Countdown,320529.08,111,2887.65,519.11,4958.31
+Adidas,Supermarkets ,Salesperson,Countdown to Savings,310247.42,110,2820.43,579.23,4968.92
+Adidas,Supermarkets ,Salesperson,Customer Appreciation Week,331577.71,124,2674.01,527.58,4947.58
+Adidas,Supermarkets ,Salesperson,Cyber Monday Mania,371106.25,135,2748.94,519.85,4990.65
+Adidas,Supermarkets ,Salesperson,Early Bird Specials,361682.99,129,2803.74,719.80,4991.02
+Adidas,Supermarkets ,Salesperson,Exclusive Insider Offers,387371.29,141,2747.31,508.78,4991.28
+Adidas,Supermarkets ,Salesperson,Festive Fever Promo,326206.71,126,2588.94,510.97,4984.89
+Adidas,Supermarkets ,Salesperson,Final Call Frenzy,343137.98,122,2812.61,509.40,4995.87
+Adidas,Supermarkets ,Salesperson,"Gift More, Spend Less",314639.39,114,2759.99,559.12,4993.87
+Adidas,Supermarkets ,Salesperson,Green Weekend Deals,315675.90,108,2922.93,512.50,4926.52
+Adidas,Supermarkets ,Salesperson,Hot Picks Promo,339001.65,130,2607.70,522.94,4987.14
+Adidas,Supermarkets ,Salesperson,Loyalty Rewards Blast,345483.06,129,2678.16,529.31,4966.28
+Adidas,Supermarkets ,Salesperson,Mega Weekend Bonanza,317957.00,115,2764.84,508.93,4951.30
+Adidas,Supermarkets ,Salesperson,Mid-Year Madness,320802.17,121,2651.26,612.13,4866.07
+Adidas,Supermarkets ,Salesperson,Midnight Madness,378711.45,134,2826.20,504.20,4983.78
+Adidas,Supermarkets ,Salesperson,New Product Launch Promo,319494.19,115,2778.21,501.61,4988.14
+Adidas,Supermarkets ,Salesperson,New Year Kickoff,336625.63,115,2927.18,519.85,4955.51
+Adidas,Supermarkets ,Salesperson,Price Drop Parade,304962.32,106,2877.00,506.80,4941.97
+Adidas,Supermarkets ,Salesperson,Red Tag Clearance,374635.02,121,3096.16,598.15,4964.81
+Adidas,Supermarkets ,Salesperson,Smart Shopper Week,302015.38,113,2672.70,583.36,4973.90
+Adidas,Supermarkets ,Salesperson,Spring Refresh Event,378519.60,134,2824.77,508.56,4997.20
+Adidas,Supermarkets ,Salesperson,Summer Sizzle Promo,305336.19,106,2880.53,516.21,4998.80
+Adidas,Supermarkets ,Salesperson,Super Savings Week,326427.31,118,2766.33,576.54,4944.40
+Adidas,Supermarkets ,Salesperson,Ultimate Value Event,349511.50,121,2888.52,521.06,4995.70
+Adidas,Supermarkets ,Salesperson,VIP Access Sale,353496.24,127,2783.43,513.12,4992.01
+Adidas,Supermarkets ,Salesperson,Weekend Warrior Specials,371755.36,139,2674.50,554.12,4935.09
+Adidas,Supermarkets ,Salesperson,Winter Clearance Carnival,375934.96,135,2784.70,517.38,4971.08
+Adidas,Supermarkets ,Senior Salesperson,12 Days of Deals,349438.02,121,2887.92,501.44,4958.02
+Adidas,Supermarkets ,Senior Salesperson,Back to School Boost,338394.36,125,2707.15,540.41,4999.86
+Adidas,Supermarkets ,Senior Salesperson,Black Friday Blowout,345811.08,127,2722.92,573.34,4990.51
+Adidas,Supermarkets ,Senior Salesperson,Cart Crasher Campaign,316357.74,107,2956.61,520.56,4944.12
+Adidas,Supermarkets ,Senior Salesperson,Cashback Carnival,313160.35,112,2796.07,548.35,4972.53
+Adidas,Supermarkets ,Senior Salesperson,Countdown to Savings,303984.62,112,2714.15,510.44,4806.32
+Adidas,Supermarkets ,Senior Salesperson,Customer Appreciation Week,311256.88,109,2855.57,600.72,4988.05
+Adidas,Supermarkets ,Senior Salesperson,End of Season Sale,307167.80,112,2742.57,606.76,4990.21
+Adidas,Supermarkets ,Senior Salesperson,Happy Hour Discounts,324772.60,114,2848.88,502.86,4971.52
+Adidas,Supermarkets ,Senior Salesperson,Hot Picks Promo,311463.91,110,2831.49,507.34,4989.96
+Adidas,Supermarkets ,Senior Salesperson,Limited Time Treasures,333610.52,111,3005.50,509.09,4987.77
+Adidas,Supermarkets ,Senior Salesperson,Loyalty Rewards Blast,322872.39,116,2783.38,507.26,4976.27
+Adidas,Supermarkets ,Senior Salesperson,Mega Weekend Bonanza,348149.12,130,2678.07,541.39,4981.52
+Adidas,Supermarkets ,Senior Salesperson,New Arrival Showcase,301427.89,100,3014.28,545.08,4996.95
+Adidas,Supermarkets ,Senior Salesperson,Red Tag Clearance,329063.48,119,2765.24,519.86,4963.71
+Adidas,Supermarkets ,Senior Salesperson,Smart Shopper Week,340262.67,123,2766.36,507.97,4967.21
+Adidas,Supermarkets ,Senior Salesperson,Spring Refresh Event,301009.70,120,2508.41,533.04,4943.76
+Adidas,Supermarkets ,Senior Salesperson,Spring Splash Discounts,306179.73,115,2662.43,500.46,4996.95
+Adidas,Supermarkets ,Senior Salesperson,Weekend Warrior Specials,308177.51,113,2727.23,501.48,4964.14
+LG,Large Malls / Complexes,Manager,Autumn Deals Drive,307151.89,110,2792.29,512.70,4978.91
+LG,Large Malls / Complexes,Manager,Black Friday Blowout,306339.02,100,3063.39,545.23,4994.38
+LG,Large Malls / Complexes,Manager,Cart Crasher Campaign,305862.13,110,2780.56,528.91,4919.12
+LG,Large Malls / Complexes,Manager,Countdown to Savings,306680.81,117,2621.20,554.62,4950.82
+LG,Large Malls / Complexes,Manager,Customer Appreciation Week,306637.67,112,2737.84,539.99,4964.13
+LG,Large Malls / Complexes,Manager,Deal of the Month,330988.11,112,2955.25,503.34,4996.40
+LG,Large Malls / Complexes,Manager,Festive Fever Promo,304764.86,100,3047.65,519.25,4996.41
+LG,Large Malls / Complexes,Manager,Final Call Frenzy,327191.46,126,2596.76,544.38,4909.03
+LG,Large Malls / Complexes,Manager,Golden Hour Bargains,352766.46,137,2574.94,537.86,4801.52
+LG,Large Malls / Complexes,Manager,Happy Hour Discounts,326778.48,112,2917.67,578.66,4985.88
+LG,Large Malls / Complexes,Manager,Hot Picks Promo,338384.18,116,2917.11,558.88,4974.36
+LG,Large Malls / Complexes,Manager,Limited Time Treasures,313076.41,116,2698.93,527.36,4969.59
+LG,Large Malls / Complexes,Manager,Mega Weekend Bonanza,305236.30,118,2586.75,503.69,4994.32
+LG,Large Malls / Complexes,Manager,Mid-Year Madness,304187.29,108,2816.55,510.03,4960.52
+LG,Large Malls / Complexes,Manager,Mystery Discount Days,320658.56,123,2606.98,508.14,4980.25
+LG,Large Malls / Complexes,Manager,New Year Kickoff,305364.26,102,2993.77,587.49,4945.41
+LG,Large Malls / Complexes,Manager,Red Tag Clearance,311043.08,110,2827.66,553.47,4992.58
+LG,Large Malls / Complexes,Manager,Seasonal Surprise Box,323936.17,119,2722.15,520.96,4902.70
+LG,Large Malls / Complexes,Manager,Spring Refresh Event,312136.80,115,2714.23,507.77,4987.43
+LG,Large Malls / Complexes,Manager,Super Savings Week,318401.35,115,2768.71,500.28,4996.22
+LG,Large Malls / Complexes,Manager,Winter Clearance Carnival,319706.06,114,2804.44,504.18,4957.90
+LG,Large Malls / Complexes,Manager,Winter Wonders Sale,302529.51,108,2801.20,503.19,4968.07
+LG,Large Malls / Complexes,Sales Associate,12 Days of Deals,311443.51,118,2639.35,541.65,4990.03
+LG,Large Malls / Complexes,Sales Associate,Autumn Deals Drive,314190.99,110,2856.28,509.65,4995.01
+LG,Large Malls / Complexes,Sales Associate,BOGO Blitz,353281.18,126,2803.82,534.16,4907.59
+LG,Large Malls / Complexes,Sales Associate,Back to School Boost,367577.96,125,2940.62,585.22,4962.46
+LG,Large Malls / Complexes,Sales Associate,Black Friday Blowout,306956.45,113,2716.43,500.70,4949.76
+LG,Large Malls / Complexes,Sales Associate,Cart Crasher Campaign,304996.28,116,2629.28,532.23,4932.16
+LG,Large Malls / Complexes,Sales Associate,Clearance Countdown,353304.59,132,2676.55,511.35,4982.16
+LG,Large Malls / Complexes,Sales Associate,Customer Appreciation Week,324792.11,118,2752.48,502.70,4996.86
+LG,Large Malls / Complexes,Sales Associate,Double Points Bonanza,323606.59,117,2765.87,533.88,4996.08
+LG,Large Malls / Complexes,Sales Associate,Early Bird Specials,326484.71,121,2698.22,509.48,4965.53
+LG,Large Malls / Complexes,Sales Associate,Exclusive Insider Offers,302357.14,108,2799.60,538.59,4978.13
+LG,Large Malls / Complexes,Sales Associate,Flash Frenzy Friday,313669.77,118,2658.22,508.78,4930.59
+LG,Large Malls / Complexes,Sales Associate,"Gift More, Spend Less",373452.24,123,3036.20,516.81,4987.76
+LG,Large Malls / Complexes,Sales Associate,Golden Hour Bargains,300962.03,107,2812.73,506.54,4966.10
+LG,Large Malls / Complexes,Sales Associate,Happy Hour Discounts,305309.65,103,2964.17,533.79,4963.35
+LG,Large Malls / Complexes,Sales Associate,Instant Gratification Sale,311587.23,112,2782.03,515.86,4978.86
+LG,Large Malls / Complexes,Sales Associate,Limited Time Treasures,358975.47,132,2719.51,507.19,4961.51
+LG,Large Malls / Complexes,Sales Associate,Mega Weekend Bonanza,358868.75,127,2825.74,504.08,4965.39
+LG,Large Malls / Complexes,Sales Associate,Mystery Discount Days,328611.63,127,2587.49,506.37,4990.97
+LG,Large Malls / Complexes,Sales Associate,New Arrival Showcase,316333.72,104,3041.67,516.09,4985.75
+LG,Large Malls / Complexes,Sales Associate,New Product Launch Promo,349972.87,123,2845.31,519.16,4999.48
+LG,Large Malls / Complexes,Sales Associate,New Year Kickoff,313503.65,107,2929.94,526.00,4994.13
+LG,Large Malls / Complexes,Sales Associate,Red Tag Clearance,310969.80,120,2591.41,596.87,4958.13
+LG,Large Malls / Complexes,Sales Associate,Shop & Save Spectacular,321456.94,117,2747.50,531.65,4992.95
+LG,Large Malls / Complexes,Sales Associate,Smart Shopper Week,347063.59,111,3126.70,576.12,4988.05
+LG,Large Malls / Complexes,Sales Associate,Spring Refresh Event,327431.53,126,2598.66,506.82,4977.61
+LG,Large Malls / Complexes,Sales Associate,Super Savings Week,309921.12,117,2648.90,560.93,4868.08
+LG,Large Malls / Complexes,Sales Associate,Ultimate Value Event,341577.06,118,2894.72,506.64,4991.35
+LG,Large Malls / Complexes,Sales Associate,VIP Access Sale,323822.23,118,2744.26,500.93,4968.65
+LG,Large Malls / Complexes,Sales Associate,Weekend Warrior Specials,327374.99,114,2871.71,517.99,4952.24
+LG,Large Malls / Complexes,Sales Associate,Winter Clearance Carnival,387976.54,130,2984.43,512.56,4944.29
+LG,Large Malls / Complexes,Sales Associate,Winter Wonders Sale,321217.67,119,2699.31,508.73,4991.74
+LG,Large Malls / Complexes,Salesperson,Autumn Deals Drive,345588.86,120,2879.91,508.14,4973.44
+LG,Large Malls / Complexes,Salesperson,BOGO Blitz,324595.01,109,2977.94,510.45,4876.48
+LG,Large Malls / Complexes,Salesperson,Birthday Bash Sale,335797.19,122,2752.44,517.97,4925.54
+LG,Large Malls / Complexes,Salesperson,Black Friday Blowout,316658.68,114,2777.71,511.75,4965.51
+LG,Large Malls / Complexes,Salesperson,Cart Crasher Campaign,320366.44,122,2625.95,558.49,4970.31
+LG,Large Malls / Complexes,Salesperson,Cashback Carnival,319172.93,116,2751.49,534.73,4956.70
+LG,Large Malls / Complexes,Salesperson,Clearance Countdown,334599.95,115,2909.56,602.61,4994.64
+LG,Large Malls / Complexes,Salesperson,Cyber Monday Mania,319513.06,114,2802.75,507.37,4887.94
+LG,Large Malls / Complexes,Salesperson,Early Bird Specials,304024.57,113,2690.48,500.92,4920.08
+LG,Large Malls / Complexes,Salesperson,End of Season Sale,360169.92,126,2858.49,515.67,4991.36
+LG,Large Malls / Complexes,Salesperson,Festive Fever Promo,300883.37,99,3039.23,603.90,4824.98
+LG,Large Malls / Complexes,Salesperson,Final Call Frenzy,318294.11,113,2816.76,574.35,4999.75
+LG,Large Malls / Complexes,Salesperson,Flash Frenzy Friday,347225.43,120,2893.55,520.58,4998.72
+LG,Large Malls / Complexes,Salesperson,Golden Hour Bargains,324086.47,109,2973.27,555.22,4993.31
+LG,Large Malls / Complexes,Salesperson,Green Weekend Deals,316043.11,115,2748.20,504.78,4985.76
+LG,Large Malls / Complexes,Salesperson,Holiday Shopping Rush,332568.37,124,2682.00,600.14,4945.69
+LG,Large Malls / Complexes,Salesperson,Hot Picks Promo,323580.92,114,2838.43,544.26,4977.39
+LG,Large Malls / Complexes,Salesperson,Instant Gratification Sale,317880.16,117,2716.92,504.58,4905.50
+LG,Large Malls / Complexes,Salesperson,Limited Time Treasures,313132.38,109,2872.77,686.47,4984.03
+LG,Large Malls / Complexes,Salesperson,Loyalty Rewards Blast,330000.76,119,2773.12,522.58,4910.83
+LG,Large Malls / Complexes,Salesperson,Mega Weekend Bonanza,310906.79,114,2727.25,503.23,4998.42
+LG,Large Malls / Complexes,Salesperson,Mid-Year Madness,350866.99,118,2973.45,504.33,4911.53
+LG,Large Malls / Complexes,Salesperson,Mystery Discount Days,310953.24,115,2703.94,533.85,4994.98
+LG,Large Malls / Complexes,Salesperson,New Arrival Showcase,328930.92,118,2787.55,584.21,4985.41
+LG,Large Malls / Complexes,Salesperson,New Product Launch Promo,317198.22,109,2910.08,804.32,4979.52
+LG,Large Malls / Complexes,Salesperson,New Year Kickoff,313043.12,109,2871.96,544.53,4980.52
+LG,Large Malls / Complexes,Salesperson,Price Drop Parade,353237.68,131,2696.47,578.53,4999.10
+LG,Large Malls / Complexes,Salesperson,Seasonal Surprise Box,321890.14,114,2823.60,520.05,4998.13
+LG,Large Malls / Complexes,Salesperson,Shop & Save Spectacular,408765.60,142,2878.63,502.74,4897.42
+LG,Large Malls / Complexes,Salesperson,Smart Shopper Week,349348.43,121,2887.18,537.50,4991.28
+LG,Large Malls / Complexes,Salesperson,Spring Refresh Event,326777.83,110,2970.71,550.93,4980.63
+LG,Large Malls / Complexes,Salesperson,Spring Splash Discounts,308052.74,108,2852.34,505.95,4974.54
+LG,Large Malls / Complexes,Salesperson,Summer Sizzle Promo,365657.27,128,2856.70,519.96,4987.60
+LG,Large Malls / Complexes,Salesperson,Super Savings Week,307193.53,106,2898.05,576.60,4983.99
+LG,Large Malls / Complexes,Salesperson,Ultimate Value Event,330508.83,119,2777.39,553.03,4960.08
+LG,Large Malls / Complexes,Salesperson,Weekend Warrior Specials,330448.19,119,2776.88,503.52,4975.67
+LG,Large Malls / Complexes,Senior Salesperson,Cashback Carnival,300463.66,101,2974.89,554.32,4964.29
+LG,Large Malls / Complexes,Senior Salesperson,Final Call Frenzy,305077.03,108,2824.79,521.75,4998.16
+LG,Large Malls / Complexes,Senior Salesperson,Holiday Shopping Rush,317677.19,104,3054.59,606.98,4995.77
+LG,Large Malls / Complexes,Senior Salesperson,New Product Launch Promo,304396.41,108,2818.49,519.03,4989.80
+LG,Large Malls / Complexes,Senior Salesperson,Shop & Save Spectacular,309677.16,107,2894.18,525.52,4977.47
+LG,Large Malls / Complexes,Senior Salesperson,Ultimate Value Event,327575.82,112,2924.78,556.02,4989.62
+LG,Small Stores / Shops,Manager,Autumn Deals Drive,308709.04,123,2509.83,531.14,4974.49
+LG,Small Stores / Shops,Manager,Back to School Boost,333831.74,122,2736.33,527.63,4994.40
+LG,Small Stores / Shops,Manager,Birthday Bash Sale,304805.03,105,2902.91,507.40,4944.05
+LG,Small Stores / Shops,Manager,Black Friday Blowout,329626.10,120,2746.88,566.46,4936.20
+LG,Small Stores / Shops,Manager,Cashback Carnival,333540.57,121,2756.53,509.88,4984.80
+LG,Small Stores / Shops,Manager,Countdown to Savings,309533.45,111,2788.59,555.96,4949.40
+LG,Small Stores / Shops,Manager,Cyber Monday Mania,421739.32,148,2849.59,502.61,4990.57
+LG,Small Stores / Shops,Manager,Double Points Bonanza,328196.82,125,2625.57,531.91,4966.04
+LG,Small Stores / Shops,Manager,Exclusive Insider Offers,308786.25,113,2732.62,534.82,4960.26
+LG,Small Stores / Shops,Manager,Festive Fever Promo,339229.26,125,2713.83,521.67,4974.11
+LG,Small Stores / Shops,Manager,Flash Frenzy Friday,327832.79,115,2850.72,521.42,4983.45
+LG,Small Stores / Shops,Manager,"Gift More, Spend Less",324117.75,126,2572.36,540.92,4992.20
+LG,Small Stores / Shops,Manager,Golden Hour Bargains,348298.41,129,2699.99,553.25,4992.88
+LG,Small Stores / Shops,Manager,Instant Gratification Sale,307848.19,119,2586.96,527.38,4985.75
+LG,Small Stores / Shops,Manager,Limited Time Treasures,305667.76,116,2635.07,584.83,4977.05
+LG,Small Stores / Shops,Manager,Loyalty Rewards Blast,327858.66,117,2802.21,523.69,4962.23
+LG,Small Stores / Shops,Manager,Midnight Madness,363786.31,125,2910.29,537.84,4998.66
+LG,Small Stores / Shops,Manager,Mystery Discount Days,357250.44,119,3002.10,501.23,4975.06
+LG,Small Stores / Shops,Manager,New Arrival Showcase,409802.08,140,2927.16,521.82,4998.70
+LG,Small Stores / Shops,Manager,New Year Kickoff,303237.13,121,2506.09,577.10,4958.51
+LG,Small Stores / Shops,Manager,Red Tag Clearance,353958.04,129,2743.86,525.53,4968.04
+LG,Small Stores / Shops,Manager,Shop & Save Spectacular,331813.04,122,2719.78,573.11,4967.47
+LG,Small Stores / Shops,Manager,Spring Splash Discounts,337027.25,122,2762.52,517.15,4899.38
+LG,Small Stores / Shops,Manager,Super Savings Week,333119.62,126,2643.81,502.82,4954.25
+LG,Small Stores / Shops,Manager,Ultimate Value Event,331486.53,121,2739.56,530.32,4986.31
+LG,Small Stores / Shops,Manager,VIP Access Sale,331800.13,121,2742.15,625.66,4999.15
+LG,Small Stores / Shops,Sales Associate,12 Days of Deals,339200.37,115,2949.57,545.73,4954.85
+LG,Small Stores / Shops,Sales Associate,Autumn Deals Drive,320783.70,116,2765.38,539.28,4941.56
+LG,Small Stores / Shops,Sales Associate,BOGO Blitz,331402.81,119,2784.90,543.27,4997.66
+LG,Small Stores / Shops,Sales Associate,Back to School Boost,333014.81,123,2707.44,502.18,4956.28
+LG,Small Stores / Shops,Sales Associate,Birthday Bash Sale,321294.45,117,2746.11,570.95,4936.54
+LG,Small Stores / Shops,Sales Associate,Black Friday Blowout,324718.41,126,2577.13,633.27,4855.96
+LG,Small Stores / Shops,Sales Associate,Cart Crasher Campaign,311883.94,116,2688.65,512.18,4913.75
+LG,Small Stores / Shops,Sales Associate,Cashback Carnival,325505.37,120,2712.54,500.98,4994.18
+LG,Small Stores / Shops,Sales Associate,Clearance Countdown,354332.16,126,2812.16,550.55,4972.86
+LG,Small Stores / Shops,Sales Associate,Countdown to Savings,356981.99,130,2746.02,500.75,4998.01
+LG,Small Stores / Shops,Sales Associate,Customer Appreciation Week,354295.10,134,2643.99,511.27,4943.12
+LG,Small Stores / Shops,Sales Associate,Cyber Monday Mania,340048.71,119,2857.55,503.24,4992.62
+LG,Small Stores / Shops,Sales Associate,Deal of the Month,313182.33,119,2631.78,510.04,4979.57
+LG,Small Stores / Shops,Sales Associate,Double Points Bonanza,312777.69,120,2606.48,514.43,4894.92
+LG,Small Stores / Shops,Sales Associate,Early Bird Specials,309179.50,112,2760.53,505.82,4991.59
+LG,Small Stores / Shops,Sales Associate,End of Season Sale,388073.53,133,2917.85,543.75,4996.48
+LG,Small Stores / Shops,Sales Associate,Exclusive Insider Offers,341070.99,133,2564.44,530.03,4988.31
+LG,Small Stores / Shops,Sales Associate,Festive Fever Promo,324392.42,117,2772.58,510.16,4954.36
+LG,Small Stores / Shops,Sales Associate,Final Call Frenzy,318364.35,113,2817.38,501.74,4940.44
+LG,Small Stores / Shops,Sales Associate,Flash Frenzy Friday,355595.87,129,2756.56,510.43,4981.93
+LG,Small Stores / Shops,Sales Associate,"Gift More, Spend Less",382449.49,128,2987.89,537.95,4984.91
+LG,Small Stores / Shops,Sales Associate,Green Weekend Deals,324933.67,120,2707.78,506.72,4996.70
+LG,Small Stores / Shops,Sales Associate,Holiday Shopping Rush,305997.53,111,2756.73,585.21,4962.68
+LG,Small Stores / Shops,Sales Associate,Hot Picks Promo,319917.55,118,2711.17,601.87,4987.55
+LG,Small Stores / Shops,Sales Associate,Instant Gratification Sale,316233.45,112,2823.51,507.74,4961.44
+LG,Small Stores / Shops,Sales Associate,Loyalty Rewards Blast,320634.10,113,2837.47,587.74,4989.82
+LG,Small Stores / Shops,Sales Associate,Mega Weekend Bonanza,359913.50,131,2747.43,542.76,4992.00
+LG,Small Stores / Shops,Sales Associate,Midnight Madness,366954.78,129,2844.61,531.37,4933.92
+LG,Small Stores / Shops,Sales Associate,Mystery Discount Days,311392.86,119,2616.75,506.73,4971.65
+LG,Small Stores / Shops,Sales Associate,New Arrival Showcase,323311.60,112,2886.71,512.30,4967.64
+LG,Small Stores / Shops,Sales Associate,New Product Launch Promo,319952.75,120,2666.27,502.50,4993.94
+LG,Small Stores / Shops,Sales Associate,New Year Kickoff,309461.92,114,2714.58,543.89,4952.77
+LG,Small Stores / Shops,Sales Associate,Red Tag Clearance,339538.54,125,2716.31,513.32,4959.22
+LG,Small Stores / Shops,Sales Associate,Seasonal Surprise Box,344961.52,133,2593.70,513.03,4935.36
+LG,Small Stores / Shops,Sales Associate,Shop & Save Spectacular,319478.54,119,2684.69,564.97,4991.30
+LG,Small Stores / Shops,Sales Associate,Smart Shopper Week,365906.85,133,2751.18,536.80,4861.26
+LG,Small Stores / Shops,Sales Associate,Spring Refresh Event,332435.94,118,2817.25,543.73,4974.15
+LG,Small Stores / Shops,Sales Associate,Spring Splash Discounts,326726.10,124,2634.89,519.21,4973.89
+LG,Small Stores / Shops,Sales Associate,Summer Sizzle Promo,307311.34,108,2845.48,597.66,4973.27
+LG,Small Stores / Shops,Sales Associate,Super Savings Week,305748.33,114,2682.00,509.50,4986.13
+LG,Small Stores / Shops,Sales Associate,VIP Access Sale,356480.60,116,3073.11,506.75,4996.84
+LG,Small Stores / Shops,Sales Associate,Winter Clearance Carnival,350380.19,134,2614.78,534.68,4991.72
+LG,Small Stores / Shops,Sales Associate,Winter Wonders Sale,348766.53,128,2724.74,528.13,4987.55
+LG,Small Stores / Shops,Salesperson,12 Days of Deals,361054.79,126,2865.51,536.28,4966.68
+LG,Small Stores / Shops,Salesperson,Autumn Deals Drive,338226.98,119,2842.24,530.75,4984.76
+LG,Small Stores / Shops,Salesperson,BOGO Blitz,326435.68,115,2838.57,577.37,4955.25
+LG,Small Stores / Shops,Salesperson,Birthday Bash Sale,315226.44,112,2814.52,505.08,4990.75
+LG,Small Stores / Shops,Salesperson,Black Friday Blowout,314716.42,109,2887.31,502.51,4844.40
+LG,Small Stores / Shops,Salesperson,Cart Crasher Campaign,355850.46,133,2675.57,541.28,4988.50
+LG,Small Stores / Shops,Salesperson,Clearance Countdown,311575.84,117,2663.04,564.12,4921.17
+LG,Small Stores / Shops,Salesperson,Countdown to Savings,302099.96,115,2626.96,567.34,4887.09
+LG,Small Stores / Shops,Salesperson,Customer Appreciation Week,318756.52,125,2550.05,536.20,4971.85
+LG,Small Stores / Shops,Salesperson,Double Points Bonanza,330990.88,123,2690.98,545.63,4972.64
+LG,Small Stores / Shops,Salesperson,Early Bird Specials,327151.97,111,2947.32,547.40,4955.60
+LG,Small Stores / Shops,Salesperson,End of Season Sale,342376.50,115,2977.19,687.36,4978.61
+LG,Small Stores / Shops,Salesperson,Exclusive Insider Offers,383675.46,123,3119.31,609.30,4988.90
+LG,Small Stores / Shops,Salesperson,Festive Fever Promo,324247.80,120,2702.07,502.80,4988.71
+LG,Small Stores / Shops,Salesperson,Final Call Frenzy,313748.66,114,2752.18,566.68,4936.03
+LG,Small Stores / Shops,Salesperson,Flash Frenzy Friday,334764.01,118,2836.98,503.50,4982.24
+LG,Small Stores / Shops,Salesperson,Golden Hour Bargains,342729.31,124,2763.95,544.19,4983.74
+LG,Small Stores / Shops,Salesperson,Green Weekend Deals,309838.01,115,2694.24,502.12,4964.40
+LG,Small Stores / Shops,Salesperson,Happy Hour Discounts,309743.60,106,2922.11,782.63,4982.00
+LG,Small Stores / Shops,Salesperson,Holiday Shopping Rush,351142.35,119,2950.78,657.35,4984.22
+LG,Small Stores / Shops,Salesperson,Instant Gratification Sale,322623.23,120,2688.53,527.82,4982.48
+LG,Small Stores / Shops,Salesperson,Limited Time Treasures,349431.71,122,2864.19,577.10,4999.20
+LG,Small Stores / Shops,Salesperson,Mega Weekend Bonanza,333377.36,126,2645.85,505.91,4972.88
+LG,Small Stores / Shops,Salesperson,Mid-Year Madness,354974.00,132,2689.20,509.20,4997.94
+LG,Small Stores / Shops,Salesperson,Mystery Discount Days,327590.68,116,2824.06,531.08,4992.26
+LG,Small Stores / Shops,Salesperson,New Product Launch Promo,305914.46,118,2592.50,537.96,4962.20
+LG,Small Stores / Shops,Salesperson,New Year Kickoff,344645.41,126,2735.28,532.88,4977.78
+LG,Small Stores / Shops,Salesperson,Price Drop Parade,325319.26,128,2541.56,520.00,4992.82
+LG,Small Stores / Shops,Salesperson,Red Tag Clearance,343659.55,123,2793.98,517.68,4990.57
+LG,Small Stores / Shops,Salesperson,Seasonal Surprise Box,333864.90,121,2759.21,503.22,4911.72
+LG,Small Stores / Shops,Salesperson,Shop & Save Spectacular,312259.15,124,2518.22,570.00,4899.20
+LG,Small Stores / Shops,Salesperson,Smart Shopper Week,319628.30,118,2708.71,502.77,4980.18
+LG,Small Stores / Shops,Salesperson,Spring Splash Discounts,323975.73,114,2841.89,510.15,4925.09
+LG,Small Stores / Shops,Salesperson,Super Savings Week,333631.37,117,2851.55,593.78,4984.68
+LG,Small Stores / Shops,Salesperson,Ultimate Value Event,324822.18,128,2537.67,503.14,4979.82
+LG,Small Stores / Shops,Salesperson,VIP Access Sale,310371.40,119,2608.16,508.55,4979.66
+LG,Small Stores / Shops,Salesperson,Weekend Warrior Specials,343825.24,124,2772.78,582.95,4982.38
+LG,Small Stores / Shops,Salesperson,Winter Wonders Sale,340473.58,133,2559.95,551.92,4996.89
+LG,Small Stores / Shops,Senior Salesperson,Customer Appreciation Week,314996.38,110,2863.60,508.83,4963.76
+LG,Small Stores / Shops,Senior Salesperson,Cyber Monday Mania,301668.46,110,2742.44,505.30,4995.91
+LG,Small Stores / Shops,Senior Salesperson,Double Points Bonanza,342882.14,114,3007.74,606.18,4957.22
+LG,Small Stores / Shops,Senior Salesperson,Flash Frenzy Friday,305189.88,113,2700.80,551.10,4944.42
+LG,Small Stores / Shops,Senior Salesperson,"Gift More, Spend Less",328090.46,119,2757.06,516.96,4967.96
+LG,Small Stores / Shops,Senior Salesperson,Seasonal Surprise Box,306642.21,113,2713.65,523.89,4992.28
+LG,Small Stores / Shops,Senior Salesperson,Winter Wonders Sale,328064.34,122,2689.05,522.75,4856.21
+LG,Supermarkets ,Manager,12 Days of Deals,312816.89,109,2869.88,523.09,4995.63
+LG,Supermarkets ,Manager,Autumn Deals Drive,344528.08,119,2895.19,568.53,4957.69
+LG,Supermarkets ,Manager,BOGO Blitz,340373.73,126,2701.38,539.40,4996.53
+LG,Supermarkets ,Manager,Back to School Boost,345457.06,124,2785.94,505.89,4934.55
+LG,Supermarkets ,Manager,Birthday Bash Sale,320516.73,117,2739.46,579.26,4914.16
+LG,Supermarkets ,Manager,Black Friday Blowout,305645.68,109,2804.09,571.13,4882.96
+LG,Supermarkets ,Manager,Cashback Carnival,337421.95,118,2859.51,513.75,4887.03
+LG,Supermarkets ,Manager,Clearance Countdown,315862.10,120,2632.18,591.52,4850.53
+LG,Supermarkets ,Manager,Countdown to Savings,370393.57,125,2963.15,509.56,4950.45
+LG,Supermarkets ,Manager,Customer Appreciation Week,321198.62,114,2817.53,632.66,4997.34
+LG,Supermarkets ,Manager,Deal of the Month,326028.81,116,2810.59,652.65,4967.85
+LG,Supermarkets ,Manager,Double Points Bonanza,335911.86,124,2708.97,521.21,4996.88
+LG,Supermarkets ,Manager,Flash Frenzy Friday,344029.65,134,2567.39,508.02,4877.83
+LG,Supermarkets ,Manager,"Gift More, Spend Less",379577.46,131,2897.54,503.59,4971.36
+LG,Supermarkets ,Manager,Happy Hour Discounts,322411.67,108,2985.29,606.78,4923.52
+LG,Supermarkets ,Manager,Holiday Shopping Rush,335890.85,129,2603.81,500.17,4948.26
+LG,Supermarkets ,Manager,Instant Gratification Sale,349495.03,131,2667.90,565.74,4941.64
+LG,Supermarkets ,Manager,Limited Time Treasures,305536.74,113,2703.86,508.76,4938.51
+LG,Supermarkets ,Manager,Loyalty Rewards Blast,341548.04,126,2710.70,503.07,4920.31
+LG,Supermarkets ,Manager,Mega Weekend Bonanza,316756.29,118,2684.38,589.76,4987.91
+LG,Supermarkets ,Manager,Mid-Year Madness,325617.90,116,2807.05,678.56,4981.59
+LG,Supermarkets ,Manager,Mystery Discount Days,307577.09,118,2606.59,508.32,4958.18
+LG,Supermarkets ,Manager,New Product Launch Promo,347222.70,127,2734.04,501.76,4979.04
+LG,Supermarkets ,Manager,New Year Kickoff,344834.59,120,2873.62,504.17,4941.96
+LG,Supermarkets ,Manager,Red Tag Clearance,359946.48,132,2726.87,633.12,4950.73
+LG,Supermarkets ,Manager,Seasonal Surprise Box,300329.62,106,2833.30,525.64,4961.12
+LG,Supermarkets ,Manager,Shop & Save Spectacular,311885.98,110,2835.33,585.37,4984.74
+LG,Supermarkets ,Manager,Spring Refresh Event,313288.47,110,2848.08,529.12,4982.69
+LG,Supermarkets ,Manager,Spring Splash Discounts,310443.50,111,2796.79,526.24,4972.65
+LG,Supermarkets ,Manager,Summer Sizzle Promo,338679.06,115,2945.04,518.11,4971.71
+LG,Supermarkets ,Manager,Super Savings Week,362618.60,126,2877.93,549.65,4957.77
+LG,Supermarkets ,Manager,Ultimate Value Event,326162.87,124,2630.35,540.51,4979.01
+LG,Supermarkets ,Manager,VIP Access Sale,357478.85,132,2708.17,530.96,4926.81
+LG,Supermarkets ,Manager,Winter Clearance Carnival,312106.04,107,2916.88,504.20,4964.65
+LG,Supermarkets ,Sales Associate,12 Days of Deals,351458.44,127,2767.39,528.40,4991.58
+LG,Supermarkets ,Sales Associate,Autumn Deals Drive,340484.37,124,2745.84,582.56,4989.91
+LG,Supermarkets ,Sales Associate,BOGO Blitz,355581.06,137,2595.48,506.14,4997.20
+LG,Supermarkets ,Sales Associate,Cart Crasher Campaign,332176.81,120,2768.14,560.19,4952.81
+LG,Supermarkets ,Sales Associate,Cashback Carnival,400455.59,140,2860.40,544.75,4981.14
+LG,Supermarkets ,Sales Associate,Clearance Countdown,344698.29,131,2631.28,526.15,4930.62
+LG,Supermarkets ,Sales Associate,Countdown to Savings,334966.77,126,2658.47,514.69,4958.65
+LG,Supermarkets ,Sales Associate,Customer Appreciation Week,314483.78,113,2783.04,515.01,4987.89
+LG,Supermarkets ,Sales Associate,Cyber Monday Mania,351596.20,123,2858.51,544.32,4977.76
+LG,Supermarkets ,Sales Associate,Deal of the Month,350347.97,122,2871.70,510.29,4980.51
+LG,Supermarkets ,Sales Associate,End of Season Sale,318430.31,118,2698.56,501.39,4953.07
+LG,Supermarkets ,Sales Associate,Exclusive Insider Offers,368800.07,129,2858.92,530.98,4986.16
+LG,Supermarkets ,Sales Associate,Festive Fever Promo,359678.21,132,2724.83,517.66,4993.37
+LG,Supermarkets ,Sales Associate,Final Call Frenzy,318305.26,116,2744.01,516.93,4971.23
+LG,Supermarkets ,Sales Associate,"Gift More, Spend Less",375190.37,130,2886.08,560.49,4968.64
+LG,Supermarkets ,Sales Associate,Golden Hour Bargains,340837.81,117,2913.14,517.84,4950.08
+LG,Supermarkets ,Sales Associate,Green Weekend Deals,338238.16,129,2622.00,538.66,4967.02
+LG,Supermarkets ,Sales Associate,Holiday Shopping Rush,362914.41,131,2770.34,620.14,4972.40
+LG,Supermarkets ,Sales Associate,Hot Picks Promo,325266.92,104,3127.57,537.78,4997.12
+LG,Supermarkets ,Sales Associate,Instant Gratification Sale,340560.20,121,2814.55,508.23,4967.66
+LG,Supermarkets ,Sales Associate,Mega Weekend Bonanza,355881.68,128,2780.33,534.71,4913.17
+LG,Supermarkets ,Sales Associate,Mid-Year Madness,319716.50,113,2829.35,552.35,4999.11
+LG,Supermarkets ,Sales Associate,Midnight Madness,326987.53,123,2658.44,500.72,4950.42
+LG,Supermarkets ,Sales Associate,Mystery Discount Days,354029.47,122,2901.88,528.06,4979.00
+LG,Supermarkets ,Sales Associate,New Arrival Showcase,301203.76,107,2814.99,519.73,4967.51
+LG,Supermarkets ,Sales Associate,New Product Launch Promo,328402.03,126,2606.37,581.74,4981.79
+LG,Supermarkets ,Sales Associate,New Year Kickoff,380002.45,135,2814.83,507.36,4972.77
+LG,Supermarkets ,Sales Associate,Red Tag Clearance,304679.22,104,2929.61,533.63,4959.62
+LG,Supermarkets ,Sales Associate,Seasonal Surprise Box,343316.34,122,2814.07,594.53,4989.51
+LG,Supermarkets ,Sales Associate,Shop & Save Spectacular,331714.99,117,2835.17,517.55,4961.48
+LG,Supermarkets ,Sales Associate,Smart Shopper Week,381807.48,131,2914.56,509.77,4999.77
+LG,Supermarkets ,Sales Associate,Spring Refresh Event,331719.29,119,2787.56,539.03,4997.79
+LG,Supermarkets ,Sales Associate,Spring Splash Discounts,339287.01,126,2692.75,532.11,4972.31
+LG,Supermarkets ,Sales Associate,Summer Sizzle Promo,328973.04,125,2631.78,510.83,4971.72
+LG,Supermarkets ,Sales Associate,Super Savings Week,370250.34,115,3219.57,500.36,4973.71
+LG,Supermarkets ,Sales Associate,Ultimate Value Event,352800.31,135,2613.34,573.17,4974.80
+LG,Supermarkets ,Sales Associate,VIP Access Sale,308254.93,110,2802.32,519.63,4971.14
+LG,Supermarkets ,Sales Associate,Weekend Warrior Specials,399557.84,145,2755.57,537.08,4963.08
+LG,Supermarkets ,Sales Associate,Winter Clearance Carnival,311168.25,120,2593.07,513.44,4988.00
+LG,Supermarkets ,Sales Associate,Winter Wonders Sale,338085.59,123,2748.66,530.66,4968.42
+LG,Supermarkets ,Salesperson,12 Days of Deals,369489.12,132,2799.16,528.71,4986.67
+LG,Supermarkets ,Salesperson,BOGO Blitz,341267.47,128,2666.15,511.28,4962.06
+LG,Supermarkets ,Salesperson,Back to School Boost,362488.05,129,2809.98,523.52,4966.71
+LG,Supermarkets ,Salesperson,Birthday Bash Sale,335251.37,127,2639.77,644.84,4927.90
+LG,Supermarkets ,Salesperson,Black Friday Blowout,356054.56,129,2760.11,628.35,4994.07
+LG,Supermarkets ,Salesperson,Cart Crasher Campaign,312030.21,116,2689.92,509.43,4959.11
+LG,Supermarkets ,Salesperson,Cashback Carnival,335359.74,121,2771.57,558.85,4987.73
+LG,Supermarkets ,Salesperson,Countdown to Savings,300255.17,115,2610.91,629.16,4979.80
+LG,Supermarkets ,Salesperson,Cyber Monday Mania,355560.17,131,2714.20,518.85,4955.52
+LG,Supermarkets ,Salesperson,Deal of the Month,338325.27,128,2643.17,565.40,4992.33
+LG,Supermarkets ,Salesperson,Double Points Bonanza,310004.13,119,2605.08,529.19,4915.68
+LG,Supermarkets ,Salesperson,Early Bird Specials,304940.03,111,2747.21,609.51,4940.74
+LG,Supermarkets ,Salesperson,End of Season Sale,348187.62,130,2678.37,539.35,4997.26
+LG,Supermarkets ,Salesperson,Exclusive Insider Offers,366196.11,134,2732.81,533.59,4986.40
+LG,Supermarkets ,Salesperson,Festive Fever Promo,313484.05,119,2634.32,556.49,4993.30
+LG,Supermarkets ,Salesperson,Flash Frenzy Friday,343489.86,118,2910.93,547.00,4980.09
+LG,Supermarkets ,Salesperson,Golden Hour Bargains,310373.84,117,2652.77,530.03,4997.22
+LG,Supermarkets ,Salesperson,Green Weekend Deals,308618.95,110,2805.63,514.12,4985.83
+LG,Supermarkets ,Salesperson,Happy Hour Discounts,309147.34,118,2619.89,544.20,4966.39
+LG,Supermarkets ,Salesperson,Holiday Shopping Rush,309056.97,110,2809.61,570.89,4985.33
+LG,Supermarkets ,Salesperson,Hot Picks Promo,322422.67,112,2878.77,530.65,4861.66
+LG,Supermarkets ,Salesperson,Instant Gratification Sale,334464.89,118,2834.45,558.05,4959.69
+LG,Supermarkets ,Salesperson,Limited Time Treasures,308120.61,118,2611.19,507.04,4890.30
+LG,Supermarkets ,Salesperson,Loyalty Rewards Blast,403478.53,144,2801.93,561.69,4984.67
+LG,Supermarkets ,Salesperson,Mega Weekend Bonanza,306044.17,109,2807.74,540.17,4956.80
+LG,Supermarkets ,Salesperson,Mid-Year Madness,331346.50,120,2761.22,630.52,4993.79
+LG,Supermarkets ,Salesperson,Midnight Madness,325081.09,122,2664.60,567.59,4982.47
+LG,Supermarkets ,Salesperson,Mystery Discount Days,349660.04,118,2963.22,533.50,4998.62
+LG,Supermarkets ,Salesperson,New Arrival Showcase,342921.61,115,2981.93,504.80,4981.62
+LG,Supermarkets ,Salesperson,New Product Launch Promo,326309.86,112,2913.48,506.25,4979.76
+LG,Supermarkets ,Salesperson,New Year Kickoff,343927.62,133,2585.92,505.19,4981.93
+LG,Supermarkets ,Salesperson,Price Drop Parade,376189.26,135,2786.59,532.84,4867.94
+LG,Supermarkets ,Salesperson,Red Tag Clearance,320475.38,108,2967.36,524.81,4975.67
+LG,Supermarkets ,Salesperson,Seasonal Surprise Box,332204.84,125,2657.64,547.82,4946.04
+LG,Supermarkets ,Salesperson,Shop & Save Spectacular,305871.25,112,2730.99,571.34,4941.53
+LG,Supermarkets ,Salesperson,Smart Shopper Week,300424.39,119,2524.57,542.90,4979.57
+LG,Supermarkets ,Salesperson,Spring Refresh Event,343113.25,121,2835.65,607.86,4967.96
+LG,Supermarkets ,Salesperson,Spring Splash Discounts,350290.97,125,2802.33,579.73,4959.43
+LG,Supermarkets ,Salesperson,Summer Sizzle Promo,322491.16,125,2579.93,510.56,4973.57
+LG,Supermarkets ,Salesperson,Super Savings Week,312633.12,111,2816.51,508.76,4908.56
+LG,Supermarkets ,Salesperson,Ultimate Value Event,340532.18,122,2791.25,590.64,4946.52
+LG,Supermarkets ,Salesperson,Weekend Warrior Specials,314921.53,110,2862.92,596.80,4999.43
+LG,Supermarkets ,Salesperson,Winter Clearance Carnival,408571.14,137,2982.27,541.33,4991.97
+LG,Supermarkets ,Salesperson,Winter Wonders Sale,319400.59,121,2639.67,502.26,4989.27
+LG,Supermarkets ,Senior Salesperson,Autumn Deals Drive,351103.96,126,2786.54,570.40,4999.09
+LG,Supermarkets ,Senior Salesperson,Cart Crasher Campaign,334437.73,114,2933.66,568.77,4979.43
+LG,Supermarkets ,Senior Salesperson,End of Season Sale,303905.41,107,2840.24,557.40,4971.78
+LG,Supermarkets ,Senior Salesperson,Final Call Frenzy,333220.34,120,2776.84,519.16,4958.29
+LG,Supermarkets ,Senior Salesperson,Golden Hour Bargains,302081.90,115,2626.80,539.87,4982.43
+LG,Supermarkets ,Senior Salesperson,Green Weekend Deals,323416.19,122,2650.95,570.29,4986.31
+LG,Supermarkets ,Senior Salesperson,Holiday Shopping Rush,364300.86,133,2739.10,501.38,4994.25
+LG,Supermarkets ,Senior Salesperson,Loyalty Rewards Blast,310313.13,113,2746.13,559.96,4991.63
+LG,Supermarkets ,Senior Salesperson,Mid-Year Madness,310681.71,111,2798.93,511.21,4981.27
+LG,Supermarkets ,Senior Salesperson,Mystery Discount Days,322533.78,115,2804.64,504.90,4953.88
+LG,Supermarkets ,Senior Salesperson,Price Drop Parade,309930.81,111,2792.17,510.90,4953.87
+LG,Supermarkets ,Senior Salesperson,Red Tag Clearance,311483.63,109,2857.65,538.02,4918.57
+LG,Supermarkets ,Senior Salesperson,Smart Shopper Week,313604.75,122,2570.53,513.03,4950.69
+LG,Supermarkets ,Senior Salesperson,Spring Refresh Event,307016.44,118,2601.83,521.69,4971.68
+LG,Supermarkets ,Senior Salesperson,Spring Splash Discounts,309119.46,106,2916.22,550.06,4993.76
+LG,Supermarkets ,Senior Salesperson,Weekend Warrior Specials,311770.27,118,2642.12,507.56,4967.59
+LG,Supermarkets ,Senior Salesperson,Winter Clearance Carnival,307919.05,112,2749.28,520.52,4954.66
+Nike,Large Malls / Complexes,Manager,12 Days of Deals,345974.97,126,2745.83,524.45,4959.95
+Nike,Large Malls / Complexes,Manager,Autumn Deals Drive,328107.22,120,2734.23,501.91,4994.06
+Nike,Large Malls / Complexes,Manager,BOGO Blitz,330362.51,121,2730.27,524.20,4997.89
+Nike,Large Malls / Complexes,Manager,Back to School Boost,311564.79,110,2832.41,689.23,4976.28
+Nike,Large Malls / Complexes,Manager,Birthday Bash Sale,308714.29,114,2708.02,529.67,4959.10
+Nike,Large Malls / Complexes,Manager,Countdown to Savings,353898.42,124,2854.02,532.98,4925.72
+Nike,Large Malls / Complexes,Manager,Customer Appreciation Week,319999.42,120,2666.66,504.64,4957.27
+Nike,Large Malls / Complexes,Manager,Early Bird Specials,321816.34,123,2616.39,501.20,4995.45
+Nike,Large Malls / Complexes,Manager,Golden Hour Bargains,322098.63,114,2825.43,533.65,4982.43
+Nike,Large Malls / Complexes,Manager,Happy Hour Discounts,332284.88,118,2815.97,576.79,4959.27
+Nike,Large Malls / Complexes,Manager,Hot Picks Promo,305548.14,111,2752.69,515.02,4969.03
+Nike,Large Malls / Complexes,Manager,Limited Time Treasures,359186.14,127,2828.24,519.56,4984.23
+Nike,Large Malls / Complexes,Manager,Mega Weekend Bonanza,334912.86,121,2767.87,504.47,4924.77
+Nike,Large Malls / Complexes,Manager,Midnight Madness,310035.37,115,2695.96,502.64,4954.28
+Nike,Large Malls / Complexes,Manager,Ultimate Value Event,301382.42,110,2739.84,552.92,4999.12
+Nike,Large Malls / Complexes,Manager,Weekend Warrior Specials,337629.04,120,2813.58,531.13,4967.70
+Nike,Large Malls / Complexes,Manager,Winter Clearance Carnival,308629.75,108,2857.68,564.68,4981.70
+Nike,Large Malls / Complexes,Manager,Winter Wonders Sale,338001.79,120,2816.68,537.11,4991.55
+Nike,Large Malls / Complexes,Sales Associate,12 Days of Deals,308983.69,113,2734.37,550.44,4981.14
+Nike,Large Malls / Complexes,Sales Associate,Autumn Deals Drive,313095.91,115,2722.57,531.55,4991.50
+Nike,Large Malls / Complexes,Sales Associate,BOGO Blitz,356312.29,119,2994.22,572.45,4976.04
+Nike,Large Malls / Complexes,Sales Associate,Back to School Boost,307485.49,113,2721.11,616.58,4987.30
+Nike,Large Malls / Complexes,Sales Associate,Birthday Bash Sale,325704.95,113,2882.34,551.57,4945.14
+Nike,Large Malls / Complexes,Sales Associate,Black Friday Blowout,308156.91,117,2633.82,554.25,4960.77
+Nike,Large Malls / Complexes,Sales Associate,Cart Crasher Campaign,355977.69,127,2802.97,514.47,4942.54
+Nike,Large Malls / Complexes,Sales Associate,Countdown to Savings,305720.02,105,2911.62,543.38,4922.78
+Nike,Large Malls / Complexes,Sales Associate,Customer Appreciation Week,329251.67,117,2814.12,548.91,4977.34
+Nike,Large Malls / Complexes,Sales Associate,Cyber Monday Mania,336699.81,123,2737.40,505.34,4968.41
+Nike,Large Malls / Complexes,Sales Associate,Exclusive Insider Offers,309335.45,117,2643.89,541.78,4976.74
+Nike,Large Malls / Complexes,Sales Associate,Festive Fever Promo,323201.28,109,2965.15,531.22,4988.75
+Nike,Large Malls / Complexes,Sales Associate,Final Call Frenzy,343111.39,119,2883.29,524.93,4997.60
+Nike,Large Malls / Complexes,Sales Associate,Flash Frenzy Friday,370739.58,131,2830.07,536.75,4983.04
+Nike,Large Malls / Complexes,Sales Associate,Golden Hour Bargains,349596.88,126,2774.58,506.59,4936.54
+Nike,Large Malls / Complexes,Sales Associate,Green Weekend Deals,346465.82,120,2887.22,557.65,4994.05
+Nike,Large Malls / Complexes,Sales Associate,Holiday Shopping Rush,327772.67,112,2926.54,581.66,4942.69
+Nike,Large Malls / Complexes,Sales Associate,Instant Gratification Sale,302688.59,108,2802.67,574.81,4995.28
+Nike,Large Malls / Complexes,Sales Associate,Loyalty Rewards Blast,356104.41,128,2782.07,515.85,4922.96
+Nike,Large Malls / Complexes,Sales Associate,Mega Weekend Bonanza,301317.74,98,3074.67,577.68,4971.64
+Nike,Large Malls / Complexes,Sales Associate,Mid-Year Madness,308311.65,104,2964.54,579.69,4992.54
+Nike,Large Malls / Complexes,Sales Associate,Midnight Madness,312342.59,112,2788.77,586.79,4890.72
+Nike,Large Malls / Complexes,Sales Associate,New Arrival Showcase,336421.66,126,2670.01,515.17,4934.73
+Nike,Large Malls / Complexes,Sales Associate,New Product Launch Promo,300783.24,115,2615.51,522.14,4998.73
+Nike,Large Malls / Complexes,Sales Associate,Price Drop Parade,301140.99,112,2688.76,528.48,4992.75
+Nike,Large Malls / Complexes,Sales Associate,Red Tag Clearance,335525.87,126,2662.90,502.58,4998.76
+Nike,Large Malls / Complexes,Sales Associate,Seasonal Surprise Box,312793.47,119,2628.52,530.54,4947.26
+Nike,Large Malls / Complexes,Sales Associate,Shop & Save Spectacular,307785.04,99,3108.94,522.69,4997.09
+Nike,Large Malls / Complexes,Sales Associate,Spring Refresh Event,323024.45,110,2936.59,503.69,4936.35
+Nike,Large Malls / Complexes,Sales Associate,Ultimate Value Event,363291.52,134,2711.13,595.84,4952.83
+Nike,Large Malls / Complexes,Sales Associate,Weekend Warrior Specials,330815.09,125,2646.52,508.00,4989.77
+Nike,Large Malls / Complexes,Sales Associate,Winter Clearance Carnival,382304.46,125,3058.44,545.28,4978.64
+Nike,Large Malls / Complexes,Sales Associate,Winter Wonders Sale,310952.01,109,2852.77,532.56,4963.85
+Nike,Large Malls / Complexes,Salesperson,12 Days of Deals,321826.56,122,2637.92,518.07,4999.02
+Nike,Large Malls / Complexes,Salesperson,Autumn Deals Drive,307800.30,113,2723.90,600.74,4986.62
+Nike,Large Malls / Complexes,Salesperson,Back to School Boost,311457.22,117,2662.03,522.55,4988.01
+Nike,Large Malls / Complexes,Salesperson,Birthday Bash Sale,332003.71,121,2743.83,501.83,4975.44
+Nike,Large Malls / Complexes,Salesperson,Clearance Countdown,335314.58,116,2890.64,549.55,4992.16
+Nike,Large Malls / Complexes,Salesperson,Countdown to Savings,327872.77,116,2826.49,533.20,4895.28
+Nike,Large Malls / Complexes,Salesperson,Double Points Bonanza,355537.55,126,2821.73,513.51,4987.50
+Nike,Large Malls / Complexes,Salesperson,Exclusive Insider Offers,340275.84,115,2958.92,527.02,4980.64
+Nike,Large Malls / Complexes,Salesperson,Flash Frenzy Friday,319964.28,106,3018.53,544.60,4995.14
+Nike,Large Malls / Complexes,Salesperson,"Gift More, Spend Less",306721.17,113,2714.35,567.35,4873.57
+Nike,Large Malls / Complexes,Salesperson,Green Weekend Deals,306049.16,109,2807.79,526.03,4964.70
+Nike,Large Malls / Complexes,Salesperson,Happy Hour Discounts,309226.16,114,2712.51,532.60,4998.95
+Nike,Large Malls / Complexes,Salesperson,Holiday Shopping Rush,331091.37,119,2782.28,641.19,4923.45
+Nike,Large Malls / Complexes,Salesperson,Hot Picks Promo,300233.13,114,2633.62,531.91,4997.81
+Nike,Large Malls / Complexes,Salesperson,Instant Gratification Sale,332463.38,120,2770.53,514.40,4982.70
+Nike,Large Malls / Complexes,Salesperson,Limited Time Treasures,334897.97,118,2838.12,513.15,4997.70
+Nike,Large Malls / Complexes,Salesperson,Loyalty Rewards Blast,332252.06,116,2864.24,500.82,4888.85
+Nike,Large Malls / Complexes,Salesperson,Midnight Madness,376858.29,130,2898.91,516.66,4982.68
+Nike,Large Malls / Complexes,Salesperson,Mystery Discount Days,344083.67,125,2752.67,562.60,4978.14
+Nike,Large Malls / Complexes,Salesperson,New Year Kickoff,334382.25,111,3012.45,574.00,4966.27
+Nike,Large Malls / Complexes,Salesperson,Price Drop Parade,303060.63,122,2484.10,506.30,4996.87
+Nike,Large Malls / Complexes,Salesperson,Shop & Save Spectacular,308001.28,112,2750.01,506.29,4977.67
+Nike,Large Malls / Complexes,Salesperson,Spring Refresh Event,315707.91,110,2870.07,597.83,4931.36
+Nike,Large Malls / Complexes,Salesperson,Summer Sizzle Promo,329361.20,116,2839.32,512.51,4963.19
+Nike,Large Malls / Complexes,Salesperson,Winter Wonders Sale,312249.88,112,2787.95,517.57,4985.64
+Nike,Large Malls / Complexes,Senior Salesperson,Back to School Boost,333425.18,115,2899.35,501.92,4964.86
+Nike,Large Malls / Complexes,Senior Salesperson,Double Points Bonanza,305715.79,104,2939.57,511.97,4902.14
+Nike,Large Malls / Complexes,Senior Salesperson,Happy Hour Discounts,314791.01,104,3026.84,539.22,4997.02
+Nike,Large Malls / Complexes,Senior Salesperson,Hot Picks Promo,329684.12,108,3052.63,569.71,4980.07
+Nike,Large Malls / Complexes,Senior Salesperson,Midnight Madness,311017.53,110,2827.43,522.91,4953.73
+Nike,Large Malls / Complexes,Senior Salesperson,VIP Access Sale,314257.34,120,2618.81,552.05,4989.88
+Nike,Small Stores / Shops,Manager,12 Days of Deals,327576.33,117,2799.80,636.25,4999.67
+Nike,Small Stores / Shops,Manager,Autumn Deals Drive,359526.16,138,2605.26,504.53,4954.77
+Nike,Small Stores / Shops,Manager,BOGO Blitz,359351.36,120,2994.59,511.49,4983.88
+Nike,Small Stores / Shops,Manager,Black Friday Blowout,378989.62,141,2687.87,577.03,4982.21
+Nike,Small Stores / Shops,Manager,Cart Crasher Campaign,310748.64,115,2702.16,596.85,4987.64
+Nike,Small Stores / Shops,Manager,Countdown to Savings,313365.46,111,2823.11,616.30,4979.44
+Nike,Small Stores / Shops,Manager,Customer Appreciation Week,331557.57,113,2934.14,540.76,4978.88
+Nike,Small Stores / Shops,Manager,Cyber Monday Mania,316056.34,124,2548.84,502.42,4994.35
+Nike,Small Stores / Shops,Manager,Deal of the Month,314897.03,116,2714.63,597.19,4974.48
+Nike,Small Stores / Shops,Manager,Double Points Bonanza,354436.45,123,2881.60,535.98,4979.52
+Nike,Small Stores / Shops,Manager,End of Season Sale,361325.76,132,2737.32,503.93,4989.84
+Nike,Small Stores / Shops,Manager,Exclusive Insider Offers,328714.85,124,2650.93,513.28,4992.82
+Nike,Small Stores / Shops,Manager,Festive Fever Promo,325906.73,115,2833.97,509.13,4947.05
+Nike,Small Stores / Shops,Manager,Flash Frenzy Friday,328723.23,115,2858.46,525.29,4950.04
+Nike,Small Stores / Shops,Manager,Golden Hour Bargains,305432.40,108,2828.08,519.14,4884.84
+Nike,Small Stores / Shops,Manager,Happy Hour Discounts,310381.46,115,2698.97,542.86,4959.82
+Nike,Small Stores / Shops,Manager,Hot Picks Promo,312038.04,116,2689.98,526.96,4997.69
+Nike,Small Stores / Shops,Manager,Limited Time Treasures,323871.85,119,2721.61,508.79,4947.94
+Nike,Small Stores / Shops,Manager,Mega Weekend Bonanza,309394.01,116,2667.19,514.59,4812.16
+Nike,Small Stores / Shops,Manager,Mid-Year Madness,379091.38,130,2916.09,587.84,4953.68
+Nike,Small Stores / Shops,Manager,Mystery Discount Days,326241.22,115,2836.88,543.46,4995.72
+Nike,Small Stores / Shops,Manager,New Arrival Showcase,325165.79,115,2827.53,543.82,4978.87
+Nike,Small Stores / Shops,Manager,New Product Launch Promo,360260.59,124,2905.33,507.38,4995.97
+Nike,Small Stores / Shops,Manager,New Year Kickoff,346551.31,118,2936.88,535.23,4987.30
+Nike,Small Stores / Shops,Manager,Red Tag Clearance,312468.28,106,2947.81,509.39,4975.52
+Nike,Small Stores / Shops,Manager,Shop & Save Spectacular,380398.79,138,2756.51,582.91,4981.99
+Nike,Small Stores / Shops,Manager,Smart Shopper Week,363429.19,129,2817.28,610.03,4976.73
+Nike,Small Stores / Shops,Manager,Spring Refresh Event,315387.78,109,2893.47,500.55,4909.33
+Nike,Small Stores / Shops,Manager,Summer Sizzle Promo,327891.12,110,2980.83,504.80,4958.51
+Nike,Small Stores / Shops,Manager,Ultimate Value Event,335190.68,113,2966.29,619.67,4979.48
+Nike,Small Stores / Shops,Manager,VIP Access Sale,339981.35,119,2856.99,502.72,4980.75
+Nike,Small Stores / Shops,Manager,Weekend Warrior Specials,307300.69,112,2743.76,604.72,4992.45
+Nike,Small Stores / Shops,Manager,Winter Wonders Sale,407564.26,142,2870.17,583.58,4934.27
+Nike,Small Stores / Shops,Sales Associate,12 Days of Deals,346471.38,124,2794.12,549.07,4996.51
+Nike,Small Stores / Shops,Sales Associate,Autumn Deals Drive,400612.47,137,2924.18,518.90,4974.03
+Nike,Small Stores / Shops,Sales Associate,BOGO Blitz,300884.64,108,2785.97,584.85,4969.91
+Nike,Small Stores / Shops,Sales Associate,Back to School Boost,308371.94,109,2829.10,676.28,4933.77
+Nike,Small Stores / Shops,Sales Associate,Birthday Bash Sale,368872.12,121,3048.53,501.20,4974.25
+Nike,Small Stores / Shops,Sales Associate,Black Friday Blowout,307037.32,120,2558.64,512.94,4977.85
+Nike,Small Stores / Shops,Sales Associate,Cashback Carnival,320510.07,111,2887.48,512.71,4942.35
+Nike,Small Stores / Shops,Sales Associate,Clearance Countdown,332768.27,120,2773.07,520.70,4974.38
+Nike,Small Stores / Shops,Sales Associate,Customer Appreciation Week,331771.65,125,2654.17,523.80,4996.89
+Nike,Small Stores / Shops,Sales Associate,Cyber Monday Mania,317724.53,107,2969.39,511.64,4979.52
+Nike,Small Stores / Shops,Sales Associate,Deal of the Month,352998.38,127,2779.51,511.13,4995.46
+Nike,Small Stores / Shops,Sales Associate,Double Points Bonanza,321389.11,119,2700.75,527.94,4998.97
+Nike,Small Stores / Shops,Sales Associate,Early Bird Specials,382757.77,125,3062.06,552.09,4957.86
+Nike,Small Stores / Shops,Sales Associate,End of Season Sale,350876.88,130,2699.05,555.76,4991.78
+Nike,Small Stores / Shops,Sales Associate,Exclusive Insider Offers,338881.79,123,2755.14,503.94,4960.07
+Nike,Small Stores / Shops,Sales Associate,Festive Fever Promo,386239.48,131,2948.39,519.19,4956.94
+Nike,Small Stores / Shops,Sales Associate,Final Call Frenzy,350929.27,126,2785.15,566.85,4958.26
+Nike,Small Stores / Shops,Sales Associate,"Gift More, Spend Less",320309.56,119,2691.68,521.61,4969.81
+Nike,Small Stores / Shops,Sales Associate,Golden Hour Bargains,318051.12,118,2695.35,510.74,4960.67
+Nike,Small Stores / Shops,Sales Associate,Green Weekend Deals,306591.98,115,2666.02,534.60,4996.20
+Nike,Small Stores / Shops,Sales Associate,Happy Hour Discounts,317279.34,113,2807.78,523.22,4974.67
+Nike,Small Stores / Shops,Sales Associate,Holiday Shopping Rush,345772.71,122,2834.20,522.16,4956.04
+Nike,Small Stores / Shops,Sales Associate,Instant Gratification Sale,324232.54,112,2894.93,581.77,4951.79
+Nike,Small Stores / Shops,Sales Associate,Loyalty Rewards Blast,346289.10,125,2770.31,615.58,4985.45
+Nike,Small Stores / Shops,Sales Associate,Mega Weekend Bonanza,386290.34,129,2994.50,679.19,4942.29
+Nike,Small Stores / Shops,Sales Associate,Mid-Year Madness,340461.70,124,2745.66,524.32,4994.31
+Nike,Small Stores / Shops,Sales Associate,Midnight Madness,300857.74,107,2811.75,677.28,4917.83
+Nike,Small Stores / Shops,Sales Associate,Mystery Discount Days,346793.92,123,2819.46,507.57,4969.69
+Nike,Small Stores / Shops,Sales Associate,New Arrival Showcase,311476.74,112,2781.04,613.61,4998.83
+Nike,Small Stores / Shops,Sales Associate,New Product Launch Promo,333501.75,124,2689.53,543.36,4942.23
+Nike,Small Stores / Shops,Sales Associate,New Year Kickoff,357259.07,127,2813.06,540.20,4996.00
+Nike,Small Stores / Shops,Sales Associate,Seasonal Surprise Box,386808.73,136,2844.18,566.40,4976.84
+Nike,Small Stores / Shops,Sales Associate,Shop & Save Spectacular,345328.34,131,2636.09,500.14,4999.95
+Nike,Small Stores / Shops,Sales Associate,Smart Shopper Week,336027.37,117,2872.03,511.95,4953.73
+Nike,Small Stores / Shops,Sales Associate,Spring Splash Discounts,367931.93,133,2766.41,515.22,4910.86
+Nike,Small Stores / Shops,Sales Associate,Summer Sizzle Promo,331180.78,121,2737.03,539.08,4998.50
+Nike,Small Stores / Shops,Sales Associate,Super Savings Week,380843.12,137,2779.88,532.65,4969.70
+Nike,Small Stores / Shops,Sales Associate,Ultimate Value Event,329133.95,123,2675.89,526.43,4964.19
+Nike,Small Stores / Shops,Sales Associate,Winter Clearance Carnival,326783.25,125,2614.27,501.25,4955.29
+Nike,Small Stores / Shops,Sales Associate,Winter Wonders Sale,302294.77,110,2748.13,502.80,4981.89
+Nike,Small Stores / Shops,Salesperson,12 Days of Deals,319952.03,112,2856.71,513.34,4983.60
+Nike,Small Stores / Shops,Salesperson,Autumn Deals Drive,347279.48,125,2778.24,583.53,4995.34
+Nike,Small Stores / Shops,Salesperson,BOGO Blitz,415689.24,144,2886.73,523.22,4998.67
+Nike,Small Stores / Shops,Salesperson,Black Friday Blowout,308451.11,106,2909.92,574.11,4987.76
+Nike,Small Stores / Shops,Salesperson,Cart Crasher Campaign,361923.95,122,2966.59,630.46,4977.25
+Nike,Small Stores / Shops,Salesperson,Cashback Carnival,312521.08,114,2741.41,523.11,4981.41
+Nike,Small Stores / Shops,Salesperson,Countdown to Savings,361041.52,130,2777.24,520.50,4956.24
+Nike,Small Stores / Shops,Salesperson,Customer Appreciation Week,330328.00,122,2707.61,587.83,4979.15
+Nike,Small Stores / Shops,Salesperson,Cyber Monday Mania,344328.60,133,2588.94,506.75,4996.11
+Nike,Small Stores / Shops,Salesperson,Deal of the Month,321184.31,120,2676.54,548.20,4982.08
+Nike,Small Stores / Shops,Salesperson,Early Bird Specials,352273.21,125,2818.19,545.61,4958.56
+Nike,Small Stores / Shops,Salesperson,End of Season Sale,333583.68,119,2803.22,508.79,4993.65
+Nike,Small Stores / Shops,Salesperson,Exclusive Insider Offers,316565.75,114,2776.89,561.13,4961.26
+Nike,Small Stores / Shops,Salesperson,Festive Fever Promo,347670.73,119,2921.60,508.47,4995.75
+Nike,Small Stores / Shops,Salesperson,Final Call Frenzy,310468.51,110,2822.44,545.42,4970.88
+Nike,Small Stores / Shops,Salesperson,Flash Frenzy Friday,360276.65,124,2905.46,520.92,4972.67
+Nike,Small Stores / Shops,Salesperson,Golden Hour Bargains,344083.36,126,2730.82,500.01,4943.53
+Nike,Small Stores / Shops,Salesperson,Green Weekend Deals,335215.77,123,2725.33,581.69,4954.77
+Nike,Small Stores / Shops,Salesperson,Holiday Shopping Rush,330759.43,121,2733.55,504.14,4978.01
+Nike,Small Stores / Shops,Salesperson,Hot Picks Promo,365687.11,127,2879.43,503.06,4973.87
+Nike,Small Stores / Shops,Salesperson,Instant Gratification Sale,384872.46,139,2768.87,540.63,4958.80
+Nike,Small Stores / Shops,Salesperson,Limited Time Treasures,314531.50,112,2808.32,531.53,4988.75
+Nike,Small Stores / Shops,Salesperson,Loyalty Rewards Blast,315954.30,111,2846.44,725.84,4996.03
+Nike,Small Stores / Shops,Salesperson,Mega Weekend Bonanza,374587.65,131,2859.45,503.85,4936.31
+Nike,Small Stores / Shops,Salesperson,Mid-Year Madness,324751.03,123,2640.25,505.48,4937.88
+Nike,Small Stores / Shops,Salesperson,Midnight Madness,300316.19,112,2681.39,581.17,4865.53
+Nike,Small Stores / Shops,Salesperson,Mystery Discount Days,340010.41,122,2786.97,501.05,4990.54
+Nike,Small Stores / Shops,Salesperson,New Arrival Showcase,357815.76,128,2795.44,508.18,4966.32
+Nike,Small Stores / Shops,Salesperson,New Product Launch Promo,302211.05,108,2798.25,528.21,4978.53
+Nike,Small Stores / Shops,Salesperson,New Year Kickoff,312920.56,120,2607.67,527.60,4886.34
+Nike,Small Stores / Shops,Salesperson,Price Drop Parade,361103.09,124,2912.12,509.81,4996.09
+Nike,Small Stores / Shops,Salesperson,Red Tag Clearance,387309.86,135,2868.96,573.14,4955.33
+Nike,Small Stores / Shops,Salesperson,Seasonal Surprise Box,392352.57,142,2763.05,571.49,4969.06
+Nike,Small Stores / Shops,Salesperson,Shop & Save Spectacular,352500.18,124,2842.74,663.29,4951.92
+Nike,Small Stores / Shops,Salesperson,Smart Shopper Week,331972.93,124,2677.20,526.32,4975.06
+Nike,Small Stores / Shops,Salesperson,Spring Refresh Event,366022.89,122,3000.19,526.59,4940.75
+Nike,Small Stores / Shops,Salesperson,Summer Sizzle Promo,344018.23,126,2730.30,533.75,4965.55
+Nike,Small Stores / Shops,Salesperson,VIP Access Sale,314747.61,114,2760.94,554.10,4919.46
+Nike,Small Stores / Shops,Salesperson,Weekend Warrior Specials,315851.25,120,2632.09,500.79,4898.64
+Nike,Small Stores / Shops,Salesperson,Winter Clearance Carnival,316039.62,110,2873.09,503.87,4916.52
+Nike,Small Stores / Shops,Salesperson,Winter Wonders Sale,336144.51,119,2824.74,517.25,4988.48
+Nike,Small Stores / Shops,Senior Salesperson,Back to School Boost,302490.68,107,2827.02,500.65,4975.49
+Nike,Small Stores / Shops,Senior Salesperson,Deal of the Month,310943.97,115,2703.86,508.62,4877.85
+Nike,Small Stores / Shops,Senior Salesperson,Double Points Bonanza,329310.21,120,2744.25,509.65,4990.29
+Nike,Small Stores / Shops,Senior Salesperson,End of Season Sale,331755.06,129,2571.74,509.96,4979.32
+Nike,Small Stores / Shops,Senior Salesperson,Exclusive Insider Offers,324047.31,117,2769.64,502.99,4976.57
+Nike,Small Stores / Shops,Senior Salesperson,Flash Frenzy Friday,305429.95,103,2965.34,520.08,4996.44
+Nike,Small Stores / Shops,Senior Salesperson,Green Weekend Deals,328559.62,123,2671.22,508.30,4987.69
+Nike,Small Stores / Shops,Senior Salesperson,Instant Gratification Sale,300911.26,108,2786.22,500.07,4998.85
+Nike,Small Stores / Shops,Senior Salesperson,Limited Time Treasures,324094.13,112,2893.70,587.60,4906.72
+Nike,Small Stores / Shops,Senior Salesperson,Loyalty Rewards Blast,324013.59,113,2867.38,552.89,4932.60
+Nike,Small Stores / Shops,Senior Salesperson,New Product Launch Promo,346015.14,119,2907.69,559.20,4949.75
+Nike,Small Stores / Shops,Senior Salesperson,New Year Kickoff,325828.55,117,2784.86,538.75,4977.86
+Nike,Small Stores / Shops,Senior Salesperson,Seasonal Surprise Box,312309.90,116,2692.33,507.61,4992.44
+Nike,Small Stores / Shops,Senior Salesperson,Spring Refresh Event,301595.00,107,2818.64,533.93,4992.33
+Nike,Small Stores / Shops,Senior Salesperson,Summer Sizzle Promo,321454.62,114,2819.78,533.20,4987.51
+Nike,Small Stores / Shops,Senior Salesperson,Super Savings Week,319747.45,112,2854.89,574.21,4999.08
+Nike,Small Stores / Shops,Senior Salesperson,VIP Access Sale,309099.25,102,3030.38,566.36,4986.31
+Nike,Small Stores / Shops,Senior Salesperson,Weekend Warrior Specials,310811.23,110,2825.56,512.07,4957.40
+Nike,Small Stores / Shops,Senior Salesperson,Winter Wonders Sale,324529.63,107,3032.99,633.96,4937.37
+Nike,Supermarkets ,Manager,12 Days of Deals,381386.60,141,2704.87,511.89,4977.84
+Nike,Supermarkets ,Manager,Black Friday Blowout,327876.62,114,2876.11,531.54,4996.57
+Nike,Supermarkets ,Manager,Cart Crasher Campaign,341251.00,121,2820.26,616.03,4972.68
+Nike,Supermarkets ,Manager,Clearance Countdown,370684.85,129,2873.53,508.53,4986.19
+Nike,Supermarkets ,Manager,Countdown to Savings,318844.41,103,3095.58,501.71,4957.12
+Nike,Supermarkets ,Manager,Customer Appreciation Week,347896.78,119,2923.50,523.40,4984.08
+Nike,Supermarkets ,Manager,Cyber Monday Mania,312869.90,120,2607.25,502.07,4994.22
+Nike,Supermarkets ,Manager,Double Points Bonanza,301631.75,106,2845.58,537.04,4935.91
+Nike,Supermarkets ,Manager,Early Bird Specials,332541.42,114,2917.03,516.68,4996.32
+Nike,Supermarkets ,Manager,Festive Fever Promo,323934.93,121,2677.15,501.90,4940.74
+Nike,Supermarkets ,Manager,Flash Frenzy Friday,353270.13,127,2781.65,509.25,4972.48
+Nike,Supermarkets ,Manager,Golden Hour Bargains,353478.87,118,2995.58,511.02,4997.10
+Nike,Supermarkets ,Manager,Green Weekend Deals,380497.38,138,2757.23,529.50,4946.62
+Nike,Supermarkets ,Manager,Happy Hour Discounts,383257.49,131,2925.63,615.51,4962.42
+Nike,Supermarkets ,Manager,Holiday Shopping Rush,315034.36,118,2669.78,533.42,4981.59
+Nike,Supermarkets ,Manager,Hot Picks Promo,344854.58,124,2781.09,512.09,4956.56
+Nike,Supermarkets ,Manager,Limited Time Treasures,307276.54,112,2743.54,501.18,4962.47
+Nike,Supermarkets ,Manager,Loyalty Rewards Blast,311882.04,113,2760.02,512.61,4900.96
+Nike,Supermarkets ,Manager,Mega Weekend Bonanza,444162.04,159,2793.47,520.24,4996.67
+Nike,Supermarkets ,Manager,Mid-Year Madness,304986.58,124,2459.57,500.89,4882.64
+Nike,Supermarkets ,Manager,New Arrival Showcase,324717.99,122,2661.62,517.42,4992.57
+Nike,Supermarkets ,Manager,New Product Launch Promo,353925.85,123,2877.45,503.65,4988.99
+Nike,Supermarkets ,Manager,Red Tag Clearance,312740.57,115,2719.48,559.36,4966.80
+Nike,Supermarkets ,Manager,Seasonal Surprise Box,352094.13,132,2667.38,528.03,4975.84
+Nike,Supermarkets ,Manager,Shop & Save Spectacular,308374.08,115,2681.51,511.51,4900.63
+Nike,Supermarkets ,Manager,Spring Refresh Event,300935.49,102,2950.35,609.40,4937.88
+Nike,Supermarkets ,Manager,Spring Splash Discounts,314292.41,119,2641.11,508.64,4898.96
+Nike,Supermarkets ,Manager,Summer Sizzle Promo,306786.92,108,2840.62,551.36,4845.59
+Nike,Supermarkets ,Manager,Super Savings Week,319843.26,111,2881.47,523.61,4984.02
+Nike,Supermarkets ,Manager,Ultimate Value Event,346179.45,130,2662.92,509.98,4938.43
+Nike,Supermarkets ,Manager,VIP Access Sale,334129.11,119,2807.81,513.58,4979.80
+Nike,Supermarkets ,Manager,Winter Clearance Carnival,327214.38,119,2749.70,566.40,4972.12
+Nike,Supermarkets ,Manager,Winter Wonders Sale,381241.46,131,2910.24,629.74,4952.14
+Nike,Supermarkets ,Sales Associate,12 Days of Deals,375111.31,129,2907.84,543.09,4972.50
+Nike,Supermarkets ,Sales Associate,Autumn Deals Drive,355812.16,143,2488.20,500.77,4983.28
+Nike,Supermarkets ,Sales Associate,BOGO Blitz,354340.82,123,2880.82,570.00,4963.73
+Nike,Supermarkets ,Sales Associate,Back to School Boost,396339.35,130,3048.76,593.97,4988.68
+Nike,Supermarkets ,Sales Associate,Black Friday Blowout,332628.91,122,2726.47,573.91,4992.25
+Nike,Supermarkets ,Sales Associate,Cart Crasher Campaign,355618.87,131,2714.65,534.29,4889.08
+Nike,Supermarkets ,Sales Associate,Cashback Carnival,341223.01,141,2420.02,510.62,4953.58
+Nike,Supermarkets ,Sales Associate,Clearance Countdown,402278.58,141,2853.04,544.43,4963.73
+Nike,Supermarkets ,Sales Associate,Countdown to Savings,321500.05,120,2679.17,522.18,4958.53
+Nike,Supermarkets ,Sales Associate,Customer Appreciation Week,330586.93,120,2754.89,535.56,4999.02
+Nike,Supermarkets ,Sales Associate,Cyber Monday Mania,380243.96,134,2837.64,509.47,4997.19
+Nike,Supermarkets ,Sales Associate,Deal of the Month,342920.62,119,2881.69,716.90,4928.56
+Nike,Supermarkets ,Sales Associate,Double Points Bonanza,344822.66,123,2803.44,563.71,4962.42
+Nike,Supermarkets ,Sales Associate,Early Bird Specials,329854.59,121,2726.07,524.64,4939.04
+Nike,Supermarkets ,Sales Associate,Exclusive Insider Offers,332721.91,116,2868.29,507.69,4991.51
+Nike,Supermarkets ,Sales Associate,Final Call Frenzy,362988.85,132,2749.92,522.30,4993.27
+Nike,Supermarkets ,Sales Associate,Flash Frenzy Friday,341199.90,126,2707.94,502.29,4937.99
+Nike,Supermarkets ,Sales Associate,Golden Hour Bargains,337612.71,120,2813.44,507.62,4953.16
+Nike,Supermarkets ,Sales Associate,Green Weekend Deals,367782.34,140,2627.02,531.87,4972.93
+Nike,Supermarkets ,Sales Associate,Happy Hour Discounts,324882.63,120,2707.36,556.37,4983.25
+Nike,Supermarkets ,Sales Associate,Holiday Shopping Rush,337369.71,122,2765.33,512.62,4998.76
+Nike,Supermarkets ,Sales Associate,Hot Picks Promo,365414.84,138,2647.93,530.04,4977.65
+Nike,Supermarkets ,Sales Associate,Instant Gratification Sale,303781.57,116,2618.81,529.97,4980.88
+Nike,Supermarkets ,Sales Associate,Limited Time Treasures,398237.52,140,2844.55,525.80,4954.82
+Nike,Supermarkets ,Sales Associate,Loyalty Rewards Blast,379840.23,129,2944.50,509.26,4973.37
+Nike,Supermarkets ,Sales Associate,Midnight Madness,351694.90,117,3005.94,513.39,4969.17
+Nike,Supermarkets ,Sales Associate,Mystery Discount Days,372533.34,129,2887.86,588.02,4971.39
+Nike,Supermarkets ,Sales Associate,New Arrival Showcase,346327.01,125,2770.62,503.53,4969.22
+Nike,Supermarkets ,Sales Associate,Price Drop Parade,383211.84,141,2717.81,537.30,4980.45
+Nike,Supermarkets ,Sales Associate,Red Tag Clearance,335643.78,127,2642.86,511.82,4985.84
+Nike,Supermarkets ,Sales Associate,Seasonal Surprise Box,345424.22,121,2854.75,541.39,4976.76
+Nike,Supermarkets ,Sales Associate,Shop & Save Spectacular,322285.39,130,2479.12,504.07,4963.85
+Nike,Supermarkets ,Sales Associate,Smart Shopper Week,351281.14,118,2976.96,635.90,4977.89
+Nike,Supermarkets ,Sales Associate,Spring Refresh Event,385328.85,141,2732.83,560.67,4970.33
+Nike,Supermarkets ,Sales Associate,Summer Sizzle Promo,369950.93,138,2680.80,502.32,4940.92
+Nike,Supermarkets ,Sales Associate,Super Savings Week,388209.79,143,2714.75,509.07,4963.13
+Nike,Supermarkets ,Sales Associate,Ultimate Value Event,354977.28,132,2689.22,509.35,4970.00
+Nike,Supermarkets ,Sales Associate,VIP Access Sale,428030.92,146,2931.72,527.65,4991.94
+Nike,Supermarkets ,Sales Associate,Weekend Warrior Specials,313053.84,131,2389.72,545.03,4892.30
+Nike,Supermarkets ,Sales Associate,Winter Clearance Carnival,353631.19,135,2619.49,513.80,4962.89
+Nike,Supermarkets ,Sales Associate,Winter Wonders Sale,325753.26,121,2692.18,524.51,4950.20
+Nike,Supermarkets ,Salesperson,12 Days of Deals,379432.58,132,2874.49,505.19,4987.26
+Nike,Supermarkets ,Salesperson,Autumn Deals Drive,368234.49,128,2876.83,532.21,4996.26
+Nike,Supermarkets ,Salesperson,BOGO Blitz,306001.28,125,2448.01,549.29,4997.55
+Nike,Supermarkets ,Salesperson,Back to School Boost,375094.74,132,2841.63,513.03,4948.95
+Nike,Supermarkets ,Salesperson,Birthday Bash Sale,336050.47,119,2823.95,502.19,4969.83
+Nike,Supermarkets ,Salesperson,Cart Crasher Campaign,368357.90,123,2994.78,505.97,4953.13
+Nike,Supermarkets ,Salesperson,Cashback Carnival,374558.32,123,3045.19,719.56,4995.11
+Nike,Supermarkets ,Salesperson,Clearance Countdown,332819.79,125,2662.56,552.92,4994.91
+Nike,Supermarkets ,Salesperson,Countdown to Savings,350572.91,136,2577.74,505.40,4998.86
+Nike,Supermarkets ,Salesperson,Customer Appreciation Week,316900.08,116,2731.90,551.87,4988.56
+Nike,Supermarkets ,Salesperson,Cyber Monday Mania,317924.17,123,2584.75,542.97,4998.69
+Nike,Supermarkets ,Salesperson,Deal of the Month,327458.49,117,2798.79,578.30,4955.60
+Nike,Supermarkets ,Salesperson,Double Points Bonanza,368789.39,130,2836.84,576.61,4962.86
+Nike,Supermarkets ,Salesperson,Early Bird Specials,379578.05,127,2988.80,507.63,4991.74
+Nike,Supermarkets ,Salesperson,End of Season Sale,343483.17,126,2726.06,573.23,4968.18
+Nike,Supermarkets ,Salesperson,Exclusive Insider Offers,338344.86,126,2685.28,520.40,4989.69
+Nike,Supermarkets ,Salesperson,Festive Fever Promo,395941.65,145,2730.63,533.34,4988.91
+Nike,Supermarkets ,Salesperson,Flash Frenzy Friday,319496.63,119,2684.85,525.64,4998.23
+Nike,Supermarkets ,Salesperson,Golden Hour Bargains,340860.80,127,2683.94,548.26,4974.45
+Nike,Supermarkets ,Salesperson,Green Weekend Deals,331286.32,126,2629.26,519.98,4989.62
+Nike,Supermarkets ,Salesperson,Happy Hour Discounts,344103.75,125,2752.83,546.58,4918.74
+Nike,Supermarkets ,Salesperson,Holiday Shopping Rush,335291.53,129,2599.16,508.71,4999.33
+Nike,Supermarkets ,Salesperson,Hot Picks Promo,385230.85,140,2751.65,510.06,4976.01
+Nike,Supermarkets ,Salesperson,Instant Gratification Sale,324845.50,116,2800.39,503.83,4935.49
+Nike,Supermarkets ,Salesperson,Limited Time Treasures,317574.62,119,2668.69,526.41,4996.93
+Nike,Supermarkets ,Salesperson,Loyalty Rewards Blast,313217.34,115,2723.63,530.05,4871.88
+Nike,Supermarkets ,Salesperson,Mid-Year Madness,358505.08,133,2695.53,552.17,4956.16
+Nike,Supermarkets ,Salesperson,Midnight Madness,323202.36,115,2810.46,509.62,4962.34
+Nike,Supermarkets ,Salesperson,Mystery Discount Days,377768.56,132,2861.88,545.63,4975.50
+Nike,Supermarkets ,Salesperson,New Product Launch Promo,331018.68,115,2878.42,518.54,4998.60
+Nike,Supermarkets ,Salesperson,New Year Kickoff,341785.69,120,2848.21,515.94,4986.79
+Nike,Supermarkets ,Salesperson,Price Drop Parade,320303.74,113,2834.55,534.65,4991.55
+Nike,Supermarkets ,Salesperson,Seasonal Surprise Box,320549.26,120,2671.24,578.15,4971.33
+Nike,Supermarkets ,Salesperson,Shop & Save Spectacular,307577.70,114,2698.05,664.66,4970.27
+Nike,Supermarkets ,Salesperson,Spring Refresh Event,312363.49,109,2865.72,500.43,4978.00
+Nike,Supermarkets ,Salesperson,Summer Sizzle Promo,375687.93,133,2824.72,550.38,4960.40
+Nike,Supermarkets ,Salesperson,Super Savings Week,344769.87,121,2849.34,622.67,4963.41
+Nike,Supermarkets ,Salesperson,Winter Clearance Carnival,349242.53,126,2771.77,552.41,4947.80
+Nike,Supermarkets ,Salesperson,Winter Wonders Sale,373089.26,133,2805.18,549.78,4992.09
+Nike,Supermarkets ,Senior Salesperson,BOGO Blitz,309520.09,102,3034.51,503.15,4972.05
+Nike,Supermarkets ,Senior Salesperson,Birthday Bash Sale,310294.69,118,2629.62,525.94,4955.19
+Nike,Supermarkets ,Senior Salesperson,Black Friday Blowout,310470.71,112,2772.06,694.66,4975.06
+Nike,Supermarkets ,Senior Salesperson,Cart Crasher Campaign,331251.06,118,2807.21,501.15,4903.56
+Nike,Supermarkets ,Senior Salesperson,Customer Appreciation Week,316001.74,116,2724.15,529.37,4984.95
+Nike,Supermarkets ,Senior Salesperson,Early Bird Specials,301657.26,117,2578.27,523.42,4985.13
+Nike,Supermarkets ,Senior Salesperson,Exclusive Insider Offers,302360.17,105,2879.62,512.81,4987.30
+Nike,Supermarkets ,Senior Salesperson,Flash Frenzy Friday,318446.51,111,2868.89,700.93,4955.14
+Nike,Supermarkets ,Senior Salesperson,Golden Hour Bargains,313745.96,109,2878.40,646.11,4958.76
+Nike,Supermarkets ,Senior Salesperson,Green Weekend Deals,326157.68,115,2836.15,503.13,4948.17
+Nike,Supermarkets ,Senior Salesperson,Mega Weekend Bonanza,325886.08,117,2785.35,530.59,4962.46
+Nike,Supermarkets ,Senior Salesperson,Mid-Year Madness,348229.48,119,2926.30,503.75,4979.78
+Nike,Supermarkets ,Senior Salesperson,Mystery Discount Days,352046.90,123,2862.17,503.54,4998.21
+Nike,Supermarkets ,Senior Salesperson,New Year Kickoff,325176.90,117,2779.29,516.64,4982.77
+Nike,Supermarkets ,Senior Salesperson,Price Drop Parade,326692.95,110,2969.94,504.45,4998.25
+Nike,Supermarkets ,Senior Salesperson,Shop & Save Spectacular,326363.51,117,2789.43,546.82,4991.85
+Nike,Supermarkets ,Senior Salesperson,Spring Refresh Event,307584.79,104,2957.55,682.81,4996.02
+Nike,Supermarkets ,Senior Salesperson,Super Savings Week,330381.71,112,2949.84,567.88,4989.04
+Nike,Supermarkets ,Senior Salesperson,Ultimate Value Event,312302.68,107,2918.72,551.08,4998.67
+Nike,Supermarkets ,Senior Salesperson,VIP Access Sale,316671.16,116,2729.92,545.77,4964.49
+Puma,Large Malls / Complexes,Manager,12 Days of Deals,326556.66,115,2839.62,610.22,4946.95
+Puma,Large Malls / Complexes,Manager,BOGO Blitz,330168.64,114,2896.22,535.51,4858.59
+Puma,Large Malls / Complexes,Manager,Back to School Boost,326711.82,109,2997.36,517.34,4944.32
+Puma,Large Malls / Complexes,Manager,Black Friday Blowout,322543.68,117,2756.78,505.64,4987.34
+Puma,Large Malls / Complexes,Manager,Countdown to Savings,312267.83,111,2813.22,504.64,4987.12
+Puma,Large Malls / Complexes,Manager,Customer Appreciation Week,311845.25,112,2784.33,541.87,4923.45
+Puma,Large Malls / Complexes,Manager,Cyber Monday Mania,304204.19,100,3042.04,524.72,4977.22
+Puma,Large Malls / Complexes,Manager,Double Points Bonanza,336965.41,125,2695.72,538.92,4995.61
+Puma,Large Malls / Complexes,Manager,Festive Fever Promo,331975.70,115,2886.75,534.67,4979.82
+Puma,Large Malls / Complexes,Manager,Golden Hour Bargains,331646.28,127,2611.39,545.74,4996.90
+Puma,Large Malls / Complexes,Manager,Happy Hour Discounts,331343.09,117,2831.99,550.72,4936.49
+Puma,Large Malls / Complexes,Manager,Hot Picks Promo,364584.64,128,2848.32,581.23,4985.79
+Puma,Large Malls / Complexes,Manager,Limited Time Treasures,303974.41,107,2840.88,527.90,4987.22
+Puma,Large Malls / Complexes,Manager,Loyalty Rewards Blast,305057.33,112,2723.73,560.04,4945.46
+Puma,Large Malls / Complexes,Manager,Mega Weekend Bonanza,310105.48,106,2925.52,627.33,4954.54
+Puma,Large Malls / Complexes,Manager,Mystery Discount Days,363138.58,123,2952.35,519.35,4989.36
+Puma,Large Malls / Complexes,Manager,New Arrival Showcase,320840.40,111,2890.45,511.56,4998.00
+Puma,Large Malls / Complexes,Manager,New Product Launch Promo,324136.80,116,2794.28,509.60,4986.79
+Puma,Large Malls / Complexes,Manager,Red Tag Clearance,318041.41,119,2672.62,604.04,4968.15
+Puma,Large Malls / Complexes,Manager,Seasonal Surprise Box,304198.53,112,2716.06,518.27,4983.26
+Puma,Large Malls / Complexes,Manager,Shop & Save Spectacular,323010.41,116,2784.57,530.41,4998.60
+Puma,Large Malls / Complexes,Manager,Weekend Warrior Specials,322363.57,109,2957.46,509.15,4988.31
+Puma,Large Malls / Complexes,Sales Associate,Autumn Deals Drive,331450.43,117,2832.91,522.24,4977.29
+Puma,Large Malls / Complexes,Sales Associate,BOGO Blitz,366397.05,141,2598.56,540.95,4956.09
+Puma,Large Malls / Complexes,Sales Associate,Back to School Boost,303688.11,114,2663.93,507.03,4913.23
+Puma,Large Malls / Complexes,Sales Associate,Cashback Carnival,333460.40,123,2711.06,508.13,4880.49
+Puma,Large Malls / Complexes,Sales Associate,Clearance Countdown,371568.00,126,2948.95,513.63,4990.06
+Puma,Large Malls / Complexes,Sales Associate,Cyber Monday Mania,302888.50,113,2680.43,527.15,4975.65
+Puma,Large Malls / Complexes,Sales Associate,Deal of the Month,371940.05,129,2883.26,509.66,4999.45
+Puma,Large Malls / Complexes,Sales Associate,Early Bird Specials,347618.41,128,2715.77,562.03,4953.71
+Puma,Large Malls / Complexes,Sales Associate,Exclusive Insider Offers,352106.41,130,2708.51,513.77,4968.06
+Puma,Large Malls / Complexes,Sales Associate,Festive Fever Promo,330273.68,108,3058.09,859.23,4977.01
+Puma,Large Malls / Complexes,Sales Associate,Final Call Frenzy,311639.23,115,2709.91,505.58,4961.36
+Puma,Large Malls / Complexes,Sales Associate,"Gift More, Spend Less",318356.41,111,2868.08,603.16,4979.95
+Puma,Large Malls / Complexes,Sales Associate,Green Weekend Deals,380595.83,125,3044.77,510.45,4999.23
+Puma,Large Malls / Complexes,Sales Associate,Happy Hour Discounts,309871.33,118,2626.03,613.20,4999.78
+Puma,Large Malls / Complexes,Sales Associate,Holiday Shopping Rush,313733.55,117,2681.48,511.70,4985.94
+Puma,Large Malls / Complexes,Sales Associate,Instant Gratification Sale,313313.60,113,2772.69,548.38,4902.58
+Puma,Large Malls / Complexes,Sales Associate,Limited Time Treasures,308252.03,113,2727.89,549.28,4892.09
+Puma,Large Malls / Complexes,Sales Associate,Mega Weekend Bonanza,332180.97,117,2839.15,563.94,4989.73
+Puma,Large Malls / Complexes,Sales Associate,Mid-Year Madness,324149.20,111,2920.26,528.33,4991.64
+Puma,Large Malls / Complexes,Sales Associate,Midnight Madness,386453.76,133,2905.67,573.00,4962.42
+Puma,Large Malls / Complexes,Sales Associate,New Year Kickoff,305787.77,112,2730.25,563.96,4915.69
+Puma,Large Malls / Complexes,Sales Associate,Red Tag Clearance,347362.41,125,2778.90,504.14,4990.12
+Puma,Large Malls / Complexes,Sales Associate,Spring Refresh Event,311836.49,114,2735.41,521.71,4982.29
+Puma,Large Malls / Complexes,Sales Associate,Spring Splash Discounts,318689.11,119,2678.06,506.18,4952.12
+Puma,Large Malls / Complexes,Sales Associate,Super Savings Week,329719.40,114,2892.28,540.25,4971.00
+Puma,Large Malls / Complexes,Sales Associate,VIP Access Sale,325330.11,118,2757.03,501.68,4996.77
+Puma,Large Malls / Complexes,Sales Associate,Weekend Warrior Specials,324480.42,112,2897.15,572.00,4995.92
+Puma,Large Malls / Complexes,Sales Associate,Winter Clearance Carnival,328758.30,113,2909.37,582.37,4957.58
+Puma,Large Malls / Complexes,Salesperson,12 Days of Deals,345482.69,125,2763.86,502.32,4884.84
+Puma,Large Malls / Complexes,Salesperson,Back to School Boost,305248.29,115,2654.33,533.41,4998.12
+Puma,Large Malls / Complexes,Salesperson,Birthday Bash Sale,313491.82,104,3014.34,524.79,4997.95
+Puma,Large Malls / Complexes,Salesperson,Cart Crasher Campaign,311112.16,119,2614.39,546.30,4993.76
+Puma,Large Malls / Complexes,Salesperson,Cyber Monday Mania,318993.06,114,2798.18,508.24,4941.49
+Puma,Large Malls / Complexes,Salesperson,Double Points Bonanza,352941.86,134,2633.89,516.22,4998.01
+Puma,Large Malls / Complexes,Salesperson,Exclusive Insider Offers,303427.79,100,3034.28,628.88,4872.84
+Puma,Large Malls / Complexes,Salesperson,"Gift More, Spend Less",360082.56,125,2880.66,622.86,4975.83
+Puma,Large Malls / Complexes,Salesperson,Happy Hour Discounts,326938.58,124,2636.60,516.34,4919.57
+Puma,Large Malls / Complexes,Salesperson,Holiday Shopping Rush,325533.71,123,2646.62,514.04,4961.06
+Puma,Large Malls / Complexes,Salesperson,Mega Weekend Bonanza,315784.86,116,2722.28,567.75,4993.01
+Puma,Large Malls / Complexes,Salesperson,Mid-Year Madness,332610.81,119,2795.05,539.25,4998.11
+Puma,Large Malls / Complexes,Salesperson,New Product Launch Promo,302938.64,113,2680.87,549.91,4967.60
+Puma,Large Malls / Complexes,Salesperson,Shop & Save Spectacular,304691.07,107,2847.58,510.86,4995.89
+Puma,Large Malls / Complexes,Salesperson,Spring Splash Discounts,309230.39,113,2736.55,500.66,4971.83
+Puma,Large Malls / Complexes,Salesperson,Super Savings Week,332121.08,124,2678.40,541.25,4983.64
+Puma,Large Malls / Complexes,Salesperson,Weekend Warrior Specials,310498.11,107,2901.85,573.08,4993.66
+Puma,Large Malls / Complexes,Salesperson,Winter Clearance Carnival,345593.08,115,3005.16,506.16,4984.77
+Puma,Large Malls / Complexes,Senior Salesperson,BOGO Blitz,300947.12,104,2893.72,525.03,4984.91
+Puma,Large Malls / Complexes,Senior Salesperson,Customer Appreciation Week,311597.62,107,2912.13,629.46,4954.38
+Puma,Large Malls / Complexes,Senior Salesperson,Golden Hour Bargains,301941.25,117,2580.69,513.18,4991.77
+Puma,Large Malls / Complexes,Senior Salesperson,Shop & Save Spectacular,330731.15,116,2851.13,522.75,4978.72
+Puma,Small Stores / Shops,Manager,12 Days of Deals,306518.69,105,2919.23,703.64,4999.40
+Puma,Small Stores / Shops,Manager,BOGO Blitz,311413.03,115,2707.94,516.01,4997.71
+Puma,Small Stores / Shops,Manager,Black Friday Blowout,376869.35,131,2876.87,576.06,4967.10
+Puma,Small Stores / Shops,Manager,Cart Crasher Campaign,328879.47,118,2787.11,559.27,4988.17
+Puma,Small Stores / Shops,Manager,Cashback Carnival,320418.31,105,3051.60,526.61,4982.95
+Puma,Small Stores / Shops,Manager,Clearance Countdown,320909.84,117,2742.82,544.94,4961.16
+Puma,Small Stores / Shops,Manager,Countdown to Savings,348300.53,123,2831.71,502.49,4980.65
+Puma,Small Stores / Shops,Manager,Exclusive Insider Offers,350714.66,127,2761.53,591.59,4992.49
+Puma,Small Stores / Shops,Manager,Festive Fever Promo,311839.30,109,2860.91,516.04,4979.17
+Puma,Small Stores / Shops,Manager,"Gift More, Spend Less",329183.44,120,2743.20,573.13,4995.93
+Puma,Small Stores / Shops,Manager,Golden Hour Bargains,301645.23,114,2646.01,604.26,4994.72
+Puma,Small Stores / Shops,Manager,Green Weekend Deals,355535.72,129,2756.09,525.50,4995.36
+Puma,Small Stores / Shops,Manager,Happy Hour Discounts,407652.63,137,2975.57,540.32,4979.88
+Puma,Small Stores / Shops,Manager,Limited Time Treasures,317153.71,108,2936.61,504.90,4983.32
+Puma,Small Stores / Shops,Manager,Loyalty Rewards Blast,358553.79,125,2868.43,511.31,4966.89
+Puma,Small Stores / Shops,Manager,Mega Weekend Bonanza,300916.63,105,2865.87,511.55,4978.23
+Puma,Small Stores / Shops,Manager,Mid-Year Madness,309360.86,117,2644.11,530.80,4962.59
+Puma,Small Stores / Shops,Manager,Midnight Madness,335485.58,118,2843.10,503.57,4995.53
+Puma,Small Stores / Shops,Manager,New Arrival Showcase,345466.43,129,2678.03,520.74,4897.63
+Puma,Small Stores / Shops,Manager,New Year Kickoff,331235.03,113,2931.28,511.03,4953.10
+Puma,Small Stores / Shops,Manager,Price Drop Parade,303710.43,111,2736.13,605.96,4996.80
+Puma,Small Stores / Shops,Manager,Red Tag Clearance,315549.98,117,2697.01,654.32,4992.97
+Puma,Small Stores / Shops,Manager,Seasonal Surprise Box,381742.82,141,2707.40,537.31,4974.36
+Puma,Small Stores / Shops,Manager,Shop & Save Spectacular,347955.89,119,2924.00,608.27,4982.93
+Puma,Small Stores / Shops,Manager,Spring Refresh Event,337659.88,121,2790.58,524.81,4980.06
+Puma,Small Stores / Shops,Manager,Super Savings Week,324128.18,115,2818.51,626.87,4970.76
+Puma,Small Stores / Shops,Manager,VIP Access Sale,309501.14,110,2813.65,562.01,4950.65
+Puma,Small Stores / Shops,Manager,Weekend Warrior Specials,316437.61,114,2775.77,535.23,4990.23
+Puma,Small Stores / Shops,Sales Associate,12 Days of Deals,355167.62,130,2732.06,525.78,4966.10
+Puma,Small Stores / Shops,Sales Associate,Autumn Deals Drive,337616.24,122,2767.35,514.37,4990.69
+Puma,Small Stores / Shops,Sales Associate,BOGO Blitz,325447.66,115,2829.98,511.07,4976.15
+Puma,Small Stores / Shops,Sales Associate,Back to School Boost,315381.50,114,2766.50,515.93,4961.87
+Puma,Small Stores / Shops,Sales Associate,Birthday Bash Sale,314441.32,117,2687.53,513.78,4918.75
+Puma,Small Stores / Shops,Sales Associate,Black Friday Blowout,340036.36,121,2810.22,513.30,4921.44
+Puma,Small Stores / Shops,Sales Associate,Cart Crasher Campaign,317304.86,113,2808.01,531.99,4935.84
+Puma,Small Stores / Shops,Sales Associate,Clearance Countdown,300005.83,108,2777.83,530.27,4989.35
+Puma,Small Stores / Shops,Sales Associate,Countdown to Savings,321954.15,118,2728.42,545.91,4996.57
+Puma,Small Stores / Shops,Sales Associate,Cyber Monday Mania,345167.59,118,2925.15,529.46,4985.00
+Puma,Small Stores / Shops,Sales Associate,Deal of the Month,355056.54,128,2773.88,503.87,4982.04
+Puma,Small Stores / Shops,Sales Associate,Double Points Bonanza,335004.76,124,2701.65,525.55,4979.34
+Puma,Small Stores / Shops,Sales Associate,Early Bird Specials,367755.38,135,2724.11,513.18,4933.74
+Puma,Small Stores / Shops,Sales Associate,End of Season Sale,300168.21,104,2886.23,537.92,4972.92
+Puma,Small Stores / Shops,Sales Associate,Exclusive Insider Offers,336165.13,121,2778.22,554.92,4907.25
+Puma,Small Stores / Shops,Sales Associate,Festive Fever Promo,344697.04,123,2802.41,503.49,4929.52
+Puma,Small Stores / Shops,Sales Associate,Final Call Frenzy,345856.37,128,2702.00,557.58,4933.92
+Puma,Small Stores / Shops,Sales Associate,Flash Frenzy Friday,400999.42,142,2823.94,506.15,4993.42
+Puma,Small Stores / Shops,Sales Associate,"Gift More, Spend Less",357791.33,126,2839.61,514.52,4991.44
+Puma,Small Stores / Shops,Sales Associate,Golden Hour Bargains,339520.56,125,2716.16,500.57,4984.15
+Puma,Small Stores / Shops,Sales Associate,Holiday Shopping Rush,337554.27,128,2637.14,505.46,4887.88
+Puma,Small Stores / Shops,Sales Associate,Limited Time Treasures,329121.23,122,2697.72,527.04,4997.38
+Puma,Small Stores / Shops,Sales Associate,Mega Weekend Bonanza,359935.52,122,2950.29,503.43,4987.12
+Puma,Small Stores / Shops,Sales Associate,Mid-Year Madness,300340.98,108,2780.93,511.74,4915.06
+Puma,Small Stores / Shops,Sales Associate,New Arrival Showcase,319407.49,113,2826.61,506.15,4990.92
+Puma,Small Stores / Shops,Sales Associate,New Product Launch Promo,345407.69,121,2854.61,578.62,4984.04
+Puma,Small Stores / Shops,Sales Associate,New Year Kickoff,379524.56,134,2832.27,503.74,4970.64
+Puma,Small Stores / Shops,Sales Associate,Price Drop Parade,337553.29,126,2678.99,530.52,4979.26
+Puma,Small Stores / Shops,Sales Associate,Red Tag Clearance,328783.89,121,2717.22,515.16,4897.42
+Puma,Small Stores / Shops,Sales Associate,Smart Shopper Week,366233.89,130,2817.18,638.21,4997.07
+Puma,Small Stores / Shops,Sales Associate,Spring Refresh Event,338185.12,128,2642.07,510.28,4939.65
+Puma,Small Stores / Shops,Sales Associate,Summer Sizzle Promo,336092.60,121,2777.62,556.96,4985.79
+Puma,Small Stores / Shops,Sales Associate,Ultimate Value Event,302805.05,109,2778.03,549.73,4994.01
+Puma,Small Stores / Shops,Sales Associate,VIP Access Sale,354488.79,124,2858.78,525.46,4928.85
+Puma,Small Stores / Shops,Sales Associate,Weekend Warrior Specials,350496.81,128,2738.26,550.95,4995.02
+Puma,Small Stores / Shops,Sales Associate,Winter Clearance Carnival,375375.01,130,2887.50,532.81,4972.59
+Puma,Small Stores / Shops,Sales Associate,Winter Wonders Sale,328587.47,126,2607.84,535.61,4991.15
+Puma,Small Stores / Shops,Salesperson,12 Days of Deals,311816.54,107,2914.17,542.15,4950.60
+Puma,Small Stores / Shops,Salesperson,Autumn Deals Drive,315165.39,110,2865.14,538.54,4997.04
+Puma,Small Stores / Shops,Salesperson,BOGO Blitz,328520.43,127,2586.78,535.40,4874.46
+Puma,Small Stores / Shops,Salesperson,Back to School Boost,341744.37,123,2778.41,508.34,4967.84
+Puma,Small Stores / Shops,Salesperson,Birthday Bash Sale,322626.33,119,2711.15,505.09,4978.70
+Puma,Small Stores / Shops,Salesperson,Black Friday Blowout,318505.03,116,2745.73,593.13,4943.27
+Puma,Small Stores / Shops,Salesperson,Cashback Carnival,322081.41,110,2928.01,529.15,4985.43
+Puma,Small Stores / Shops,Salesperson,Clearance Countdown,380803.38,139,2739.59,540.64,4985.37
+Puma,Small Stores / Shops,Salesperson,Countdown to Savings,376092.87,133,2827.77,571.50,4979.42
+Puma,Small Stores / Shops,Salesperson,Customer Appreciation Week,321759.12,117,2750.08,536.62,4930.85
+Puma,Small Stores / Shops,Salesperson,Cyber Monday Mania,342595.08,129,2655.78,600.85,4977.44
+Puma,Small Stores / Shops,Salesperson,Deal of the Month,359439.48,129,2786.35,526.39,4982.99
+Puma,Small Stores / Shops,Salesperson,Double Points Bonanza,311019.05,115,2704.51,521.21,4996.75
+Puma,Small Stores / Shops,Salesperson,End of Season Sale,391680.18,143,2739.02,505.48,4996.88
+Puma,Small Stores / Shops,Salesperson,Final Call Frenzy,342112.91,132,2591.76,506.19,4951.48
+Puma,Small Stores / Shops,Salesperson,Flash Frenzy Friday,333505.75,130,2565.43,508.31,4996.58
+Puma,Small Stores / Shops,Salesperson,"Gift More, Spend Less",341663.96,124,2755.35,534.78,4988.67
+Puma,Small Stores / Shops,Salesperson,Golden Hour Bargains,324863.21,118,2753.08,561.99,4989.95
+Puma,Small Stores / Shops,Salesperson,Green Weekend Deals,347671.40,132,2633.87,527.64,4988.06
+Puma,Small Stores / Shops,Salesperson,Happy Hour Discounts,321052.36,110,2918.66,526.25,4993.63
+Puma,Small Stores / Shops,Salesperson,Holiday Shopping Rush,350742.62,121,2898.70,511.21,4993.01
+Puma,Small Stores / Shops,Salesperson,Instant Gratification Sale,370812.30,134,2767.26,500.41,4969.22
+Puma,Small Stores / Shops,Salesperson,Mega Weekend Bonanza,351888.67,124,2837.81,502.77,4932.63
+Puma,Small Stores / Shops,Salesperson,Mid-Year Madness,349281.64,131,2666.27,573.81,4997.99
+Puma,Small Stores / Shops,Salesperson,Midnight Madness,361288.57,130,2779.14,524.30,4954.97
+Puma,Small Stores / Shops,Salesperson,Mystery Discount Days,305346.43,107,2853.70,538.53,4975.99
+Puma,Small Stores / Shops,Salesperson,New Product Launch Promo,321654.61,115,2797.00,503.81,4955.58
+Puma,Small Stores / Shops,Salesperson,Price Drop Parade,320148.01,119,2690.32,506.95,4985.83
+Puma,Small Stores / Shops,Salesperson,Red Tag Clearance,320206.94,116,2760.40,552.38,4997.50
+Puma,Small Stores / Shops,Salesperson,Seasonal Surprise Box,316891.68,118,2685.52,505.17,4920.51
+Puma,Small Stores / Shops,Salesperson,Smart Shopper Week,356405.98,127,2806.35,566.22,4968.11
+Puma,Small Stores / Shops,Salesperson,Spring Splash Discounts,322424.47,116,2779.52,517.03,4994.34
+Puma,Small Stores / Shops,Salesperson,Summer Sizzle Promo,306225.28,115,2662.83,502.54,4998.14
+Puma,Small Stores / Shops,Salesperson,Super Savings Week,357166.10,129,2768.73,536.27,4913.72
+Puma,Small Stores / Shops,Salesperson,Ultimate Value Event,379359.64,138,2748.98,503.10,4952.79
+Puma,Small Stores / Shops,Salesperson,VIP Access Sale,371437.97,133,2792.77,538.95,4994.03
+Puma,Small Stores / Shops,Senior Salesperson,Black Friday Blowout,312033.80,120,2600.28,500.74,4996.19
+Puma,Small Stores / Shops,Senior Salesperson,Countdown to Savings,318240.94,116,2743.46,511.34,4936.59
+Puma,Small Stores / Shops,Senior Salesperson,Customer Appreciation Week,336319.21,115,2924.51,653.52,4993.43
+Puma,Small Stores / Shops,Senior Salesperson,Double Points Bonanza,325992.02,114,2859.58,536.85,4993.64
+Puma,Small Stores / Shops,Senior Salesperson,End of Season Sale,330617.38,118,2801.84,535.49,4909.62
+Puma,Small Stores / Shops,Senior Salesperson,Festive Fever Promo,307088.55,111,2766.56,539.73,4989.99
+Puma,Small Stores / Shops,Senior Salesperson,Final Call Frenzy,340367.20,114,2985.68,500.03,4967.44
+Puma,Small Stores / Shops,Senior Salesperson,"Gift More, Spend Less",300088.76,104,2885.47,510.02,4972.69
+Puma,Small Stores / Shops,Senior Salesperson,Happy Hour Discounts,307439.98,112,2745.00,592.19,4907.21
+Puma,Small Stores / Shops,Senior Salesperson,Holiday Shopping Rush,309286.26,117,2643.47,503.52,4963.46
+Puma,Small Stores / Shops,Senior Salesperson,Hot Picks Promo,348844.26,118,2956.31,525.98,4996.43
+Puma,Small Stores / Shops,Senior Salesperson,Instant Gratification Sale,315378.16,108,2920.17,667.16,4936.90
+Puma,Small Stores / Shops,Senior Salesperson,Price Drop Parade,312705.76,121,2584.35,550.35,4999.68
+Puma,Small Stores / Shops,Senior Salesperson,Shop & Save Spectacular,300082.38,103,2913.42,511.21,4930.34
+Puma,Small Stores / Shops,Senior Salesperson,Spring Splash Discounts,326681.75,117,2792.15,553.75,4973.97
+Puma,Small Stores / Shops,Senior Salesperson,Super Savings Week,315712.50,103,3065.17,576.62,4998.97
+Puma,Small Stores / Shops,Senior Salesperson,VIP Access Sale,330864.12,117,2827.90,587.92,4953.30
+Puma,Small Stores / Shops,Senior Salesperson,Winter Wonders Sale,306399.36,114,2687.71,572.41,4958.44
+Puma,Supermarkets ,Manager,Autumn Deals Drive,325388.54,118,2757.53,547.31,4887.78
+Puma,Supermarkets ,Manager,BOGO Blitz,337530.88,117,2884.88,500.97,4953.36
+Puma,Supermarkets ,Manager,Back to School Boost,315001.18,121,2603.32,501.48,4950.63
+Puma,Supermarkets ,Manager,Birthday Bash Sale,371830.11,131,2838.40,614.61,4984.92
+Puma,Supermarkets ,Manager,Black Friday Blowout,301165.39,114,2641.80,572.21,4954.21
+Puma,Supermarkets ,Manager,Cashback Carnival,310135.56,112,2769.07,565.25,4942.75
+Puma,Supermarkets ,Manager,Customer Appreciation Week,314780.88,115,2737.23,508.47,4939.74
+Puma,Supermarkets ,Manager,Cyber Monday Mania,305023.69,115,2652.38,513.22,4926.28
+Puma,Supermarkets ,Manager,Deal of the Month,305309.78,113,2701.86,539.61,4965.52
+Puma,Supermarkets ,Manager,Double Points Bonanza,319071.76,110,2900.65,503.93,4980.18
+Puma,Supermarkets ,Manager,Exclusive Insider Offers,315795.56,106,2979.20,522.46,4998.51
+Puma,Supermarkets ,Manager,Festive Fever Promo,367310.95,130,2825.47,503.81,4983.07
+Puma,Supermarkets ,Manager,Final Call Frenzy,321591.48,117,2748.65,531.38,4976.65
+Puma,Supermarkets ,Manager,"Gift More, Spend Less",319999.16,121,2644.62,549.40,4997.42
+Puma,Supermarkets ,Manager,Golden Hour Bargains,344867.32,123,2803.80,552.00,4978.37
+Puma,Supermarkets ,Manager,Happy Hour Discounts,332916.96,129,2580.75,555.16,4939.10
+Puma,Supermarkets ,Manager,Holiday Shopping Rush,376086.53,130,2892.97,526.16,4988.49
+Puma,Supermarkets ,Manager,Instant Gratification Sale,351160.98,129,2722.18,506.16,4932.91
+Puma,Supermarkets ,Manager,Limited Time Treasures,361542.80,129,2802.66,524.48,4970.18
+Puma,Supermarkets ,Manager,Mid-Year Madness,325429.03,119,2734.70,500.82,4969.83
+Puma,Supermarkets ,Manager,Mystery Discount Days,303241.19,112,2707.51,500.04,4926.30
+Puma,Supermarkets ,Manager,New Year Kickoff,347737.42,124,2804.33,613.85,4970.59
+Puma,Supermarkets ,Manager,Seasonal Surprise Box,318222.84,113,2816.13,519.89,4986.54
+Puma,Supermarkets ,Manager,Shop & Save Spectacular,330926.34,118,2804.46,503.87,4976.81
+Puma,Supermarkets ,Manager,Smart Shopper Week,308409.76,114,2705.35,542.47,4939.06
+Puma,Supermarkets ,Manager,Spring Refresh Event,342626.03,121,2831.62,688.35,4991.31
+Puma,Supermarkets ,Manager,Spring Splash Discounts,352831.86,124,2845.42,705.61,4987.61
+Puma,Supermarkets ,Manager,Summer Sizzle Promo,331036.77,118,2805.40,506.24,4988.81
+Puma,Supermarkets ,Manager,Ultimate Value Event,317608.75,117,2714.60,523.37,4936.25
+Puma,Supermarkets ,Manager,VIP Access Sale,343171.89,125,2745.38,599.39,4995.80
+Puma,Supermarkets ,Manager,Weekend Warrior Specials,395787.40,142,2787.24,506.15,4992.92
+Puma,Supermarkets ,Manager,Winter Wonders Sale,302138.10,113,2673.79,505.91,4945.27
+Puma,Supermarkets ,Sales Associate,12 Days of Deals,377489.16,132,2859.77,512.46,4924.74
+Puma,Supermarkets ,Sales Associate,Autumn Deals Drive,330820.16,126,2625.56,549.44,4927.86
+Puma,Supermarkets ,Sales Associate,Back to School Boost,359635.28,125,2877.08,525.07,4981.70
+Puma,Supermarkets ,Sales Associate,Birthday Bash Sale,355640.72,121,2939.18,531.38,4980.67
+Puma,Supermarkets ,Sales Associate,Black Friday Blowout,338137.34,139,2432.64,533.26,4888.80
+Puma,Supermarkets ,Sales Associate,Cart Crasher Campaign,312647.42,117,2672.20,570.04,4966.66
+Puma,Supermarkets ,Sales Associate,Cashback Carnival,316681.23,119,2661.19,521.53,4984.29
+Puma,Supermarkets ,Sales Associate,Clearance Countdown,345160.17,130,2655.08,519.06,4955.30
+Puma,Supermarkets ,Sales Associate,Customer Appreciation Week,328218.80,122,2690.32,517.23,4967.48
+Puma,Supermarkets ,Sales Associate,Cyber Monday Mania,341543.91,124,2754.39,516.38,4983.51
+Puma,Supermarkets ,Sales Associate,Deal of the Month,326648.24,123,2655.68,520.18,4943.07
+Puma,Supermarkets ,Sales Associate,Double Points Bonanza,336192.41,121,2778.45,551.23,4975.60
+Puma,Supermarkets ,Sales Associate,Early Bird Specials,343100.92,119,2883.20,517.50,4979.29
+Puma,Supermarkets ,Sales Associate,End of Season Sale,392107.04,122,3213.99,532.22,4997.08
+Puma,Supermarkets ,Sales Associate,Exclusive Insider Offers,318658.75,121,2633.54,576.13,4953.66
+Puma,Supermarkets ,Sales Associate,Festive Fever Promo,339554.71,118,2877.58,510.80,4991.31
+Puma,Supermarkets ,Sales Associate,Final Call Frenzy,354285.70,127,2789.65,549.25,4993.58
+Puma,Supermarkets ,Sales Associate,Flash Frenzy Friday,328940.31,124,2652.74,563.79,4983.46
+Puma,Supermarkets ,Sales Associate,"Gift More, Spend Less",308148.95,121,2546.69,543.91,4942.83
+Puma,Supermarkets ,Sales Associate,Golden Hour Bargains,352560.63,135,2611.56,517.29,4999.85
+Puma,Supermarkets ,Sales Associate,Green Weekend Deals,330354.04,116,2847.88,585.86,4991.70
+Puma,Supermarkets ,Sales Associate,Happy Hour Discounts,373974.93,128,2921.68,503.04,4990.90
+Puma,Supermarkets ,Sales Associate,Holiday Shopping Rush,330338.75,116,2847.75,517.58,4973.38
+Puma,Supermarkets ,Sales Associate,Hot Picks Promo,340194.74,122,2788.48,531.47,4973.23
+Puma,Supermarkets ,Sales Associate,Instant Gratification Sale,304825.67,114,2673.91,532.13,4978.71
+Puma,Supermarkets ,Sales Associate,Limited Time Treasures,319121.94,121,2637.37,518.56,4897.74
+Puma,Supermarkets ,Sales Associate,Loyalty Rewards Blast,304081.76,102,2981.19,569.98,4982.62
+Puma,Supermarkets ,Sales Associate,Mid-Year Madness,399528.52,139,2874.31,601.58,4993.79
+Puma,Supermarkets ,Sales Associate,Midnight Madness,348576.03,129,2702.14,512.66,4972.82
+Puma,Supermarkets ,Sales Associate,Mystery Discount Days,323432.48,121,2673.00,536.42,4981.08
+Puma,Supermarkets ,Sales Associate,New Arrival Showcase,363973.05,142,2563.19,504.11,4988.35
+Puma,Supermarkets ,Sales Associate,New Product Launch Promo,361212.53,127,2844.19,614.68,4984.83
+Puma,Supermarkets ,Sales Associate,New Year Kickoff,300049.77,111,2703.15,514.47,4994.72
+Puma,Supermarkets ,Sales Associate,Price Drop Parade,303535.69,109,2784.73,665.16,4977.32
+Puma,Supermarkets ,Sales Associate,Seasonal Surprise Box,320438.93,121,2648.26,518.01,4923.93
+Puma,Supermarkets ,Sales Associate,Shop & Save Spectacular,341497.85,117,2918.79,502.20,4997.56
+Puma,Supermarkets ,Sales Associate,Spring Refresh Event,331684.82,129,2571.20,625.24,4956.13
+Puma,Supermarkets ,Sales Associate,Summer Sizzle Promo,403126.71,132,3053.99,580.49,4955.60
+Puma,Supermarkets ,Sales Associate,Super Savings Week,303988.87,116,2620.59,505.75,4994.09
+Puma,Supermarkets ,Sales Associate,Ultimate Value Event,340754.12,128,2662.14,540.37,4985.05
+Puma,Supermarkets ,Sales Associate,VIP Access Sale,324365.33,117,2772.35,528.56,4937.25
+Puma,Supermarkets ,Sales Associate,Weekend Warrior Specials,361299.29,140,2580.71,506.78,4994.80
+Puma,Supermarkets ,Sales Associate,Winter Clearance Carnival,311769.11,113,2759.02,509.87,4987.65
+Puma,Supermarkets ,Sales Associate,Winter Wonders Sale,343955.19,119,2890.38,557.05,4852.20
+Puma,Supermarkets ,Salesperson,BOGO Blitz,324156.83,124,2614.17,525.23,4991.71
+Puma,Supermarkets ,Salesperson,Back to School Boost,301470.33,114,2644.48,521.39,4938.00
+Puma,Supermarkets ,Salesperson,Birthday Bash Sale,370471.69,133,2785.50,519.85,4880.61
+Puma,Supermarkets ,Salesperson,Black Friday Blowout,307686.18,116,2652.47,511.67,4901.32
+Puma,Supermarkets ,Salesperson,Cart Crasher Campaign,342903.10,127,2700.02,515.70,4986.87
+Puma,Supermarkets ,Salesperson,Cashback Carnival,349648.28,126,2774.99,519.82,4997.64
+Puma,Supermarkets ,Salesperson,Clearance Countdown,340321.26,124,2744.53,549.99,4941.05
+Puma,Supermarkets ,Salesperson,Countdown to Savings,355814.32,130,2737.03,500.66,4973.99
+Puma,Supermarkets ,Salesperson,Customer Appreciation Week,338574.89,124,2730.44,510.90,4998.60
+Puma,Supermarkets ,Salesperson,Cyber Monday Mania,363133.76,121,3001.11,541.56,4992.50
+Puma,Supermarkets ,Salesperson,Deal of the Month,308534.96,110,2804.86,524.07,4999.89
+Puma,Supermarkets ,Salesperson,Double Points Bonanza,312638.49,121,2583.79,504.90,4983.65
+Puma,Supermarkets ,Salesperson,Early Bird Specials,326201.53,120,2718.35,523.68,4947.23
+Puma,Supermarkets ,Salesperson,End of Season Sale,381291.49,135,2824.38,556.18,4999.17
+Puma,Supermarkets ,Salesperson,Exclusive Insider Offers,322228.54,118,2730.75,572.80,4967.56
+Puma,Supermarkets ,Salesperson,Flash Frenzy Friday,325834.49,110,2962.13,517.07,4975.75
+Puma,Supermarkets ,Salesperson,"Gift More, Spend Less",321358.79,114,2818.94,575.90,4986.61
+Puma,Supermarkets ,Salesperson,Golden Hour Bargains,316879.38,115,2755.47,527.68,4992.28
+Puma,Supermarkets ,Salesperson,Green Weekend Deals,317276.96,115,2758.93,548.28,4983.00
+Puma,Supermarkets ,Salesperson,Holiday Shopping Rush,357426.81,131,2728.45,528.26,4974.10
+Puma,Supermarkets ,Salesperson,Hot Picks Promo,334300.84,117,2857.27,601.02,4965.18
+Puma,Supermarkets ,Salesperson,Instant Gratification Sale,337736.02,126,2680.44,592.19,4873.38
+Puma,Supermarkets ,Salesperson,Limited Time Treasures,355557.56,120,2962.98,515.15,4988.87
+Puma,Supermarkets ,Salesperson,Mega Weekend Bonanza,356549.40,127,2807.48,543.96,4917.23
+Puma,Supermarkets ,Salesperson,Midnight Madness,331053.49,120,2758.78,546.44,4996.42
+Puma,Supermarkets ,Salesperson,Mystery Discount Days,320412.88,119,2692.55,530.01,4995.75
+Puma,Supermarkets ,Salesperson,New Arrival Showcase,327826.90,121,2709.31,506.85,4973.37
+Puma,Supermarkets ,Salesperson,New Product Launch Promo,316394.62,111,2850.40,582.69,4925.18
+Puma,Supermarkets ,Salesperson,New Year Kickoff,384004.82,126,3047.66,526.62,4986.73
+Puma,Supermarkets ,Salesperson,Price Drop Parade,338728.38,126,2688.32,549.55,4887.68
+Puma,Supermarkets ,Salesperson,Seasonal Surprise Box,345418.39,121,2854.70,585.95,4940.95
+Puma,Supermarkets ,Salesperson,Shop & Save Spectacular,342886.66,126,2721.32,509.04,4984.32
+Puma,Supermarkets ,Salesperson,Smart Shopper Week,368010.12,139,2647.55,536.44,4995.81
+Puma,Supermarkets ,Salesperson,Spring Refresh Event,319890.11,120,2665.75,517.63,4987.17
+Puma,Supermarkets ,Salesperson,Spring Splash Discounts,311007.01,110,2827.34,501.80,4943.96
+Puma,Supermarkets ,Salesperson,Summer Sizzle Promo,371694.87,133,2794.70,512.78,4990.32
+Puma,Supermarkets ,Salesperson,Super Savings Week,320031.79,118,2712.13,513.97,4981.53
+Puma,Supermarkets ,Salesperson,Ultimate Value Event,314143.66,115,2731.68,554.22,4996.51
+Puma,Supermarkets ,Salesperson,VIP Access Sale,323981.58,114,2841.94,513.56,4992.69
+Puma,Supermarkets ,Salesperson,Weekend Warrior Specials,321649.82,120,2680.42,548.83,4838.09
+Puma,Supermarkets ,Salesperson,Winter Wonders Sale,346266.19,124,2792.47,513.88,4943.57
+Puma,Supermarkets ,Senior Salesperson,Birthday Bash Sale,384579.79,122,3152.29,637.06,4979.87
+Puma,Supermarkets ,Senior Salesperson,Cashback Carnival,323074.83,115,2809.35,519.15,4989.37
+Puma,Supermarkets ,Senior Salesperson,Customer Appreciation Week,308025.21,108,2852.09,626.21,4934.27
+Puma,Supermarkets ,Senior Salesperson,Deal of the Month,362100.11,128,2828.91,502.57,4967.22
+Puma,Supermarkets ,Senior Salesperson,Double Points Bonanza,305712.67,107,2857.13,589.86,4867.54
+Puma,Supermarkets ,Senior Salesperson,Exclusive Insider Offers,331292.77,113,2931.79,516.25,4959.89
+Puma,Supermarkets ,Senior Salesperson,Festive Fever Promo,329492.97,129,2554.21,520.42,4998.89
+Puma,Supermarkets ,Senior Salesperson,Final Call Frenzy,309589.24,108,2866.57,793.12,4940.06
+Puma,Supermarkets ,Senior Salesperson,"Gift More, Spend Less",369995.02,130,2846.12,553.22,4956.44
+Puma,Supermarkets ,Senior Salesperson,Green Weekend Deals,331634.09,122,2718.31,572.40,4999.98
+Puma,Supermarkets ,Senior Salesperson,Holiday Shopping Rush,341059.74,113,3018.23,585.02,4982.19
+Puma,Supermarkets ,Senior Salesperson,Instant Gratification Sale,340939.49,123,2771.87,526.64,4923.84
+Puma,Supermarkets ,Senior Salesperson,Mega Weekend Bonanza,318857.01,107,2979.97,538.33,4972.97
+Puma,Supermarkets ,Senior Salesperson,Mid-Year Madness,308514.85,107,2883.32,615.05,4981.58
+Puma,Supermarkets ,Senior Salesperson,New Product Launch Promo,310656.58,111,2798.71,534.01,4993.05
+Puma,Supermarkets ,Senior Salesperson,Seasonal Surprise Box,310737.99,109,2850.81,503.60,4995.90
+Puma,Supermarkets ,Senior Salesperson,Shop & Save Spectacular,302178.56,107,2824.10,520.00,4971.73
+Puma,Supermarkets ,Senior Salesperson,Spring Refresh Event,378740.86,132,2869.25,502.50,4966.30
+Puma,Supermarkets ,Senior Salesperson,Super Savings Week,301849.35,107,2821.02,565.73,4972.81
+Puma,Supermarkets ,Senior Salesperson,Weekend Warrior Specials,322274.38,110,2929.77,524.41,4998.52
+Samsung,Large Malls / Complexes,Manager,Back to School Boost,370396.41,136,2723.50,506.31,4992.15
+Samsung,Large Malls / Complexes,Manager,Cart Crasher Campaign,314647.95,106,2968.38,565.41,4986.65
+Samsung,Large Malls / Complexes,Manager,Cashback Carnival,368779.53,126,2926.82,518.86,4997.90
+Samsung,Large Malls / Complexes,Manager,Clearance Countdown,312451.68,109,2866.53,515.09,4956.20
+Samsung,Large Malls / Complexes,Manager,Customer Appreciation Week,318005.20,109,2917.48,526.72,4967.80
+Samsung,Large Malls / Complexes,Manager,Double Points Bonanza,342809.06,125,2742.47,532.58,4978.35
+Samsung,Large Malls / Complexes,Manager,Flash Frenzy Friday,355014.78,123,2886.30,500.13,4995.77
+Samsung,Large Malls / Complexes,Manager,Happy Hour Discounts,305427.61,111,2751.60,510.48,4977.03
+Samsung,Large Malls / Complexes,Manager,Holiday Shopping Rush,303566.33,109,2785.01,586.50,4953.90
+Samsung,Large Malls / Complexes,Manager,Hot Picks Promo,358780.48,127,2825.04,528.71,4965.34
+Samsung,Large Malls / Complexes,Manager,Instant Gratification Sale,315316.81,112,2815.33,627.85,4961.75
+Samsung,Large Malls / Complexes,Manager,Limited Time Treasures,360984.50,121,2983.34,564.71,4949.13
+Samsung,Large Malls / Complexes,Manager,Loyalty Rewards Blast,338271.91,126,2684.70,505.77,4985.06
+Samsung,Large Malls / Complexes,Manager,Mega Weekend Bonanza,339817.15,119,2855.61,532.63,4970.11
+Samsung,Large Malls / Complexes,Manager,Mid-Year Madness,332445.99,122,2724.97,520.56,4998.26
+Samsung,Large Malls / Complexes,Manager,New Arrival Showcase,326374.36,116,2813.57,507.37,4992.15
+Samsung,Large Malls / Complexes,Manager,New Product Launch Promo,323443.90,117,2764.48,592.70,4985.56
+Samsung,Large Malls / Complexes,Manager,New Year Kickoff,300188.23,116,2587.83,507.98,4971.89
+Samsung,Large Malls / Complexes,Manager,Shop & Save Spectacular,347682.73,124,2803.89,520.81,4977.22
+Samsung,Large Malls / Complexes,Manager,VIP Access Sale,307225.36,109,2818.58,548.35,4946.52
+Samsung,Large Malls / Complexes,Manager,Weekend Warrior Specials,312506.76,103,3034.05,515.22,4863.00
+Samsung,Large Malls / Complexes,Manager,Winter Wonders Sale,309097.06,109,2835.75,516.72,4978.28
+Samsung,Large Malls / Complexes,Sales Associate,12 Days of Deals,344591.85,120,2871.60,514.86,4921.15
+Samsung,Large Malls / Complexes,Sales Associate,Autumn Deals Drive,336171.61,114,2948.87,556.96,4989.77
+Samsung,Large Malls / Complexes,Sales Associate,BOGO Blitz,361595.31,125,2892.76,533.84,4991.94
+Samsung,Large Malls / Complexes,Sales Associate,Cashback Carnival,332342.86,121,2746.64,515.62,4986.49
+Samsung,Large Malls / Complexes,Sales Associate,Clearance Countdown,336308.38,123,2734.21,502.39,4964.32
+Samsung,Large Malls / Complexes,Sales Associate,Countdown to Savings,307576.56,113,2721.92,521.10,4979.43
+Samsung,Large Malls / Complexes,Sales Associate,Customer Appreciation Week,353173.24,128,2759.17,504.71,4961.64
+Samsung,Large Malls / Complexes,Sales Associate,Double Points Bonanza,306784.60,106,2894.19,518.45,4979.42
+Samsung,Large Malls / Complexes,Sales Associate,Early Bird Specials,362609.62,134,2706.04,527.27,4983.43
+Samsung,Large Malls / Complexes,Sales Associate,Exclusive Insider Offers,304946.72,114,2674.97,587.75,4974.50
+Samsung,Large Malls / Complexes,Sales Associate,Final Call Frenzy,311346.50,113,2755.28,534.48,4997.52
+Samsung,Large Malls / Complexes,Sales Associate,Flash Frenzy Friday,316856.87,111,2854.57,546.76,4916.41
+Samsung,Large Malls / Complexes,Sales Associate,Golden Hour Bargains,311788.88,111,2808.91,550.53,4942.70
+Samsung,Large Malls / Complexes,Sales Associate,Green Weekend Deals,321549.51,116,2771.98,520.32,4993.63
+Samsung,Large Malls / Complexes,Sales Associate,Happy Hour Discounts,345950.13,127,2724.02,529.47,4968.42
+Samsung,Large Malls / Complexes,Sales Associate,Limited Time Treasures,311874.73,114,2735.74,516.28,4986.00
+Samsung,Large Malls / Complexes,Sales Associate,Loyalty Rewards Blast,316422.85,117,2704.47,519.51,4958.52
+Samsung,Large Malls / Complexes,Sales Associate,Mega Weekend Bonanza,311445.33,114,2731.98,505.51,4971.21
+Samsung,Large Malls / Complexes,Sales Associate,Mid-Year Madness,326293.71,117,2788.84,506.60,4943.37
+Samsung,Large Malls / Complexes,Sales Associate,Midnight Madness,305219.35,116,2631.20,510.68,4942.28
+Samsung,Large Malls / Complexes,Sales Associate,Mystery Discount Days,333259.26,114,2923.33,541.18,4946.31
+Samsung,Large Malls / Complexes,Sales Associate,New Arrival Showcase,334816.72,115,2911.45,519.02,4940.14
+Samsung,Large Malls / Complexes,Sales Associate,New Product Launch Promo,339527.42,130,2611.75,547.45,4941.70
+Samsung,Large Malls / Complexes,Sales Associate,New Year Kickoff,327772.74,122,2686.66,524.44,4968.65
+Samsung,Large Malls / Complexes,Sales Associate,Price Drop Parade,308734.18,116,2661.50,524.35,4947.46
+Samsung,Large Malls / Complexes,Sales Associate,Seasonal Surprise Box,312590.20,114,2742.02,526.49,4895.02
+Samsung,Large Malls / Complexes,Sales Associate,Smart Shopper Week,319714.65,113,2829.33,537.50,4990.93
+Samsung,Large Malls / Complexes,Sales Associate,Summer Sizzle Promo,339843.89,119,2855.83,612.97,4980.61
+Samsung,Large Malls / Complexes,Sales Associate,Super Savings Week,351430.55,120,2928.59,541.05,4991.38
+Samsung,Large Malls / Complexes,Sales Associate,Ultimate Value Event,319613.77,112,2853.69,595.75,4994.00
+Samsung,Large Malls / Complexes,Sales Associate,VIP Access Sale,308411.40,106,2909.54,508.20,4985.80
+Samsung,Large Malls / Complexes,Sales Associate,Weekend Warrior Specials,340097.65,131,2596.17,563.98,4886.65
+Samsung,Large Malls / Complexes,Salesperson,Autumn Deals Drive,338962.78,116,2922.09,502.40,4990.98
+Samsung,Large Malls / Complexes,Salesperson,BOGO Blitz,358532.48,132,2716.16,543.32,4957.90
+Samsung,Large Malls / Complexes,Salesperson,Birthday Bash Sale,316312.70,117,2703.53,584.45,4980.60
+Samsung,Large Malls / Complexes,Salesperson,Black Friday Blowout,307990.02,113,2725.58,529.17,4974.73
+Samsung,Large Malls / Complexes,Salesperson,Cart Crasher Campaign,346120.28,131,2642.14,540.58,4970.43
+Samsung,Large Malls / Complexes,Salesperson,Countdown to Savings,315377.27,112,2815.87,501.91,4985.72
+Samsung,Large Malls / Complexes,Salesperson,Cyber Monday Mania,322881.39,121,2668.44,547.01,4999.50
+Samsung,Large Malls / Complexes,Salesperson,Deal of the Month,334756.33,107,3128.56,535.60,4996.68
+Samsung,Large Malls / Complexes,Salesperson,Early Bird Specials,312670.28,109,2868.53,530.32,4993.50
+Samsung,Large Malls / Complexes,Salesperson,Exclusive Insider Offers,317194.16,117,2711.06,523.42,4999.90
+Samsung,Large Malls / Complexes,Salesperson,Final Call Frenzy,318373.56,117,2721.14,531.21,4984.59
+Samsung,Large Malls / Complexes,Salesperson,Flash Frenzy Friday,329472.61,125,2635.78,555.54,4953.81
+Samsung,Large Malls / Complexes,Salesperson,Golden Hour Bargains,332221.45,113,2940.01,538.84,4988.95
+Samsung,Large Malls / Complexes,Salesperson,Happy Hour Discounts,360392.29,122,2954.04,523.70,4938.49
+Samsung,Large Malls / Complexes,Salesperson,Instant Gratification Sale,331859.52,119,2788.74,521.93,4986.07
+Samsung,Large Malls / Complexes,Salesperson,Limited Time Treasures,330894.63,112,2954.42,512.94,4985.37
+Samsung,Large Malls / Complexes,Salesperson,Mystery Discount Days,315852.33,110,2871.38,576.77,4999.42
+Samsung,Large Malls / Complexes,Salesperson,New Arrival Showcase,317468.14,107,2966.99,569.81,4977.80
+Samsung,Large Malls / Complexes,Salesperson,New Product Launch Promo,320691.92,120,2672.43,562.02,4971.54
+Samsung,Large Malls / Complexes,Salesperson,New Year Kickoff,304468.76,107,2845.50,515.37,4984.12
+Samsung,Large Malls / Complexes,Salesperson,Price Drop Parade,312349.70,111,2813.96,580.22,4968.33
+Samsung,Large Malls / Complexes,Salesperson,Spring Splash Discounts,327660.46,116,2824.66,552.20,4991.07
+Samsung,Large Malls / Complexes,Salesperson,Summer Sizzle Promo,307203.86,115,2671.34,515.39,4957.59
+Samsung,Large Malls / Complexes,Salesperson,Ultimate Value Event,308047.52,114,2702.17,517.40,4988.25
+Samsung,Large Malls / Complexes,Salesperson,Weekend Warrior Specials,317480.70,110,2886.19,554.21,4998.12
+Samsung,Large Malls / Complexes,Senior Salesperson,Mega Weekend Bonanza,324615.70,115,2822.75,504.44,4951.85
+Samsung,Large Malls / Complexes,Senior Salesperson,New Arrival Showcase,365471.34,129,2833.11,545.24,4964.34
+Samsung,Large Malls / Complexes,Senior Salesperson,Summer Sizzle Promo,313567.21,104,3015.07,607.06,4955.59
+Samsung,Large Malls / Complexes,Senior Salesperson,Weekend Warrior Specials,323509.97,119,2718.57,525.52,4972.17
+Samsung,Small Stores / Shops,Manager,Autumn Deals Drive,320700.14,116,2764.66,511.08,4978.05
+Samsung,Small Stores / Shops,Manager,BOGO Blitz,334109.38,119,2807.64,542.82,4982.68
+Samsung,Small Stores / Shops,Manager,Back to School Boost,325047.34,121,2686.34,526.33,4995.60
+Samsung,Small Stores / Shops,Manager,Birthday Bash Sale,335972.57,122,2753.87,500.93,4993.71
+Samsung,Small Stores / Shops,Manager,Black Friday Blowout,344648.18,131,2630.90,506.66,4933.50
+Samsung,Small Stores / Shops,Manager,Cart Crasher Campaign,300596.17,108,2783.30,523.17,4840.76
+Samsung,Small Stores / Shops,Manager,Clearance Countdown,337603.16,117,2885.50,556.67,4965.91
+Samsung,Small Stores / Shops,Manager,Countdown to Savings,416493.42,140,2974.95,643.55,4965.00
+Samsung,Small Stores / Shops,Manager,Customer Appreciation Week,304559.62,108,2820.00,531.71,4906.91
+Samsung,Small Stores / Shops,Manager,Cyber Monday Mania,347450.71,122,2847.96,524.70,4982.24
+Samsung,Small Stores / Shops,Manager,Early Bird Specials,383290.49,132,2903.72,566.32,4954.41
+Samsung,Small Stores / Shops,Manager,End of Season Sale,338897.90,123,2755.27,548.22,4959.05
+Samsung,Small Stores / Shops,Manager,Exclusive Insider Offers,325168.15,118,2755.66,501.41,4993.19
+Samsung,Small Stores / Shops,Manager,Festive Fever Promo,338200.21,126,2684.13,532.81,4928.98
+Samsung,Small Stores / Shops,Manager,Final Call Frenzy,313151.03,117,2676.50,546.98,4965.45
+Samsung,Small Stores / Shops,Manager,Golden Hour Bargains,313247.82,106,2955.17,519.85,4935.42
+Samsung,Small Stores / Shops,Manager,Hot Picks Promo,342456.89,119,2877.79,506.73,4972.88
+Samsung,Small Stores / Shops,Manager,Instant Gratification Sale,347112.29,126,2754.86,524.20,4985.06
+Samsung,Small Stores / Shops,Manager,Loyalty Rewards Blast,386153.98,136,2839.37,582.01,4963.45
+Samsung,Small Stores / Shops,Manager,Mega Weekend Bonanza,340807.44,120,2840.06,535.22,4987.17
+Samsung,Small Stores / Shops,Manager,Mid-Year Madness,314479.45,118,2665.08,535.06,4993.34
+Samsung,Small Stores / Shops,Manager,New Arrival Showcase,340958.64,127,2684.71,536.63,4997.28
+Samsung,Small Stores / Shops,Manager,New Product Launch Promo,302054.36,115,2626.56,518.50,4866.73
+Samsung,Small Stores / Shops,Manager,New Year Kickoff,324172.24,104,3117.04,627.20,4940.93
+Samsung,Small Stores / Shops,Manager,Seasonal Surprise Box,303909.19,118,2575.50,527.91,4980.30
+Samsung,Small Stores / Shops,Manager,Shop & Save Spectacular,331179.23,119,2783.02,530.90,4993.50
+Samsung,Small Stores / Shops,Manager,Smart Shopper Week,360577.15,130,2773.67,519.48,4975.74
+Samsung,Small Stores / Shops,Manager,Spring Splash Discounts,320197.47,119,2690.74,535.77,4928.47
+Samsung,Small Stores / Shops,Manager,Summer Sizzle Promo,325224.80,117,2779.70,506.50,4819.82
+Samsung,Small Stores / Shops,Manager,Super Savings Week,303512.36,108,2810.30,504.67,4948.15
+Samsung,Small Stores / Shops,Manager,Ultimate Value Event,356735.23,130,2744.12,518.50,4998.14
+Samsung,Small Stores / Shops,Manager,VIP Access Sale,302961.70,111,2729.38,571.15,4962.67
+Samsung,Small Stores / Shops,Manager,Winter Clearance Carnival,352839.98,126,2800.32,533.60,4981.11
+Samsung,Small Stores / Shops,Manager,Winter Wonders Sale,306859.76,109,2815.23,517.03,4992.13
+Samsung,Small Stores / Shops,Sales Associate,12 Days of Deals,308270.14,114,2704.12,617.77,4982.28
+Samsung,Small Stores / Shops,Sales Associate,Autumn Deals Drive,335821.88,127,2644.27,502.24,4930.95
+Samsung,Small Stores / Shops,Sales Associate,Back to School Boost,350443.57,125,2803.55,520.12,4994.30
+Samsung,Small Stores / Shops,Sales Associate,Birthday Bash Sale,335726.00,118,2845.14,545.06,4979.35
+Samsung,Small Stores / Shops,Sales Associate,Cart Crasher Campaign,325322.72,118,2756.97,574.20,4999.98
+Samsung,Small Stores / Shops,Sales Associate,Cashback Carnival,309287.97,111,2786.38,511.92,4939.56
+Samsung,Small Stores / Shops,Sales Associate,Clearance Countdown,341453.46,117,2918.41,547.43,4988.35
+Samsung,Small Stores / Shops,Sales Associate,Countdown to Savings,349001.74,124,2814.53,513.42,4991.19
+Samsung,Small Stores / Shops,Sales Associate,Customer Appreciation Week,324212.60,114,2843.97,592.99,4937.55
+Samsung,Small Stores / Shops,Sales Associate,Cyber Monday Mania,349591.35,120,2913.26,523.29,4984.62
+Samsung,Small Stores / Shops,Sales Associate,Deal of the Month,327292.15,114,2870.98,500.38,4972.81
+Samsung,Small Stores / Shops,Sales Associate,Double Points Bonanza,338667.14,116,2919.54,538.72,4997.47
+Samsung,Small Stores / Shops,Sales Associate,Early Bird Specials,306417.03,109,2811.17,521.02,4977.50
+Samsung,Small Stores / Shops,Sales Associate,Festive Fever Promo,345875.49,122,2835.04,612.91,4991.72
+Samsung,Small Stores / Shops,Sales Associate,Final Call Frenzy,305251.57,114,2677.65,523.67,4953.74
+Samsung,Small Stores / Shops,Sales Associate,Flash Frenzy Friday,366581.58,133,2756.25,520.17,4945.54
+Samsung,Small Stores / Shops,Sales Associate,Golden Hour Bargains,333408.81,120,2778.41,506.47,4994.43
+Samsung,Small Stores / Shops,Sales Associate,Green Weekend Deals,373977.85,141,2652.33,517.59,4973.81
+Samsung,Small Stores / Shops,Sales Associate,Happy Hour Discounts,319866.69,118,2710.73,501.29,4998.71
+Samsung,Small Stores / Shops,Sales Associate,Holiday Shopping Rush,358347.17,129,2777.89,540.09,4986.64
+Samsung,Small Stores / Shops,Sales Associate,Hot Picks Promo,388335.45,135,2876.56,617.49,4973.51
+Samsung,Small Stores / Shops,Sales Associate,Limited Time Treasures,354432.47,128,2769.00,543.65,4978.18
+Samsung,Small Stores / Shops,Sales Associate,Loyalty Rewards Blast,348507.49,127,2744.15,515.91,4980.77
+Samsung,Small Stores / Shops,Sales Associate,Mega Weekend Bonanza,350519.65,130,2696.30,514.77,4977.13
+Samsung,Small Stores / Shops,Sales Associate,Mid-Year Madness,383250.67,133,2881.58,503.72,4967.38
+Samsung,Small Stores / Shops,Sales Associate,Midnight Madness,333354.87,117,2849.19,526.07,4928.04
+Samsung,Small Stores / Shops,Sales Associate,Mystery Discount Days,334911.51,117,2862.49,537.24,4963.35
+Samsung,Small Stores / Shops,Sales Associate,New Arrival Showcase,314186.12,126,2493.54,612.96,4804.95
+Samsung,Small Stores / Shops,Sales Associate,New Product Launch Promo,324415.67,116,2796.69,515.78,4962.53
+Samsung,Small Stores / Shops,Sales Associate,New Year Kickoff,300446.05,116,2590.05,531.35,4894.06
+Samsung,Small Stores / Shops,Sales Associate,Shop & Save Spectacular,301003.77,103,2922.37,500.21,4972.29
+Samsung,Small Stores / Shops,Sales Associate,Smart Shopper Week,325078.65,116,2802.40,522.78,4968.66
+Samsung,Small Stores / Shops,Sales Associate,Spring Splash Discounts,331929.52,112,2963.66,524.84,4969.33
+Samsung,Small Stores / Shops,Sales Associate,Summer Sizzle Promo,341173.56,121,2819.62,532.52,4986.41
+Samsung,Small Stores / Shops,Sales Associate,Super Savings Week,343564.03,131,2622.63,505.74,4990.42
+Samsung,Small Stores / Shops,Sales Associate,Ultimate Value Event,311862.69,114,2735.64,537.83,4999.45
+Samsung,Small Stores / Shops,Sales Associate,VIP Access Sale,396651.58,134,2960.09,584.46,4988.37
+Samsung,Small Stores / Shops,Sales Associate,Weekend Warrior Specials,340406.42,119,2860.56,507.28,4991.20
+Samsung,Small Stores / Shops,Sales Associate,Winter Clearance Carnival,354175.76,127,2788.79,504.61,4885.96
+Samsung,Small Stores / Shops,Sales Associate,Winter Wonders Sale,326985.21,124,2636.98,520.00,4966.96
+Samsung,Small Stores / Shops,Salesperson,12 Days of Deals,366799.32,131,2799.99,526.40,4994.43
+Samsung,Small Stores / Shops,Salesperson,Autumn Deals Drive,325705.23,122,2669.71,579.49,4816.65
+Samsung,Small Stores / Shops,Salesperson,BOGO Blitz,333963.21,127,2629.63,517.35,4973.26
+Samsung,Small Stores / Shops,Salesperson,Back to School Boost,342259.98,122,2805.41,500.09,4960.80
+Samsung,Small Stores / Shops,Salesperson,Birthday Bash Sale,324122.16,121,2678.70,509.75,4991.29
+Samsung,Small Stores / Shops,Salesperson,Black Friday Blowout,311133.48,122,2550.27,504.18,4867.12
+Samsung,Small Stores / Shops,Salesperson,Cashback Carnival,371478.80,134,2772.23,509.79,4992.77
+Samsung,Small Stores / Shops,Salesperson,Clearance Countdown,326341.37,116,2813.29,515.25,4969.63
+Samsung,Small Stores / Shops,Salesperson,Customer Appreciation Week,325350.88,120,2711.26,534.07,4908.37
+Samsung,Small Stores / Shops,Salesperson,Cyber Monday Mania,315284.83,107,2946.59,521.06,4946.29
+Samsung,Small Stores / Shops,Salesperson,Deal of the Month,311456.73,114,2732.08,524.75,4962.86
+Samsung,Small Stores / Shops,Salesperson,Double Points Bonanza,321143.79,119,2698.69,561.95,4952.36
+Samsung,Small Stores / Shops,Salesperson,Early Bird Specials,321528.67,120,2679.41,507.35,4906.82
+Samsung,Small Stores / Shops,Salesperson,Exclusive Insider Offers,305502.24,119,2567.25,507.60,4937.90
+Samsung,Small Stores / Shops,Salesperson,Festive Fever Promo,324198.63,120,2701.66,519.86,4972.10
+Samsung,Small Stores / Shops,Salesperson,Flash Frenzy Friday,302811.43,120,2523.43,504.11,4916.87
+Samsung,Small Stores / Shops,Salesperson,"Gift More, Spend Less",406385.04,146,2783.46,569.57,4989.93
+Samsung,Small Stores / Shops,Salesperson,Golden Hour Bargains,320189.46,115,2784.26,525.51,4935.86
+Samsung,Small Stores / Shops,Salesperson,Green Weekend Deals,376285.96,128,2939.73,517.16,4985.24
+Samsung,Small Stores / Shops,Salesperson,Happy Hour Discounts,357695.79,130,2751.51,509.46,4992.52
+Samsung,Small Stores / Shops,Salesperson,Holiday Shopping Rush,321908.04,117,2751.35,521.30,4956.99
+Samsung,Small Stores / Shops,Salesperson,Instant Gratification Sale,328234.76,119,2758.28,538.15,4975.90
+Samsung,Small Stores / Shops,Salesperson,Limited Time Treasures,310843.38,119,2612.13,558.96,4983.39
+Samsung,Small Stores / Shops,Salesperson,Loyalty Rewards Blast,336036.04,125,2688.29,501.61,4914.59
+Samsung,Small Stores / Shops,Salesperson,Mega Weekend Bonanza,301504.86,117,2576.96,550.73,4978.71
+Samsung,Small Stores / Shops,Salesperson,Mid-Year Madness,388822.69,143,2719.04,542.98,4992.99
+Samsung,Small Stores / Shops,Salesperson,Midnight Madness,302220.29,116,2605.35,514.45,4986.24
+Samsung,Small Stores / Shops,Salesperson,Mystery Discount Days,362968.65,130,2792.07,563.69,4964.32
+Samsung,Small Stores / Shops,Salesperson,New Arrival Showcase,302413.87,108,2800.13,527.42,4893.78
+Samsung,Small Stores / Shops,Salesperson,New Product Launch Promo,328525.00,121,2715.08,518.01,4954.13
+Samsung,Small Stores / Shops,Salesperson,New Year Kickoff,338529.88,123,2752.28,580.88,4999.87
+Samsung,Small Stores / Shops,Salesperson,Red Tag Clearance,303398.75,107,2835.50,525.61,4969.94
+Samsung,Small Stores / Shops,Salesperson,Seasonal Surprise Box,359072.85,121,2967.54,509.87,4973.56
+Samsung,Small Stores / Shops,Salesperson,Smart Shopper Week,303215.29,110,2756.50,536.04,4934.68
+Samsung,Small Stores / Shops,Salesperson,Spring Refresh Event,322032.14,117,2752.41,513.14,4970.92
+Samsung,Small Stores / Shops,Salesperson,Spring Splash Discounts,307299.22,112,2743.74,503.09,4998.87
+Samsung,Small Stores / Shops,Salesperson,Summer Sizzle Promo,322086.44,117,2752.88,517.69,4885.16
+Samsung,Small Stores / Shops,Salesperson,Super Savings Week,321347.55,118,2723.28,523.10,4927.35
+Samsung,Small Stores / Shops,Salesperson,Ultimate Value Event,342840.23,117,2930.26,503.38,4982.68
+Samsung,Small Stores / Shops,Salesperson,VIP Access Sale,306779.63,122,2514.59,583.15,4965.51
+Samsung,Small Stores / Shops,Salesperson,Weekend Warrior Specials,326806.20,113,2892.09,656.11,4897.04
+Samsung,Small Stores / Shops,Salesperson,Winter Wonders Sale,361505.51,119,3037.86,638.12,4992.52
+Samsung,Small Stores / Shops,Senior Salesperson,12 Days of Deals,318092.06,117,2718.74,530.57,4978.14
+Samsung,Small Stores / Shops,Senior Salesperson,Black Friday Blowout,320456.67,116,2762.56,578.05,4999.22
+Samsung,Small Stores / Shops,Senior Salesperson,Countdown to Savings,328866.55,116,2835.06,541.03,4979.64
+Samsung,Small Stores / Shops,Senior Salesperson,Customer Appreciation Week,340415.40,119,2860.63,510.74,4936.14
+Samsung,Small Stores / Shops,Senior Salesperson,Final Call Frenzy,336313.17,114,2950.12,558.36,4976.41
+Samsung,Small Stores / Shops,Senior Salesperson,Holiday Shopping Rush,306865.71,112,2739.87,515.18,4936.68
+Samsung,Small Stores / Shops,Senior Salesperson,Mega Weekend Bonanza,352671.11,117,3014.28,515.84,4999.69
+Samsung,Small Stores / Shops,Senior Salesperson,Price Drop Parade,345467.01,112,3084.53,510.91,4992.49
+Samsung,Small Stores / Shops,Senior Salesperson,Seasonal Surprise Box,314625.95,116,2712.29,501.42,4997.09
+Samsung,Small Stores / Shops,Senior Salesperson,Smart Shopper Week,347334.64,122,2847.01,513.30,4937.11
+Samsung,Small Stores / Shops,Senior Salesperson,Super Savings Week,323953.38,112,2892.44,508.47,4966.36
+Samsung,Supermarkets ,Manager,12 Days of Deals,385724.29,134,2878.54,594.80,4962.41
+Samsung,Supermarkets ,Manager,Autumn Deals Drive,301899.43,116,2602.58,517.11,4995.69
+Samsung,Supermarkets ,Manager,BOGO Blitz,304461.68,113,2694.35,662.52,4972.42
+Samsung,Supermarkets ,Manager,Back to School Boost,346281.09,133,2603.62,518.61,4953.10
+Samsung,Supermarkets ,Manager,Black Friday Blowout,300938.81,102,2950.38,660.82,4977.98
+Samsung,Supermarkets ,Manager,Cart Crasher Campaign,311038.34,111,2802.15,679.76,4966.76
+Samsung,Supermarkets ,Manager,Cashback Carnival,359148.70,130,2762.68,500.13,4984.45
+Samsung,Supermarkets ,Manager,Clearance Countdown,324215.70,112,2894.78,550.13,4891.58
+Samsung,Supermarkets ,Manager,Countdown to Savings,350427.35,124,2826.03,527.46,4891.41
+Samsung,Supermarkets ,Manager,Cyber Monday Mania,340911.29,114,2990.45,531.13,4988.75
+Samsung,Supermarkets ,Manager,Deal of the Month,369656.27,131,2821.80,523.74,4998.97
+Samsung,Supermarkets ,Manager,Double Points Bonanza,317794.02,110,2889.04,523.16,4998.07
+Samsung,Supermarkets ,Manager,Early Bird Specials,325588.31,114,2856.04,562.71,4958.44
+Samsung,Supermarkets ,Manager,End of Season Sale,345872.56,125,2766.98,524.26,4968.29
+Samsung,Supermarkets ,Manager,Exclusive Insider Offers,305845.83,105,2912.82,579.45,4991.18
+Samsung,Supermarkets ,Manager,Final Call Frenzy,351104.05,122,2877.90,512.89,4979.51
+Samsung,Supermarkets ,Manager,Flash Frenzy Friday,312780.62,110,2843.46,581.20,4987.89
+Samsung,Supermarkets ,Manager,"Gift More, Spend Less",307227.57,106,2898.37,505.10,4967.30
+Samsung,Supermarkets ,Manager,Golden Hour Bargains,351034.84,129,2721.20,584.18,4961.80
+Samsung,Supermarkets ,Manager,Happy Hour Discounts,310585.62,111,2798.07,503.77,4984.64
+Samsung,Supermarkets ,Manager,Holiday Shopping Rush,316423.82,123,2572.55,528.74,4966.28
+Samsung,Supermarkets ,Manager,Loyalty Rewards Blast,317331.07,114,2783.61,534.10,4988.95
+Samsung,Supermarkets ,Manager,Mega Weekend Bonanza,332561.87,127,2618.60,502.17,4992.12
+Samsung,Supermarkets ,Manager,Mid-Year Madness,385750.84,136,2836.40,533.65,4951.82
+Samsung,Supermarkets ,Manager,Midnight Madness,378098.09,135,2800.73,550.95,4980.01
+Samsung,Supermarkets ,Manager,Mystery Discount Days,379982.62,147,2584.92,515.93,4977.69
+Samsung,Supermarkets ,Manager,New Arrival Showcase,329368.26,122,2699.74,506.53,4990.25
+Samsung,Supermarkets ,Manager,New Year Kickoff,309249.09,107,2890.18,536.17,4975.10
+Samsung,Supermarkets ,Manager,Red Tag Clearance,330155.05,117,2821.84,547.20,4918.39
+Samsung,Supermarkets ,Manager,Shop & Save Spectacular,364300.25,124,2937.91,537.41,4985.96
+Samsung,Supermarkets ,Manager,Smart Shopper Week,377972.47,135,2799.80,561.16,4977.17
+Samsung,Supermarkets ,Manager,Spring Splash Discounts,319579.03,115,2778.95,549.60,4983.63
+Samsung,Supermarkets ,Manager,Super Savings Week,323223.43,121,2671.27,537.57,4926.85
+Samsung,Supermarkets ,Manager,Ultimate Value Event,336458.35,130,2588.14,514.22,4984.60
+Samsung,Supermarkets ,Manager,Weekend Warrior Specials,344381.48,121,2846.13,536.89,4996.60
+Samsung,Supermarkets ,Manager,Winter Clearance Carnival,359446.19,134,2682.43,509.72,4986.95
+Samsung,Supermarkets ,Manager,Winter Wonders Sale,374628.02,132,2838.09,505.92,4961.32
+Samsung,Supermarkets ,Sales Associate,12 Days of Deals,325257.56,106,3068.47,628.55,4973.34
+Samsung,Supermarkets ,Sales Associate,Autumn Deals Drive,316777.52,113,2803.34,544.18,4960.92
+Samsung,Supermarkets ,Sales Associate,BOGO Blitz,370029.42,135,2740.96,515.13,4947.13
+Samsung,Supermarkets ,Sales Associate,Back to School Boost,321180.53,117,2745.13,525.35,4962.45
+Samsung,Supermarkets ,Sales Associate,Birthday Bash Sale,382481.51,134,2854.34,518.74,4946.00
+Samsung,Supermarkets ,Sales Associate,Cart Crasher Campaign,330353.41,127,2601.21,570.90,4959.64
+Samsung,Supermarkets ,Sales Associate,Cashback Carnival,317250.74,119,2665.97,503.09,4979.85
+Samsung,Supermarkets ,Sales Associate,Countdown to Savings,354225.72,128,2767.39,509.30,4944.09
+Samsung,Supermarkets ,Sales Associate,Customer Appreciation Week,321219.80,117,2745.47,521.08,4984.07
+Samsung,Supermarkets ,Sales Associate,Cyber Monday Mania,355274.42,123,2888.41,516.57,4974.84
+Samsung,Supermarkets ,Sales Associate,Deal of the Month,349324.96,130,2687.12,501.29,4953.10
+Samsung,Supermarkets ,Sales Associate,Double Points Bonanza,361212.71,127,2844.19,505.53,4972.37
+Samsung,Supermarkets ,Sales Associate,Early Bird Specials,333748.25,121,2758.25,511.37,4996.45
+Samsung,Supermarkets ,Sales Associate,End of Season Sale,368525.35,136,2709.75,507.40,4976.59
+Samsung,Supermarkets ,Sales Associate,Festive Fever Promo,379968.64,129,2945.49,525.05,4994.70
+Samsung,Supermarkets ,Sales Associate,Final Call Frenzy,342364.25,121,2829.46,504.31,4995.18
+Samsung,Supermarkets ,Sales Associate,"Gift More, Spend Less",372633.16,133,2801.75,514.71,4988.95
+Samsung,Supermarkets ,Sales Associate,Golden Hour Bargains,348756.73,115,3032.67,575.71,4947.71
+Samsung,Supermarkets ,Sales Associate,Green Weekend Deals,307108.04,108,2843.59,682.33,4983.44
+Samsung,Supermarkets ,Sales Associate,Happy Hour Discounts,365776.26,133,2750.20,500.78,4940.79
+Samsung,Supermarkets ,Sales Associate,Holiday Shopping Rush,348464.86,136,2562.24,500.68,4970.90
+Samsung,Supermarkets ,Sales Associate,Hot Picks Promo,326295.54,125,2610.36,546.84,4945.63
+Samsung,Supermarkets ,Sales Associate,Instant Gratification Sale,357471.93,131,2728.79,515.65,4978.04
+Samsung,Supermarkets ,Sales Associate,Limited Time Treasures,338789.77,120,2823.25,631.10,4839.34
+Samsung,Supermarkets ,Sales Associate,Loyalty Rewards Blast,334470.39,120,2787.25,547.23,4983.73
+Samsung,Supermarkets ,Sales Associate,Mid-Year Madness,314478.18,119,2642.67,551.03,4936.88
+Samsung,Supermarkets ,Sales Associate,Midnight Madness,418470.47,143,2926.37,517.24,4979.97
+Samsung,Supermarkets ,Sales Associate,Mystery Discount Days,350277.24,124,2824.82,511.29,4965.62
+Samsung,Supermarkets ,Sales Associate,New Arrival Showcase,349223.25,124,2816.32,533.05,4988.98
+Samsung,Supermarkets ,Sales Associate,New Product Launch Promo,353744.21,130,2721.11,509.22,4928.84
+Samsung,Supermarkets ,Sales Associate,New Year Kickoff,326830.40,122,2678.94,514.07,4999.63
+Samsung,Supermarkets ,Sales Associate,Shop & Save Spectacular,303834.84,99,3069.04,518.47,4958.34
+Samsung,Supermarkets ,Sales Associate,Smart Shopper Week,360917.89,139,2596.53,533.98,4983.19
+Samsung,Supermarkets ,Sales Associate,Spring Splash Discounts,326396.48,122,2675.38,504.51,4994.95
+Samsung,Supermarkets ,Sales Associate,Summer Sizzle Promo,340380.70,120,2836.51,596.02,4960.98
+Samsung,Supermarkets ,Sales Associate,Super Savings Week,353663.55,127,2784.75,513.41,4985.76
+Samsung,Supermarkets ,Sales Associate,Ultimate Value Event,352848.57,127,2778.34,528.49,4994.79
+Samsung,Supermarkets ,Sales Associate,VIP Access Sale,359603.70,129,2787.63,502.59,4924.71
+Samsung,Supermarkets ,Sales Associate,Weekend Warrior Specials,328422.83,111,2958.76,522.54,4910.74
+Samsung,Supermarkets ,Sales Associate,Winter Clearance Carnival,390008.70,136,2867.71,518.60,4996.11
+Samsung,Supermarkets ,Sales Associate,Winter Wonders Sale,339625.01,124,2738.91,501.94,4997.89
+Samsung,Supermarkets ,Salesperson,12 Days of Deals,315407.76,114,2766.73,541.16,4849.78
+Samsung,Supermarkets ,Salesperson,BOGO Blitz,345695.70,111,3114.38,559.59,4998.46
+Samsung,Supermarkets ,Salesperson,Back to School Boost,331775.27,119,2788.03,532.91,4969.44
+Samsung,Supermarkets ,Salesperson,Birthday Bash Sale,301471.77,113,2667.89,508.34,4936.85
+Samsung,Supermarkets ,Salesperson,Cart Crasher Campaign,369982.99,131,2824.30,505.92,4938.24
+Samsung,Supermarkets ,Salesperson,Cashback Carnival,308684.99,113,2731.73,537.74,4918.64
+Samsung,Supermarkets ,Salesperson,Countdown to Savings,349914.79,124,2821.89,521.52,4976.24
+Samsung,Supermarkets ,Salesperson,Customer Appreciation Week,339824.70,125,2718.60,607.92,4917.03
+Samsung,Supermarkets ,Salesperson,Cyber Monday Mania,355042.40,119,2983.55,504.82,4956.50
+Samsung,Supermarkets ,Salesperson,Deal of the Month,316824.96,118,2684.96,540.78,4962.34
+Samsung,Supermarkets ,Salesperson,Double Points Bonanza,334347.88,117,2857.67,528.30,4939.74
+Samsung,Supermarkets ,Salesperson,Early Bird Specials,309284.04,114,2713.02,536.64,4989.29
+Samsung,Supermarkets ,Salesperson,Festive Fever Promo,302595.45,114,2654.35,526.91,4996.31
+Samsung,Supermarkets ,Salesperson,Final Call Frenzy,309032.97,116,2664.08,503.00,4994.08
+Samsung,Supermarkets ,Salesperson,"Gift More, Spend Less",349359.84,127,2750.86,544.77,4958.48
+Samsung,Supermarkets ,Salesperson,Golden Hour Bargains,345364.86,116,2977.28,613.63,4982.37
+Samsung,Supermarkets ,Salesperson,Happy Hour Discounts,307227.00,109,2818.60,745.12,4902.40
+Samsung,Supermarkets ,Salesperson,Holiday Shopping Rush,365872.63,125,2926.98,515.99,4986.89
+Samsung,Supermarkets ,Salesperson,Hot Picks Promo,345136.44,119,2900.31,604.11,4969.81
+Samsung,Supermarkets ,Salesperson,Limited Time Treasures,333920.79,120,2782.67,548.21,4768.27
+Samsung,Supermarkets ,Salesperson,Loyalty Rewards Blast,371289.86,134,2770.82,519.49,4989.79
+Samsung,Supermarkets ,Salesperson,Mega Weekend Bonanza,318998.71,127,2511.80,513.00,4805.95
+Samsung,Supermarkets ,Salesperson,Mid-Year Madness,314185.05,110,2856.23,527.42,4879.78
+Samsung,Supermarkets ,Salesperson,Midnight Madness,330893.91,124,2668.50,500.93,4994.53
+Samsung,Supermarkets ,Salesperson,New Product Launch Promo,329831.18,115,2868.10,521.36,4994.66
+Samsung,Supermarkets ,Salesperson,New Year Kickoff,337519.05,113,2986.89,680.21,4973.91
+Samsung,Supermarkets ,Salesperson,Price Drop Parade,344629.61,132,2610.83,508.61,4931.27
+Samsung,Supermarkets ,Salesperson,Red Tag Clearance,310767.87,116,2679.03,541.51,4993.37
+Samsung,Supermarkets ,Salesperson,Seasonal Surprise Box,354127.69,130,2724.06,521.59,4995.48
+Samsung,Supermarkets ,Salesperson,Shop & Save Spectacular,337844.35,123,2746.70,578.81,4990.57
+Samsung,Supermarkets ,Salesperson,Smart Shopper Week,331201.75,127,2607.89,550.74,4999.66
+Samsung,Supermarkets ,Salesperson,Spring Refresh Event,350113.26,127,2756.80,550.67,4951.67
+Samsung,Supermarkets ,Salesperson,Spring Splash Discounts,334534.77,124,2697.86,516.49,4933.80
+Samsung,Supermarkets ,Salesperson,Summer Sizzle Promo,349651.07,117,2988.47,570.35,4977.21
+Samsung,Supermarkets ,Salesperson,Super Savings Week,347757.75,121,2874.03,563.36,4987.38
+Samsung,Supermarkets ,Salesperson,Ultimate Value Event,325833.59,123,2649.05,519.08,4938.58
+Samsung,Supermarkets ,Salesperson,VIP Access Sale,311965.69,119,2621.56,626.22,4996.47
+Samsung,Supermarkets ,Salesperson,Weekend Warrior Specials,394079.54,139,2835.10,510.76,4999.71
+Samsung,Supermarkets ,Salesperson,Winter Clearance Carnival,331010.26,121,2735.62,521.61,4965.11
+Samsung,Supermarkets ,Salesperson,Winter Wonders Sale,429057.04,147,2918.76,528.97,4991.58
+Samsung,Supermarkets ,Senior Salesperson,Black Friday Blowout,303851.48,112,2712.96,503.82,4917.17
+Samsung,Supermarkets ,Senior Salesperson,Cashback Carnival,324842.84,123,2641.00,552.94,4996.35
+Samsung,Supermarkets ,Senior Salesperson,Clearance Countdown,305107.04,110,2773.70,531.90,4973.08
+Samsung,Supermarkets ,Senior Salesperson,Countdown to Savings,313036.01,110,2845.78,575.88,4994.85
+Samsung,Supermarkets ,Senior Salesperson,Customer Appreciation Week,302425.06,109,2774.54,531.88,4845.92
+Samsung,Supermarkets ,Senior Salesperson,Deal of the Month,351779.50,124,2836.93,505.98,4974.10
+Samsung,Supermarkets ,Senior Salesperson,Exclusive Insider Offers,310266.17,107,2899.68,522.09,4939.40
+Samsung,Supermarkets ,Senior Salesperson,Golden Hour Bargains,314841.35,105,2998.49,523.41,4991.12
+Samsung,Supermarkets ,Senior Salesperson,Happy Hour Discounts,342552.42,115,2978.72,504.21,4968.70
+Samsung,Supermarkets ,Senior Salesperson,Holiday Shopping Rush,305690.86,109,2804.50,547.39,4988.20
+Samsung,Supermarkets ,Senior Salesperson,Instant Gratification Sale,311903.01,111,2809.94,579.09,4978.27
+Samsung,Supermarkets ,Senior Salesperson,Limited Time Treasures,313424.09,122,2569.05,500.36,4970.37
+Samsung,Supermarkets ,Senior Salesperson,Loyalty Rewards Blast,355720.71,126,2823.18,503.22,4931.83
+Samsung,Supermarkets ,Senior Salesperson,Mega Weekend Bonanza,337102.81,117,2881.22,624.01,4978.57
+Samsung,Supermarkets ,Senior Salesperson,New Arrival Showcase,306646.12,110,2787.69,503.69,4995.02
+Samsung,Supermarkets ,Senior Salesperson,New Product Launch Promo,302627.72,111,2726.38,540.01,4974.77
+Samsung,Supermarkets ,Senior Salesperson,New Year Kickoff,306507.64,109,2812.00,501.98,4998.67
+Samsung,Supermarkets ,Senior Salesperson,Red Tag Clearance,305270.07,112,2725.63,574.94,4959.37
+Samsung,Supermarkets ,Senior Salesperson,Spring Splash Discounts,310971.95,110,2827.02,586.65,4907.54
+Samsung,Supermarkets ,Senior Salesperson,VIP Access Sale,318116.24,118,2695.90,529.14,4983.18
+Samsung,Supermarkets ,Senior Salesperson,Winter Wonders Sale,323192.66,117,2762.33,558.71,4974.22

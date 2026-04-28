@@ -1,0 +1,241 @@
+category,customer_segment,salesperson_role,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Budget Shopper,Manager,11302397.26,4088,2764.77,501.91,4999.12
+Clothing,Budget Shopper,Sales Associate,12151504.00,4439,2737.44,501.09,4999.85
+Clothing,Budget Shopper,Salesperson,11773157.83,4269,2757.83,501.20,4999.95
+Clothing,Budget Shopper,Senior Salesperson,10495145.18,3804,2758.98,503.90,4999.08
+Clothing,Churn Risk,Manager,11455304.45,4191,2733.31,500.17,4998.58
+Clothing,Churn Risk,Sales Associate,11912955.31,4380,2719.85,500.57,4999.91
+Clothing,Churn Risk,Salesperson,12043462.28,4357,2764.16,500.82,4999.45
+Clothing,Churn Risk,Senior Salesperson,10386868.72,3786,2743.49,501.92,4999.86
+Clothing,Deal Seeker,Manager,11764663.62,4243,2772.72,500.55,4998.11
+Clothing,Deal Seeker,Sales Associate,12022012.49,4394,2736.01,500.14,4996.30
+Clothing,Deal Seeker,Salesperson,12084984.68,4453,2713.90,501.46,4998.97
+Clothing,Deal Seeker,Senior Salesperson,10348710.99,3771,2744.29,500.07,4999.81
+Clothing,First-time Buyer,Manager,11183366.03,4080,2741.02,500.37,4999.40
+Clothing,First-time Buyer,Sales Associate,11852242.56,4324,2741.04,500.27,4999.23
+Clothing,First-time Buyer,Salesperson,11793373.55,4275,2758.68,502.13,4999.82
+Clothing,First-time Buyer,Senior Salesperson,10615728.08,3746,2833.88,501.24,4999.98
+Clothing,High Value,Manager,11520859.65,4213,2734.60,500.17,4999.38
+Clothing,High Value,Sales Associate,12035272.57,4384,2745.27,500.77,4999.95
+Clothing,High Value,Salesperson,11690834.93,4231,2763.14,501.00,4999.73
+Clothing,High Value,Senior Salesperson,10152179.75,3712,2734.96,500.45,4999.71
+Clothing,In-Store Regular,Manager,11230036.04,4077,2754.49,500.64,4999.21
+Clothing,In-Store Regular,Sales Associate,12067322.73,4369,2762.03,500.60,4999.76
+Clothing,In-Store Regular,Salesperson,11367836.01,4178,2720.88,501.80,4999.80
+Clothing,In-Store Regular,Senior Salesperson,10296284.20,3734,2757.44,500.74,4998.89
+Clothing,Loyal Customer,Manager,11281462.55,4098,2752.92,502.97,4997.89
+Clothing,Loyal Customer,Sales Associate,12158531.95,4412,2755.79,500.18,4999.85
+Clothing,Loyal Customer,Salesperson,12061316.26,4411,2734.37,500.50,4999.97
+Clothing,Loyal Customer,Senior Salesperson,10417323.49,3777,2758.09,501.58,4999.68
+Clothing,Occasional Shopper,Manager,11399583.85,4164,2737.65,501.20,4999.75
+Clothing,Occasional Shopper,Sales Associate,12436576.16,4498,2764.91,501.25,4998.86
+Clothing,Occasional Shopper,Salesperson,12071926.49,4355,2771.97,501.52,4999.19
+Clothing,Occasional Shopper,Senior Salesperson,10251478.73,3732,2746.91,500.65,4999.06
+Clothing,Online Shopper,Manager,11496102.07,4186,2746.32,501.14,4996.33
+Clothing,Online Shopper,Sales Associate,12163540.00,4383,2775.16,500.12,4999.45
+Clothing,Online Shopper,Salesperson,11822177.15,4273,2766.72,500.43,4996.67
+Clothing,Online Shopper,Senior Salesperson,10518015.49,3798,2769.36,500.11,4999.60
+Clothing,Premium Shopper,Manager,11403851.10,4120,2767.93,500.17,4997.57
+Clothing,Premium Shopper,Sales Associate,11670683.75,4237,2754.47,500.72,4999.76
+Clothing,Premium Shopper,Salesperson,11700365.14,4285,2730.54,505.48,4999.44
+Clothing,Premium Shopper,Senior Salesperson,9970389.57,3628,2748.18,500.07,4996.42
+Electronics,Budget Shopper,Manager,11374033.07,4096,2776.86,500.55,4998.61
+Electronics,Budget Shopper,Sales Associate,11934013.15,4329,2756.76,502.24,4998.92
+Electronics,Budget Shopper,Salesperson,11846571.81,4277,2769.83,500.80,4999.40
+Electronics,Budget Shopper,Senior Salesperson,10258351.40,3695,2776.28,500.59,4999.28
+Electronics,Churn Risk,Manager,11374149.33,4140,2747.38,500.17,4997.94
+Electronics,Churn Risk,Sales Associate,12351494.91,4474,2760.73,500.48,4996.82
+Electronics,Churn Risk,Salesperson,12002447.19,4377,2742.16,500.20,4999.64
+Electronics,Churn Risk,Senior Salesperson,10196827.98,3747,2721.33,501.34,4999.69
+Electronics,Deal Seeker,Manager,11566027.82,4159,2780.96,501.76,4999.75
+Electronics,Deal Seeker,Sales Associate,12001237.71,4409,2721.99,501.85,4999.95
+Electronics,Deal Seeker,Salesperson,12105310.53,4412,2743.72,500.49,4998.59
+Electronics,Deal Seeker,Senior Salesperson,10334021.46,3781,2733.15,500.14,4998.59
+Electronics,First-time Buyer,Manager,11515498.46,4149,2775.49,500.13,4999.78
+Electronics,First-time Buyer,Sales Associate,11954110.59,4374,2732.99,500.19,4999.90
+Electronics,First-time Buyer,Salesperson,11965396.37,4355,2747.51,501.91,4999.96
+Electronics,First-time Buyer,Senior Salesperson,10260183.46,3714,2762.57,504.47,4999.02
+Electronics,High Value,Manager,11311993.29,4119,2746.30,500.64,4996.53
+Electronics,High Value,Sales Associate,11937943.69,4362,2736.81,500.70,4999.96
+Electronics,High Value,Salesperson,11798237.10,4286,2752.74,502.05,4999.52
+Electronics,High Value,Senior Salesperson,10558735.61,3829,2757.57,501.00,4999.45
+Electronics,In-Store Regular,Manager,11048836.21,4043,2732.83,500.05,4998.89
+Electronics,In-Store Regular,Sales Associate,12136372.17,4419,2746.41,501.01,4999.60
+Electronics,In-Store Regular,Salesperson,11942868.08,4332,2756.89,500.25,4998.63
+Electronics,In-Store Regular,Senior Salesperson,10695553.78,3901,2741.75,500.69,4999.96
+Electronics,Loyal Customer,Manager,11765416.23,4292,2741.24,500.08,4999.80
+Electronics,Loyal Customer,Sales Associate,12013546.52,4366,2751.61,501.94,4998.12
+Electronics,Loyal Customer,Salesperson,11909771.25,4313,2761.37,502.12,4999.83
+Electronics,Loyal Customer,Senior Salesperson,9982717.93,3623,2755.37,502.33,4997.33
+Electronics,Occasional Shopper,Manager,11695312.42,4302,2718.58,503.77,4998.42
+Electronics,Occasional Shopper,Sales Associate,12362282.46,4471,2764.99,500.55,4999.63
+Electronics,Occasional Shopper,Salesperson,12057656.83,4335,2781.47,507.71,4996.32
+Electronics,Occasional Shopper,Senior Salesperson,10404481.50,3722,2795.40,500.15,4997.57
+Electronics,Online Shopper,Manager,11752598.67,4263,2756.88,502.18,4998.93
+Electronics,Online Shopper,Sales Associate,11900943.70,4287,2776.05,500.70,4999.95
+Electronics,Online Shopper,Salesperson,11955257.63,4354,2745.81,500.09,4998.84
+Electronics,Online Shopper,Senior Salesperson,10493847.97,3789,2769.56,502.74,4998.72
+Electronics,Premium Shopper,Manager,11300071.70,4098,2757.46,500.73,4999.87
+Electronics,Premium Shopper,Sales Associate,12179444.72,4468,2725.93,501.34,4999.13
+Electronics,Premium Shopper,Salesperson,12147808.54,4380,2773.47,500.34,4996.89
+Electronics,Premium Shopper,Senior Salesperson,10344531.68,3742,2764.44,500.51,4997.92
+Furniture,Budget Shopper,Manager,11596412.47,4238,2736.29,500.93,4999.90
+Furniture,Budget Shopper,Sales Associate,11989672.47,4375,2740.50,502.36,4997.28
+Furniture,Budget Shopper,Salesperson,12102876.16,4353,2780.35,501.41,4998.41
+Furniture,Budget Shopper,Senior Salesperson,10196445.79,3753,2716.88,502.47,4999.77
+Furniture,Churn Risk,Manager,11453029.73,4224,2711.42,500.70,4999.21
+Furniture,Churn Risk,Sales Associate,11902218.29,4349,2736.77,501.02,4999.22
+Furniture,Churn Risk,Salesperson,11996410.58,4326,2773.10,500.71,4999.64
+Furniture,Churn Risk,Senior Salesperson,10466187.16,3801,2753.54,501.95,4998.89
+Furniture,Deal Seeker,Manager,11265928.99,4122,2733.12,501.02,4995.20
+Furniture,Deal Seeker,Sales Associate,12243790.46,4416,2772.60,500.56,4998.90
+Furniture,Deal Seeker,Salesperson,11953355.41,4360,2741.60,502.50,4999.12
+Furniture,Deal Seeker,Senior Salesperson,10484976.21,3849,2724.08,503.24,4999.40
+Furniture,First-time Buyer,Manager,11539364.81,4166,2769.89,502.09,4999.65
+Furniture,First-time Buyer,Sales Associate,12247198.53,4424,2768.35,501.84,4999.59
+Furniture,First-time Buyer,Salesperson,12261060.08,4424,2771.49,500.38,4999.17
+Furniture,First-time Buyer,Senior Salesperson,9900277.66,3631,2726.60,500.56,4997.56
+Furniture,High Value,Manager,11704727.08,4268,2742.44,504.04,4999.89
+Furniture,High Value,Sales Associate,12043830.38,4383,2747.85,502.67,4999.68
+Furniture,High Value,Salesperson,11936976.67,4312,2768.32,501.52,4999.47
+Furniture,High Value,Senior Salesperson,10695630.11,3893,2747.40,501.29,4999.64
+Furniture,In-Store Regular,Manager,11132032.69,4017,2771.23,500.07,4998.42
+Furniture,In-Store Regular,Sales Associate,12243899.89,4437,2759.50,500.31,4998.82
+Furniture,In-Store Regular,Salesperson,11774749.01,4268,2758.84,501.91,4997.30
+Furniture,In-Store Regular,Senior Salesperson,10146785.67,3671,2764.04,500.06,4998.58
+Furniture,Loyal Customer,Manager,11752203.53,4319,2721.05,500.56,4996.61
+Furniture,Loyal Customer,Sales Associate,12307658.85,4445,2768.88,501.69,4999.69
+Furniture,Loyal Customer,Salesperson,11956527.76,4286,2789.67,501.63,4998.56
+Furniture,Loyal Customer,Senior Salesperson,10360667.25,3755,2759.17,503.81,4998.96
+Furniture,Occasional Shopper,Manager,11244170.93,4075,2759.31,500.57,4999.60
+Furniture,Occasional Shopper,Sales Associate,12259423.96,4451,2754.31,501.59,4999.44
+Furniture,Occasional Shopper,Salesperson,11584356.42,4206,2754.25,500.92,4997.66
+Furniture,Occasional Shopper,Senior Salesperson,10474305.18,3843,2725.55,500.36,4998.24
+Furniture,Online Shopper,Manager,12043166.89,4332,2780.05,501.32,4998.77
+Furniture,Online Shopper,Sales Associate,12032260.68,4381,2746.46,500.23,4999.14
+Furniture,Online Shopper,Salesperson,12359160.53,4527,2730.10,500.34,4999.62
+Furniture,Online Shopper,Senior Salesperson,10347641.01,3757,2754.23,502.15,4999.88
+Furniture,Premium Shopper,Manager,11264181.84,4129,2728.07,501.66,4999.14
+Furniture,Premium Shopper,Sales Associate,11879739.77,4289,2769.82,501.02,4998.88
+Furniture,Premium Shopper,Salesperson,11769997.68,4244,2773.33,500.23,4999.01
+Furniture,Premium Shopper,Senior Salesperson,10556104.48,3807,2772.81,500.29,4998.23
+Groceries,Budget Shopper,Manager,11133047.70,4059,2742.81,500.68,4998.44
+Groceries,Budget Shopper,Sales Associate,11786229.18,4338,2716.97,502.18,4999.95
+Groceries,Budget Shopper,Salesperson,11991757.61,4345,2759.90,500.73,4999.97
+Groceries,Budget Shopper,Senior Salesperson,10304912.52,3727,2764.93,503.39,4999.39
+Groceries,Churn Risk,Manager,11598358.98,4185,2771.41,501.54,4999.13
+Groceries,Churn Risk,Sales Associate,11841785.47,4331,2734.19,501.42,4998.93
+Groceries,Churn Risk,Salesperson,11733599.88,4260,2754.37,500.47,4999.85
+Groceries,Churn Risk,Senior Salesperson,10386309.77,3823,2716.80,500.75,4996.08
+Groceries,Deal Seeker,Manager,11454414.88,4173,2744.89,500.60,4999.70
+Groceries,Deal Seeker,Sales Associate,12367781.52,4449,2779.90,501.28,4998.90
+Groceries,Deal Seeker,Salesperson,12158063.13,4407,2758.81,505.16,4998.59
+Groceries,Deal Seeker,Senior Salesperson,10251751.51,3714,2760.30,500.33,4999.88
+Groceries,First-time Buyer,Manager,11357851.72,4131,2749.42,500.94,4999.83
+Groceries,First-time Buyer,Sales Associate,12227599.35,4458,2742.84,500.01,4999.20
+Groceries,First-time Buyer,Salesperson,11575405.96,4215,2746.24,500.26,4998.49
+Groceries,First-time Buyer,Senior Salesperson,10404410.19,3776,2755.41,501.87,4999.90
+Groceries,High Value,Manager,11668409.92,4240,2751.98,500.47,4998.87
+Groceries,High Value,Sales Associate,12079320.22,4430,2726.71,501.31,4997.68
+Groceries,High Value,Salesperson,11891723.32,4341,2739.40,500.95,4999.34
+Groceries,High Value,Senior Salesperson,10610707.74,3852,2754.60,500.54,4998.64
+Groceries,In-Store Regular,Manager,11541634.48,4155,2777.77,502.61,4999.58
+Groceries,In-Store Regular,Sales Associate,11910449.41,4370,2725.50,504.22,4999.92
+Groceries,In-Store Regular,Salesperson,11738189.31,4255,2758.68,500.16,4999.70
+Groceries,In-Store Regular,Senior Salesperson,10494426.53,3832,2738.63,500.03,4998.37
+Groceries,Loyal Customer,Manager,11270448.75,4109,2742.87,500.37,4999.40
+Groceries,Loyal Customer,Sales Associate,11958608.24,4297,2783.01,501.41,4999.73
+Groceries,Loyal Customer,Salesperson,12014575.63,4344,2765.79,502.27,4999.50
+Groceries,Loyal Customer,Senior Salesperson,10437963.95,3751,2782.71,500.32,4999.96
+Groceries,Occasional Shopper,Manager,11251846.31,4139,2718.49,500.56,4999.21
+Groceries,Occasional Shopper,Sales Associate,12307782.44,4459,2760.21,502.78,4998.22
+Groceries,Occasional Shopper,Salesperson,11629013.36,4268,2724.70,500.43,4999.06
+Groceries,Occasional Shopper,Senior Salesperson,10344823.65,3761,2750.55,501.97,4999.80
+Groceries,Online Shopper,Manager,11489811.29,4166,2758.00,500.12,4997.02
+Groceries,Online Shopper,Sales Associate,12079385.61,4388,2752.82,500.74,4999.06
+Groceries,Online Shopper,Salesperson,11944802.25,4340,2752.26,500.62,4997.53
+Groceries,Online Shopper,Senior Salesperson,10306745.99,3745,2752.14,501.39,4999.83
+Groceries,Premium Shopper,Manager,11005522.01,3986,2761.04,500.31,4998.94
+Groceries,Premium Shopper,Sales Associate,12061816.17,4434,2720.30,500.98,4999.51
+Groceries,Premium Shopper,Salesperson,11837193.93,4316,2742.63,501.25,4999.86
+Groceries,Premium Shopper,Senior Salesperson,10166702.66,3715,2736.66,500.73,4998.79
+Home Appliances,Budget Shopper,Manager,11467531.55,4195,2733.62,500.92,4999.93
+Home Appliances,Budget Shopper,Sales Associate,11990427.97,4337,2764.68,500.10,4999.78
+Home Appliances,Budget Shopper,Salesperson,11716706.52,4259,2751.05,500.61,4999.90
+Home Appliances,Budget Shopper,Senior Salesperson,10284558.35,3769,2728.72,500.71,4999.12
+Home Appliances,Churn Risk,Manager,11678092.83,4217,2769.29,501.18,4999.15
+Home Appliances,Churn Risk,Sales Associate,12152999.06,4414,2753.28,500.21,4998.82
+Home Appliances,Churn Risk,Salesperson,11856176.89,4262,2781.83,500.39,4999.29
+Home Appliances,Churn Risk,Senior Salesperson,10070716.46,3676,2739.59,502.25,4999.41
+Home Appliances,Deal Seeker,Manager,11745103.94,4262,2755.77,500.13,4998.91
+Home Appliances,Deal Seeker,Sales Associate,12164245.98,4440,2739.70,501.29,4999.38
+Home Appliances,Deal Seeker,Salesperson,11959967.32,4395,2721.27,500.80,4998.61
+Home Appliances,Deal Seeker,Senior Salesperson,10355046.85,3792,2730.76,500.05,4999.84
+Home Appliances,First-time Buyer,Manager,11494351.55,4165,2759.75,500.00,4997.95
+Home Appliances,First-time Buyer,Sales Associate,12152364.01,4373,2778.95,500.98,4999.45
+Home Appliances,First-time Buyer,Salesperson,11731615.77,4281,2740.39,502.14,4999.75
+Home Appliances,First-time Buyer,Senior Salesperson,10008722.41,3690,2712.39,501.03,4999.73
+Home Appliances,High Value,Manager,11963178.32,4325,2766.05,501.99,4999.91
+Home Appliances,High Value,Sales Associate,11837942.79,4370,2708.91,501.47,4999.98
+Home Appliances,High Value,Salesperson,11524105.07,4274,2696.33,500.13,4999.73
+Home Appliances,High Value,Senior Salesperson,10299371.01,3807,2705.38,500.21,4999.37
+Home Appliances,In-Store Regular,Manager,11253842.92,4147,2713.73,502.61,4999.06
+Home Appliances,In-Store Regular,Sales Associate,12183955.72,4403,2767.19,500.93,4998.96
+Home Appliances,In-Store Regular,Salesperson,11725196.06,4306,2722.99,501.45,4998.42
+Home Appliances,In-Store Regular,Senior Salesperson,10350076.28,3750,2760.02,501.78,4999.21
+Home Appliances,Loyal Customer,Manager,11517541.17,4245,2713.20,500.90,4999.75
+Home Appliances,Loyal Customer,Sales Associate,11819489.72,4316,2738.53,500.38,4998.93
+Home Appliances,Loyal Customer,Salesperson,11926644.96,4326,2756.97,500.27,4999.91
+Home Appliances,Loyal Customer,Senior Salesperson,10513559.60,3789,2774.76,500.17,4999.22
+Home Appliances,Occasional Shopper,Manager,11762111.15,4267,2756.53,500.28,4997.45
+Home Appliances,Occasional Shopper,Sales Associate,12089129.77,4391,2753.16,506.37,4998.47
+Home Appliances,Occasional Shopper,Salesperson,11913723.53,4369,2726.88,500.09,4999.48
+Home Appliances,Occasional Shopper,Senior Salesperson,10395099.92,3808,2729.81,500.44,4997.90
+Home Appliances,Online Shopper,Manager,11802530.57,4295,2747.97,503.07,4996.85
+Home Appliances,Online Shopper,Sales Associate,12253547.10,4490,2729.08,500.36,4997.61
+Home Appliances,Online Shopper,Salesperson,11967588.40,4374,2736.07,503.09,4999.87
+Home Appliances,Online Shopper,Senior Salesperson,10739095.65,3897,2755.73,501.55,4999.94
+Home Appliances,Premium Shopper,Manager,11108444.71,4061,2735.40,501.91,4998.92
+Home Appliances,Premium Shopper,Sales Associate,11881481.77,4316,2752.89,501.60,4999.74
+Home Appliances,Premium Shopper,Salesperson,11745528.35,4254,2761.06,502.95,4998.06
+Home Appliances,Premium Shopper,Senior Salesperson,10579062.68,3822,2767.94,501.06,4997.66
+Sports & Outdoors,Budget Shopper,Manager,11595638.15,4184,2771.42,500.04,4996.39
+Sports & Outdoors,Budget Shopper,Sales Associate,12075408.92,4329,2789.42,500.42,4995.42
+Sports & Outdoors,Budget Shopper,Salesperson,11727323.03,4314,2718.43,500.51,4998.61
+Sports & Outdoors,Budget Shopper,Senior Salesperson,10357940.77,3786,2735.85,500.26,4997.46
+Sports & Outdoors,Churn Risk,Manager,11970601.56,4307,2779.34,501.18,4998.60
+Sports & Outdoors,Churn Risk,Sales Associate,12226444.68,4431,2759.30,500.56,4998.73
+Sports & Outdoors,Churn Risk,Salesperson,11864440.82,4309,2753.41,502.77,4997.07
+Sports & Outdoors,Churn Risk,Senior Salesperson,10636927.45,3859,2756.39,500.07,4999.05
+Sports & Outdoors,Deal Seeker,Manager,11534068.52,4161,2771.95,501.01,4999.30
+Sports & Outdoors,Deal Seeker,Sales Associate,12522146.75,4509,2777.14,500.46,4999.33
+Sports & Outdoors,Deal Seeker,Salesperson,12052721.02,4387,2747.37,500.66,4999.02
+Sports & Outdoors,Deal Seeker,Senior Salesperson,10338406.29,3787,2729.97,502.99,4999.49
+Sports & Outdoors,First-time Buyer,Manager,11514801.44,4195,2744.89,500.04,4996.23
+Sports & Outdoors,First-time Buyer,Sales Associate,12076447.51,4369,2764.12,500.09,4999.02
+Sports & Outdoors,First-time Buyer,Salesperson,12105648.18,4379,2764.48,500.01,4999.25
+Sports & Outdoors,First-time Buyer,Senior Salesperson,10394115.74,3801,2734.57,501.68,4996.42
+Sports & Outdoors,High Value,Manager,11482368.17,4184,2744.35,500.14,4998.53
+Sports & Outdoors,High Value,Sales Associate,12319938.71,4463,2760.46,500.10,4999.78
+Sports & Outdoors,High Value,Salesperson,12209137.70,4411,2767.88,500.37,4999.05
+Sports & Outdoors,High Value,Senior Salesperson,10787362.84,3902,2764.57,500.03,4999.61
+Sports & Outdoors,In-Store Regular,Manager,11917518.49,4260,2797.54,500.45,4998.42
+Sports & Outdoors,In-Store Regular,Sales Associate,11967489.26,4368,2739.81,503.76,4999.33
+Sports & Outdoors,In-Store Regular,Salesperson,11704942.14,4242,2759.30,501.50,4999.89
+Sports & Outdoors,In-Store Regular,Senior Salesperson,10578271.54,3805,2780.10,501.44,4999.53
+Sports & Outdoors,Loyal Customer,Manager,11237095.70,4083,2752.17,500.50,4999.83
+Sports & Outdoors,Loyal Customer,Sales Associate,12344274.87,4499,2743.78,501.50,4998.97
+Sports & Outdoors,Loyal Customer,Salesperson,11859481.73,4310,2751.62,500.76,4997.31
+Sports & Outdoors,Loyal Customer,Senior Salesperson,10580172.84,3878,2728.25,501.07,4996.95
+Sports & Outdoors,Occasional Shopper,Manager,11405596.22,4226,2698.91,500.07,4999.05
+Sports & Outdoors,Occasional Shopper,Sales Associate,12246366.51,4421,2770.04,500.39,4998.50
+Sports & Outdoors,Occasional Shopper,Salesperson,12061426.55,4392,2746.23,500.41,4999.65
+Sports & Outdoors,Occasional Shopper,Senior Salesperson,10792428.20,3903,2765.16,502.29,4998.21
+Sports & Outdoors,Online Shopper,Manager,11521031.55,4144,2780.17,500.04,4999.97
+Sports & Outdoors,Online Shopper,Sales Associate,12059671.19,4425,2725.35,503.49,4999.78
+Sports & Outdoors,Online Shopper,Salesperson,11834754.20,4306,2748.43,500.15,4997.16
+Sports & Outdoors,Online Shopper,Senior Salesperson,10770142.50,3919,2748.19,500.23,4998.98
+Sports & Outdoors,Premium Shopper,Manager,11339915.35,4126,2748.40,502.53,4999.67
+Sports & Outdoors,Premium Shopper,Sales Associate,11546255.99,4235,2726.39,500.23,4999.19
+Sports & Outdoors,Premium Shopper,Salesperson,11750993.88,4278,2746.84,500.30,4999.55
+Sports & Outdoors,Premium Shopper,Senior Salesperson,10393685.86,3755,2767.96,500.31,4998.61

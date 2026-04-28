@@ -1,0 +1,301 @@
+category,brand,customer_segment,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Adidas,Budget Shopper,8891398.96,3262,2725.75,501.20,4999.95
+Clothing,Adidas,Churn Risk,9109311.46,3293,2766.27,503.18,4999.86
+Clothing,Adidas,Deal Seeker,9326386.46,3361,2774.88,500.46,4996.95
+Clothing,Adidas,First-time Buyer,8983402.91,3292,2728.86,501.06,4999.86
+Clothing,Adidas,High Value,9042423.68,3328,2717.07,500.17,4999.38
+Clothing,Adidas,In-Store Regular,8776399.67,3220,2725.59,500.64,4999.76
+Clothing,Adidas,Loyal Customer,9082989.82,3315,2739.97,500.58,4998.71
+Clothing,Adidas,Occasional Shopper,9076697.76,3296,2753.85,501.26,4998.86
+Clothing,Adidas,Online Shopper,8928145.76,3260,2738.70,500.11,4999.41
+Clothing,Adidas,Premium Shopper,8843822.12,3227,2740.57,500.83,4999.76
+Clothing,Levi's,Budget Shopper,9143416.80,3332,2744.12,501.09,4996.92
+Clothing,Levi's,Churn Risk,9567560.11,3476,2752.46,500.17,4997.36
+Clothing,Levi's,Deal Seeker,9443843.14,3440,2745.30,501.70,4998.97
+Clothing,Levi's,First-time Buyer,9341457.04,3354,2785.17,500.27,4996.53
+Clothing,Levi's,High Value,9105428.23,3309,2751.72,501.71,4999.26
+Clothing,Levi's,In-Store Regular,9218386.03,3345,2755.87,500.60,4999.49
+Clothing,Levi's,Loyal Customer,9140605.07,3315,2757.35,501.94,4999.97
+Clothing,Levi's,Occasional Shopper,9058931.23,3339,2713.07,501.31,4994.57
+Clothing,Levi's,Online Shopper,9417346.10,3398,2771.44,500.12,4999.60
+Clothing,Levi's,Premium Shopper,8909883.23,3258,2734.77,500.17,4998.56
+Clothing,Nike,Budget Shopper,9506777.53,3423,2777.32,501.91,4999.12
+Clothing,Nike,Churn Risk,9153719.02,3360,2724.32,500.82,4999.04
+Clothing,Nike,Deal Seeker,9046270.18,3359,2693.14,500.14,4997.93
+Clothing,Nike,First-time Buyer,9088591.38,3293,2759.97,501.63,4998.86
+Clothing,Nike,High Value,9260756.60,3319,2790.22,500.77,4999.95
+Clothing,Nike,In-Store Regular,9196877.76,3352,2743.70,502.32,4999.33
+Clothing,Nike,Loyal Customer,9508184.23,3415,2784.24,501.58,4998.67
+Clothing,Nike,Occasional Shopper,9334242.59,3386,2756.72,500.65,4999.75
+Clothing,Nike,Online Shopper,9092266.05,3251,2796.76,500.29,4998.41
+Clothing,Nike,Premium Shopper,9149897.93,3304,2769.34,500.72,4997.81
+Clothing,Puma,Budget Shopper,8979857.24,3251,2762.18,502.32,4999.85
+Clothing,Puma,Churn Risk,8778015.39,3231,2716.81,500.57,4998.56
+Clothing,Puma,Deal Seeker,9415887.23,3403,2766.94,500.07,4999.01
+Clothing,Puma,First-time Buyer,8909459.61,3235,2754.08,502.20,4999.98
+Clothing,Puma,High Value,8991726.31,3295,2728.90,500.45,4998.14
+Clothing,Puma,In-Store Regular,9045685.15,3270,2766.26,500.74,4998.89
+Clothing,Puma,Loyal Customer,9087887.29,3343,2718.48,500.18,4999.68
+Clothing,Puma,Occasional Shopper,9569932.87,3431,2789.25,502.57,4997.93
+Clothing,Puma,Online Shopper,9108234.61,3326,2738.50,500.66,4999.45
+Clothing,Puma,Premium Shopper,9155578.32,3295,2778.63,500.07,4998.60
+Clothing,Zara,Budget Shopper,9200753.74,3332,2761.33,502.21,4997.51
+Clothing,Zara,Churn Risk,9189984.76,3354,2740.01,502.44,4999.91
+Clothing,Zara,Deal Seeker,8987984.78,3298,2725.28,501.71,4999.81
+Clothing,Zara,First-time Buyer,9121799.29,3251,2805.84,500.46,4999.82
+Clothing,Zara,High Value,8998812.08,3289,2736.03,501.00,4999.73
+Clothing,Zara,In-Store Regular,8724130.36,3171,2751.22,503.25,4999.80
+Clothing,Zara,Loyal Customer,9098967.84,3310,2748.93,500.50,4998.42
+Clothing,Zara,Occasional Shopper,9119760.79,3297,2766.08,501.28,4999.06
+Clothing,Zara,Online Shopper,9453842.19,3405,2776.46,500.93,4995.75
+Clothing,Zara,Premium Shopper,8686107.96,3186,2726.34,500.32,4999.44
+Electronics,Apple,Budget Shopper,9220815.87,3344,2757.42,501.68,4995.51
+Electronics,Apple,Churn Risk,9071792.86,3329,2725.08,500.60,4994.23
+Electronics,Apple,Deal Seeker,9179420.01,3345,2744.22,502.34,4999.77
+Electronics,Apple,First-time Buyer,9065014.99,3277,2766.25,505.11,4999.96
+Electronics,Apple,High Value,8999096.07,3305,2722.87,500.64,4999.52
+Electronics,Apple,In-Store Regular,9098192.96,3310,2748.70,500.25,4999.96
+Electronics,Apple,Loyal Customer,8985442.17,3235,2777.57,504.97,4999.83
+Electronics,Apple,Occasional Shopper,9349431.30,3380,2766.10,500.26,4997.93
+Electronics,Apple,Online Shopper,9097903.24,3326,2735.39,500.70,4998.93
+Electronics,Apple,Premium Shopper,9041076.86,3307,2733.92,502.69,4996.76
+Electronics,LG,Budget Shopper,9036547.67,3303,2735.86,502.26,4997.22
+Electronics,LG,Churn Risk,9478701.93,3422,2769.93,500.17,4996.70
+Electronics,LG,Deal Seeker,9303463.03,3357,2771.36,502.12,4998.59
+Electronics,LG,First-time Buyer,9204221.54,3355,2743.43,500.75,4999.20
+Electronics,LG,High Value,9169527.34,3288,2788.79,500.70,4999.77
+Electronics,LG,In-Store Regular,8899172.05,3229,2756.01,501.76,4999.09
+Electronics,LG,Loyal Customer,9041868.33,3340,2707.15,502.74,4995.58
+Electronics,LG,Occasional Shopper,9071130.19,3304,2745.50,501.06,4998.42
+Electronics,LG,Online Shopper,9105870.93,3295,2763.54,502.18,4996.84
+Electronics,LG,Premium Shopper,9401742.90,3377,2784.05,504.90,4997.79
+Electronics,Panasonic,Budget Shopper,8991275.58,3220,2792.32,500.59,4999.40
+Electronics,Panasonic,Churn Risk,9242368.11,3352,2757.27,500.20,4999.64
+Electronics,Panasonic,Deal Seeker,9328335.12,3380,2759.86,500.14,4999.75
+Electronics,Panasonic,First-time Buyer,9095788.83,3328,2733.11,503.56,4999.90
+Electronics,Panasonic,High Value,9260154.53,3363,2753.54,502.39,4998.89
+Electronics,Panasonic,In-Store Regular,9519172.37,3471,2742.49,501.86,4999.96
+Electronics,Panasonic,Loyal Customer,9096237.54,3307,2750.60,500.20,4997.54
+Electronics,Panasonic,Occasional Shopper,9493808.18,3405,2788.20,500.15,4998.19
+Electronics,Panasonic,Online Shopper,9378875.74,3361,2790.50,500.09,4999.83
+Electronics,Panasonic,Premium Shopper,9096811.11,3298,2758.28,500.34,4999.87
+Electronics,Samsung,Budget Shopper,9041773.31,3247,2784.65,501.48,4999.28
+Electronics,Samsung,Churn Risk,9196308.39,3359,2737.81,501.03,4999.69
+Electronics,Samsung,Deal Seeker,9176952.80,3346,2742.66,501.85,4998.39
+Electronics,Samsung,First-time Buyer,9342484.74,3395,2751.84,500.13,4999.71
+Electronics,Samsung,High Value,9105337.62,3285,2771.79,501.98,4993.37
+Electronics,Samsung,In-Store Regular,9297496.21,3411,2725.74,501.27,4999.11
+Electronics,Samsung,Loyal Customer,9246097.89,3330,2776.61,501.94,4999.50
+Electronics,Samsung,Occasional Shopper,9368688.65,3394,2760.37,501.55,4999.63
+Electronics,Samsung,Online Shopper,9388142.24,3365,2789.94,500.93,4998.33
+Electronics,Samsung,Premium Shopper,9333420.01,3390,2753.22,502.17,4997.81
+Electronics,Sony,Budget Shopper,9122556.99,3283,2778.73,500.55,4997.06
+Electronics,Sony,Churn Risk,8935748.12,3276,2727.64,500.37,4997.94
+Electronics,Sony,Deal Seeker,9018426.54,3333,2705.80,500.80,4999.95
+Electronics,Sony,First-time Buyer,8987678.77,3237,2776.55,500.19,4999.11
+Electronics,Sony,High Value,9072794.13,3355,2704.26,501.00,4999.96
+Electronics,Sony,In-Store Regular,9009596.66,3274,2751.86,500.05,4998.89
+Electronics,Sony,Loyal Customer,9301805.99,3382,2750.39,500.08,4999.15
+Electronics,Sony,Occasional Shopper,9236674.90,3347,2759.69,506.15,4998.09
+Electronics,Sony,Online Shopper,9131855.81,3346,2729.19,501.02,4999.95
+Electronics,Sony,Premium Shopper,9098805.77,3316,2743.91,500.73,4999.13
+Furniture,Godrej Interio,Budget Shopper,9110857.36,3337,2730.25,501.67,4999.77
+Furniture,Godrej Interio,Churn Risk,9016587.44,3330,2707.68,503.48,4999.20
+Furniture,Godrej Interio,Deal Seeker,9172359.26,3372,2720.15,501.02,4999.40
+Furniture,Godrej Interio,First-time Buyer,9125705.05,3337,2734.70,500.38,4999.65
+Furniture,Godrej Interio,High Value,9161648.53,3337,2745.47,504.51,4998.80
+Furniture,Godrej Interio,In-Store Regular,9068112.36,3324,2728.07,500.57,4995.77
+Furniture,Godrej Interio,Loyal Customer,9234626.54,3338,2766.51,502.50,4997.34
+Furniture,Godrej Interio,Occasional Shopper,8942845.53,3282,2724.82,501.14,4999.44
+Furniture,Godrej Interio,Online Shopper,9521353.10,3448,2761.41,500.23,4998.57
+Furniture,Godrej Interio,Premium Shopper,8921851.36,3225,2766.47,501.02,4999.01
+Furniture,Home Centre,Budget Shopper,9094613.60,3336,2726.20,500.93,4999.90
+Furniture,Home Centre,Churn Risk,9251402.49,3349,2762.44,501.40,4999.64
+Furniture,Home Centre,Deal Seeker,9237530.96,3369,2741.92,502.25,4999.30
+Furniture,Home Centre,First-time Buyer,9071681.23,3288,2759.03,500.56,4999.10
+Furniture,Home Centre,High Value,9258257.65,3356,2758.72,504.04,4999.89
+Furniture,Home Centre,In-Store Regular,9038588.11,3265,2768.33,501.98,4998.45
+Furniture,Home Centre,Loyal Customer,9508919.79,3417,2782.83,501.07,4997.86
+Furniture,Home Centre,Occasional Shopper,9367473.18,3401,2754.33,500.92,4999.60
+Furniture,Home Centre,Online Shopper,9423244.54,3372,2794.56,500.35,4998.52
+Furniture,Home Centre,Premium Shopper,9238953.94,3325,2778.63,500.23,4997.47
+Furniture,IKEA,Budget Shopper,9125384.93,3346,2727.25,503.05,4997.53
+Furniture,IKEA,Churn Risk,9161917.71,3343,2740.63,500.71,4999.21
+Furniture,IKEA,Deal Seeker,8991093.24,3293,2730.37,502.50,4999.12
+Furniture,IKEA,First-time Buyer,9647718.64,3478,2773.93,503.76,4998.36
+Furniture,IKEA,High Value,9095464.65,3338,2724.82,501.39,4995.87
+Furniture,IKEA,In-Store Regular,9068841.49,3250,2790.41,500.06,4998.78
+Furniture,IKEA,Loyal Customer,9437797.12,3441,2742.75,501.83,4999.69
+Furniture,IKEA,Occasional Shopper,9162957.38,3343,2740.94,501.43,4996.87
+Furniture,IKEA,Online Shopper,9296038.87,3392,2740.58,501.50,4997.00
+Furniture,IKEA,Premium Shopper,9250659.83,3337,2772.15,500.31,4998.88
+Furniture,Pepperfry,Budget Shopper,9125533.34,3309,2757.79,503.79,4998.54
+Furniture,Pepperfry,Churn Risk,9162503.06,3313,2765.62,501.02,4999.03
+Furniture,Pepperfry,Deal Seeker,9400050.02,3397,2767.16,500.56,4998.62
+Furniture,Pepperfry,First-time Buyer,8952363.89,3255,2750.34,501.27,4999.26
+Furniture,Pepperfry,High Value,9325264.37,3357,2777.86,502.41,4999.47
+Furniture,Pepperfry,In-Store Regular,9034589.15,3268,2764.56,508.01,4998.58
+Furniture,Pepperfry,Loyal Customer,8977308.79,3284,2733.65,501.63,4999.16
+Furniture,Pepperfry,Occasional Shopper,9254400.21,3344,2767.46,500.36,4998.24
+Furniture,Pepperfry,Online Shopper,9405727.84,3441,2733.43,505.16,4999.14
+Furniture,Pepperfry,Premium Shopper,9018878.84,3291,2740.47,500.59,4998.23
+Furniture,Urban Ladder,Budget Shopper,9429017.66,3391,2780.60,502.36,4999.11
+Furniture,Urban Ladder,Churn Risk,9225435.07,3365,2741.59,500.70,4999.22
+Furniture,Urban Ladder,Deal Seeker,9147017.60,3316,2758.45,501.28,4997.58
+Furniture,Urban Ladder,First-time Buyer,9150432.27,3287,2783.82,502.44,4999.59
+Furniture,Urban Ladder,High Value,9540529.04,3468,2751.02,501.29,4999.64
+Furniture,Urban Ladder,In-Store Regular,9087336.15,3286,2765.47,500.07,4998.82
+Furniture,Urban Ladder,Loyal Customer,9218405.15,3325,2772.45,500.56,4997.81
+Furniture,Urban Ladder,Occasional Shopper,8834580.18,3205,2756.50,500.57,4999.31
+Furniture,Urban Ladder,Online Shopper,9135864.76,3344,2732.02,500.34,4999.88
+Furniture,Urban Ladder,Premium Shopper,9039679.80,3291,2746.79,500.29,4999.14
+Groceries,Amul,Budget Shopper,9278568.16,3350,2769.72,504.65,4998.19
+Groceries,Amul,Churn Risk,9119744.66,3344,2727.20,502.30,4996.54
+Groceries,Amul,Deal Seeker,9112104.08,3302,2759.57,501.88,4998.30
+Groceries,Amul,First-time Buyer,9104224.40,3350,2717.68,500.26,4998.98
+Groceries,Amul,High Value,9274359.28,3398,2729.36,500.47,4998.10
+Groceries,Amul,In-Store Regular,9218650.89,3356,2746.92,504.51,4996.48
+Groceries,Amul,Loyal Customer,9059438.19,3340,2712.41,500.84,4998.75
+Groceries,Amul,Occasional Shopper,9143215.98,3332,2744.06,503.17,4999.80
+Groceries,Amul,Online Shopper,9402908.22,3405,2761.50,500.62,4996.71
+Groceries,Amul,Premium Shopper,8773573.35,3191,2749.47,501.25,4997.29
+Groceries,Britannia,Budget Shopper,8917841.06,3279,2719.68,502.18,4999.95
+Groceries,Britannia,Churn Risk,8998897.06,3297,2729.42,500.75,4996.21
+Groceries,Britannia,Deal Seeker,8850362.94,3249,2724.03,501.28,4994.32
+Groceries,Britannia,First-time Buyer,8995497.47,3248,2769.55,500.94,4999.83
+Groceries,Britannia,High Value,9505758.22,3452,2753.70,504.09,4998.87
+Groceries,Britannia,In-Store Regular,9169559.93,3357,2731.47,504.42,4999.35
+Groceries,Britannia,Loyal Customer,9059987.86,3249,2788.55,503.24,4999.40
+Groceries,Britannia,Occasional Shopper,8969526.01,3277,2737.12,500.43,4999.21
+Groceries,Britannia,Online Shopper,9037617.60,3301,2737.84,500.65,4997.84
+Groceries,Britannia,Premium Shopper,8880346.55,3277,2709.90,500.31,4998.94
+Groceries,Kellogg's,Budget Shopper,9130582.53,3300,2766.84,500.68,4998.35
+Groceries,Kellogg's,Churn Risk,9348162.85,3397,2751.89,501.42,4999.85
+Groceries,Kellogg's,Deal Seeker,9329717.90,3367,2770.93,501.79,4999.80
+Groceries,Kellogg's,First-time Buyer,9226650.12,3336,2765.78,500.64,4999.20
+Groceries,Kellogg's,High Value,9199862.47,3349,2747.05,500.54,4998.78
+Groceries,Kellogg's,In-Store Regular,9127421.79,3276,2786.15,500.16,4999.70
+Groceries,Kellogg's,Loyal Customer,8984017.47,3264,2752.46,500.37,4999.96
+Groceries,Kellogg's,Occasional Shopper,8914117.90,3275,2721.87,502.08,4996.77
+Groceries,Kellogg's,Online Shopper,9043935.41,3287,2751.43,500.12,4999.82
+Groceries,Kellogg's,Premium Shopper,9246607.74,3372,2742.17,500.73,4999.86
+Groceries,Nestle,Budget Shopper,8920372.58,3251,2743.89,501.93,4999.39
+Groceries,Nestle,Churn Risk,8990991.29,3268,2751.22,502.13,4998.94
+Groceries,Nestle,Deal Seeker,9422679.67,3403,2768.93,500.60,4999.88
+Groceries,Nestle,First-time Buyer,8894645.27,3282,2710.13,501.65,4999.88
+Groceries,Nestle,High Value,9012101.55,3308,2724.34,501.12,4996.03
+Groceries,Nestle,In-Store Regular,9156848.37,3304,2771.44,500.03,4999.92
+Groceries,Nestle,Loyal Customer,9346186.11,3336,2801.61,504.24,4997.31
+Groceries,Nestle,Occasional Shopper,9233406.43,3351,2755.42,501.97,4998.22
+Groceries,Nestle,Online Shopper,9098175.03,3329,2733.01,501.06,4999.06
+Groceries,Nestle,Premium Shopper,9100573.37,3295,2761.93,501.53,4998.48
+Groceries,Tata,Budget Shopper,8968582.69,3289,2726.84,505.58,4999.97
+Groceries,Tata,Churn Risk,9102258.24,3293,2764.12,500.47,4999.13
+Groceries,Tata,Deal Seeker,9517146.45,3422,2781.16,500.33,4994.79
+Groceries,Tata,First-time Buyer,9344249.96,3364,2777.72,500.01,4999.90
+Groceries,Tata,High Value,9258079.67,3356,2758.66,500.83,4999.34
+Groceries,Tata,In-Store Regular,9012218.76,3319,2715.34,502.61,4997.81
+Groceries,Tata,Loyal Customer,9231966.95,3312,2787.43,500.32,4996.71
+Groceries,Tata,Occasional Shopper,9273199.44,3392,2733.84,500.91,4999.06
+Groceries,Tata,Online Shopper,9238108.88,3317,2785.08,501.36,4999.83
+Groceries,Tata,Premium Shopper,9070133.75,3316,2735.26,500.97,4999.35
+Home Appliances,Bosch,Budget Shopper,9378047.70,3392,2764.75,500.10,4999.80
+Home Appliances,Bosch,Churn Risk,9190646.04,3327,2762.44,502.07,4995.95
+Home Appliances,Bosch,Deal Seeker,9051131.11,3359,2694.59,500.80,4999.30
+Home Appliances,Bosch,First-time Buyer,9038534.36,3314,2727.38,502.14,4998.36
+Home Appliances,Bosch,High Value,8835315.76,3261,2709.39,500.13,4997.76
+Home Appliances,Bosch,In-Store Regular,9004816.70,3294,2733.70,501.78,4998.96
+Home Appliances,Bosch,Loyal Customer,8682970.72,3213,2702.45,502.78,4999.32
+Home Appliances,Bosch,Occasional Shopper,9055424.38,3316,2730.83,500.65,4998.02
+Home Appliances,Bosch,Online Shopper,9439884.12,3482,2711.05,501.02,4996.64
+Home Appliances,Bosch,Premium Shopper,8937718.41,3268,2734.92,501.60,4999.74
+Home Appliances,Haier,Budget Shopper,9069563.36,3289,2757.54,500.92,4998.49
+Home Appliances,Haier,Churn Risk,9151329.30,3332,2746.50,500.36,4998.82
+Home Appliances,Haier,Deal Seeker,9207116.41,3395,2711.96,500.05,4999.84
+Home Appliances,Haier,First-time Buyer,9067344.86,3278,2766.12,500.00,4997.95
+Home Appliances,Haier,High Value,9196601.85,3390,2712.86,500.33,4997.95
+Home Appliances,Haier,In-Store Regular,9125824.89,3288,2775.49,501.45,4999.06
+Home Appliances,Haier,Loyal Customer,9291336.06,3365,2761.17,500.27,4999.91
+Home Appliances,Haier,Occasional Shopper,9271126.52,3385,2738.89,500.66,4994.82
+Home Appliances,Haier,Online Shopper,9296729.55,3406,2729.52,501.55,4996.85
+Home Appliances,Haier,Premium Shopper,9042186.52,3288,2750.06,501.43,4998.92
+Home Appliances,LG,Budget Shopper,9028567.81,3276,2755.97,500.72,4999.25
+Home Appliances,LG,Churn Risk,9166204.39,3298,2779.32,502.35,4999.15
+Home Appliances,LG,Deal Seeker,9377967.06,3385,2770.45,500.92,4998.54
+Home Appliances,LG,First-time Buyer,9310449.29,3337,2790.07,500.98,4999.75
+Home Appliances,LG,High Value,9303019.63,3403,2733.77,502.77,4999.91
+Home Appliances,LG,In-Store Regular,8879535.96,3253,2729.65,500.93,4998.42
+Home Appliances,LG,Loyal Customer,9314571.78,3404,2736.36,501.38,4999.43
+Home Appliances,LG,Occasional Shopper,8790119.12,3249,2705.48,500.28,4998.03
+Home Appliances,LG,Online Shopper,9236273.83,3402,2714.95,500.36,4999.46
+Home Appliances,LG,Premium Shopper,9335786.13,3369,2771.09,502.79,4995.22
+Home Appliances,Samsung,Budget Shopper,8801322.91,3260,2699.79,500.78,4999.90
+Home Appliances,Samsung,Churn Risk,9287335.69,3358,2765.73,500.21,4999.41
+Home Appliances,Samsung,Deal Seeker,9242909.67,3355,2754.97,500.13,4998.67
+Home Appliances,Samsung,First-time Buyer,9014843.80,3309,2724.34,500.15,4999.73
+Home Appliances,Samsung,High Value,9096769.97,3364,2704.15,502.76,4999.98
+Home Appliances,Samsung,In-Store Regular,9116016.67,3314,2750.76,503.09,4999.21
+Home Appliances,Samsung,Loyal Customer,9274383.70,3326,2788.45,500.17,4999.22
+Home Appliances,Samsung,Occasional Shopper,9595427.26,3466,2768.44,500.09,4997.28
+Home Appliances,Samsung,Online Shopper,9432975.91,3398,2776.04,503.07,4999.94
+Home Appliances,Samsung,Premium Shopper,9073107.28,3278,2767.88,501.06,4997.66
+Home Appliances,Whirlpool,Budget Shopper,9181722.62,3343,2746.55,500.61,4999.93
+Home Appliances,Whirlpool,Churn Risk,8962469.82,3254,2754.29,501.49,4999.29
+Home Appliances,Whirlpool,Deal Seeker,9345239.83,3395,2752.65,501.18,4999.38
+Home Appliances,Whirlpool,First-time Buyer,8955881.44,3271,2737.96,502.03,4997.98
+Home Appliances,Whirlpool,High Value,9192889.98,3358,2737.61,500.21,4999.73
+Home Appliances,Whirlpool,In-Store Regular,9386876.77,3457,2715.32,502.61,4997.74
+Home Appliances,Whirlpool,Loyal Customer,9213973.20,3368,2735.74,502.22,4999.75
+Home Appliances,Whirlpool,Occasional Shopper,9447967.09,3419,2763.37,500.44,4999.48
+Home Appliances,Whirlpool,Online Shopper,9356898.31,3368,2778.18,504.40,4995.37
+Home Appliances,Whirlpool,Premium Shopper,8925719.19,3250,2746.38,501.55,4997.57
+Sports & Outdoors,Adidas,Budget Shopper,9147366.79,3285,2784.59,500.43,4995.87
+Sports & Outdoors,Adidas,Churn Risk,8989459.95,3282,2739.02,500.73,4998.56
+Sports & Outdoors,Adidas,Deal Seeker,9379024.61,3364,2788.06,503.10,4998.10
+Sports & Outdoors,Adidas,First-time Buyer,9187396.02,3331,2758.15,501.90,4997.05
+Sports & Outdoors,Adidas,High Value,9149584.37,3350,2731.22,501.48,4999.78
+Sports & Outdoors,Adidas,In-Store Regular,9027441.30,3246,2781.10,500.45,4999.33
+Sports & Outdoors,Adidas,Loyal Customer,9521164.68,3427,2778.28,501.61,4998.83
+Sports & Outdoors,Adidas,Occasional Shopper,9608379.49,3426,2804.55,500.33,4999.05
+Sports & Outdoors,Adidas,Online Shopper,9034346.71,3315,2725.29,500.23,4997.59
+Sports & Outdoors,Adidas,Premium Shopper,8983816.85,3291,2729.81,502.53,4998.07
+Sports & Outdoors,Decathlon,Budget Shopper,9099449.19,3346,2719.50,500.42,4995.72
+Sports & Outdoors,Decathlon,Churn Risk,9228291.54,3326,2774.59,500.56,4997.07
+Sports & Outdoors,Decathlon,Deal Seeker,8911634.60,3270,2725.27,500.46,4999.49
+Sports & Outdoors,Decathlon,First-time Buyer,9056772.61,3294,2749.48,500.09,4999.25
+Sports & Outdoors,Decathlon,High Value,9479617.24,3426,2766.96,500.15,4999.05
+Sports & Outdoors,Decathlon,In-Store Regular,9152556.37,3277,2792.97,501.50,4999.77
+Sports & Outdoors,Decathlon,Loyal Customer,9151163.94,3321,2755.54,501.43,4996.95
+Sports & Outdoors,Decathlon,Occasional Shopper,9290892.19,3396,2735.83,500.07,4997.17
+Sports & Outdoors,Decathlon,Online Shopper,9277849.08,3375,2748.99,500.15,4999.97
+Sports & Outdoors,Decathlon,Premium Shopper,9003192.26,3318,2713.44,500.23,4997.72
+Sports & Outdoors,Nike,Budget Shopper,9256401.87,3348,2764.76,500.80,4996.03
+Sports & Outdoors,Nike,Churn Risk,9474210.47,3407,2780.81,500.07,4999.05
+Sports & Outdoors,Nike,Deal Seeker,9478613.15,3402,2786.19,501.05,4999.44
+Sports & Outdoors,Nike,First-time Buyer,9415443.13,3435,2741.03,500.01,4999.02
+Sports & Outdoors,Nike,High Value,9237508.96,3347,2759.94,500.14,4998.95
+Sports & Outdoors,Nike,In-Store Regular,9305037.26,3402,2735.17,501.97,4998.83
+Sports & Outdoors,Nike,Loyal Customer,9058846.49,3351,2703.33,501.07,4999.83
+Sports & Outdoors,Nike,Occasional Shopper,9314779.91,3408,2733.21,503.65,4998.50
+Sports & Outdoors,Nike,Online Shopper,9203252.92,3339,2756.29,503.08,4998.38
+Sports & Outdoors,Nike,Premium Shopper,9185491.84,3274,2805.59,500.31,4999.67
+Sports & Outdoors,Puma,Budget Shopper,9216907.44,3342,2757.90,501.48,4997.46
+Sports & Outdoors,Puma,Churn Risk,9328770.96,3384,2756.73,501.93,4998.60
+Sports & Outdoors,Puma,Deal Seeker,9484993.68,3419,2774.20,500.66,4998.69
+Sports & Outdoors,Puma,First-time Buyer,9232541.34,3361,2746.96,500.04,4996.42
+Sports & Outdoors,Puma,High Value,9692820.06,3490,2777.31,500.03,4999.61
+Sports & Outdoors,Puma,In-Store Regular,9170190.31,3371,2720.32,502.54,4999.89
+Sports & Outdoors,Puma,Loyal Customer,9064953.59,3306,2741.97,503.10,4997.04
+Sports & Outdoors,Puma,Occasional Shopper,9177402.28,3360,2731.37,500.41,4998.46
+Sports & Outdoors,Puma,Online Shopper,9157652.62,3330,2750.05,500.04,4999.78
+Sports & Outdoors,Puma,Premium Shopper,8880526.30,3252,2730.79,500.81,4997.06
+Sports & Outdoors,Reebok,Budget Shopper,9036185.59,3292,2744.89,500.04,4998.61
+Sports & Outdoors,Reebok,Churn Risk,9677681.59,3507,2759.53,506.11,4998.24
+Sports & Outdoors,Reebok,Deal Seeker,9193076.54,3389,2712.62,502.11,4999.33
+Sports & Outdoors,Reebok,First-time Buyer,9198859.77,3323,2768.24,500.37,4996.59
+Sports & Outdoors,Reebok,High Value,9239276.79,3347,2760.47,502.36,4998.53
+Sports & Outdoors,Reebok,In-Store Regular,9512996.20,3379,2815.33,502.76,4999.53
+Sports & Outdoors,Reebok,Loyal Customer,9224896.43,3365,2741.43,500.50,4999.34
+Sports & Outdoors,Reebok,Occasional Shopper,9114363.63,3352,2719.08,501.14,4999.65
+Sports & Outdoors,Reebok,Online Shopper,9512498.11,3435,2769.29,501.32,4998.98
+Sports & Outdoors,Reebok,Premium Shopper,8977823.81,3259,2754.78,500.30,4999.55

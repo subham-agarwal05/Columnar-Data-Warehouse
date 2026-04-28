@@ -721,6 +721,51 @@ int main(int argc, char* argv[]) {
     }
 
     cout << "\nOutput directory: " << output_dir << "/" << endl;
+
+    // Write HTML report snippet for embedding in compare_performance report
+    {
+        string html_path = output_dir + "/iceberg_report.html";
+        ofstream html(html_path);
+        if (html.is_open()) {
+            html << "<h2>Iceberg Cuboid Report (" << agg_func << " &gt;= "
+                 << fixed << setprecision(2) << threshold << ")</h2>";
+
+            // Summary table
+            html << "<table><tr><th>Metric</th><th>Value</th></tr>"
+                 << "<tr><td>Threshold</td><td>" << agg_func << " &gt;= " << threshold << "</td></tr>"
+                 << "<tr><td>Total Lattice Nodes</td><td>" << total_cuboids << "</td></tr>"
+                 << "<tr><td>Optimization</td><td>Level-by-level (child &rarr; parent)</td></tr>"
+                 << "<tr><td>Cuboids Materialized</td><td>" << cuboids_materialized << "</td></tr>"
+                 << "<tr><td>Cuboids Fully Pruned</td><td>" << cuboids_fully_pruned << "</td></tr>"
+                 << "<tr><td>Total Cells (before prune)</td><td>" << total_cells_before << "</td></tr>"
+                 << "<tr><td>Total Cells (after prune)</td><td>" << total_cells_after << "</td></tr>"
+                 << "<tr><td>Cells Pruned</td><td>" << total_pruned_cells << "</td></tr>"
+                 << "<tr><td>Cell Pruning Ratio</td><td>"
+                 << (total_cells_before > 0 ? (100.0 * total_pruned_cells / total_cells_before) : 0.0)
+                 << " %</td></tr>"
+                 << "</table>";
+
+            // Per-cuboid breakdown table
+            html << "<h3>Per-Cuboid Breakdown</h3>"
+                 << "<table><tr><th>Cuboid</th><th>Dims</th>"
+                 << "<th>Cells Before</th><th>Cells After</th>"
+                 << "<th>Pruned</th><th>Status</th></tr>";
+            for (auto& s : summaries) {
+                string status = s.materialized ? "KEPT" : "PRUNED";
+                string row_style = s.materialized ? "" : " style='background-color:#ffeaea;'";
+                html << "<tr" << row_style << ">"
+                     << "<td>" << s.name << "</td>"
+                     << "<td>" << s.num_dims << "</td>"
+                     << "<td>" << s.cells_before << "</td>"
+                     << "<td>" << s.cells_after << "</td>"
+                     << "<td>" << s.pruned << "</td>"
+                     << "<td>" << status << "</td></tr>";
+            }
+            html << "</table>";
+            html.close();
+            cout << "HTML report written to: " << html_path << endl;
+        }
+    }
     
     // Update metadata to mark that we've processed all data for this config
     IcebergMetadata new_meta;

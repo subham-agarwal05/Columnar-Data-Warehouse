@@ -126,6 +126,18 @@ int main() {
     html_render_section(out, "Full Lattice Generation", ft_col, f_col_tables, f_col_total, ft_sql, f_sql_tables, f_sql_total);
     html_render_section(out, "Iceberg Generation (>= 300000 SUM)", it_col, i_col_tables, i_col_total, it_sql, i_sql_tables, i_sql_total);
 
+    // Embed the detailed iceberg cuboid report if available
+    {
+        string iceberg_html_path = "IcebergCuboids_SUM_300000.00/iceberg_report.html";
+        ifstream iceberg_html(iceberg_html_path);
+        if (iceberg_html.is_open()) {
+            out << "<hr style='margin:40px 0;'>";
+            out << string((istreambuf_iterator<char>(iceberg_html)),
+                           istreambuf_iterator<char>());
+            iceberg_html.close();
+        }
+    }
+
     out << "</body></html>";
     out.close();
     cout << "\nReport successfully generated at report.html\n";

@@ -3,7 +3,7 @@ import os
 
 def main():
     # Define paths
-    base_dir = r"c:\Users\subha\Desktop\Data Modelling Project\Columnar-Data-Warehouse\Data"
+    base_dir = r"~/Desktop/Academics/sem8/Data Modelling/Columnar-Data-Warehouse-main/Data"
     fact_file = os.path.join(base_dir, "fact_sales_normalized.csv")
     
     dim_campaigns_file = os.path.join(base_dir, "dim_campaigns.csv")

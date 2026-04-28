@@ -1,0 +1,721 @@
+category,customer_segment,store_type,salesperson_role,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Budget Shopper,Large Malls / Complexes,Manager,3557165.34,1282,2774.70,501.91,4999.12
+Clothing,Budget Shopper,Large Malls / Complexes,Sales Associate,3904408.13,1417,2755.40,502.91,4992.75
+Clothing,Budget Shopper,Large Malls / Complexes,Salesperson,3821200.32,1357,2815.92,502.32,4999.95
+Clothing,Budget Shopper,Large Malls / Complexes,Senior Salesperson,3284842.13,1192,2755.74,507.99,4999.01
+Clothing,Budget Shopper,Small Stores / Shops,Manager,3963118.21,1449,2735.07,504.90,4997.51
+Clothing,Budget Shopper,Small Stores / Shops,Sales Associate,4017736.17,1484,2707.37,507.40,4998.36
+Clothing,Budget Shopper,Small Stores / Shops,Salesperson,3942534.93,1445,2728.40,505.48,4996.58
+Clothing,Budget Shopper,Small Stores / Shops,Senior Salesperson,3592873.95,1297,2770.14,505.15,4999.08
+Clothing,Budget Shopper,Supermarkets ,Manager,3782113.72,1357,2787.11,503.98,4996.74
+Clothing,Budget Shopper,Supermarkets ,Sales Associate,4229359.70,1538,2749.91,501.09,4999.85
+Clothing,Budget Shopper,Supermarkets ,Salesperson,4009422.59,1467,2733.08,501.20,4999.17
+Clothing,Budget Shopper,Supermarkets ,Senior Salesperson,3617429.10,1315,2750.90,503.90,4985.99
+Clothing,Churn Risk,Large Malls / Complexes,Manager,3555812.99,1317,2699.93,503.81,4998.58
+Clothing,Churn Risk,Large Malls / Complexes,Sales Associate,3751931.80,1360,2758.77,501.38,4999.91
+Clothing,Churn Risk,Large Malls / Complexes,Salesperson,3789664.30,1388,2730.31,500.82,4999.18
+Clothing,Churn Risk,Large Malls / Complexes,Senior Salesperson,3234597.34,1195,2706.78,501.92,4999.86
+Clothing,Churn Risk,Small Stores / Shops,Manager,3962258.85,1429,2772.75,508.22,4995.97
+Clothing,Churn Risk,Small Stores / Shops,Sales Associate,3930703.78,1483,2650.51,500.57,4996.24
+Clothing,Churn Risk,Small Stores / Shops,Salesperson,4234034.47,1509,2805.85,504.24,4999.45
+Clothing,Churn Risk,Small Stores / Shops,Senior Salesperson,3575943.51,1291,2769.90,513.55,4998.85
+Clothing,Churn Risk,Supermarkets ,Manager,3937232.61,1445,2724.73,500.17,4997.44
+Clothing,Churn Risk,Supermarkets ,Sales Associate,4230319.72,1537,2752.32,502.65,4998.40
+Clothing,Churn Risk,Supermarkets ,Salesperson,4019763.50,1460,2753.26,505.22,4998.98
+Clothing,Churn Risk,Supermarkets ,Senior Salesperson,3576327.87,1300,2751.02,502.44,4998.67
+Clothing,Deal Seeker,Large Malls / Complexes,Manager,3820840.05,1367,2795.05,501.32,4998.00
+Clothing,Deal Seeker,Large Malls / Complexes,Sales Associate,3835014.53,1417,2706.43,504.03,4996.06
+Clothing,Deal Seeker,Large Malls / Complexes,Salesperson,3943657.87,1430,2757.80,502.63,4996.18
+Clothing,Deal Seeker,Large Malls / Complexes,Senior Salesperson,3325380.58,1220,2725.72,502.02,4996.55
+Clothing,Deal Seeker,Small Stores / Shops,Manager,3850158.63,1391,2767.91,500.55,4998.11
+Clothing,Deal Seeker,Small Stores / Shops,Sales Associate,4164197.44,1501,2774.28,500.14,4988.14
+Clothing,Deal Seeker,Small Stores / Shops,Salesperson,3993331.12,1501,2660.45,503.19,4998.97
+Clothing,Deal Seeker,Small Stores / Shops,Senior Salesperson,3561037.82,1285,2771.24,505.75,4999.81
+Clothing,Deal Seeker,Supermarkets ,Manager,4093664.95,1485,2756.68,500.89,4997.10
+Clothing,Deal Seeker,Supermarkets ,Sales Associate,4022800.52,1476,2725.47,500.52,4996.30
+Clothing,Deal Seeker,Supermarkets ,Salesperson,4147995.70,1522,2725.36,501.46,4997.64
+Clothing,Deal Seeker,Supermarkets ,Senior Salesperson,3462292.59,1266,2734.83,500.07,4999.01
+Clothing,First-time Buyer,Large Malls / Complexes,Manager,3761277.75,1362,2761.58,500.37,4997.75
+Clothing,First-time Buyer,Large Malls / Complexes,Sales Associate,3821745.13,1381,2767.38,503.41,4999.23
+Clothing,First-time Buyer,Large Malls / Complexes,Salesperson,3615242.32,1337,2704.00,504.67,4998.79
+Clothing,First-time Buyer,Large Malls / Complexes,Senior Salesperson,3356433.07,1176,2854.11,509.56,4999.45
+Clothing,First-time Buyer,Small Stores / Shops,Manager,3641047.88,1331,2735.57,501.06,4999.40
+Clothing,First-time Buyer,Small Stores / Shops,Sales Associate,3871623.21,1422,2722.66,502.03,4996.51
+Clothing,First-time Buyer,Small Stores / Shops,Salesperson,3981204.65,1436,2772.43,503.70,4999.82
+Clothing,First-time Buyer,Small Stores / Shops,Senior Salesperson,3787322.25,1337,2832.70,501.24,4998.40
+Clothing,First-time Buyer,Supermarkets ,Manager,3781040.41,1387,2726.06,500.63,4994.01
+Clothing,First-time Buyer,Supermarkets ,Sales Associate,4158874.22,1521,2734.30,500.27,4996.65
+Clothing,First-time Buyer,Supermarkets ,Salesperson,4196926.57,1502,2794.23,502.13,4998.86
+Clothing,First-time Buyer,Supermarkets ,Senior Salesperson,3471972.76,1233,2815.87,506.01,4999.98
+Clothing,High Value,Large Malls / Complexes,Manager,3687807.75,1328,2776.96,504.64,4990.21
+Clothing,High Value,Large Malls / Complexes,Sales Associate,3845719.66,1395,2756.79,506.74,4997.99
+Clothing,High Value,Large Malls / Complexes,Salesperson,3708236.43,1342,2763.22,501.00,4998.75
+Clothing,High Value,Large Malls / Complexes,Senior Salesperson,3156471.17,1164,2711.74,504.71,4999.71
+Clothing,High Value,Small Stores / Shops,Manager,3748944.20,1365,2746.48,500.17,4996.59
+Clothing,High Value,Small Stores / Shops,Sales Associate,4007775.93,1465,2735.68,501.04,4999.95
+Clothing,High Value,Small Stores / Shops,Salesperson,4053032.40,1438,2818.52,502.17,4999.73
+Clothing,High Value,Small Stores / Shops,Senior Salesperson,3470954.87,1264,2746.01,502.52,4992.67
+Clothing,High Value,Supermarkets ,Manager,4084107.69,1520,2686.91,500.53,4999.38
+Clothing,High Value,Supermarkets ,Sales Associate,4181776.98,1524,2743.95,500.77,4994.34
+Clothing,High Value,Supermarkets ,Salesperson,3929566.09,1451,2708.18,506.40,4998.80
+Clothing,High Value,Supermarkets ,Senior Salesperson,3524753.71,1284,2745.14,500.45,4997.27
+Clothing,In-Store Regular,Large Malls / Complexes,Manager,3515103.58,1286,2733.36,502.05,4996.58
+Clothing,In-Store Regular,Large Malls / Complexes,Sales Associate,3770024.05,1358,2776.16,500.60,4999.76
+Clothing,In-Store Regular,Large Malls / Complexes,Salesperson,3559178.52,1295,2748.40,502.29,4999.80
+Clothing,In-Store Regular,Large Malls / Complexes,Senior Salesperson,3053921.35,1122,2721.86,501.08,4995.16
+Clothing,In-Store Regular,Small Stores / Shops,Manager,3807305.35,1387,2744.99,500.64,4999.21
+Clothing,In-Store Regular,Small Stores / Shops,Sales Associate,4045794.56,1468,2755.99,504.16,4999.49
+Clothing,In-Store Regular,Small Stores / Shops,Salesperson,3966712.00,1453,2730.02,504.23,4986.87
+Clothing,In-Store Regular,Small Stores / Shops,Senior Salesperson,3575711.27,1297,2756.91,500.74,4998.73
+Clothing,In-Store Regular,Supermarkets ,Manager,3907627.11,1404,2783.21,501.02,4998.51
+Clothing,In-Store Regular,Supermarkets ,Sales Associate,4251504.12,1543,2755.35,502.32,4992.45
+Clothing,In-Store Regular,Supermarkets ,Salesperson,3841945.49,1430,2686.68,501.80,4999.33
+Clothing,In-Store Regular,Supermarkets ,Senior Salesperson,3666651.58,1315,2788.33,503.23,4998.89
+Clothing,Loyal Customer,Large Malls / Complexes,Manager,3610799.64,1316,2743.77,502.97,4997.89
+Clothing,Loyal Customer,Large Malls / Complexes,Sales Associate,3691464.02,1342,2750.72,500.18,4998.71
+Clothing,Loyal Customer,Large Malls / Complexes,Salesperson,3833790.30,1382,2774.09,508.62,4999.97
+Clothing,Loyal Customer,Large Malls / Complexes,Senior Salesperson,3546664.48,1282,2766.51,501.58,4996.42
+Clothing,Loyal Customer,Small Stores / Shops,Manager,3699559.97,1342,2756.75,516.12,4996.20
+Clothing,Loyal Customer,Small Stores / Shops,Sales Associate,3975733.86,1451,2740.00,500.58,4997.63
+Clothing,Loyal Customer,Small Stores / Shops,Salesperson,4122890.89,1499,2750.43,500.50,4998.67
+Clothing,Loyal Customer,Small Stores / Shops,Senior Salesperson,3526503.22,1284,2746.50,503.78,4999.68
+Clothing,Loyal Customer,Supermarkets ,Manager,3971102.93,1440,2757.71,503.15,4997.42
+Clothing,Loyal Customer,Supermarkets ,Sales Associate,4491334.07,1619,2774.14,504.07,4999.85
+Clothing,Loyal Customer,Supermarkets ,Salesperson,4104635.07,1530,2682.77,501.94,4998.23
+Clothing,Loyal Customer,Supermarkets ,Senior Salesperson,3344155.78,1211,2761.48,504.72,4992.80
+Clothing,Occasional Shopper,Large Malls / Complexes,Manager,3474662.60,1300,2672.82,501.20,4985.44
+Clothing,Occasional Shopper,Large Malls / Complexes,Sales Associate,3945187.09,1430,2758.87,501.94,4992.01
+Clothing,Occasional Shopper,Large Malls / Complexes,Salesperson,3824746.77,1381,2769.55,502.01,4999.19
+Clothing,Occasional Shopper,Large Malls / Complexes,Senior Salesperson,3216461.11,1180,2725.81,502.00,4997.93
+Clothing,Occasional Shopper,Small Stores / Shops,Manager,3996068.34,1433,2788.60,511.31,4995.28
+Clothing,Occasional Shopper,Small Stores / Shops,Sales Associate,4230463.34,1515,2792.39,501.25,4998.86
+Clothing,Occasional Shopper,Small Stores / Shops,Salesperson,4102149.67,1489,2754.97,502.13,4997.50
+Clothing,Occasional Shopper,Small Stores / Shops,Senior Salesperson,3321957.03,1188,2796.26,500.65,4999.06
+Clothing,Occasional Shopper,Supermarkets ,Manager,3928852.91,1431,2745.53,501.26,4999.75
+Clothing,Occasional Shopper,Supermarkets ,Sales Associate,4260925.73,1553,2743.67,502.82,4993.90
+Clothing,Occasional Shopper,Supermarkets ,Salesperson,4145030.06,1485,2791.27,501.52,4996.26
+Clothing,Occasional Shopper,Supermarkets ,Senior Salesperson,3713060.59,1364,2722.19,501.28,4997.44
+Clothing,Online Shopper,Large Malls / Complexes,Manager,3515671.08,1284,2738.06,503.90,4985.02
+Clothing,Online Shopper,Large Malls / Complexes,Sales Associate,4036391.66,1427,2828.59,506.00,4999.45
+Clothing,Online Shopper,Large Malls / Complexes,Salesperson,3683923.00,1343,2743.06,500.66,4996.67
+Clothing,Online Shopper,Large Malls / Complexes,Senior Salesperson,3355864.62,1215,2762.03,500.11,4999.60
+Clothing,Online Shopper,Small Stores / Shops,Manager,3892262.46,1409,2762.43,501.14,4993.54
+Clothing,Online Shopper,Small Stores / Shops,Sales Associate,3989903.82,1442,2766.92,501.81,4999.41
+Clothing,Online Shopper,Small Stores / Shops,Salesperson,4099965.24,1469,2790.99,504.12,4993.01
+Clothing,Online Shopper,Small Stores / Shops,Senior Salesperson,3521344.04,1269,2774.90,503.50,4998.41
+Clothing,Online Shopper,Supermarkets ,Manager,4088168.53,1493,2738.22,501.71,4996.33
+Clothing,Online Shopper,Supermarkets ,Sales Associate,4137244.52,1514,2732.66,500.12,4992.25
+Clothing,Online Shopper,Supermarkets ,Salesperson,4038288.91,1461,2764.06,500.43,4995.81
+Clothing,Online Shopper,Supermarkets ,Senior Salesperson,3640806.84,1314,2770.78,503.75,4998.52
+Clothing,Premium Shopper,Large Malls / Complexes,Manager,3566371.44,1318,2705.90,503.34,4976.40
+Clothing,Premium Shopper,Large Malls / Complexes,Sales Associate,3617347.46,1338,2703.55,500.72,4999.76
+Clothing,Premium Shopper,Large Malls / Complexes,Salesperson,3745453.78,1406,2663.91,507.09,4999.44
+Clothing,Premium Shopper,Large Malls / Complexes,Senior Salesperson,2993589.24,1092,2741.38,502.29,4993.60
+Clothing,Premium Shopper,Small Stores / Shops,Manager,3839148.04,1371,2800.25,500.17,4997.57
+Clothing,Premium Shopper,Small Stores / Shops,Sales Associate,3948271.19,1410,2800.19,506.24,4997.07
+Clothing,Premium Shopper,Small Stores / Shops,Salesperson,3925626.81,1416,2772.34,505.48,4998.56
+Clothing,Premium Shopper,Small Stores / Shops,Senior Salesperson,3395841.84,1238,2743.01,500.07,4996.42
+Clothing,Premium Shopper,Supermarkets ,Manager,3998331.62,1431,2794.08,502.77,4996.89
+Clothing,Premium Shopper,Supermarkets ,Sales Associate,4105065.10,1489,2756.93,508.91,4997.08
+Clothing,Premium Shopper,Supermarkets ,Salesperson,4029284.54,1463,2754.12,506.18,4998.60
+Clothing,Premium Shopper,Supermarkets ,Senior Salesperson,3580958.49,1298,2758.83,503.54,4991.40
+Electronics,Budget Shopper,Large Malls / Complexes,Manager,3602862.10,1290,2792.92,500.55,4998.61
+Electronics,Budget Shopper,Large Malls / Complexes,Sales Associate,3900706.54,1424,2739.26,502.69,4989.61
+Electronics,Budget Shopper,Large Malls / Complexes,Salesperson,3689816.10,1328,2778.48,500.80,4999.40
+Electronics,Budget Shopper,Large Malls / Complexes,Senior Salesperson,3231328.96,1168,2766.55,501.48,4998.35
+Electronics,Budget Shopper,Small Stores / Shops,Manager,3884902.04,1385,2804.98,501.68,4996.39
+Electronics,Budget Shopper,Small Stores / Shops,Sales Associate,3980469.48,1419,2805.12,502.24,4997.47
+Electronics,Budget Shopper,Small Stores / Shops,Salesperson,4070253.60,1468,2772.65,504.62,4997.06
+Electronics,Budget Shopper,Small Stores / Shops,Senior Salesperson,3389927.53,1228,2760.53,500.59,4999.28
+Electronics,Budget Shopper,Supermarkets ,Manager,3886268.93,1421,2734.88,505.10,4992.13
+Electronics,Budget Shopper,Supermarkets ,Sales Associate,4052837.13,1486,2727.35,510.10,4998.92
+Electronics,Budget Shopper,Supermarkets ,Salesperson,4086502.11,1481,2759.29,501.31,4998.12
+Electronics,Budget Shopper,Supermarkets ,Senior Salesperson,3637094.90,1299,2799.92,506.77,4994.95
+Electronics,Churn Risk,Large Malls / Complexes,Manager,3585247.85,1323,2709.94,502.94,4997.94
+Electronics,Churn Risk,Large Malls / Complexes,Sales Associate,3939292.69,1430,2754.75,500.60,4995.01
+Electronics,Churn Risk,Large Malls / Complexes,Salesperson,3699321.95,1339,2762.75,504.33,4993.31
+Electronics,Churn Risk,Large Malls / Complexes,Senior Salesperson,3154487.39,1146,2752.61,505.30,4989.63
+Electronics,Churn Risk,Small Stores / Shops,Manager,3783875.71,1377,2747.91,501.05,4995.57
+Electronics,Churn Risk,Small Stores / Shops,Sales Associate,4110414.96,1485,2767.96,509.01,4996.82
+Electronics,Churn Risk,Small Stores / Shops,Salesperson,4085007.06,1506,2712.49,500.20,4998.99
+Electronics,Churn Risk,Small Stores / Shops,Senior Salesperson,3335558.70,1247,2674.87,501.34,4999.69
+Electronics,Churn Risk,Supermarkets ,Manager,4005025.77,1440,2781.27,500.17,4995.63
+Electronics,Churn Risk,Supermarkets ,Sales Associate,4301787.27,1559,2759.32,500.48,4991.11
+Electronics,Churn Risk,Supermarkets ,Salesperson,4218118.18,1532,2753.34,506.95,4999.64
+Electronics,Churn Risk,Supermarkets ,Senior Salesperson,3706781.89,1354,2737.65,502.31,4994.23
+Electronics,Deal Seeker,Large Malls / Complexes,Manager,3724979.94,1336,2788.16,501.76,4990.29
+Electronics,Deal Seeker,Large Malls / Complexes,Sales Associate,3621102.48,1311,2762.09,502.34,4999.77
+Electronics,Deal Seeker,Large Malls / Complexes,Salesperson,3696175.50,1360,2717.78,503.52,4994.86
+Electronics,Deal Seeker,Large Malls / Complexes,Senior Salesperson,3352524.67,1230,2725.63,500.80,4997.31
+Electronics,Deal Seeker,Small Stores / Shops,Manager,3875850.13,1394,2780.38,508.52,4998.39
+Electronics,Deal Seeker,Small Stores / Shops,Sales Associate,4155812.17,1510,2752.19,501.85,4999.82
+Electronics,Deal Seeker,Small Stores / Shops,Salesperson,4196402.17,1509,2780.92,500.49,4997.50
+Electronics,Deal Seeker,Small Stores / Shops,Senior Salesperson,3503819.04,1275,2748.09,500.14,4998.59
+Electronics,Deal Seeker,Supermarkets ,Manager,3965197.74,1429,2774.81,504.17,4999.75
+Electronics,Deal Seeker,Supermarkets ,Sales Associate,4224323.06,1588,2660.15,505.19,4999.95
+Electronics,Deal Seeker,Supermarkets ,Salesperson,4212732.86,1543,2730.22,505.23,4998.59
+Electronics,Deal Seeker,Supermarkets ,Senior Salesperson,3477677.75,1276,2725.45,503.53,4998.40
+Electronics,First-time Buyer,Large Malls / Complexes,Manager,3702460.83,1331,2781.71,503.56,4999.78
+Electronics,First-time Buyer,Large Malls / Complexes,Sales Associate,3900206.63,1422,2742.76,502.39,4995.33
+Electronics,First-time Buyer,Large Malls / Complexes,Salesperson,3854739.79,1395,2763.25,501.91,4999.10
+Electronics,First-time Buyer,Large Malls / Complexes,Senior Salesperson,3308599.12,1203,2750.29,504.47,4999.02
+Electronics,First-time Buyer,Small Stores / Shops,Manager,3745483.17,1374,2725.97,501.40,4996.99
+Electronics,First-time Buyer,Small Stores / Shops,Sales Associate,4058812.85,1495,2714.92,500.72,4997.68
+Electronics,First-time Buyer,Small Stores / Shops,Salesperson,3858092.14,1439,2681.09,505.11,4999.20
+Electronics,First-time Buyer,Small Stores / Shops,Senior Salesperson,3454669.38,1238,2790.52,514.01,4991.72
+Electronics,First-time Buyer,Supermarkets ,Manager,4067554.46,1444,2816.87,500.13,4999.11
+Electronics,First-time Buyer,Supermarkets ,Sales Associate,3995091.11,1457,2742.00,500.19,4999.90
+Electronics,First-time Buyer,Supermarkets ,Salesperson,4252564.44,1521,2795.90,506.54,4999.96
+Electronics,First-time Buyer,Supermarkets ,Senior Salesperson,3496914.95,1273,2746.99,510.09,4993.22
+Electronics,High Value,Large Malls / Complexes,Manager,3425033.88,1236,2771.06,500.64,4995.39
+Electronics,High Value,Large Malls / Complexes,Sales Associate,3836654.27,1393,2754.24,500.70,4998.49
+Electronics,High Value,Large Malls / Complexes,Salesperson,3786865.38,1371,2762.12,502.05,4998.62
+Electronics,High Value,Large Malls / Complexes,Senior Salesperson,3335413.07,1207,2763.39,504.44,4999.45
+Electronics,High Value,Small Stores / Shops,Manager,4008848.99,1451,2762.82,501.39,4992.17
+Electronics,High Value,Small Stores / Shops,Sales Associate,4048367.65,1488,2720.68,502.18,4993.18
+Electronics,High Value,Small Stores / Shops,Salesperson,4072718.08,1451,2806.84,504.17,4996.64
+Electronics,High Value,Small Stores / Shops,Senior Salesperson,3642347.11,1319,2761.45,501.00,4998.48
+Electronics,High Value,Supermarkets ,Manager,3878110.42,1432,2708.18,506.12,4996.53
+Electronics,High Value,Supermarkets ,Sales Associate,4052921.77,1481,2736.61,504.69,4999.96
+Electronics,High Value,Supermarkets ,Salesperson,3938653.64,1464,2690.34,505.63,4999.52
+Electronics,High Value,Supermarkets ,Senior Salesperson,3580975.43,1303,2748.25,501.98,4998.89
+Electronics,In-Store Regular,Large Malls / Complexes,Manager,3623424.54,1323,2738.79,501.20,4998.89
+Electronics,In-Store Regular,Large Malls / Complexes,Sales Associate,3765268.35,1362,2764.51,504.09,4995.07
+Electronics,In-Store Regular,Large Malls / Complexes,Salesperson,3720448.20,1365,2725.60,500.25,4998.63
+Electronics,In-Store Regular,Large Malls / Complexes,Senior Salesperson,3358948.29,1230,2730.85,502.83,4999.96
+Electronics,In-Store Regular,Small Stores / Shops,Manager,3742977.00,1365,2742.11,508.37,4998.70
+Electronics,In-Store Regular,Small Stores / Shops,Sales Associate,4067248.24,1491,2727.87,501.01,4998.63
+Electronics,In-Store Regular,Small Stores / Shops,Salesperson,4102205.14,1467,2796.32,500.80,4994.43
+Electronics,In-Store Regular,Small Stores / Shops,Senior Salesperson,3560589.14,1313,2711.80,503.76,4999.96
+Electronics,In-Store Regular,Supermarkets ,Manager,3682434.66,1355,2717.66,500.05,4991.97
+Electronics,In-Store Regular,Supermarkets ,Sales Associate,4303855.58,1566,2748.31,503.16,4999.60
+Electronics,In-Store Regular,Supermarkets ,Salesperson,4120214.74,1500,2746.81,507.31,4998.29
+Electronics,In-Store Regular,Supermarkets ,Senior Salesperson,3776016.35,1358,2780.57,500.69,4999.09
+Electronics,Loyal Customer,Large Malls / Complexes,Manager,3690905.64,1341,2752.35,503.19,4986.37
+Electronics,Loyal Customer,Large Malls / Complexes,Sales Associate,3823439.82,1370,2790.83,508.73,4995.09
+Electronics,Loyal Customer,Large Malls / Complexes,Salesperson,3651233.06,1338,2728.87,502.74,4999.83
+Electronics,Loyal Customer,Large Malls / Complexes,Senior Salesperson,3274118.76,1201,2726.16,502.33,4997.33
+Electronics,Loyal Customer,Small Stores / Shops,Manager,3996724.35,1471,2717.01,500.08,4999.80
+Electronics,Loyal Customer,Small Stores / Shops,Sales Associate,4075687.92,1491,2733.53,504.23,4998.12
+Electronics,Loyal Customer,Small Stores / Shops,Salesperson,3963386.65,1448,2737.15,502.12,4992.86
+Electronics,Loyal Customer,Small Stores / Shops,Senior Salesperson,3299934.19,1184,2787.11,508.20,4997.09
+Electronics,Loyal Customer,Supermarkets ,Manager,4077786.24,1480,2755.26,500.20,4999.15
+Electronics,Loyal Customer,Supermarkets ,Sales Associate,4114418.78,1505,2733.83,501.94,4991.67
+Electronics,Loyal Customer,Supermarkets ,Salesperson,4295151.53,1527,2812.80,504.46,4996.09
+Electronics,Loyal Customer,Supermarkets ,Senior Salesperson,3408664.99,1238,2753.36,503.05,4995.40
+Electronics,Occasional Shopper,Large Malls / Complexes,Manager,3640673.54,1330,2737.35,505.65,4998.42
+Electronics,Occasional Shopper,Large Malls / Complexes,Sales Associate,3992979.85,1463,2729.31,501.55,4998.19
+Electronics,Occasional Shopper,Large Malls / Complexes,Salesperson,3871457.94,1400,2765.33,507.71,4985.10
+Electronics,Occasional Shopper,Large Malls / Complexes,Senior Salesperson,3373362.08,1183,2851.53,505.17,4997.57
+Electronics,Occasional Shopper,Small Stores / Shops,Manager,4051263.10,1475,2746.62,510.21,4997.58
+Electronics,Occasional Shopper,Small Stores / Shops,Sales Associate,4061766.31,1462,2778.23,500.55,4997.93
+Electronics,Occasional Shopper,Small Stores / Shops,Salesperson,3988027.10,1434,2781.05,513.61,4991.03
+Electronics,Occasional Shopper,Small Stores / Shops,Senior Salesperson,3728284.36,1333,2796.91,500.15,4996.56
+Electronics,Occasional Shopper,Supermarkets ,Manager,4003375.78,1497,2674.27,503.77,4991.97
+Electronics,Occasional Shopper,Supermarkets ,Sales Associate,4307536.29,1546,2786.25,501.39,4999.63
+Electronics,Occasional Shopper,Supermarkets ,Salesperson,4198171.79,1501,2796.92,510.55,4996.32
+Electronics,Occasional Shopper,Supermarkets ,Senior Salesperson,3302835.06,1206,2738.67,503.80,4997.14
+Electronics,Online Shopper,Large Malls / Complexes,Manager,3704006.85,1355,2733.58,503.43,4998.93
+Electronics,Online Shopper,Large Malls / Complexes,Sales Associate,3738715.12,1360,2749.06,500.77,4999.95
+Electronics,Online Shopper,Large Malls / Complexes,Salesperson,3895594.92,1401,2780.58,502.74,4998.12
+Electronics,Online Shopper,Large Malls / Complexes,Senior Salesperson,3284994.69,1197,2744.36,502.74,4995.33
+Electronics,Online Shopper,Small Stores / Shops,Manager,3950455.08,1422,2778.10,502.18,4998.33
+Electronics,Online Shopper,Small Stores / Shops,Sales Associate,3920981.30,1427,2747.71,501.02,4996.84
+Electronics,Online Shopper,Small Stores / Shops,Salesperson,3978153.58,1478,2691.58,502.51,4990.57
+Electronics,Online Shopper,Small Stores / Shops,Senior Salesperson,3682466.15,1301,2830.49,508.70,4996.28
+Electronics,Online Shopper,Supermarkets ,Manager,4098136.74,1486,2757.83,503.58,4989.36
+Electronics,Online Shopper,Supermarkets ,Sales Associate,4241247.27,1500,2827.50,500.70,4996.98
+Electronics,Online Shopper,Supermarkets ,Salesperson,4081509.14,1475,2767.12,500.09,4998.84
+Electronics,Online Shopper,Supermarkets ,Senior Salesperson,3526387.13,1291,2731.52,502.78,4998.72
+Electronics,Premium Shopper,Large Malls / Complexes,Manager,3636975.45,1312,2772.08,504.05,4998.76
+Electronics,Premium Shopper,Large Malls / Complexes,Sales Associate,3802095.42,1400,2715.78,501.34,4995.38
+Electronics,Premium Shopper,Large Malls / Complexes,Salesperson,3858328.28,1387,2781.78,506.00,4986.11
+Electronics,Premium Shopper,Large Malls / Complexes,Senior Salesperson,3284728.85,1184,2774.26,509.63,4996.76
+Electronics,Premium Shopper,Small Stores / Shops,Manager,3828985.34,1400,2734.99,500.73,4997.71
+Electronics,Premium Shopper,Small Stores / Shops,Sales Associate,3988101.31,1476,2701.97,503.82,4988.42
+Electronics,Premium Shopper,Small Stores / Shops,Salesperson,4118327.20,1476,2790.19,500.34,4996.89
+Electronics,Premium Shopper,Small Stores / Shops,Senior Salesperson,3408943.08,1234,2762.51,505.55,4997.81
+Electronics,Premium Shopper,Supermarkets ,Manager,3834110.91,1386,2766.31,502.17,4999.87
+Electronics,Premium Shopper,Supermarkets ,Sales Associate,4389247.99,1592,2757.07,502.69,4999.13
+Electronics,Premium Shopper,Supermarkets ,Salesperson,4171153.06,1517,2749.61,513.00,4994.66
+Electronics,Premium Shopper,Supermarkets ,Senior Salesperson,3650859.76,1324,2757.45,500.51,4997.92
+Furniture,Budget Shopper,Large Malls / Complexes,Manager,3550770.35,1325,2679.83,503.79,4999.11
+Furniture,Budget Shopper,Large Malls / Complexes,Sales Associate,3806307.57,1397,2724.63,502.36,4997.28
+Furniture,Budget Shopper,Large Malls / Complexes,Salesperson,4073230.41,1436,2836.51,501.41,4995.52
+Furniture,Budget Shopper,Large Malls / Complexes,Senior Salesperson,3206874.40,1178,2722.30,504.13,4999.77
+Furniture,Budget Shopper,Small Stores / Shops,Manager,3942266.65,1419,2778.20,500.93,4997.53
+Furniture,Budget Shopper,Small Stores / Shops,Sales Associate,3885835.59,1413,2750.06,505.02,4993.72
+Furniture,Budget Shopper,Small Stores / Shops,Salesperson,4016501.89,1464,2743.51,503.77,4998.41
+Furniture,Budget Shopper,Small Stores / Shops,Senior Salesperson,3442738.29,1284,2681.26,502.47,4990.61
+Furniture,Budget Shopper,Supermarkets ,Manager,4103375.47,1494,2746.57,501.67,4999.90
+Furniture,Budget Shopper,Supermarkets ,Sales Associate,4297529.32,1565,2746.03,504.75,4995.21
+Furniture,Budget Shopper,Supermarkets ,Salesperson,4013143.86,1453,2761.97,503.79,4996.17
+Furniture,Budget Shopper,Supermarkets ,Senior Salesperson,3546833.10,1291,2747.35,503.27,4999.39
+Furniture,Churn Risk,Large Malls / Complexes,Manager,3693379.22,1360,2715.72,504.20,4997.24
+Furniture,Churn Risk,Large Malls / Complexes,Sales Associate,3814430.17,1406,2712.97,501.02,4981.94
+Furniture,Churn Risk,Large Malls / Complexes,Salesperson,3753365.68,1353,2774.11,503.27,4999.33
+Furniture,Churn Risk,Large Malls / Complexes,Senior Salesperson,3309394.68,1213,2728.27,501.95,4995.39
+Furniture,Churn Risk,Small Stores / Shops,Manager,3762394.23,1390,2706.76,500.70,4999.21
+Furniture,Churn Risk,Small Stores / Shops,Sales Associate,4072209.62,1464,2781.56,501.40,4999.20
+Furniture,Churn Risk,Small Stores / Shops,Salesperson,3993672.35,1452,2750.46,501.06,4999.64
+Furniture,Churn Risk,Small Stores / Shops,Senior Salesperson,3395250.12,1240,2738.10,514.75,4998.89
+Furniture,Churn Risk,Supermarkets ,Manager,3997256.28,1474,2711.84,503.48,4995.95
+Furniture,Churn Risk,Supermarkets ,Sales Associate,4015578.50,1479,2715.06,502.08,4999.22
+Furniture,Churn Risk,Supermarkets ,Salesperson,4249372.55,1521,2793.80,500.71,4999.22
+Furniture,Churn Risk,Supermarkets ,Senior Salesperson,3761542.36,1348,2790.46,511.93,4994.87
+Furniture,Deal Seeker,Large Malls / Complexes,Manager,3624060.29,1340,2704.52,502.44,4989.67
+Furniture,Deal Seeker,Large Malls / Complexes,Sales Associate,3908576.01,1424,2744.79,500.56,4997.15
+Furniture,Deal Seeker,Large Malls / Complexes,Salesperson,3740551.29,1348,2774.89,506.58,4995.57
+Furniture,Deal Seeker,Large Malls / Complexes,Senior Salesperson,3251103.92,1199,2711.51,503.24,4998.98
+Furniture,Deal Seeker,Small Stores / Shops,Manager,3816165.52,1391,2743.47,501.02,4995.20
+Furniture,Deal Seeker,Small Stores / Shops,Sales Associate,4171448.71,1506,2769.89,501.28,4998.90
+Furniture,Deal Seeker,Small Stores / Shops,Salesperson,4048639.09,1455,2782.57,502.50,4998.30
+Furniture,Deal Seeker,Small Stores / Shops,Senior Salesperson,3589444.12,1316,2727.54,504.00,4999.40
+Furniture,Deal Seeker,Supermarkets ,Manager,3825703.18,1391,2750.33,503.66,4995.19
+Furniture,Deal Seeker,Supermarkets ,Sales Associate,4163765.74,1486,2802.00,502.25,4998.55
+Furniture,Deal Seeker,Supermarkets ,Salesperson,4164165.02,1557,2674.48,503.47,4999.12
+Furniture,Deal Seeker,Supermarkets ,Senior Salesperson,3644428.17,1334,2731.96,503.92,4996.70
+Furniture,First-time Buyer,Large Malls / Complexes,Manager,3557031.55,1282,2774.60,505.61,4999.65
+Furniture,First-time Buyer,Large Malls / Complexes,Sales Associate,3926615.22,1440,2726.82,504.15,4997.71
+Furniture,First-time Buyer,Large Malls / Complexes,Salesperson,3816831.39,1389,2747.90,500.38,4998.93
+Furniture,First-time Buyer,Large Malls / Complexes,Senior Salesperson,3270885.72,1175,2783.73,500.56,4992.57
+Furniture,First-time Buyer,Small Stores / Shops,Manager,3889517.77,1402,2774.26,502.90,4999.10
+Furniture,First-time Buyer,Small Stores / Shops,Sales Associate,4085113.01,1476,2767.69,502.68,4996.98
+Furniture,First-time Buyer,Small Stores / Shops,Salesperson,4161959.34,1459,2852.61,503.77,4998.02
+Furniture,First-time Buyer,Small Stores / Shops,Senior Salesperson,3342876.86,1218,2744.56,501.27,4997.56
+Furniture,First-time Buyer,Supermarkets ,Manager,4092815.49,1482,2761.68,502.09,4992.85
+Furniture,First-time Buyer,Supermarkets ,Sales Associate,4235470.30,1508,2808.67,501.84,4999.59
+Furniture,First-time Buyer,Supermarkets ,Salesperson,4282269.35,1576,2717.18,506.98,4999.17
+Furniture,First-time Buyer,Supermarkets ,Senior Salesperson,3286515.08,1238,2654.70,500.58,4996.89
+Furniture,High Value,Large Malls / Complexes,Manager,3657460.52,1321,2768.71,512.14,4994.60
+Furniture,High Value,Large Malls / Complexes,Sales Associate,3779753.91,1387,2725.13,502.67,4998.34
+Furniture,High Value,Large Malls / Complexes,Salesperson,3624808.78,1322,2741.91,504.24,4996.37
+Furniture,High Value,Large Malls / Complexes,Senior Salesperson,3409555.51,1249,2729.83,511.05,4999.64
+Furniture,High Value,Small Stores / Shops,Manager,4036294.86,1446,2791.35,507.71,4999.89
+Furniture,High Value,Small Stores / Shops,Sales Associate,4115139.43,1489,2763.69,504.11,4998.26
+Furniture,High Value,Small Stores / Shops,Salesperson,4236975.58,1519,2789.32,502.41,4999.47
+Furniture,High Value,Small Stores / Shops,Senior Salesperson,3686986.64,1345,2741.25,501.29,4992.73
+Furniture,High Value,Supermarkets ,Manager,4010971.70,1501,2672.20,504.04,4990.65
+Furniture,High Value,Supermarkets ,Sales Associate,4148937.03,1507,2753.11,509.93,4999.68
+Furniture,High Value,Supermarkets ,Salesperson,4075192.32,1471,2770.36,501.52,4996.74
+Furniture,High Value,Supermarkets ,Senior Salesperson,3599087.96,1299,2770.66,501.39,4997.60
+Furniture,In-Store Regular,Large Malls / Complexes,Manager,3617088.93,1295,2793.12,500.68,4998.42
+Furniture,In-Store Regular,Large Malls / Complexes,Sales Associate,3977667.87,1409,2823.04,509.15,4994.01
+Furniture,In-Store Regular,Large Malls / Complexes,Salesperson,3843901.37,1380,2785.44,501.98,4992.90
+Furniture,In-Store Regular,Large Malls / Complexes,Senior Salesperson,3244770.94,1141,2843.80,504.49,4986.03
+Furniture,In-Store Regular,Small Stores / Shops,Manager,3731787.64,1333,2799.54,500.07,4995.61
+Furniture,In-Store Regular,Small Stores / Shops,Sales Associate,4126086.84,1483,2782.26,500.31,4998.78
+Furniture,In-Store Regular,Small Stores / Shops,Salesperson,3858402.48,1390,2775.83,501.91,4996.39
+Furniture,In-Store Regular,Small Stores / Shops,Senior Salesperson,3429457.74,1253,2737.00,500.06,4979.28
+Furniture,In-Store Regular,Supermarkets ,Manager,3783156.11,1389,2723.65,505.38,4993.12
+Furniture,In-Store Regular,Supermarkets ,Sales Associate,4140145.18,1545,2679.71,506.12,4998.82
+Furniture,In-Store Regular,Supermarkets ,Salesperson,4072445.17,1498,2718.59,503.70,4997.30
+Furniture,In-Store Regular,Supermarkets ,Senior Salesperson,3472556.99,1277,2719.31,503.22,4998.58
+Furniture,Loyal Customer,Large Malls / Complexes,Manager,3670790.62,1349,2721.12,500.56,4996.31
+Furniture,Loyal Customer,Large Malls / Complexes,Sales Associate,3742079.08,1369,2733.44,504.76,4999.69
+Furniture,Loyal Customer,Large Malls / Complexes,Salesperson,3907115.31,1385,2821.02,501.63,4997.81
+Furniture,Loyal Customer,Large Malls / Complexes,Senior Salesperson,3276022.28,1180,2776.29,503.96,4995.76
+Furniture,Loyal Customer,Small Stores / Shops,Manager,3945958.42,1443,2734.55,504.85,4987.08
+Furniture,Loyal Customer,Small Stores / Shops,Sales Associate,4182094.05,1497,2793.65,501.69,4997.34
+Furniture,Loyal Customer,Small Stores / Shops,Salesperson,3860987.64,1374,2810.03,501.83,4997.86
+Furniture,Loyal Customer,Small Stores / Shops,Senior Salesperson,3573201.68,1288,2774.22,503.81,4998.96
+Furniture,Loyal Customer,Supermarkets ,Manager,4135454.48,1527,2708.22,506.20,4996.61
+Furniture,Loyal Customer,Supermarkets ,Sales Associate,4383485.72,1579,2776.12,503.86,4997.79
+Furniture,Loyal Customer,Supermarkets ,Salesperson,4188424.81,1527,2742.91,509.66,4998.56
+Furniture,Loyal Customer,Supermarkets ,Senior Salesperson,3511443.29,1287,2728.39,511.00,4992.90
+Furniture,Occasional Shopper,Large Malls / Complexes,Manager,3583918.46,1303,2750.51,506.14,4999.60
+Furniture,Occasional Shopper,Large Malls / Complexes,Sales Associate,3974575.73,1451,2739.20,501.59,4987.14
+Furniture,Occasional Shopper,Large Malls / Complexes,Salesperson,3844777.07,1412,2722.93,500.92,4995.30
+Furniture,Occasional Shopper,Large Malls / Complexes,Senior Salesperson,3303508.27,1225,2696.74,500.36,4998.24
+Furniture,Occasional Shopper,Small Stores / Shops,Manager,3653992.00,1326,2755.65,500.57,4999.31
+Furniture,Occasional Shopper,Small Stores / Shops,Sales Associate,4024658.56,1441,2792.96,501.84,4999.44
+Furniture,Occasional Shopper,Small Stores / Shops,Salesperson,3730815.36,1359,2745.27,504.08,4994.16
+Furniture,Occasional Shopper,Small Stores / Shops,Senior Salesperson,3437922.66,1264,2719.88,503.09,4995.72
+Furniture,Occasional Shopper,Supermarkets ,Manager,4006260.47,1446,2770.58,500.89,4997.96
+Furniture,Occasional Shopper,Supermarkets ,Sales Associate,4260189.66,1559,2732.64,501.89,4996.83
+Furniture,Occasional Shopper,Supermarkets ,Salesperson,4008763.99,1435,2793.56,505.59,4997.66
+Furniture,Occasional Shopper,Supermarkets ,Senior Salesperson,3732874.25,1354,2756.92,501.43,4997.23
+Furniture,Online Shopper,Large Malls / Complexes,Manager,3711250.00,1337,2775.80,501.32,4992.74
+Furniture,Online Shopper,Large Malls / Complexes,Sales Associate,3805229.07,1373,2771.47,500.23,4985.59
+Furniture,Online Shopper,Large Malls / Complexes,Salesperson,4028091.20,1423,2830.70,500.35,4999.62
+Furniture,Online Shopper,Large Malls / Complexes,Senior Salesperson,3239748.88,1166,2778.52,503.67,4999.88
+Furniture,Online Shopper,Small Stores / Shops,Manager,4097845.38,1457,2812.52,502.12,4998.77
+Furniture,Online Shopper,Small Stores / Shops,Sales Associate,4074442.39,1504,2709.07,505.94,4995.68
+Furniture,Online Shopper,Small Stores / Shops,Salesperson,4033578.08,1513,2665.95,500.34,4997.06
+Furniture,Online Shopper,Small Stores / Shops,Senior Salesperson,3474368.14,1271,2733.57,504.38,4998.57
+Furniture,Online Shopper,Supermarkets ,Manager,4234071.50,1538,2752.97,508.03,4994.90
+Furniture,Online Shopper,Supermarkets ,Sales Associate,4152589.21,1504,2761.03,501.50,4999.14
+Furniture,Online Shopper,Supermarkets ,Salesperson,4297491.24,1591,2701.13,501.83,4998.80
+Furniture,Online Shopper,Supermarkets ,Senior Salesperson,3633523.99,1320,2752.67,502.15,4992.50
+Furniture,Premium Shopper,Large Malls / Complexes,Manager,3427684.49,1280,2677.88,501.66,4998.58
+Furniture,Premium Shopper,Large Malls / Complexes,Sales Associate,3744448.74,1357,2759.36,504.41,4991.57
+Furniture,Premium Shopper,Large Malls / Complexes,Salesperson,3764253.82,1355,2778.05,502.26,4999.01
+Furniture,Premium Shopper,Large Malls / Complexes,Senior Salesperson,3470068.49,1247,2782.73,500.29,4997.41
+Furniture,Premium Shopper,Small Stores / Shops,Manager,3877418.22,1398,2773.55,504.00,4999.14
+Furniture,Premium Shopper,Small Stores / Shops,Sales Associate,4000320.01,1429,2799.38,501.02,4998.88
+Furniture,Premium Shopper,Small Stores / Shops,Salesperson,3939168.10,1411,2791.76,501.38,4995.63
+Furniture,Premium Shopper,Small Stores / Shops,Senior Salesperson,3410866.69,1247,2735.26,501.18,4988.57
+Furniture,Premium Shopper,Supermarkets ,Manager,3959079.13,1451,2728.52,501.93,4996.26
+Furniture,Premium Shopper,Supermarkets ,Sales Associate,4134971.02,1503,2751.15,502.37,4998.49
+Furniture,Premium Shopper,Supermarkets ,Salesperson,4066575.76,1478,2751.40,500.23,4998.21
+Furniture,Premium Shopper,Supermarkets ,Senior Salesperson,3675169.30,1313,2799.06,505.62,4998.23
+Groceries,Budget Shopper,Large Malls / Complexes,Manager,3423029.07,1272,2691.06,506.85,4998.19
+Groceries,Budget Shopper,Large Malls / Complexes,Sales Associate,3739945.19,1364,2741.90,502.18,4999.95
+Groceries,Budget Shopper,Large Malls / Complexes,Salesperson,3783244.90,1379,2743.47,500.73,4999.97
+Groceries,Budget Shopper,Large Malls / Complexes,Senior Salesperson,3363709.95,1196,2812.47,504.16,4999.39
+Groceries,Budget Shopper,Small Stores / Shops,Manager,3729370.19,1363,2736.15,500.68,4998.44
+Groceries,Budget Shopper,Small Stores / Shops,Sales Associate,3971856.82,1463,2714.87,503.94,4995.84
+Groceries,Budget Shopper,Small Stores / Shops,Salesperson,4140268.41,1506,2749.18,504.65,4994.33
+Groceries,Budget Shopper,Small Stores / Shops,Senior Salesperson,3439565.79,1264,2721.18,503.39,4998.35
+Groceries,Budget Shopper,Supermarkets ,Manager,3980648.44,1424,2795.40,501.93,4988.77
+Groceries,Budget Shopper,Supermarkets ,Sales Associate,4074427.17,1511,2696.51,505.33,4999.16
+Groceries,Budget Shopper,Supermarkets ,Salesperson,4068244.30,1460,2786.47,508.29,4996.82
+Groceries,Budget Shopper,Supermarkets ,Senior Salesperson,3501636.77,1267,2763.72,507.50,4995.84
+Groceries,Churn Risk,Large Malls / Complexes,Manager,3733227.12,1369,2726.97,502.79,4999.13
+Groceries,Churn Risk,Large Malls / Complexes,Sales Associate,3693988.45,1386,2665.22,501.42,4998.93
+Groceries,Churn Risk,Large Malls / Complexes,Salesperson,3751505.47,1350,2778.89,507.32,4996.21
+Groceries,Churn Risk,Large Malls / Complexes,Senior Salesperson,3174215.05,1194,2658.47,502.89,4996.08
+Groceries,Churn Risk,Small Stores / Shops,Manager,3847672.46,1384,2780.11,501.54,4998.35
+Groceries,Churn Risk,Small Stores / Shops,Sales Associate,4062309.97,1462,2778.60,502.72,4995.02
+Groceries,Churn Risk,Small Stores / Shops,Salesperson,3815111.96,1412,2701.92,500.47,4996.15
+Groceries,Churn Risk,Small Stores / Shops,Senior Salesperson,3688679.48,1345,2742.51,500.75,4994.43
+Groceries,Churn Risk,Supermarkets ,Manager,4017459.40,1432,2805.49,504.09,4994.26
+Groceries,Churn Risk,Supermarkets ,Sales Associate,4085487.06,1483,2754.88,507.64,4997.22
+Groceries,Churn Risk,Supermarkets ,Salesperson,4166982.45,1498,2781.70,502.13,4999.85
+Groceries,Churn Risk,Supermarkets ,Senior Salesperson,3523415.25,1284,2744.09,507.40,4993.94
+Groceries,Deal Seeker,Large Malls / Complexes,Manager,3562717.88,1304,2732.15,502.46,4994.32
+Groceries,Deal Seeker,Large Malls / Complexes,Sales Associate,3856798.85,1365,2825.49,503.08,4992.96
+Groceries,Deal Seeker,Large Malls / Complexes,Salesperson,3830046.21,1362,2812.08,507.01,4998.30
+Groceries,Deal Seeker,Large Malls / Complexes,Senior Salesperson,3346119.67,1197,2795.42,501.79,4994.79
+Groceries,Deal Seeker,Small Stores / Shops,Manager,3777740.85,1357,2783.89,500.60,4999.70
+Groceries,Deal Seeker,Small Stores / Shops,Sales Associate,4420074.32,1591,2778.17,501.28,4995.00
+Groceries,Deal Seeker,Small Stores / Shops,Salesperson,4128575.06,1490,2770.86,506.38,4998.59
+Groceries,Deal Seeker,Small Stores / Shops,Senior Salesperson,3444606.62,1258,2738.16,504.62,4999.80
+Groceries,Deal Seeker,Supermarkets ,Manager,4113956.15,1512,2720.87,506.03,4985.38
+Groceries,Deal Seeker,Supermarkets ,Sales Associate,4090908.35,1493,2740.06,501.88,4998.90
+Groceries,Deal Seeker,Supermarkets ,Salesperson,4199441.86,1555,2700.61,505.16,4997.42
+Groceries,Deal Seeker,Supermarkets ,Senior Salesperson,3461025.22,1259,2749.03,500.33,4999.88
+Groceries,First-time Buyer,Large Malls / Complexes,Manager,3713400.29,1354,2742.54,518.31,4998.17
+Groceries,First-time Buyer,Large Malls / Complexes,Sales Associate,3954135.13,1423,2778.73,505.99,4999.20
+Groceries,First-time Buyer,Large Malls / Complexes,Salesperson,3611947.60,1296,2787.00,500.26,4998.49
+Groceries,First-time Buyer,Large Malls / Complexes,Senior Salesperson,3358163.42,1224,2743.60,501.87,4999.90
+Groceries,First-time Buyer,Small Stores / Shops,Manager,3670535.78,1324,2772.31,500.94,4999.83
+Groceries,First-time Buyer,Small Stores / Shops,Sales Associate,4042619.76,1485,2722.30,500.01,4996.32
+Groceries,First-time Buyer,Small Stores / Shops,Salesperson,3916106.60,1426,2746.22,500.64,4995.88
+Groceries,First-time Buyer,Small Stores / Shops,Senior Salesperson,3601205.75,1287,2798.14,502.02,4998.54
+Groceries,First-time Buyer,Supermarkets ,Manager,3973915.66,1453,2734.97,501.65,4998.75
+Groceries,First-time Buyer,Supermarkets ,Sales Associate,4230844.46,1550,2729.58,504.35,4997.39
+Groceries,First-time Buyer,Supermarkets ,Salesperson,4047351.76,1493,2710.89,508.11,4991.34
+Groceries,First-time Buyer,Supermarkets ,Senior Salesperson,3445041.02,1265,2723.35,505.75,4999.88
+Groceries,High Value,Large Malls / Complexes,Manager,3544941.07,1297,2733.19,500.47,4998.87
+Groceries,High Value,Large Malls / Complexes,Sales Associate,3698998.79,1355,2729.89,501.31,4997.68
+Groceries,High Value,Large Malls / Complexes,Salesperson,3694224.79,1340,2756.88,500.95,4998.78
+Groceries,High Value,Large Malls / Complexes,Senior Salesperson,3298166.72,1221,2701.20,500.54,4998.64
+Groceries,High Value,Small Stores / Shops,Manager,4003119.19,1452,2756.97,500.83,4998.45
+Groceries,High Value,Small Stores / Shops,Sales Associate,4107610.15,1507,2725.69,503.56,4993.10
+Groceries,High Value,Small Stores / Shops,Salesperson,3988433.85,1476,2702.19,508.05,4992.27
+Groceries,High Value,Small Stores / Shops,Senior Salesperson,3687077.46,1323,2786.91,512.30,4998.29
+Groceries,High Value,Supermarkets ,Manager,4120349.66,1491,2763.48,506.83,4997.86
+Groceries,High Value,Supermarkets ,Sales Associate,4272711.28,1568,2724.94,503.26,4994.94
+Groceries,High Value,Supermarkets ,Salesperson,4209064.68,1525,2760.04,502.46,4999.34
+Groceries,High Value,Supermarkets ,Senior Salesperson,3625463.56,1308,2771.76,504.15,4991.33
+Groceries,In-Store Regular,Large Malls / Complexes,Manager,3578076.08,1272,2812.95,504.57,4997.81
+Groceries,In-Store Regular,Large Malls / Complexes,Sales Associate,3779812.00,1390,2719.29,504.42,4999.92
+Groceries,In-Store Regular,Large Malls / Complexes,Salesperson,3576102.11,1303,2744.51,500.36,4999.35
+Groceries,In-Store Regular,Large Malls / Complexes,Senior Salesperson,3421704.86,1226,2790.95,507.81,4998.24
+Groceries,In-Store Regular,Small Stores / Shops,Manager,3994596.67,1410,2833.05,508.03,4995.38
+Groceries,In-Store Regular,Small Stores / Shops,Sales Associate,3975774.51,1461,2721.27,505.89,4994.70
+Groceries,In-Store Regular,Small Stores / Shops,Salesperson,4102104.59,1469,2792.45,511.03,4996.98
+Groceries,In-Store Regular,Small Stores / Shops,Senior Salesperson,3449161.78,1289,2675.84,511.13,4998.37
+Groceries,In-Store Regular,Supermarkets ,Manager,3968961.74,1473,2694.48,502.61,4999.58
+Groceries,In-Store Regular,Supermarkets ,Sales Associate,4154862.91,1519,2735.26,504.22,4994.74
+Groceries,In-Store Regular,Supermarkets ,Salesperson,4059982.61,1483,2737.68,500.16,4999.70
+Groceries,In-Store Regular,Supermarkets ,Senior Salesperson,3623559.89,1317,2751.37,500.03,4997.93
+Groceries,Loyal Customer,Large Malls / Complexes,Manager,3342406.59,1251,2671.79,506.59,4999.40
+Groceries,Loyal Customer,Large Malls / Complexes,Sales Associate,3829070.54,1385,2764.67,501.41,4973.34
+Groceries,Loyal Customer,Large Malls / Complexes,Salesperson,3850427.93,1368,2814.64,506.44,4997.31
+Groceries,Loyal Customer,Large Malls / Complexes,Senior Salesperson,3170039.72,1147,2763.77,500.32,4999.96
+Groceries,Loyal Customer,Small Stores / Shops,Manager,3882012.52,1404,2764.97,500.37,4994.91
+Groceries,Loyal Customer,Small Stores / Shops,Sales Associate,3962069.66,1413,2804.01,504.34,4995.25
+Groceries,Loyal Customer,Small Stores / Shops,Salesperson,4061647.26,1501,2705.96,502.27,4999.20
+Groceries,Loyal Customer,Small Stores / Shops,Senior Salesperson,3454239.67,1240,2785.68,504.17,4999.89
+Groceries,Loyal Customer,Supermarkets ,Manager,4046029.64,1454,2782.69,509.01,4994.46
+Groceries,Loyal Customer,Supermarkets ,Sales Associate,4167468.04,1499,2780.17,504.05,4999.73
+Groceries,Loyal Customer,Supermarkets ,Salesperson,4102500.45,1475,2781.36,508.44,4999.50
+Groceries,Loyal Customer,Supermarkets ,Senior Salesperson,3813684.56,1364,2795.96,500.84,4990.33
+Groceries,Occasional Shopper,Large Malls / Complexes,Manager,3412659.72,1265,2697.75,507.03,4999.21
+Groceries,Occasional Shopper,Large Malls / Complexes,Sales Associate,3724813.50,1362,2734.81,502.78,4995.96
+Groceries,Occasional Shopper,Large Malls / Complexes,Salesperson,3615653.32,1312,2755.83,512.57,4999.06
+Groceries,Occasional Shopper,Large Malls / Complexes,Senior Salesperson,3338495.01,1217,2743.22,503.74,4999.80
+Groceries,Occasional Shopper,Small Stores / Shops,Manager,3813895.34,1414,2697.24,502.08,4998.84
+Groceries,Occasional Shopper,Small Stores / Shops,Sales Associate,4227959.68,1517,2787.05,503.43,4992.71
+Groceries,Occasional Shopper,Small Stores / Shops,Salesperson,3929579.21,1453,2704.46,500.43,4997.51
+Groceries,Occasional Shopper,Small Stores / Shops,Senior Salesperson,3361462.28,1206,2787.28,501.97,4996.41
+Groceries,Occasional Shopper,Supermarkets ,Manager,4025291.25,1460,2757.05,500.56,4991.74
+Groceries,Occasional Shopper,Supermarkets ,Sales Associate,4355009.26,1580,2756.33,503.17,4998.22
+Groceries,Occasional Shopper,Supermarkets ,Salesperson,4083780.83,1503,2717.09,504.23,4996.97
+Groceries,Occasional Shopper,Supermarkets ,Senior Salesperson,3644866.35,1338,2724.12,511.54,4993.82
+Groceries,Online Shopper,Large Malls / Complexes,Manager,3740983.91,1370,2730.65,501.54,4997.02
+Groceries,Online Shopper,Large Malls / Complexes,Sales Associate,3678186.95,1339,2746.97,507.64,4999.06
+Groceries,Online Shopper,Large Malls / Complexes,Salesperson,3800788.86,1343,2830.07,501.06,4996.06
+Groceries,Online Shopper,Large Malls / Complexes,Senior Salesperson,3147561.99,1139,2763.44,501.39,4999.83
+Groceries,Online Shopper,Small Stores / Shops,Manager,4084314.49,1450,2816.77,501.42,4996.14
+Groceries,Online Shopper,Small Stores / Shops,Sales Associate,4008352.34,1453,2758.67,501.36,4998.79
+Groceries,Online Shopper,Small Stores / Shops,Salesperson,3936429.79,1465,2686.98,500.62,4993.62
+Groceries,Online Shopper,Small Stores / Shops,Senior Salesperson,3542409.59,1286,2754.60,505.76,4999.26
+Groceries,Online Shopper,Supermarkets ,Manager,3664512.89,1346,2722.52,500.12,4991.77
+Groceries,Online Shopper,Supermarkets ,Sales Associate,4392846.32,1596,2752.41,500.74,4997.93
+Groceries,Online Shopper,Supermarkets ,Salesperson,4207583.60,1532,2746.46,505.64,4997.53
+Groceries,Online Shopper,Supermarkets ,Senior Salesperson,3616774.41,1320,2739.98,502.24,4999.82
+Groceries,Premium Shopper,Large Malls / Complexes,Manager,3343439.96,1214,2754.07,513.13,4998.94
+Groceries,Premium Shopper,Large Malls / Complexes,Sales Associate,3970502.61,1443,2751.56,503.77,4999.51
+Groceries,Premium Shopper,Large Malls / Complexes,Salesperson,3784040.00,1372,2758.05,502.75,4999.86
+Groceries,Premium Shopper,Large Malls / Complexes,Senior Salesperson,3279447.07,1193,2748.91,500.98,4998.79
+Groceries,Premium Shopper,Small Stores / Shops,Manager,3717558.85,1356,2741.56,500.31,4996.87
+Groceries,Premium Shopper,Small Stores / Shops,Sales Associate,4055232.70,1505,2694.51,501.53,4999.35
+Groceries,Premium Shopper,Small Stores / Shops,Salesperson,4041154.90,1465,2758.47,501.25,4993.04
+Groceries,Premium Shopper,Small Stores / Shops,Senior Salesperson,3332715.61,1213,2747.50,500.73,4996.88
+Groceries,Premium Shopper,Supermarkets ,Manager,3944523.20,1416,2785.68,500.97,4992.34
+Groceries,Premium Shopper,Supermarkets ,Sales Associate,4036080.86,1486,2716.07,500.98,4997.29
+Groceries,Premium Shopper,Supermarkets ,Salesperson,4011999.03,1479,2712.64,502.43,4995.65
+Groceries,Premium Shopper,Supermarkets ,Senior Salesperson,3554539.98,1309,2715.46,506.29,4996.69
+Home Appliances,Budget Shopper,Large Malls / Complexes,Manager,3542053.89,1303,2718.38,504.79,4999.74
+Home Appliances,Budget Shopper,Large Malls / Complexes,Sales Associate,3721357.75,1351,2754.52,504.93,4997.52
+Home Appliances,Budget Shopper,Large Malls / Complexes,Salesperson,3804987.75,1374,2769.28,500.61,4999.90
+Home Appliances,Budget Shopper,Large Malls / Complexes,Senior Salesperson,3188304.03,1179,2704.24,500.71,4995.76
+Home Appliances,Budget Shopper,Small Stores / Shops,Manager,3858261.82,1424,2709.45,500.92,4993.34
+Home Appliances,Budget Shopper,Small Stores / Shops,Sales Associate,4124589.44,1480,2786.88,505.90,4999.78
+Home Appliances,Budget Shopper,Small Stores / Shops,Salesperson,3925292.40,1433,2739.21,507.78,4998.12
+Home Appliances,Budget Shopper,Small Stores / Shops,Senior Salesperson,3386805.88,1245,2720.33,500.98,4998.56
+Home Appliances,Budget Shopper,Supermarkets ,Manager,4067215.84,1468,2770.58,502.00,4999.93
+Home Appliances,Budget Shopper,Supermarkets ,Sales Associate,4144480.77,1506,2751.98,500.10,4997.98
+Home Appliances,Budget Shopper,Supermarkets ,Salesperson,3986426.38,1452,2745.47,500.99,4999.66
+Home Appliances,Budget Shopper,Supermarkets ,Senior Salesperson,3709448.43,1345,2757.95,510.91,4999.12
+Home Appliances,Churn Risk,Large Malls / Complexes,Manager,3791579.80,1361,2785.88,501.18,4995.77
+Home Appliances,Churn Risk,Large Malls / Complexes,Sales Associate,3725852.01,1357,2745.65,500.36,4991.35
+Home Appliances,Churn Risk,Large Malls / Complexes,Salesperson,3819420.52,1403,2722.32,503.83,4990.07
+Home Appliances,Churn Risk,Large Malls / Complexes,Senior Salesperson,3184724.50,1158,2750.19,505.17,4999.41
+Home Appliances,Churn Risk,Small Stores / Shops,Manager,3933153.79,1426,2758.17,503.94,4999.15
+Home Appliances,Churn Risk,Small Stores / Shops,Sales Associate,4217356.91,1529,2758.25,500.21,4995.95
+Home Appliances,Churn Risk,Small Stores / Shops,Salesperson,3987649.09,1419,2810.18,501.61,4997.94
+Home Appliances,Churn Risk,Small Stores / Shops,Senior Salesperson,3404001.57,1239,2747.38,502.25,4990.53
+Home Appliances,Churn Risk,Supermarkets ,Manager,3953359.25,1430,2764.59,502.11,4987.09
+Home Appliances,Churn Risk,Supermarkets ,Sales Associate,4209790.15,1528,2755.10,508.23,4998.82
+Home Appliances,Churn Risk,Supermarkets ,Salesperson,4049107.27,1440,2811.88,500.39,4999.29
+Home Appliances,Churn Risk,Supermarkets ,Senior Salesperson,3481990.39,1279,2722.43,503.22,4997.60
+Home Appliances,Deal Seeker,Large Malls / Complexes,Manager,3852641.15,1393,2765.72,500.13,4998.91
+Home Appliances,Deal Seeker,Large Malls / Complexes,Sales Associate,3837596.48,1420,2702.53,501.53,4996.94
+Home Appliances,Deal Seeker,Large Malls / Complexes,Salesperson,3710257.76,1362,2724.12,500.80,4996.68
+Home Appliances,Deal Seeker,Large Malls / Complexes,Senior Salesperson,3212954.95,1194,2690.92,509.29,4999.30
+Home Appliances,Deal Seeker,Small Stores / Shops,Manager,3781375.08,1393,2714.55,502.92,4996.07
+Home Appliances,Deal Seeker,Small Stores / Shops,Sales Associate,3896005.40,1406,2770.99,502.50,4997.54
+Home Appliances,Deal Seeker,Small Stores / Shops,Salesperson,4157599.00,1527,2722.72,509.87,4998.54
+Home Appliances,Deal Seeker,Small Stores / Shops,Senior Salesperson,3432739.65,1265,2713.63,500.05,4998.33
+Home Appliances,Deal Seeker,Supermarkets ,Manager,4111087.70,1476,2785.29,503.07,4996.88
+Home Appliances,Deal Seeker,Supermarkets ,Sales Associate,4430644.11,1614,2745.13,501.29,4999.38
+Home Appliances,Deal Seeker,Supermarkets ,Salesperson,4092110.56,1506,2717.20,502.39,4998.61
+Home Appliances,Deal Seeker,Supermarkets ,Senior Salesperson,3709352.26,1333,2782.71,500.36,4999.84
+Home Appliances,First-time Buyer,Large Malls / Complexes,Manager,3643743.43,1319,2762.50,509.99,4997.95
+Home Appliances,First-time Buyer,Large Malls / Complexes,Sales Associate,3952879.23,1433,2758.46,505.17,4996.92
+Home Appliances,First-time Buyer,Large Malls / Complexes,Salesperson,3783142.71,1363,2775.60,502.14,4999.75
+Home Appliances,First-time Buyer,Large Malls / Complexes,Senior Salesperson,3189860.92,1158,2754.63,502.44,4999.73
+Home Appliances,First-time Buyer,Small Stores / Shops,Manager,3988478.30,1429,2791.10,500.15,4995.13
+Home Appliances,First-time Buyer,Small Stores / Shops,Sales Associate,4106642.21,1466,2801.26,500.98,4999.45
+Home Appliances,First-time Buyer,Small Stores / Shops,Salesperson,3821359.61,1435,2662.97,503.20,4994.43
+Home Appliances,First-time Buyer,Small Stores / Shops,Senior Salesperson,3351020.64,1247,2687.27,501.03,4984.77
+Home Appliances,First-time Buyer,Supermarkets ,Manager,3862129.82,1417,2725.57,500.00,4982.69
+Home Appliances,First-time Buyer,Supermarkets ,Sales Associate,4092842.57,1474,2776.69,502.66,4996.89
+Home Appliances,First-time Buyer,Supermarkets ,Salesperson,4127113.45,1483,2782.95,506.25,4994.66
+Home Appliances,First-time Buyer,Supermarkets ,Senior Salesperson,3467840.86,1285,2698.71,503.95,4994.42
+Home Appliances,High Value,Large Malls / Complexes,Manager,3769719.83,1352,2788.25,501.99,4999.91
+Home Appliances,High Value,Large Malls / Complexes,Sales Associate,3845898.61,1409,2729.52,503.14,4999.48
+Home Appliances,High Value,Large Malls / Complexes,Salesperson,3658960.03,1329,2753.17,510.39,4998.72
+Home Appliances,High Value,Large Malls / Complexes,Senior Salesperson,3336061.85,1242,2686.04,500.33,4999.37
+Home Appliances,High Value,Small Stores / Shops,Manager,4179959.54,1526,2739.16,502.76,4998.14
+Home Appliances,High Value,Small Stores / Shops,Sales Associate,3961457.27,1482,2673.05,503.72,4999.98
+Home Appliances,High Value,Small Stores / Shops,Salesperson,3833165.54,1459,2627.26,500.69,4999.73
+Home Appliances,High Value,Small Stores / Shops,Senior Salesperson,3445550.66,1266,2721.60,500.21,4994.38
+Home Appliances,High Value,Supermarkets ,Manager,4013498.94,1447,2773.67,505.46,4998.56
+Home Appliances,High Value,Supermarkets ,Sales Associate,4030586.91,1479,2725.21,501.47,4997.77
+Home Appliances,High Value,Supermarkets ,Salesperson,4031979.50,1486,2713.31,500.13,4993.02
+Home Appliances,High Value,Supermarkets ,Senior Salesperson,3517758.50,1299,2708.05,503.66,4994.48
+Home Appliances,In-Store Regular,Large Malls / Complexes,Manager,3500097.94,1287,2719.58,503.85,4990.42
+Home Appliances,In-Store Regular,Large Malls / Complexes,Sales Associate,3824067.69,1384,2763.05,500.93,4998.96
+Home Appliances,In-Store Regular,Large Malls / Complexes,Salesperson,3773195.73,1365,2764.25,501.45,4998.42
+Home Appliances,In-Store Regular,Large Malls / Complexes,Senior Salesperson,3322994.80,1202,2764.55,502.82,4997.84
+Home Appliances,In-Store Regular,Small Stores / Shops,Manager,3859749.47,1436,2687.85,502.61,4999.06
+Home Appliances,In-Store Regular,Small Stores / Shops,Sales Associate,4161307.22,1511,2754.01,502.48,4998.01
+Home Appliances,In-Store Regular,Small Stores / Shops,Salesperson,3865303.88,1469,2631.25,504.11,4992.26
+Home Appliances,In-Store Regular,Small Stores / Shops,Senior Salesperson,3450999.03,1238,2787.56,505.73,4994.91
+Home Appliances,In-Store Regular,Supermarkets ,Manager,3893995.52,1424,2734.55,503.59,4997.74
+Home Appliances,In-Store Regular,Supermarkets ,Sales Associate,4198580.82,1508,2784.20,503.09,4992.03
+Home Appliances,In-Store Regular,Supermarkets ,Salesperson,4086696.45,1472,2776.29,504.57,4990.57
+Home Appliances,In-Store Regular,Supermarkets ,Senior Salesperson,3576082.45,1310,2729.83,501.78,4999.21
+Home Appliances,Loyal Customer,Large Malls / Complexes,Manager,3632453.83,1336,2718.90,500.90,4998.26
+Home Appliances,Loyal Customer,Large Malls / Complexes,Sales Associate,3599867.93,1339,2688.47,504.89,4998.58
+Home Appliances,Loyal Customer,Large Malls / Complexes,Salesperson,3703025.49,1337,2769.65,500.27,4994.58
+Home Appliances,Loyal Customer,Large Malls / Complexes,Senior Salesperson,3342059.90,1216,2748.40,501.49,4998.01
+Home Appliances,Loyal Customer,Small Stores / Shops,Manager,3820976.34,1438,2657.15,500.93,4996.94
+Home Appliances,Loyal Customer,Small Stores / Shops,Sales Associate,4020785.15,1458,2757.74,500.38,4993.77
+Home Appliances,Loyal Customer,Small Stores / Shops,Salesperson,3967942.90,1459,2719.63,502.80,4998.87
+Home Appliances,Loyal Customer,Small Stores / Shops,Senior Salesperson,3565413.69,1283,2778.97,500.17,4999.22
+Home Appliances,Loyal Customer,Supermarkets ,Manager,4064111.00,1471,2762.82,505.93,4999.75
+Home Appliances,Loyal Customer,Supermarkets ,Sales Associate,4198836.64,1519,2764.21,500.68,4998.93
+Home Appliances,Loyal Customer,Supermarkets ,Salesperson,4255676.57,1530,2781.49,502.78,4999.91
+Home Appliances,Loyal Customer,Supermarkets ,Senior Salesperson,3606086.01,1290,2795.42,501.38,4997.26
+Home Appliances,Occasional Shopper,Large Malls / Complexes,Manager,3729498.49,1358,2746.32,500.28,4996.93
+Home Appliances,Occasional Shopper,Large Malls / Complexes,Sales Associate,3963998.09,1438,2756.61,506.37,4998.47
+Home Appliances,Occasional Shopper,Large Malls / Complexes,Salesperson,3938214.54,1418,2777.30,504.46,4998.03
+Home Appliances,Occasional Shopper,Large Malls / Complexes,Senior Salesperson,3304009.05,1215,2719.35,507.53,4990.36
+Home Appliances,Occasional Shopper,Small Stores / Shops,Manager,4080556.52,1449,2816.12,502.61,4997.45
+Home Appliances,Occasional Shopper,Small Stores / Shops,Sales Associate,4118700.46,1486,2771.67,508.90,4988.35
+Home Appliances,Occasional Shopper,Small Stores / Shops,Salesperson,3986655.75,1468,2715.71,500.09,4995.52
+Home Appliances,Occasional Shopper,Small Stores / Shops,Senior Salesperson,3459366.22,1275,2713.23,500.44,4997.90
+Home Appliances,Occasional Shopper,Supermarkets ,Manager,3952056.14,1460,2706.89,505.89,4997.34
+Home Appliances,Occasional Shopper,Supermarkets ,Sales Associate,4006431.22,1467,2731.04,506.56,4998.18
+Home Appliances,Occasional Shopper,Supermarkets ,Salesperson,3988853.24,1483,2689.72,500.69,4999.48
+Home Appliances,Occasional Shopper,Supermarkets ,Senior Salesperson,3631724.65,1318,2755.48,500.65,4996.35
+Home Appliances,Online Shopper,Large Malls / Complexes,Manager,3751838.21,1388,2703.05,503.07,4996.85
+Home Appliances,Online Shopper,Large Malls / Complexes,Sales Associate,4034681.11,1474,2737.23,502.70,4992.43
+Home Appliances,Online Shopper,Large Malls / Complexes,Salesperson,3755709.69,1368,2745.40,511.32,4998.13
+Home Appliances,Online Shopper,Large Malls / Complexes,Senior Salesperson,3542443.01,1272,2784.94,501.55,4999.94
+Home Appliances,Online Shopper,Small Stores / Shops,Manager,3850674.87,1417,2717.48,506.90,4994.82
+Home Appliances,Online Shopper,Small Stores / Shops,Sales Associate,4052839.44,1474,2749.55,504.40,4997.61
+Home Appliances,Online Shopper,Small Stores / Shops,Salesperson,4089559.50,1505,2717.32,503.09,4999.87
+Home Appliances,Online Shopper,Small Stores / Shops,Senior Salesperson,3501594.34,1283,2729.22,505.48,4990.20
+Home Appliances,Online Shopper,Supermarkets ,Manager,4200017.50,1490,2818.80,505.92,4988.82
+Home Appliances,Online Shopper,Supermarkets ,Sales Associate,4166026.55,1542,2701.70,500.36,4989.56
+Home Appliances,Online Shopper,Supermarkets ,Salesperson,4122319.21,1501,2746.38,507.80,4998.62
+Home Appliances,Online Shopper,Supermarkets ,Senior Salesperson,3695058.31,1342,2753.40,506.58,4997.21
+Home Appliances,Premium Shopper,Large Malls / Complexes,Manager,3578149.37,1293,2767.32,502.30,4998.92
+Home Appliances,Premium Shopper,Large Malls / Complexes,Sales Associate,3790706.76,1372,2762.91,501.60,4999.74
+Home Appliances,Premium Shopper,Large Malls / Complexes,Salesperson,3907604.98,1414,2763.51,502.95,4995.58
+Home Appliances,Premium Shopper,Large Malls / Complexes,Senior Salesperson,3328529.06,1189,2799.44,511.75,4997.57
+Home Appliances,Premium Shopper,Small Stores / Shops,Manager,3668097.29,1344,2729.24,502.79,4998.02
+Home Appliances,Premium Shopper,Small Stores / Shops,Sales Associate,3961513.67,1426,2778.06,506.17,4994.43
+Home Appliances,Premium Shopper,Small Stores / Shops,Salesperson,3807950.43,1381,2757.39,503.22,4995.04
+Home Appliances,Premium Shopper,Small Stores / Shops,Senior Salesperson,3579454.04,1292,2770.48,501.06,4996.29
+Home Appliances,Premium Shopper,Supermarkets ,Manager,3862198.05,1424,2712.22,501.91,4997.36
+Home Appliances,Premium Shopper,Supermarkets ,Sales Associate,4129261.34,1518,2720.20,504.47,4995.18
+Home Appliances,Premium Shopper,Supermarkets ,Salesperson,4029972.94,1459,2762.15,503.22,4998.06
+Home Appliances,Premium Shopper,Supermarkets ,Senior Salesperson,3671079.58,1341,2737.57,501.43,4997.66
+Sports & Outdoors,Budget Shopper,Large Malls / Complexes,Manager,3644732.27,1287,2831.96,500.43,4995.72
+Sports & Outdoors,Budget Shopper,Large Malls / Complexes,Sales Associate,3823557.45,1382,2766.68,500.42,4994.32
+Sports & Outdoors,Budget Shopper,Large Malls / Complexes,Salesperson,3694042.05,1367,2702.30,503.37,4993.51
+Sports & Outdoors,Budget Shopper,Large Malls / Complexes,Senior Salesperson,3315272.96,1217,2724.14,500.26,4986.27
+Sports & Outdoors,Budget Shopper,Small Stores / Shops,Manager,3869479.01,1410,2744.31,500.78,4991.92
+Sports & Outdoors,Budget Shopper,Small Stores / Shops,Sales Associate,4008724.71,1449,2766.55,503.94,4995.24
+Sports & Outdoors,Budget Shopper,Small Stores / Shops,Salesperson,3960187.31,1443,2744.41,500.51,4998.61
+Sports & Outdoors,Budget Shopper,Small Stores / Shops,Senior Salesperson,3319824.97,1206,2752.76,501.12,4996.08
+Sports & Outdoors,Budget Shopper,Supermarkets ,Manager,4081426.87,1487,2744.74,500.04,4996.39
+Sports & Outdoors,Budget Shopper,Supermarkets ,Sales Associate,4243126.76,1498,2832.53,500.42,4995.42
+Sports & Outdoors,Budget Shopper,Supermarkets ,Salesperson,4073093.68,1504,2708.17,501.61,4995.87
+Sports & Outdoors,Budget Shopper,Supermarkets ,Senior Salesperson,3722842.84,1363,2731.36,500.80,4997.46
+Sports & Outdoors,Churn Risk,Large Malls / Complexes,Manager,3721565.11,1326,2806.61,511.60,4998.60
+Sports & Outdoors,Churn Risk,Large Malls / Complexes,Sales Associate,3859852.58,1374,2809.21,500.56,4998.73
+Sports & Outdoors,Churn Risk,Large Malls / Complexes,Salesperson,3882079.96,1378,2817.18,508.67,4993.44
+Sports & Outdoors,Churn Risk,Large Malls / Complexes,Senior Salesperson,3458339.27,1244,2780.02,501.93,4995.47
+Sports & Outdoors,Churn Risk,Small Stores / Shops,Manager,4218512.91,1506,2801.14,502.49,4998.38
+Sports & Outdoors,Churn Risk,Small Stores / Shops,Sales Associate,4016148.65,1459,2752.67,504.72,4993.72
+Sports & Outdoors,Churn Risk,Small Stores / Shops,Salesperson,3951590.76,1479,2671.80,502.77,4997.07
+Sports & Outdoors,Churn Risk,Small Stores / Shops,Senior Salesperson,3539339.47,1293,2737.31,500.07,4998.24
+Sports & Outdoors,Churn Risk,Supermarkets ,Manager,4030523.55,1475,2732.56,501.18,4997.38
+Sports & Outdoors,Churn Risk,Supermarkets ,Sales Associate,4350443.46,1598,2722.43,502.55,4998.56
+Sports & Outdoors,Churn Risk,Supermarkets ,Salesperson,4030770.10,1452,2776.01,504.21,4995.99
+Sports & Outdoors,Churn Risk,Supermarkets ,Senior Salesperson,3639248.71,1322,2752.84,503.15,4999.05
+Sports & Outdoors,Deal Seeker,Large Malls / Complexes,Manager,3900245.99,1404,2777.95,501.01,4998.69
+Sports & Outdoors,Deal Seeker,Large Malls / Complexes,Sales Associate,3997001.31,1446,2764.18,502.11,4998.10
+Sports & Outdoors,Deal Seeker,Large Malls / Complexes,Salesperson,3959192.27,1425,2778.38,504.14,4999.02
+Sports & Outdoors,Deal Seeker,Large Malls / Complexes,Senior Salesperson,3200985.86,1177,2719.61,505.26,4984.10
+Sports & Outdoors,Deal Seeker,Small Stores / Shops,Manager,3714442.03,1333,2786.53,505.31,4999.30
+Sports & Outdoors,Deal Seeker,Small Stores / Shops,Sales Associate,4204790.87,1517,2771.78,502.43,4996.48
+Sports & Outdoors,Deal Seeker,Small Stores / Shops,Salesperson,4053593.34,1498,2706.00,501.05,4990.60
+Sports & Outdoors,Deal Seeker,Small Stores / Shops,Senior Salesperson,3509073.35,1287,2726.55,503.20,4999.44
+Sports & Outdoors,Deal Seeker,Supermarkets ,Manager,3919380.50,1424,2752.37,506.16,4994.38
+Sports & Outdoors,Deal Seeker,Supermarkets ,Sales Associate,4320354.58,1546,2794.54,500.46,4999.33
+Sports & Outdoors,Deal Seeker,Supermarkets ,Salesperson,4039935.41,1464,2759.52,500.66,4997.82
+Sports & Outdoors,Deal Seeker,Supermarkets ,Senior Salesperson,3628347.08,1323,2742.51,502.99,4999.49
+Sports & Outdoors,First-time Buyer,Large Malls / Complexes,Manager,3657601.61,1321,2768.81,504.23,4989.55
+Sports & Outdoors,First-time Buyer,Large Malls / Complexes,Sales Associate,3799928.42,1388,2737.70,503.01,4995.28
+Sports & Outdoors,First-time Buyer,Large Malls / Complexes,Salesperson,3932596.39,1399,2811.01,502.57,4997.70
+Sports & Outdoors,First-time Buyer,Large Malls / Complexes,Senior Salesperson,3211206.84,1164,2758.77,501.68,4978.72
+Sports & Outdoors,First-time Buyer,Small Stores / Shops,Manager,3751262.55,1365,2748.18,500.04,4996.23
+Sports & Outdoors,First-time Buyer,Small Stores / Shops,Sales Associate,4115347.16,1475,2790.07,500.37,4996.20
+Sports & Outdoors,First-time Buyer,Small Stores / Shops,Salesperson,3974396.73,1474,2696.33,500.01,4999.25
+Sports & Outdoors,First-time Buyer,Small Stores / Shops,Senior Salesperson,3604343.80,1319,2732.63,502.80,4996.42
+Sports & Outdoors,First-time Buyer,Supermarkets ,Manager,4105937.28,1509,2720.97,501.90,4993.86
+Sports & Outdoors,First-time Buyer,Supermarkets ,Sales Associate,4161171.93,1506,2763.06,500.09,4999.02
+Sports & Outdoors,First-time Buyer,Supermarkets ,Salesperson,4198655.06,1506,2787.95,502.16,4998.69
+Sports & Outdoors,First-time Buyer,Supermarkets ,Senior Salesperson,3578565.10,1318,2715.15,502.21,4992.74
+Sports & Outdoors,High Value,Large Malls / Complexes,Manager,3711923.56,1362,2725.35,503.56,4998.53
+Sports & Outdoors,High Value,Large Malls / Complexes,Sales Associate,3805427.29,1386,2745.62,500.10,4996.62
+Sports & Outdoors,High Value,Large Malls / Complexes,Salesperson,3956107.32,1417,2791.89,500.37,4998.95
+Sports & Outdoors,High Value,Large Malls / Complexes,Senior Salesperson,3322455.12,1205,2757.22,510.07,4999.61
+Sports & Outdoors,High Value,Small Stores / Shops,Manager,3825716.17,1394,2744.42,500.14,4991.35
+Sports & Outdoors,High Value,Small Stores / Shops,Sales Associate,4351463.68,1544,2818.31,510.40,4999.78
+Sports & Outdoors,High Value,Small Stores / Shops,Salesperson,4115016.55,1502,2739.69,503.31,4995.28
+Sports & Outdoors,High Value,Small Stores / Shops,Senior Salesperson,3700225.16,1327,2788.41,500.03,4996.31
+Sports & Outdoors,High Value,Supermarkets ,Manager,3944728.44,1428,2762.41,502.72,4981.75
+Sports & Outdoors,High Value,Supermarkets ,Sales Associate,4163047.75,1533,2715.62,500.15,4998.08
+Sports & Outdoors,High Value,Supermarkets ,Salesperson,4138013.84,1492,2773.47,501.31,4999.05
+Sports & Outdoors,High Value,Supermarkets ,Senior Salesperson,3764682.57,1370,2747.94,501.48,4996.37
+Sports & Outdoors,In-Store Regular,Large Malls / Complexes,Manager,3802606.63,1373,2769.56,507.11,4998.18
+Sports & Outdoors,In-Store Regular,Large Malls / Complexes,Sales Associate,3872865.33,1412,2742.82,519.49,4995.46
+Sports & Outdoors,In-Store Regular,Large Malls / Complexes,Salesperson,3766158.44,1354,2781.51,501.50,4994.22
+Sports & Outdoors,In-Store Regular,Large Malls / Complexes,Senior Salesperson,3332391.49,1212,2749.50,501.97,4998.24
+Sports & Outdoors,In-Store Regular,Small Stores / Shops,Manager,4037697.95,1433,2817.65,502.42,4989.50
+Sports & Outdoors,In-Store Regular,Small Stores / Shops,Sales Associate,4066111.90,1469,2767.95,506.20,4998.83
+Sports & Outdoors,In-Store Regular,Small Stores / Shops,Salesperson,4113115.93,1495,2751.25,502.54,4997.58
+Sports & Outdoors,In-Store Regular,Small Stores / Shops,Senior Salesperson,3617529.71,1305,2772.05,504.23,4993.43
+Sports & Outdoors,In-Store Regular,Supermarkets ,Manager,4077213.91,1454,2804.14,500.45,4998.42
+Sports & Outdoors,In-Store Regular,Supermarkets ,Sales Associate,4028512.03,1487,2709.15,503.76,4999.33
+Sports & Outdoors,In-Store Regular,Supermarkets ,Salesperson,3825667.76,1393,2746.35,503.94,4999.89
+Sports & Outdoors,In-Store Regular,Supermarkets ,Senior Salesperson,3628350.34,1288,2817.04,501.44,4999.53
+Sports & Outdoors,Loyal Customer,Large Malls / Complexes,Manager,3519349.85,1281,2747.35,504.41,4999.34
+Sports & Outdoors,Loyal Customer,Large Malls / Complexes,Sales Associate,3972655.56,1451,2737.87,503.34,4994.05
+Sports & Outdoors,Loyal Customer,Large Malls / Complexes,Salesperson,3621082.16,1342,2698.27,500.76,4996.45
+Sports & Outdoors,Loyal Customer,Large Malls / Complexes,Senior Salesperson,3340944.04,1233,2709.61,501.43,4996.95
+Sports & Outdoors,Loyal Customer,Small Stores / Shops,Manager,4050901.85,1469,2757.59,500.50,4999.83
+Sports & Outdoors,Loyal Customer,Small Stores / Shops,Sales Associate,4188415.65,1502,2788.56,505.17,4998.97
+Sports & Outdoors,Loyal Customer,Small Stores / Shops,Salesperson,4087391.14,1454,2811.14,503.10,4997.31
+Sports & Outdoors,Loyal Customer,Small Stores / Shops,Senior Salesperson,3547365.72,1297,2735.05,501.07,4987.94
+Sports & Outdoors,Loyal Customer,Supermarkets ,Manager,3666844.01,1333,2750.82,501.61,4998.83
+Sports & Outdoors,Loyal Customer,Supermarkets ,Sales Associate,4183203.65,1546,2705.82,501.50,4998.20
+Sports & Outdoors,Loyal Customer,Supermarkets ,Salesperson,4151008.43,1514,2741.75,506.01,4993.18
+Sports & Outdoors,Loyal Customer,Supermarkets ,Senior Salesperson,3691863.08,1348,2738.77,503.60,4996.09
+Sports & Outdoors,Occasional Shopper,Large Malls / Complexes,Manager,3620112.68,1319,2744.59,500.07,4998.87
+Sports & Outdoors,Occasional Shopper,Large Malls / Complexes,Sales Associate,3927426.37,1416,2773.61,503.69,4993.19
+Sports & Outdoors,Occasional Shopper,Large Malls / Complexes,Salesperson,3741687.85,1367,2737.15,501.08,4995.89
+Sports & Outdoors,Occasional Shopper,Large Malls / Complexes,Senior Salesperson,3247308.99,1190,2728.83,502.29,4988.56
+Sports & Outdoors,Occasional Shopper,Small Stores / Shops,Manager,3819728.21,1413,2703.28,501.32,4999.05
+Sports & Outdoors,Occasional Shopper,Small Stores / Shops,Sales Associate,4185837.05,1492,2805.52,500.39,4998.50
+Sports & Outdoors,Occasional Shopper,Small Stores / Shops,Salesperson,4103725.62,1484,2765.31,500.41,4999.65
+Sports & Outdoors,Occasional Shopper,Small Stores / Shops,Senior Salesperson,3678640.83,1329,2767.98,502.39,4997.17
+Sports & Outdoors,Occasional Shopper,Supermarkets ,Manager,3965755.33,1494,2654.45,500.33,4996.28
+Sports & Outdoors,Occasional Shopper,Supermarkets ,Sales Associate,4133103.08,1513,2731.73,501.49,4991.94
+Sports & Outdoors,Occasional Shopper,Supermarkets ,Salesperson,4216013.08,1541,2735.89,505.19,4997.81
+Sports & Outdoors,Occasional Shopper,Supermarkets ,Senior Salesperson,3866478.39,1384,2793.70,502.86,4998.21
+Sports & Outdoors,Online Shopper,Large Malls / Complexes,Manager,3741409.05,1365,2740.96,508.07,4983.39
+Sports & Outdoors,Online Shopper,Large Malls / Complexes,Sales Associate,3846113.04,1401,2745.26,509.60,4999.78
+Sports & Outdoors,Online Shopper,Large Malls / Complexes,Salesperson,3762733.29,1384,2718.74,502.34,4995.91
+Sports & Outdoors,Online Shopper,Large Malls / Complexes,Senior Salesperson,3431027.29,1249,2747.02,500.23,4996.40
+Sports & Outdoors,Online Shopper,Small Stores / Shops,Manager,3744031.75,1347,2779.53,509.78,4996.10
+Sports & Outdoors,Online Shopper,Small Stores / Shops,Sales Associate,3885089.72,1439,2699.85,503.49,4993.60
+Sports & Outdoors,Online Shopper,Small Stores / Shops,Salesperson,4032282.07,1453,2775.14,500.15,4997.16
+Sports & Outdoors,Online Shopper,Small Stores / Shops,Senior Salesperson,3538734.73,1287,2749.60,508.30,4998.38
+Sports & Outdoors,Online Shopper,Supermarkets ,Manager,4035590.75,1432,2818.15,500.04,4999.97
+Sports & Outdoors,Online Shopper,Supermarkets ,Sales Associate,4328468.43,1585,2730.89,504.11,4997.59
+Sports & Outdoors,Online Shopper,Supermarkets ,Salesperson,4039738.84,1469,2749.99,500.89,4994.34
+Sports & Outdoors,Online Shopper,Supermarkets ,Senior Salesperson,3800380.47,1383,2747.93,503.08,4998.98
+Sports & Outdoors,Premium Shopper,Large Malls / Complexes,Manager,3591046.95,1320,2720.49,508.91,4993.59
+Sports & Outdoors,Premium Shopper,Large Malls / Complexes,Sales Associate,3636948.29,1332,2730.44,508.13,4999.19
+Sports & Outdoors,Premium Shopper,Large Malls / Complexes,Salesperson,3703155.69,1348,2747.15,500.30,4993.01
+Sports & Outdoors,Premium Shopper,Large Malls / Complexes,Senior Salesperson,3192819.76,1147,2783.63,503.35,4995.60
+Sports & Outdoors,Premium Shopper,Small Stores / Shops,Manager,3915374.07,1421,2755.37,504.35,4999.67
+Sports & Outdoors,Premium Shopper,Small Stores / Shops,Sales Associate,3829531.07,1420,2696.85,500.23,4985.32
+Sports & Outdoors,Premium Shopper,Small Stores / Shops,Salesperson,3976754.97,1442,2757.81,500.79,4997.64
+Sports & Outdoors,Premium Shopper,Small Stores / Shops,Senior Salesperson,3713658.19,1337,2777.61,501.13,4998.61
+Sports & Outdoors,Premium Shopper,Supermarkets ,Manager,3833494.32,1385,2767.87,502.53,4998.07
+Sports & Outdoors,Premium Shopper,Supermarkets ,Sales Associate,4079776.63,1483,2751.03,501.16,4998.76
+Sports & Outdoors,Premium Shopper,Supermarkets ,Salesperson,4071083.22,1488,2735.94,500.60,4999.55
+Sports & Outdoors,Premium Shopper,Supermarkets ,Senior Salesperson,3487207.90,1271,2743.67,500.31,4996.44

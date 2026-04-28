@@ -1,0 +1,1501 @@
+category,brand,campaign_name,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Adidas,12 Days of Deals,1847503.67,669,2761.59,501.08,4998.46
+Clothing,Adidas,Autumn Deals Drive,1847569.46,670,2757.57,518.04,4992.48
+Clothing,Adidas,BOGO Blitz,1945379.66,699,2783.09,500.64,4998.71
+Clothing,Adidas,Back to School Boost,1887116.47,683,2762.98,501.04,4999.86
+Clothing,Adidas,Birthday Bash Sale,1825288.83,654,2790.96,500.58,4996.78
+Clothing,Adidas,Black Friday Blowout,1894969.26,697,2718.75,502.05,4994.34
+Clothing,Adidas,Cart Crasher Campaign,1824339.35,661,2759.97,520.56,4994.25
+Clothing,Adidas,Cashback Carnival,1801477.09,668,2696.82,502.29,4982.89
+Clothing,Adidas,Clearance Countdown,1700401.23,639,2661.03,500.53,4996.24
+Clothing,Adidas,Countdown to Savings,1728816.79,636,2718.27,501.16,4996.97
+Clothing,Adidas,Customer Appreciation Week,1842044.14,669,2753.43,503.78,4994.47
+Clothing,Adidas,Cyber Monday Mania,1771701.48,651,2721.51,508.76,4993.46
+Clothing,Adidas,Deal of the Month,1874167.10,677,2768.34,504.75,4999.41
+Clothing,Adidas,Double Points Bonanza,1813471.55,662,2739.38,506.41,4995.71
+Clothing,Adidas,Early Bird Specials,1937395.30,684,2832.45,504.93,4996.74
+Clothing,Adidas,End of Season Sale,1843423.63,658,2801.56,511.79,4997.48
+Clothing,Adidas,Exclusive Insider Offers,1882681.20,675,2789.16,508.78,4984.33
+Clothing,Adidas,Festive Fever Promo,1946774.27,688,2829.61,504.43,4980.87
+Clothing,Adidas,Final Call Frenzy,1754399.05,633,2771.56,509.40,4992.84
+Clothing,Adidas,Flash Frenzy Friday,1624979.48,613,2650.86,501.20,4994.26
+Clothing,Adidas,"Gift More, Spend Less",1670805.40,621,2690.51,510.65,4988.68
+Clothing,Adidas,Golden Hour Bargains,1765570.12,655,2695.53,506.24,4999.76
+Clothing,Adidas,Green Weekend Deals,1697265.51,634,2677.07,501.10,4999.76
+Clothing,Adidas,Happy Hour Discounts,1632378.21,596,2738.89,505.67,4994.51
+Clothing,Adidas,Holiday Shopping Rush,1813806.04,646,2807.75,506.77,4998.34
+Clothing,Adidas,Hot Picks Promo,1849218.11,658,2810.36,520.65,4989.96
+Clothing,Adidas,Instant Gratification Sale,1790241.63,643,2784.20,500.95,4998.40
+Clothing,Adidas,Limited Time Treasures,1683380.60,615,2737.20,501.46,4999.38
+Clothing,Adidas,Loyalty Rewards Blast,1737783.31,633,2745.31,503.40,4989.59
+Clothing,Adidas,Mega Weekend Bonanza,1716801.14,639,2686.70,508.93,4996.59
+Clothing,Adidas,Mid-Year Madness,1762009.07,658,2677.83,501.32,4991.43
+Clothing,Adidas,Midnight Madness,1786624.55,641,2787.25,504.20,4986.14
+Clothing,Adidas,Mystery Discount Days,1793225.64,647,2771.60,500.17,4979.18
+Clothing,Adidas,New Arrival Showcase,1849769.11,670,2760.85,501.06,4996.95
+Clothing,Adidas,New Product Launch Promo,1776283.40,650,2732.74,500.83,4999.95
+Clothing,Adidas,New Year Kickoff,1671290.90,638,2619.58,502.81,4991.46
+Clothing,Adidas,Price Drop Parade,1770157.00,659,2686.13,503.07,4989.39
+Clothing,Adidas,Red Tag Clearance,1867874.60,672,2779.58,517.61,4995.28
+Clothing,Adidas,Seasonal Surprise Box,1796097.57,657,2733.79,500.11,4990.98
+Clothing,Adidas,Shop & Save Spectacular,1812562.71,666,2721.57,511.32,4992.80
+Clothing,Adidas,Smart Shopper Week,1790387.26,664,2696.37,507.97,4999.86
+Clothing,Adidas,Spring Refresh Event,1886822.58,678,2782.92,515.97,4997.20
+Clothing,Adidas,Spring Splash Discounts,1789271.59,666,2686.59,500.46,4996.95
+Clothing,Adidas,Summer Sizzle Promo,1865051.23,682,2734.68,506.00,4998.80
+Clothing,Adidas,Super Savings Week,1767859.31,648,2728.18,501.26,4998.86
+Clothing,Adidas,Ultimate Value Event,1838925.21,664,2769.47,513.09,4998.36
+Clothing,Adidas,VIP Access Sale,1874844.29,671,2794.10,506.38,4996.65
+Clothing,Adidas,Weekend Warrior Specials,1882613.63,701,2685.61,501.72,4993.94
+Clothing,Adidas,Winter Clearance Carnival,1827808.49,653,2799.09,510.29,4971.08
+Clothing,Adidas,Winter Wonders Sale,1700351.37,643,2644.40,520.80,4996.30
+Clothing,Levi's,12 Days of Deals,1844987.76,670,2753.71,500.37,4999.26
+Clothing,Levi's,Autumn Deals Drive,1884870.27,688,2739.64,509.47,4992.45
+Clothing,Levi's,BOGO Blitz,1936808.85,696,2782.77,503.91,4996.75
+Clothing,Levi's,Back to School Boost,1648323.82,636,2591.70,502.44,4991.50
+Clothing,Levi's,Birthday Bash Sale,1914174.05,696,2750.25,503.70,4997.36
+Clothing,Levi's,Black Friday Blowout,1874363.84,676,2772.73,513.13,4997.07
+Clothing,Levi's,Cart Crasher Campaign,1861269.59,663,2807.34,508.66,4996.24
+Clothing,Levi's,Cashback Carnival,1908746.16,680,2806.98,508.75,4994.40
+Clothing,Levi's,Clearance Countdown,1753372.43,649,2701.65,504.91,4995.43
+Clothing,Levi's,Countdown to Savings,1822506.68,677,2692.03,504.03,4995.55
+Clothing,Levi's,Customer Appreciation Week,1912301.60,675,2833.04,510.73,4984.88
+Clothing,Levi's,Cyber Monday Mania,1978547.21,700,2826.50,502.02,4992.60
+Clothing,Levi's,Deal of the Month,1826893.58,666,2743.08,502.13,4973.22
+Clothing,Levi's,Double Points Bonanza,1796089.81,629,2855.47,500.63,4992.87
+Clothing,Levi's,Early Bird Specials,1824149.58,677,2694.46,501.24,4988.14
+Clothing,Levi's,End of Season Sale,1884512.29,682,2763.21,506.45,4984.90
+Clothing,Levi's,Exclusive Insider Offers,1708966.11,640,2670.26,501.18,4997.63
+Clothing,Levi's,Festive Fever Promo,1842713.84,679,2713.86,505.36,4981.97
+Clothing,Levi's,Final Call Frenzy,1875729.64,683,2746.31,513.55,4994.06
+Clothing,Levi's,Flash Frenzy Friday,1940506.28,700,2772.15,516.34,4989.81
+Clothing,Levi's,"Gift More, Spend Less",1812865.88,666,2722.02,501.94,4985.89
+Clothing,Levi's,Golden Hour Bargains,1836270.76,652,2816.37,508.91,4998.56
+Clothing,Levi's,Green Weekend Deals,1770584.08,660,2682.70,527.72,4996.15
+Clothing,Levi's,Happy Hour Discounts,1773929.49,638,2780.45,507.81,4994.57
+Clothing,Levi's,Holiday Shopping Rush,1879528.23,681,2759.95,506.38,4992.50
+Clothing,Levi's,Hot Picks Promo,1854742.43,681,2723.56,500.12,4999.60
+Clothing,Levi's,Instant Gratification Sale,1858728.31,661,2811.99,501.81,4993.22
+Clothing,Levi's,Limited Time Treasures,1798516.54,674,2668.42,504.55,4987.04
+Clothing,Levi's,Loyalty Rewards Blast,2004565.26,701,2859.58,524.75,4996.42
+Clothing,Levi's,Mega Weekend Bonanza,1776385.27,655,2712.04,500.60,4997.25
+Clothing,Levi's,Mid-Year Madness,1845752.40,675,2734.45,506.96,4989.93
+Clothing,Levi's,Midnight Madness,1808774.60,671,2695.64,508.22,4998.11
+Clothing,Levi's,Mystery Discount Days,1747100.22,649,2691.99,502.13,4999.85
+Clothing,Levi's,New Arrival Showcase,1837141.67,675,2721.69,500.17,4991.01
+Clothing,Levi's,New Product Launch Promo,1795203.82,651,2757.61,500.27,4991.07
+Clothing,Levi's,New Year Kickoff,1853260.15,674,2749.64,518.02,4991.55
+Clothing,Levi's,Price Drop Parade,1769617.33,653,2709.98,506.33,4999.49
+Clothing,Levi's,Red Tag Clearance,1969173.19,701,2809.09,501.14,4996.92
+Clothing,Levi's,Seasonal Surprise Box,1860099.61,672,2768.01,505.81,4985.30
+Clothing,Levi's,Shop & Save Spectacular,1941549.31,682,2846.85,500.33,4995.64
+Clothing,Levi's,Smart Shopper Week,1754978.02,630,2785.68,501.31,4996.33
+Clothing,Levi's,Spring Refresh Event,1809205.04,663,2728.82,501.02,4996.53
+Clothing,Levi's,Spring Splash Discounts,1926751.89,684,2816.89,513.20,4998.97
+Clothing,Levi's,Summer Sizzle Promo,1861820.22,682,2729.94,508.47,4995.49
+Clothing,Levi's,Super Savings Week,1923048.51,669,2874.51,502.63,4987.82
+Clothing,Levi's,Ultimate Value Event,1910953.78,689,2773.52,500.17,4987.96
+Clothing,Levi's,VIP Access Sale,1892170.64,685,2762.29,507.92,4999.97
+Clothing,Levi's,Weekend Warrior Specials,1721520.97,647,2660.77,503.41,4953.54
+Clothing,Levi's,Winter Clearance Carnival,1767866.24,658,2686.73,505.16,4989.85
+Clothing,Levi's,Winter Wonders Sale,1944919.72,725,2682.65,508.14,4999.21
+Clothing,Nike,12 Days of Deals,1824766.85,665,2744.01,506.25,4996.81
+Clothing,Nike,Autumn Deals Drive,1983224.54,707,2805.13,500.77,4999.75
+Clothing,Nike,BOGO Blitz,1975423.99,687,2875.44,511.49,4998.67
+Clothing,Nike,Back to School Boost,1932166.12,678,2849.80,500.65,4988.01
+Clothing,Nike,Birthday Bash Sale,1805181.55,648,2785.77,501.20,4997.78
+Clothing,Nike,Black Friday Blowout,1654476.35,604,2739.20,510.23,4992.36
+Clothing,Nike,Cart Crasher Campaign,1899436.63,705,2694.24,501.15,4992.50
+Clothing,Nike,Cashback Carnival,1804135.83,660,2733.54,500.72,4998.40
+Clothing,Nike,Clearance Countdown,1884946.11,681,2767.91,508.53,4994.91
+Clothing,Nike,Countdown to Savings,1876855.16,680,2760.08,501.71,4998.86
+Clothing,Nike,Customer Appreciation Week,1877380.77,677,2773.09,504.64,4996.89
+Clothing,Nike,Cyber Monday Mania,1858940.95,698,2663.24,502.07,4994.22
+Clothing,Nike,Deal of the Month,1783197.82,658,2710.03,508.62,4992.66
+Clothing,Nike,Double Points Bonanza,1926316.15,699,2755.82,511.97,4990.29
+Clothing,Nike,Early Bird Specials,1886055.21,683,2761.43,501.20,4999.19
+Clothing,Nike,End of Season Sale,1775137.74,674,2633.74,508.79,4995.12
+Clothing,Nike,Exclusive Insider Offers,1855243.23,684,2712.34,500.29,4992.82
+Clothing,Nike,Festive Fever Promo,1872509.20,675,2774.09,501.90,4995.75
+Clothing,Nike,Final Call Frenzy,1912576.62,691,2767.84,501.48,4996.06
+Clothing,Nike,Flash Frenzy Friday,1901126.14,681,2791.67,509.25,4998.23
+Clothing,Nike,"Gift More, Spend Less",1613679.30,601,2684.99,505.29,4986.56
+Clothing,Nike,Golden Hour Bargains,1900930.90,684,2779.14,506.14,4997.10
+Clothing,Nike,Green Weekend Deals,1980157.39,708,2796.83,516.26,4999.01
+Clothing,Nike,Happy Hour Discounts,1970602.18,696,2831.32,532.60,4997.02
+Clothing,Nike,Holiday Shopping Rush,1747018.62,639,2733.99,501.97,4999.33
+Clothing,Nike,Hot Picks Promo,1825716.65,662,2757.88,510.06,4997.81
+Clothing,Nike,Instant Gratification Sale,1678367.50,607,2765.02,503.83,4998.85
+Clothing,Nike,Limited Time Treasures,1978804.82,720,2748.34,513.15,4982.10
+Clothing,Nike,Loyalty Rewards Blast,1840210.82,667,2758.94,500.82,4998.22
+Clothing,Nike,Mega Weekend Bonanza,1913589.12,678,2822.40,504.47,4996.67
+Clothing,Nike,Mid-Year Madness,1883885.56,681,2766.35,500.89,4994.34
+Clothing,Nike,Midnight Madness,1933765.26,692,2794.46,501.63,4982.68
+Clothing,Nike,Mystery Discount Days,1933054.28,686,2817.86,503.54,4993.88
+Clothing,Nike,New Arrival Showcase,1842255.52,659,2795.53,508.18,4994.65
+Clothing,Nike,New Product Launch Promo,1771673.34,622,2848.35,507.38,4997.47
+Clothing,Nike,New Year Kickoff,1826315.35,655,2788.27,516.64,4987.30
+Clothing,Nike,Price Drop Parade,1778848.52,661,2691.15,504.45,4998.25
+Clothing,Nike,Red Tag Clearance,1679261.63,630,2665.49,502.58,4998.76
+Clothing,Nike,Seasonal Surprise Box,1972140.77,710,2777.66,506.76,4996.55
+Clothing,Nike,Shop & Save Spectacular,1902603.63,691,2753.41,500.14,4999.95
+Clothing,Nike,Smart Shopper Week,1755786.66,630,2786.96,511.44,4993.60
+Clothing,Nike,Spring Refresh Event,1837688.76,659,2788.60,500.43,4996.02
+Clothing,Nike,Spring Splash Discounts,1754666.09,641,2737.39,505.94,4997.44
+Clothing,Nike,Summer Sizzle Promo,1723500.50,650,2651.54,502.32,4997.93
+Clothing,Nike,Super Savings Week,1791977.79,639,2804.35,518.08,4999.08
+Clothing,Nike,Ultimate Value Event,1831771.37,662,2767.03,502.13,4999.12
+Clothing,Nike,VIP Access Sale,1803762.20,665,2712.42,513.77,4990.46
+Clothing,Nike,Weekend Warrior Specials,1790976.70,671,2669.12,508.00,4998.79
+Clothing,Nike,Winter Clearance Carnival,1867279.08,665,2807.94,501.25,4999.04
+Clothing,Nike,Winter Wonders Sale,1918195.99,696,2756.03,502.80,4991.55
+Clothing,Puma,12 Days of Deals,1862225.63,670,2779.44,502.32,4999.40
+Clothing,Puma,Autumn Deals Drive,1816820.73,641,2834.35,504.68,4977.29
+Clothing,Puma,BOGO Blitz,1908864.48,696,2742.62,500.97,4991.71
+Clothing,Puma,Back to School Boost,1705159.32,645,2643.66,507.03,4998.12
+Clothing,Puma,Birthday Bash Sale,1870852.42,658,2843.24,505.09,4997.95
+Clothing,Puma,Black Friday Blowout,1831544.39,673,2721.46,500.74,4996.19
+Clothing,Puma,Cart Crasher Campaign,1768245.43,641,2758.57,513.28,4996.89
+Clothing,Puma,Cashback Carnival,1758311.50,629,2795.41,509.31,4997.64
+Clothing,Puma,Clearance Countdown,1916165.86,706,2714.12,513.63,4990.06
+Clothing,Puma,Countdown to Savings,1790947.45,672,2665.10,504.64,4991.40
+Clothing,Puma,Customer Appreciation Week,1805076.03,660,2734.96,503.51,4998.60
+Clothing,Puma,Cyber Monday Mania,1778708.01,627,2836.85,527.15,4990.14
+Clothing,Puma,Deal of the Month,1797329.81,659,2727.36,502.57,4999.45
+Clothing,Puma,Double Points Bonanza,1924948.57,704,2734.30,503.93,4996.75
+Clothing,Puma,Early Bird Specials,1846367.14,668,2764.02,505.07,4997.16
+Clothing,Puma,End of Season Sale,1808744.20,638,2835.02,503.81,4999.17
+Clothing,Puma,Exclusive Insider Offers,1765024.08,630,2801.63,500.07,4998.51
+Clothing,Puma,Festive Fever Promo,1757678.84,656,2679.39,506.40,4998.89
+Clothing,Puma,Final Call Frenzy,1903988.74,684,2783.61,505.58,4993.58
+Clothing,Puma,Flash Frenzy Friday,1682788.94,633,2658.43,513.91,4996.58
+Clothing,Puma,"Gift More, Spend Less",1955180.37,690,2833.59,504.71,4997.42
+Clothing,Puma,Golden Hour Bargains,1893561.58,681,2780.56,500.57,4999.85
+Clothing,Puma,Green Weekend Deals,1837234.85,656,2800.66,516.31,4999.98
+Clothing,Puma,Happy Hour Discounts,1835427.50,680,2699.16,503.04,4990.90
+Clothing,Puma,Holiday Shopping Rush,1907628.66,692,2756.69,505.46,4997.57
+Clothing,Puma,Hot Picks Promo,1785410.32,635,2811.67,519.39,4984.66
+Clothing,Puma,Instant Gratification Sale,1755725.18,647,2713.64,518.33,4969.22
+Clothing,Puma,Limited Time Treasures,1844350.81,671,2748.66,504.90,4997.38
+Clothing,Puma,Loyalty Rewards Blast,1707728.23,618,2763.31,508.40,4995.86
+Clothing,Puma,Mega Weekend Bonanza,1969012.95,686,2870.28,503.43,4995.44
+Clothing,Puma,Mid-Year Madness,1868400.36,685,2727.59,500.82,4998.11
+Clothing,Puma,Midnight Madness,1882790.14,684,2752.62,503.57,4997.93
+Clothing,Puma,Mystery Discount Days,1702461.72,647,2631.32,504.07,4980.68
+Clothing,Puma,New Arrival Showcase,1701963.12,633,2688.73,506.85,4998.00
+Clothing,Puma,New Product Launch Promo,1855739.42,666,2786.40,509.60,4988.38
+Clothing,Puma,New Year Kickoff,1966160.03,699,2812.82,500.45,4994.72
+Clothing,Puma,Price Drop Parade,1812445.57,671,2701.11,506.95,4999.68
+Clothing,Puma,Red Tag Clearance,1783857.20,663,2690.58,502.12,4997.50
+Clothing,Puma,Seasonal Surprise Box,1779952.54,631,2820.84,505.17,4996.71
+Clothing,Puma,Shop & Save Spectacular,1942171.66,675,2877.29,500.18,4998.56
+Clothing,Puma,Smart Shopper Week,1804433.11,661,2729.85,516.12,4997.07
+Clothing,Puma,Spring Refresh Event,1854099.02,683,2714.64,517.03,4987.17
+Clothing,Puma,Spring Splash Discounts,1785712.68,668,2673.22,500.66,4999.01
+Clothing,Puma,Summer Sizzle Promo,1710869.04,606,2823.22,506.24,4998.14
+Clothing,Puma,Super Savings Week,1803069.27,651,2769.69,505.75,4998.97
+Clothing,Puma,Ultimate Value Event,1741883.54,641,2717.45,500.07,4994.01
+Clothing,Puma,VIP Access Sale,1909391.38,705,2708.36,501.68,4996.77
+Clothing,Puma,Weekend Warrior Specials,1925332.83,697,2762.31,508.77,4998.52
+Clothing,Puma,Winter Clearance Carnival,1693078.57,618,2739.61,504.78,4993.54
+Clothing,Puma,Winter Wonders Sale,1727400.81,650,2657.54,505.91,4977.17
+Clothing,Zara,12 Days of Deals,1699255.33,637,2667.59,513.52,4958.04
+Clothing,Zara,Autumn Deals Drive,1863759.99,689,2705.02,501.28,4992.31
+Clothing,Zara,BOGO Blitz,1894983.21,686,2762.37,513.67,4999.45
+Clothing,Zara,Back to School Boost,1726613.21,622,2775.91,506.82,4986.50
+Clothing,Zara,Birthday Bash Sale,1721847.56,624,2759.37,506.06,4992.91
+Clothing,Zara,Black Friday Blowout,1841164.36,653,2819.55,502.21,4989.75
+Clothing,Zara,Cart Crasher Campaign,1777178.46,638,2785.55,512.62,4997.29
+Clothing,Zara,Cashback Carnival,1702504.69,623,2732.75,505.92,4968.31
+Clothing,Zara,Clearance Countdown,1887603.87,691,2731.70,500.46,4999.80
+Clothing,Zara,Countdown to Savings,1807150.21,649,2784.51,503.90,4990.06
+Clothing,Zara,Customer Appreciation Week,1902251.73,684,2781.07,505.57,4978.37
+Clothing,Zara,Cyber Monday Mania,1709986.14,632,2705.67,521.44,4995.44
+Clothing,Zara,Deal of the Month,1832402.71,667,2747.23,505.18,4994.87
+Clothing,Zara,Double Points Bonanza,1870991.26,675,2771.84,504.72,4999.44
+Clothing,Zara,Early Bird Specials,1898601.53,683,2779.80,506.63,4991.60
+Clothing,Zara,End of Season Sale,1680453.29,627,2680.15,504.46,4993.28
+Clothing,Zara,Exclusive Insider Offers,1879417.78,679,2767.92,500.32,4991.57
+Clothing,Zara,Festive Fever Promo,1787723.22,666,2684.27,513.89,4991.64
+Clothing,Zara,Final Call Frenzy,1683505.68,616,2732.96,501.00,4993.90
+Clothing,Zara,Flash Frenzy Friday,1856792.38,672,2763.08,506.08,4993.36
+Clothing,Zara,"Gift More, Spend Less",1901576.71,657,2894.33,503.15,4989.04
+Clothing,Zara,Golden Hour Bargains,1811216.95,653,2773.69,501.59,4994.31
+Clothing,Zara,Green Weekend Deals,1894396.92,692,2737.57,502.55,4992.17
+Clothing,Zara,Happy Hour Discounts,1935354.95,695,2784.68,517.05,4990.80
+Clothing,Zara,Holiday Shopping Rush,1645681.03,607,2711.17,503.29,4996.42
+Clothing,Zara,Hot Picks Promo,1782031.71,644,2767.13,502.01,4989.52
+Clothing,Zara,Instant Gratification Sale,1726377.75,637,2710.17,503.90,4997.44
+Clothing,Zara,Limited Time Treasures,1815075.11,647,2805.37,506.89,4999.81
+Clothing,Zara,Loyalty Rewards Blast,1929410.97,696,2772.14,525.22,4997.44
+Clothing,Zara,Mega Weekend Bonanza,1767252.31,647,2731.46,512.13,4995.03
+Clothing,Zara,Mid-Year Madness,1896387.12,692,2740.44,502.44,4997.54
+Clothing,Zara,Midnight Madness,1842336.84,674,2733.44,500.50,4988.44
+Clothing,Zara,Mystery Discount Days,1750471.21,645,2713.91,500.93,4998.98
+Clothing,Zara,New Arrival Showcase,1898706.32,688,2759.75,506.65,4996.20
+Clothing,Zara,New Product Launch Promo,1721145.70,659,2611.75,501.71,4992.60
+Clothing,Zara,New Year Kickoff,1676395.62,615,2725.85,522.02,4992.69
+Clothing,Zara,Price Drop Parade,1871057.41,681,2747.51,503.25,4995.75
+Clothing,Zara,Red Tag Clearance,1928239.68,676,2852.43,516.38,4999.45
+Clothing,Zara,Seasonal Surprise Box,1892635.60,691,2738.98,502.82,4988.87
+Clothing,Zara,Shop & Save Spectacular,1826761.36,652,2801.78,501.24,4999.91
+Clothing,Zara,Smart Shopper Week,1828121.71,648,2821.18,505.75,4999.73
+Clothing,Zara,Spring Refresh Event,1764123.89,636,2773.78,506.20,4995.99
+Clothing,Zara,Spring Splash Discounts,1729807.85,631,2741.38,505.77,4989.56
+Clothing,Zara,Summer Sizzle Promo,1841007.06,665,2768.43,510.41,4998.58
+Clothing,Zara,Super Savings Week,1627635.05,611,2663.89,505.22,4998.42
+Clothing,Zara,Ultimate Value Event,1824738.12,664,2748.10,504.23,4999.82
+Clothing,Zara,VIP Access Sale,1885633.76,667,2827.04,522.66,4999.71
+Clothing,Zara,Weekend Warrior Specials,1877139.87,690,2720.49,502.76,4991.98
+Clothing,Zara,Winter Clearance Carnival,1834317.66,648,2830.74,502.03,4994.24
+Clothing,Zara,Winter Wonders Sale,1832920.92,672,2727.56,502.39,4971.63
+Electronics,Apple,12 Days of Deals,1735598.19,647,2682.53,510.31,4987.59
+Electronics,Apple,Autumn Deals Drive,1762668.52,634,2780.23,518.47,4985.10
+Electronics,Apple,BOGO Blitz,1605914.19,607,2645.66,507.85,4998.43
+Electronics,Apple,Back to School Boost,1779453.31,657,2708.45,501.01,4991.54
+Electronics,Apple,Birthday Bash Sale,1844300.39,665,2773.38,504.53,4995.40
+Electronics,Apple,Black Friday Blowout,1895043.16,699,2711.08,511.49,4994.08
+Electronics,Apple,Cart Crasher Campaign,1872074.84,679,2757.11,508.39,4998.84
+Electronics,Apple,Cashback Carnival,1800529.14,644,2795.85,500.55,4992.85
+Electronics,Apple,Clearance Countdown,1819836.50,649,2804.06,510.87,4982.48
+Electronics,Apple,Countdown to Savings,1815241.32,683,2657.75,500.60,4989.61
+Electronics,Apple,Customer Appreciation Week,1871761.80,676,2768.88,507.42,4998.63
+Electronics,Apple,Cyber Monday Mania,1803359.09,663,2720.00,518.12,4990.26
+Electronics,Apple,Deal of the Month,1856866.23,661,2809.18,507.33,4999.96
+Electronics,Apple,Double Points Bonanza,1642719.90,603,2724.25,500.80,4999.96
+Electronics,Apple,Early Bird Specials,1709490.02,644,2654.49,503.12,4982.24
+Electronics,Apple,End of Season Sale,1838754.05,665,2765.04,504.05,4997.96
+Electronics,Apple,Exclusive Insider Offers,1901157.42,694,2739.42,526.79,4997.92
+Electronics,Apple,Festive Fever Promo,1793902.21,653,2747.17,500.64,4994.26
+Electronics,Apple,Final Call Frenzy,1829661.44,672,2722.71,500.25,4992.74
+Electronics,Apple,Flash Frenzy Friday,1657452.68,615,2695.05,505.17,4990.29
+Electronics,Apple,"Gift More, Spend Less",1693251.00,632,2679.19,508.46,4993.33
+Electronics,Apple,Golden Hour Bargains,1755075.18,640,2742.30,502.34,4996.32
+Electronics,Apple,Green Weekend Deals,1782631.89,640,2785.36,508.03,4999.77
+Electronics,Apple,Happy Hour Discounts,1858785.90,665,2795.17,521.65,4993.94
+Electronics,Apple,Holiday Shopping Rush,1790178.81,646,2771.17,500.26,4991.74
+Electronics,Apple,Hot Picks Promo,1842840.73,661,2787.96,505.53,4995.24
+Electronics,Apple,Instant Gratification Sale,1866136.68,696,2681.23,501.85,4996.98
+Electronics,Apple,Limited Time Treasures,1840906.10,677,2719.21,502.69,4977.48
+Electronics,Apple,Loyalty Rewards Blast,1875819.15,679,2762.62,508.20,4996.70
+Electronics,Apple,Mega Weekend Bonanza,1829229.46,661,2767.37,504.97,4977.51
+Electronics,Apple,Mid-Year Madness,1734590.46,626,2770.91,505.44,4993.10
+Electronics,Apple,Midnight Madness,1846578.46,670,2756.09,514.32,4999.83
+Electronics,Apple,Mystery Discount Days,1855722.40,649,2859.36,500.77,4996.73
+Electronics,Apple,New Arrival Showcase,1892884.22,682,2775.49,508.74,4999.20
+Electronics,Apple,New Product Launch Promo,1950268.70,730,2671.60,511.01,4989.38
+Electronics,Apple,New Year Kickoff,1942070.89,700,2774.39,503.50,4996.42
+Electronics,Apple,Price Drop Parade,1833918.10,657,2791.35,511.56,4996.99
+Electronics,Apple,Red Tag Clearance,1825491.21,663,2753.38,501.68,4991.96
+Electronics,Apple,Seasonal Surprise Box,1930084.49,703,2745.50,500.70,4997.26
+Electronics,Apple,Shop & Save Spectacular,1852773.27,676,2740.79,503.16,4994.26
+Electronics,Apple,Smart Shopper Week,1956030.42,706,2770.58,504.91,4999.52
+Electronics,Apple,Spring Refresh Event,1960118.62,687,2853.16,509.24,4998.88
+Electronics,Apple,Spring Splash Discounts,1841204.32,654,2815.30,508.55,4998.48
+Electronics,Apple,Summer Sizzle Promo,1681496.25,614,2738.59,501.20,4995.70
+Electronics,Apple,Super Savings Week,1814788.12,660,2749.68,527.66,4996.76
+Electronics,Apple,Ultimate Value Event,1808430.69,644,2808.12,519.49,4999.80
+Electronics,Apple,VIP Access Sale,1912329.92,695,2751.55,503.41,4994.23
+Electronics,Apple,Weekend Warrior Specials,1813828.26,674,2691.14,506.54,4986.26
+Electronics,Apple,Winter Clearance Carnival,1885940.05,708,2663.76,511.37,4995.16
+Electronics,Apple,Winter Wonders Sale,1798998.19,653,2754.97,533.84,4991.72
+Electronics,LG,12 Days of Deals,1669939.34,611,2733.12,513.13,4995.63
+Electronics,LG,Autumn Deals Drive,1824323.85,660,2764.13,508.14,4999.09
+Electronics,LG,BOGO Blitz,1855590.07,671,2765.41,501.56,4997.66
+Electronics,LG,Back to School Boost,1842069.41,679,2712.92,502.18,4994.40
+Electronics,LG,Birthday Bash Sale,1780801.51,663,2685.98,507.40,4977.64
+Electronics,LG,Black Friday Blowout,1769218.42,649,2726.07,500.70,4994.38
+Electronics,LG,Cart Crasher Campaign,1901138.10,700,2715.91,521.71,4988.50
+Electronics,LG,Cashback Carnival,1829275.60,649,2818.61,509.88,4994.18
+Electronics,LG,Clearance Countdown,1794239.56,671,2673.98,502.94,4998.50
+Electronics,LG,Countdown to Savings,1815112.13,649,2796.78,500.75,4994.14
+Electronics,LG,Customer Appreciation Week,1816303.35,674,2694.81,506.65,4992.17
+Electronics,LG,Cyber Monday Mania,1878238.17,671,2799.16,507.37,4993.63
+Electronics,LG,Deal of the Month,1762539.07,645,2732.62,504.72,4995.33
+Electronics,LG,Double Points Bonanza,1832987.23,663,2764.69,514.43,4983.61
+Electronics,LG,Early Bird Specials,1722750.50,626,2752.00,502.05,4992.90
+Electronics,LG,End of Season Sale,1762425.97,634,2779.85,501.39,4997.26
+Electronics,LG,Exclusive Insider Offers,1908237.63,681,2802.11,503.81,4994.95
+Electronics,LG,Festive Fever Promo,1800871.96,655,2749.42,509.31,4996.41
+Electronics,LG,Final Call Frenzy,1873542.06,676,2771.51,501.74,4995.31
+Electronics,LG,Flash Frenzy Friday,1908977.00,685,2786.83,508.02,4994.20
+Electronics,LG,"Gift More, Spend Less",1944501.58,690,2818.12,502.74,4993.14
+Electronics,LG,Golden Hour Bargains,1843048.42,672,2742.63,506.54,4997.22
+Electronics,LG,Green Weekend Deals,1739745.09,638,2726.87,502.12,4996.70
+Electronics,LG,Happy Hour Discounts,1673116.24,597,2802.54,533.79,4997.26
+Electronics,LG,Holiday Shopping Rush,1822524.59,661,2757.22,500.17,4995.77
+Electronics,LG,Hot Picks Promo,1601379.05,591,2709.61,530.65,4996.56
+Electronics,LG,Instant Gratification Sale,1867410.60,687,2718.21,508.23,4985.75
+Electronics,LG,Limited Time Treasures,1794735.60,660,2719.30,507.04,4999.20
+Electronics,LG,Loyalty Rewards Blast,1863797.44,678,2748.96,521.89,4992.76
+Electronics,LG,Mega Weekend Bonanza,1864074.22,673,2769.80,505.91,4997.14
+Electronics,LG,Mid-Year Madness,1833665.73,663,2765.71,501.40,4999.11
+Electronics,LG,Midnight Madness,1747542.73,622,2809.55,505.99,4998.66
+Electronics,LG,Mystery Discount Days,1919571.78,685,2802.29,501.23,4990.97
+Electronics,LG,New Arrival Showcase,1912954.69,656,2916.09,507.24,4998.70
+Electronics,LG,New Product Launch Promo,1889674.65,693,2726.80,501.76,4995.58
+Electronics,LG,New Year Kickoff,1945401.47,689,2823.51,504.17,4998.59
+Electronics,LG,Price Drop Parade,1725603.21,647,2667.08,501.39,4999.10
+Electronics,LG,Red Tag Clearance,1867298.25,670,2787.01,511.90,4990.57
+Electronics,LG,Seasonal Surprise Box,1819633.02,667,2728.09,504.53,4992.28
+Electronics,LG,Shop & Save Spectacular,1918529.21,715,2683.26,502.74,4992.95
+Electronics,LG,Smart Shopper Week,1819751.93,670,2716.05,509.76,4999.77
+Electronics,LG,Spring Refresh Event,1774857.84,657,2701.46,507.77,4999.45
+Electronics,LG,Spring Splash Discounts,1773451.60,653,2715.85,517.15,4999.02
+Electronics,LG,Summer Sizzle Promo,1813678.30,662,2739.70,518.11,4987.60
+Electronics,LG,Super Savings Week,1929704.14,675,2858.82,501.34,4995.82
+Electronics,LG,Ultimate Value Event,1945499.56,695,2799.28,503.14,4989.62
+Electronics,LG,VIP Access Sale,1942239.99,695,2794.59,506.75,4998.82
+Electronics,LG,Weekend Warrior Specials,1999058.64,731,2734.69,503.52,4979.32
+Electronics,LG,Winter Clearance Carnival,1918311.52,668,2871.72,501.06,4991.97
+Electronics,LG,Winter Wonders Sale,1852903.91,698,2654.59,502.26,4996.89
+Electronics,Panasonic,12 Days of Deals,1675429.24,616,2719.85,512.15,4999.60
+Electronics,Panasonic,Autumn Deals Drive,1862201.36,660,2821.52,500.20,4996.51
+Electronics,Panasonic,BOGO Blitz,1860545.80,657,2831.88,505.45,4989.22
+Electronics,Panasonic,Back to School Boost,1845476.47,678,2721.94,500.14,4974.55
+Electronics,Panasonic,Birthday Bash Sale,1835664.62,660,2781.31,500.20,4999.90
+Electronics,Panasonic,Black Friday Blowout,1743474.57,636,2741.31,501.86,4999.87
+Electronics,Panasonic,Cart Crasher Campaign,1821611.72,655,2781.09,502.87,4996.42
+Electronics,Panasonic,Cashback Carnival,1739892.05,636,2735.68,500.51,4988.51
+Electronics,Panasonic,Clearance Countdown,1935058.86,714,2710.17,513.68,4998.92
+Electronics,Panasonic,Countdown to Savings,1842709.13,673,2738.05,518.47,4993.48
+Electronics,Panasonic,Customer Appreciation Week,1811848.15,659,2749.39,515.73,4986.08
+Electronics,Panasonic,Cyber Monday Mania,1746540.52,639,2733.24,503.56,4986.38
+Electronics,Panasonic,Deal of the Month,1903873.28,693,2747.29,502.25,4997.39
+Electronics,Panasonic,Double Points Bonanza,1867984.81,674,2771.49,500.59,4998.12
+Electronics,Panasonic,Early Bird Specials,1903777.83,697,2731.39,510.97,4995.63
+Electronics,Panasonic,End of Season Sale,1808135.27,659,2743.76,502.83,4986.57
+Electronics,Panasonic,Exclusive Insider Offers,1980956.05,715,2770.57,503.43,4999.96
+Electronics,Panasonic,Festive Fever Promo,1826899.56,682,2678.74,500.15,4995.38
+Electronics,Panasonic,Final Call Frenzy,1867156.70,678,2753.92,501.47,4998.53
+Electronics,Panasonic,Flash Frenzy Friday,1788217.23,647,2763.86,502.31,4996.92
+Electronics,Panasonic,"Gift More, Spend Less",1903884.42,691,2755.26,517.36,4991.79
+Electronics,Panasonic,Golden Hour Bargains,1749269.54,645,2712.05,504.46,4995.35
+Electronics,Panasonic,Green Weekend Deals,1952122.05,676,2887.75,503.08,4999.78
+Electronics,Panasonic,Happy Hour Discounts,1980722.59,706,2805.56,510.62,4992.74
+Electronics,Panasonic,Holiday Shopping Rush,1949828.03,687,2838.18,509.01,4999.67
+Electronics,Panasonic,Hot Picks Promo,1802246.43,652,2764.18,502.73,4996.10
+Electronics,Panasonic,Instant Gratification Sale,1876743.75,682,2751.82,511.90,4998.19
+Electronics,Panasonic,Limited Time Treasures,2046490.60,718,2850.27,501.60,4993.69
+Electronics,Panasonic,Loyalty Rewards Blast,1824230.00,656,2780.84,507.52,4979.64
+Electronics,Panasonic,Mega Weekend Bonanza,1833027.18,667,2748.17,507.02,4998.53
+Electronics,Panasonic,Mid-Year Madness,1813783.39,650,2790.44,500.34,4994.22
+Electronics,Panasonic,Midnight Madness,1874172.24,701,2673.57,537.12,4994.98
+Electronics,Panasonic,Mystery Discount Days,1993366.41,709,2811.52,500.80,4995.07
+Electronics,Panasonic,New Arrival Showcase,1719812.74,636,2704.11,502.12,4986.80
+Electronics,Panasonic,New Product Launch Promo,1949363.87,697,2796.79,501.09,4998.61
+Electronics,Panasonic,New Year Kickoff,1970979.23,700,2815.68,501.31,4983.89
+Electronics,Panasonic,Price Drop Parade,1794146.45,644,2785.94,504.47,4994.59
+Electronics,Panasonic,Red Tag Clearance,1831191.12,675,2712.88,501.05,4993.50
+Electronics,Panasonic,Seasonal Surprise Box,1821129.05,655,2780.35,522.75,4997.91
+Electronics,Panasonic,Shop & Save Spectacular,1918961.58,694,2765.07,500.09,4997.54
+Electronics,Panasonic,Smart Shopper Week,1778698.45,646,2753.40,514.39,4972.76
+Electronics,Panasonic,Spring Refresh Event,1907332.30,681,2800.78,506.77,4999.83
+Electronics,Panasonic,Spring Splash Discounts,1880710.53,674,2790.37,538.70,4994.76
+Electronics,Panasonic,Summer Sizzle Promo,1735713.39,636,2729.11,512.69,4970.66
+Electronics,Panasonic,Super Savings Week,1833937.41,672,2729.07,506.53,4998.99
+Electronics,Panasonic,Ultimate Value Event,1889204.10,680,2778.24,507.21,4997.13
+Electronics,Panasonic,VIP Access Sale,1807676.50,672,2689.99,507.71,4995.20
+Electronics,Panasonic,Weekend Warrior Specials,1823882.80,642,2840.94,503.53,4985.78
+Electronics,Panasonic,Winter Clearance Carnival,1876653.20,678,2767.93,518.89,4995.61
+Electronics,Panasonic,Winter Wonders Sale,1696094.55,635,2671.02,501.34,4997.71
+Electronics,Samsung,12 Days of Deals,1855499.48,667,2781.86,513.28,4992.13
+Electronics,Samsung,Autumn Deals Drive,1938681.86,676,2867.87,502.24,4995.69
+Electronics,Samsung,BOGO Blitz,1862186.14,681,2734.49,501.85,4991.94
+Electronics,Samsung,Back to School Boost,1717235.96,652,2633.80,506.31,4994.30
+Electronics,Samsung,Birthday Bash Sale,1852615.74,661,2802.75,508.34,4993.29
+Electronics,Samsung,Black Friday Blowout,1787893.44,653,2737.97,504.18,4990.87
+Electronics,Samsung,Cart Crasher Campaign,1782650.73,639,2789.75,504.62,4986.65
+Electronics,Samsung,Cashback Carnival,1865837.80,708,2635.36,500.13,4998.33
+Electronics,Samsung,Clearance Countdown,1859444.08,669,2779.44,502.39,4998.01
+Electronics,Samsung,Countdown to Savings,1993619.07,714,2792.18,501.91,4985.72
+Electronics,Samsung,Customer Appreciation Week,1870828.47,682,2743.15,504.71,4984.07
+Electronics,Samsung,Cyber Monday Mania,1956334.45,683,2864.33,504.82,4999.50
+Electronics,Samsung,Deal of the Month,1809309.26,658,2749.71,507.78,4998.97
+Electronics,Samsung,Double Points Bonanza,1845173.58,661,2791.49,503.00,4997.47
+Electronics,Samsung,Early Bird Specials,1946154.47,701,2776.25,507.35,4999.11
+Electronics,Samsung,End of Season Sale,1750744.71,657,2664.76,507.40,4982.96
+Electronics,Samsung,Exclusive Insider Offers,1821862.39,662,2752.06,507.60,4991.18
+Electronics,Samsung,Festive Fever Promo,1780965.69,639,2787.11,505.72,4994.70
+Electronics,Samsung,Final Call Frenzy,1875159.47,685,2737.46,504.31,4996.78
+Electronics,Samsung,Flash Frenzy Friday,1747291.90,652,2679.90,510.10,4997.57
+Electronics,Samsung,"Gift More, Spend Less",1835155.10,674,2722.78,503.92,4998.35
+Electronics,Samsung,Golden Hour Bargains,1799483.23,646,2785.58,506.47,4991.12
+Electronics,Samsung,Green Weekend Deals,1776588.87,660,2691.80,505.65,4998.39
+Electronics,Samsung,Happy Hour Discounts,1883573.54,681,2765.89,503.77,4987.73
+Electronics,Samsung,Holiday Shopping Rush,1784958.02,654,2729.29,501.27,4988.20
+Electronics,Samsung,Hot Picks Promo,1819779.45,677,2688.01,510.19,4987.66
+Electronics,Samsung,Instant Gratification Sale,1768527.87,645,2741.90,508.31,4975.90
+Electronics,Samsung,Limited Time Treasures,1965582.47,688,2856.95,522.88,4992.37
+Electronics,Samsung,Loyalty Rewards Blast,1980867.22,713,2778.21,507.60,4985.06
+Electronics,Samsung,Mega Weekend Bonanza,1995189.82,726,2748.20,502.17,4999.69
+Electronics,Samsung,Mid-Year Madness,1940577.80,690,2812.43,517.51,4977.02
+Electronics,Samsung,Midnight Madness,1885590.95,676,2789.34,500.93,4994.53
+Electronics,Samsung,Mystery Discount Days,1890327.58,674,2804.64,511.29,4971.00
+Electronics,Samsung,New Arrival Showcase,1967935.85,699,2815.36,503.69,4996.76
+Electronics,Samsung,New Product Launch Promo,1837709.40,682,2694.59,509.22,4994.66
+Electronics,Samsung,New Year Kickoff,1833629.07,661,2774.02,501.48,4999.63
+Electronics,Samsung,Price Drop Parade,1656872.30,614,2698.49,503.08,4997.91
+Electronics,Samsung,Red Tag Clearance,1830856.01,667,2744.91,501.03,4993.37
+Electronics,Samsung,Seasonal Surprise Box,1691730.38,618,2737.43,501.42,4997.09
+Electronics,Samsung,Shop & Save Spectacular,1850785.84,664,2787.33,522.82,4993.50
+Electronics,Samsung,Smart Shopper Week,1850348.65,666,2778.30,513.30,4994.28
+Electronics,Samsung,Spring Refresh Event,1706579.40,632,2700.28,505.30,4982.48
+Electronics,Samsung,Spring Splash Discounts,1932474.61,677,2854.47,502.11,4983.63
+Electronics,Samsung,Summer Sizzle Promo,1886571.71,663,2845.51,504.32,4986.41
+Electronics,Samsung,Super Savings Week,1870497.23,679,2754.78,504.67,4992.06
+Electronics,Samsung,Ultimate Value Event,1909438.50,686,2783.44,517.40,4996.03
+Electronics,Samsung,VIP Access Sale,1738875.03,659,2638.66,502.59,4992.51
+Electronics,Samsung,Weekend Warrior Specials,1933027.50,692,2793.39,546.90,4999.71
+Electronics,Samsung,Winter Clearance Carnival,1841825.76,675,2728.63,501.55,4995.10
+Electronics,Samsung,Winter Wonders Sale,1911854.01,684,2795.11,501.94,4996.43
+Electronics,Sony,12 Days of Deals,1750893.26,649,2697.83,502.99,4999.82
+Electronics,Sony,Autumn Deals Drive,1762721.82,631,2793.54,501.19,4995.33
+Electronics,Sony,BOGO Blitz,1835781.70,675,2719.68,506.08,4998.29
+Electronics,Sony,Back to School Boost,1841613.38,683,2696.36,503.72,4997.92
+Electronics,Sony,Birthday Bash Sale,1813085.40,653,2776.55,500.37,4994.15
+Electronics,Sony,Black Friday Blowout,1938238.22,697,2780.83,505.50,4997.94
+Electronics,Sony,Cart Crasher Campaign,2074908.17,722,2873.83,502.78,4995.09
+Electronics,Sony,Cashback Carnival,1899433.25,687,2764.82,512.39,4993.59
+Electronics,Sony,Clearance Countdown,1913077.16,713,2683.14,500.08,4987.51
+Electronics,Sony,Countdown to Savings,1704733.15,619,2754.01,504.17,4995.30
+Electronics,Sony,Customer Appreciation Week,1873463.73,676,2771.40,505.23,4996.51
+Electronics,Sony,Cyber Monday Mania,1891463.27,699,2705.96,504.44,4978.20
+Electronics,Sony,Deal of the Month,1758770.81,654,2689.25,501.76,4992.62
+Electronics,Sony,Double Points Bonanza,1836523.98,662,2774.21,500.48,4994.70
+Electronics,Sony,Early Bird Specials,1872518.50,686,2729.62,504.33,4987.13
+Electronics,Sony,End of Season Sale,1780733.47,644,2765.11,511.30,4998.76
+Electronics,Sony,Exclusive Insider Offers,1815534.86,669,2713.80,511.49,4993.72
+Electronics,Sony,Festive Fever Promo,1904483.85,693,2748.17,503.82,4998.89
+Electronics,Sony,Final Call Frenzy,1777932.82,644,2760.77,501.33,4999.96
+Electronics,Sony,Flash Frenzy Friday,1856563.30,666,2787.63,504.09,4999.95
+Electronics,Sony,"Gift More, Spend Less",1680334.03,625,2688.53,506.16,4984.69
+Electronics,Sony,Golden Hour Bargains,1768940.33,652,2713.10,508.06,4968.20
+Electronics,Sony,Green Weekend Deals,1816463.40,669,2715.19,509.28,4996.94
+Electronics,Sony,Happy Hour Discounts,1801519.52,663,2717.22,504.99,4998.47
+Electronics,Sony,Holiday Shopping Rush,1739941.65,641,2714.42,500.69,4987.20
+Electronics,Sony,Hot Picks Promo,1857066.26,670,2771.74,506.70,4995.49
+Electronics,Sony,Instant Gratification Sale,1762447.56,657,2682.57,502.13,4998.62
+Electronics,Sony,Limited Time Treasures,1827842.90,648,2820.75,511.62,4999.11
+Electronics,Sony,Loyalty Rewards Blast,1773704.27,674,2631.61,500.73,4966.52
+Electronics,Sony,Mega Weekend Bonanza,1816688.75,660,2752.56,503.47,4999.15
+Electronics,Sony,Mid-Year Madness,1748750.66,654,2673.93,500.72,4998.40
+Electronics,Sony,Midnight Madness,1767334.64,645,2740.05,505.60,4998.52
+Electronics,Sony,Mystery Discount Days,1800974.79,654,2753.78,506.12,4994.20
+Electronics,Sony,New Arrival Showcase,1778513.84,633,2809.66,504.98,4999.95
+Electronics,Sony,New Product Launch Promo,1827106.07,659,2772.54,500.19,4998.30
+Electronics,Sony,New Year Kickoff,1966876.44,704,2793.86,512.45,4995.99
+Electronics,Sony,Price Drop Parade,1912330.64,695,2751.55,500.55,4998.14
+Electronics,Sony,Red Tag Clearance,1806390.25,653,2766.29,508.61,4990.99
+Electronics,Sony,Seasonal Surprise Box,1765151.19,637,2771.04,513.30,4993.58
+Electronics,Sony,Shop & Save Spectacular,1813750.67,665,2727.44,520.03,4984.81
+Electronics,Sony,Smart Shopper Week,1643398.74,619,2654.93,505.80,4998.63
+Electronics,Sony,Spring Refresh Event,1778697.95,647,2749.15,500.05,4997.33
+Electronics,Sony,Spring Splash Discounts,1744091.15,627,2781.64,508.68,4999.08
+Electronics,Sony,Summer Sizzle Promo,1832368.17,670,2734.88,511.89,4995.77
+Electronics,Sony,Super Savings Week,1757497.48,632,2780.85,513.54,4990.49
+Electronics,Sony,Ultimate Value Event,1850242.90,679,2724.95,511.37,4999.13
+Electronics,Sony,VIP Access Sale,1887422.01,684,2759.39,510.24,4969.11
+Electronics,Sony,Weekend Warrior Specials,1734356.49,637,2722.69,501.99,4968.73
+Electronics,Sony,Winter Clearance Carnival,1981401.97,702,2822.51,508.37,4993.31
+Electronics,Sony,Winter Wonders Sale,1771864.88,672,2636.70,511.22,4993.05
+Furniture,Godrej Interio,12 Days of Deals,1761838.20,641,2748.58,513.03,4998.57
+Furniture,Godrej Interio,Autumn Deals Drive,1724303.07,648,2660.96,503.92,4999.01
+Furniture,Godrej Interio,BOGO Blitz,1937218.75,701,2763.51,503.27,4993.32
+Furniture,Godrej Interio,Back to School Boost,1836433.15,680,2700.64,503.95,4985.54
+Furniture,Godrej Interio,Birthday Bash Sale,1761958.41,643,2740.22,504.51,4991.81
+Furniture,Godrej Interio,Black Friday Blowout,1873317.19,691,2711.02,500.23,4995.43
+Furniture,Godrej Interio,Cart Crasher Campaign,1857070.97,679,2735.01,508.04,4992.17
+Furniture,Godrej Interio,Cashback Carnival,1965192.96,693,2835.78,503.47,4994.56
+Furniture,Godrej Interio,Clearance Countdown,1851274.91,665,2783.87,500.68,4992.67
+Furniture,Godrej Interio,Countdown to Savings,1853056.97,659,2811.92,505.04,4997.06
+Furniture,Godrej Interio,Customer Appreciation Week,1767180.75,673,2625.83,504.82,4994.87
+Furniture,Godrej Interio,Cyber Monday Mania,1674406.29,606,2763.05,518.33,4994.23
+Furniture,Godrej Interio,Deal of the Month,1817816.30,663,2741.80,518.45,4999.17
+Furniture,Godrej Interio,Double Points Bonanza,1863992.41,666,2798.79,521.42,4973.00
+Furniture,Godrej Interio,Early Bird Specials,1820839.73,675,2697.54,509.67,4996.61
+Furniture,Godrej Interio,End of Season Sale,1838505.65,670,2744.04,504.42,4986.81
+Furniture,Godrej Interio,Exclusive Insider Offers,1739875.99,636,2735.65,501.18,4996.56
+Furniture,Godrej Interio,Festive Fever Promo,1917206.12,697,2750.65,501.32,4992.74
+Furniture,Godrej Interio,Final Call Frenzy,1740634.95,625,2785.02,507.44,4991.12
+Furniture,Godrej Interio,Flash Frenzy Friday,1900456.24,686,2770.34,504.49,4995.77
+Furniture,Godrej Interio,"Gift More, Spend Less",1652770.81,625,2644.43,510.42,4997.34
+Furniture,Godrej Interio,Golden Hour Bargains,1779319.54,642,2771.53,503.86,4994.26
+Furniture,Godrej Interio,Green Weekend Deals,1668306.01,640,2606.73,533.15,4982.78
+Furniture,Godrej Interio,Happy Hour Discounts,1763592.90,651,2709.05,501.14,4989.55
+Furniture,Godrej Interio,Holiday Shopping Rush,1772625.77,649,2731.32,508.47,4996.98
+Furniture,Godrej Interio,Hot Picks Promo,1970451.59,697,2827.05,503.85,4992.57
+Furniture,Godrej Interio,Instant Gratification Sale,1818311.30,662,2746.69,506.86,4992.46
+Furniture,Godrej Interio,Limited Time Treasures,1964610.69,741,2651.30,509.42,4997.24
+Furniture,Godrej Interio,Loyalty Rewards Blast,1840464.61,693,2655.79,500.38,4979.86
+Furniture,Godrej Interio,Mega Weekend Bonanza,1865810.96,690,2704.07,503.48,4979.63
+Furniture,Godrej Interio,Mid-Year Madness,1760705.13,646,2725.55,516.15,4999.77
+Furniture,Godrej Interio,Midnight Madness,1904564.26,682,2792.62,504.76,4994.08
+Furniture,Godrej Interio,Mystery Discount Days,1915820.03,699,2740.80,502.26,4995.76
+Furniture,Godrej Interio,New Arrival Showcase,1959067.72,703,2786.73,510.39,4999.20
+Furniture,Godrej Interio,New Product Launch Promo,1900511.03,708,2684.34,501.02,4999.40
+Furniture,Godrej Interio,New Year Kickoff,2030129.73,722,2811.81,501.02,4998.10
+Furniture,Godrej Interio,Price Drop Parade,1760787.64,617,2853.79,506.58,4997.34
+Furniture,Godrej Interio,Red Tag Clearance,1850062.60,657,2815.92,503.77,4992.46
+Furniture,Godrej Interio,Seasonal Surprise Box,1813642.84,669,2710.98,503.81,4998.58
+Furniture,Godrej Interio,Shop & Save Spectacular,1859955.32,667,2788.54,507.30,4998.08
+Furniture,Godrej Interio,Smart Shopper Week,1672507.83,625,2676.01,502.89,4994.01
+Furniture,Godrej Interio,Spring Refresh Event,1764894.02,658,2682.21,505.77,4997.69
+Furniture,Godrej Interio,Spring Splash Discounts,1911150.04,683,2798.17,511.71,4999.44
+Furniture,Godrej Interio,Summer Sizzle Promo,1729764.76,638,2711.23,507.16,4985.90
+Furniture,Godrej Interio,Super Savings Week,1904995.52,696,2737.06,508.26,4995.00
+Furniture,Godrej Interio,Ultimate Value Event,1739565.88,640,2718.07,502.47,4998.80
+Furniture,Godrej Interio,VIP Access Sale,1702286.75,622,2736.80,511.16,4990.62
+Furniture,Godrej Interio,Weekend Warrior Specials,1814096.47,665,2727.96,501.67,4999.65
+Furniture,Godrej Interio,Winter Clearance Carnival,1779645.77,655,2717.02,502.61,4996.65
+Furniture,Godrej Interio,Winter Wonders Sale,1902949.97,691,2753.91,502.50,4989.40
+Furniture,Home Centre,12 Days of Deals,1967736.36,705,2791.12,511.57,4983.81
+Furniture,Home Centre,Autumn Deals Drive,1874724.34,679,2761.01,514.26,4996.10
+Furniture,Home Centre,BOGO Blitz,1857782.67,662,2806.32,526.54,4988.57
+Furniture,Home Centre,Back to School Boost,1811047.43,655,2764.96,501.66,4982.20
+Furniture,Home Centre,Birthday Bash Sale,1807669.43,650,2781.03,511.57,4999.90
+Furniture,Home Centre,Black Friday Blowout,1849755.02,668,2769.09,504.85,4998.42
+Furniture,Home Centre,Cart Crasher Campaign,1839884.40,669,2750.20,510.50,4998.52
+Furniture,Home Centre,Cashback Carnival,1951825.29,697,2800.32,500.92,4994.06
+Furniture,Home Centre,Clearance Countdown,1871639.61,667,2806.06,500.93,4985.80
+Furniture,Home Centre,Countdown to Savings,1859497.52,673,2763.00,502.09,4996.16
+Furniture,Home Centre,Customer Appreciation Week,1756720.28,657,2673.85,504.04,4997.65
+Furniture,Home Centre,Cyber Monday Mania,1747091.30,650,2687.83,500.56,4972.73
+Furniture,Home Centre,Deal of the Month,1841651.80,687,2680.72,503.22,4996.19
+Furniture,Home Centre,Double Points Bonanza,1865112.96,670,2783.75,509.59,4999.60
+Furniture,Home Centre,Early Bird Specials,1873893.39,686,2731.62,506.72,4996.66
+Furniture,Home Centre,End of Season Sale,1780072.73,637,2794.46,501.93,4987.50
+Furniture,Home Centre,Exclusive Insider Offers,1695783.41,620,2735.13,510.64,4992.03
+Furniture,Home Centre,Festive Fever Promo,1856990.11,669,2775.77,533.40,4995.46
+Furniture,Home Centre,Final Call Frenzy,1882573.29,668,2818.22,501.98,4996.48
+Furniture,Home Centre,Flash Frenzy Friday,1870437.67,673,2779.25,515.80,4999.30
+Furniture,Home Centre,"Gift More, Spend Less",1790536.36,657,2725.32,501.75,4987.64
+Furniture,Home Centre,Golden Hour Bargains,1696213.12,634,2675.42,502.72,4977.23
+Furniture,Home Centre,Green Weekend Deals,1827712.07,656,2786.15,515.31,4999.33
+Furniture,Home Centre,Happy Hour Discounts,1854120.92,674,2750.92,508.48,4996.28
+Furniture,Home Centre,Holiday Shopping Rush,1841383.20,676,2723.94,514.22,4993.06
+Furniture,Home Centre,Hot Picks Promo,1832434.84,682,2686.85,506.64,4995.54
+Furniture,Home Centre,Instant Gratification Sale,2093864.87,728,2876.19,502.68,4998.90
+Furniture,Home Centre,Limited Time Treasures,1839146.89,659,2790.81,516.63,4989.62
+Furniture,Home Centre,Loyalty Rewards Blast,1856991.59,657,2826.47,500.58,4996.69
+Furniture,Home Centre,Mega Weekend Bonanza,1840598.65,657,2801.52,502.08,4992.81
+Furniture,Home Centre,Mid-Year Madness,1869562.05,686,2725.31,503.37,4999.10
+Furniture,Home Centre,Midnight Madness,1813335.71,656,2764.23,504.23,4998.34
+Furniture,Home Centre,Mystery Discount Days,1717967.51,631,2722.61,508.31,4994.22
+Furniture,Home Centre,New Arrival Showcase,1827311.74,657,2781.30,503.77,4991.45
+Furniture,Home Centre,New Product Launch Promo,1765797.63,639,2763.38,506.40,4996.63
+Furniture,Home Centre,New Year Kickoff,1996978.20,723,2762.07,504.13,4990.71
+Furniture,Home Centre,Price Drop Parade,1936110.89,691,2801.90,514.90,4992.90
+Furniture,Home Centre,Red Tag Clearance,1792577.93,653,2745.14,502.90,4997.86
+Furniture,Home Centre,Seasonal Surprise Box,1849796.71,681,2716.29,503.27,4996.39
+Furniture,Home Centre,Shop & Save Spectacular,1817375.76,658,2761.97,506.96,4998.65
+Furniture,Home Centre,Smart Shopper Week,1980195.69,693,2857.43,503.09,4999.64
+Furniture,Home Centre,Spring Refresh Event,1931947.98,681,2836.93,501.41,4998.45
+Furniture,Home Centre,Spring Splash Discounts,1847290.21,689,2681.12,500.35,4992.41
+Furniture,Home Centre,Summer Sizzle Promo,1975820.33,708,2790.71,506.50,4996.51
+Furniture,Home Centre,Super Savings Week,1743836.02,648,2691.10,504.79,4999.89
+Furniture,Home Centre,Ultimate Value Event,1799767.84,648,2777.42,502.11,4996.74
+Furniture,Home Centre,VIP Access Sale,1918123.09,692,2771.85,500.23,4985.67
+Furniture,Home Centre,Weekend Warrior Specials,1824069.79,664,2747.09,501.07,4998.93
+Furniture,Home Centre,Winter Clearance Carnival,1864156.03,662,2815.95,501.40,4961.65
+Furniture,Home Centre,Winter Wonders Sale,1883752.86,696,2706.54,510.01,4994.81
+Furniture,IKEA,12 Days of Deals,1772183.91,670,2645.05,502.40,4991.30
+Furniture,IKEA,Autumn Deals Drive,1927682.80,701,2749.90,507.41,4993.26
+Furniture,IKEA,BOGO Blitz,1833764.07,679,2700.68,504.41,4987.72
+Furniture,IKEA,Back to School Boost,1944018.24,712,2730.36,505.83,4984.77
+Furniture,IKEA,Birthday Bash Sale,1804457.70,662,2725.77,501.52,4998.56
+Furniture,IKEA,Black Friday Blowout,1945713.75,675,2882.54,508.77,4999.69
+Furniture,IKEA,Cart Crasher Campaign,1854191.48,669,2771.59,501.43,4998.49
+Furniture,IKEA,Cashback Carnival,1845528.73,677,2726.04,503.76,4999.12
+Furniture,IKEA,Clearance Countdown,1878565.17,683,2750.46,505.37,4996.82
+Furniture,IKEA,Countdown to Savings,1835053.16,660,2780.38,539.27,4997.53
+Furniture,IKEA,Customer Appreciation Week,1799412.67,681,2642.31,506.29,4972.06
+Furniture,IKEA,Cyber Monday Mania,1882244.86,666,2826.19,504.38,4991.04
+Furniture,IKEA,Deal of the Month,1788846.48,670,2669.92,506.65,4978.58
+Furniture,IKEA,Double Points Bonanza,1854840.22,669,2772.56,505.59,4996.14
+Furniture,IKEA,Early Bird Specials,1805036.25,666,2710.26,510.66,4996.11
+Furniture,IKEA,End of Season Sale,1705411.22,631,2702.71,500.31,4998.04
+Furniture,IKEA,Exclusive Insider Offers,1820046.80,660,2757.65,501.83,4998.36
+Furniture,IKEA,Festive Fever Promo,1724328.02,647,2665.11,520.70,4998.21
+Furniture,IKEA,Final Call Frenzy,1923642.31,708,2717.01,509.98,4998.78
+Furniture,IKEA,Flash Frenzy Friday,1790092.45,641,2792.66,505.21,4995.61
+Furniture,IKEA,"Gift More, Spend Less",1743551.80,639,2728.56,500.71,4998.02
+Furniture,IKEA,Golden Hour Bargains,1950693.26,692,2818.92,512.00,4995.04
+Furniture,IKEA,Green Weekend Deals,1950178.72,705,2766.21,503.96,4993.14
+Furniture,IKEA,Happy Hour Discounts,1786556.11,654,2731.74,500.31,4998.88
+Furniture,IKEA,Holiday Shopping Rush,1926388.20,691,2787.83,503.97,4997.57
+Furniture,IKEA,Hot Picks Promo,1770863.85,631,2806.44,507.08,4997.56
+Furniture,IKEA,Instant Gratification Sale,1806744.67,643,2809.87,503.56,4978.72
+Furniture,IKEA,Limited Time Treasures,1865168.32,692,2695.33,502.15,4995.00
+Furniture,IKEA,Loyalty Rewards Blast,1852782.01,679,2728.69,503.05,4976.01
+Furniture,IKEA,Mega Weekend Bonanza,1802117.03,650,2772.49,505.20,4993.16
+Furniture,IKEA,Mid-Year Madness,1799129.52,633,2842.23,513.37,4973.50
+Furniture,IKEA,Midnight Madness,1912158.58,691,2767.23,501.83,4993.52
+Furniture,IKEA,Mystery Discount Days,1908937.91,687,2778.66,502.33,4988.12
+Furniture,IKEA,New Arrival Showcase,1736740.98,659,2635.42,508.31,4995.42
+Furniture,IKEA,New Product Launch Promo,1880943.51,683,2753.94,501.50,4996.35
+Furniture,IKEA,New Year Kickoff,1869434.39,668,2798.55,562.41,4996.37
+Furniture,IKEA,Price Drop Parade,1839723.49,667,2758.21,500.06,4992.16
+Furniture,IKEA,Red Tag Clearance,1917483.94,683,2807.44,518.85,4996.34
+Furniture,IKEA,Seasonal Surprise Box,1832537.16,690,2655.85,501.95,4974.45
+Furniture,IKEA,Shop & Save Spectacular,2001486.60,705,2838.99,516.22,4993.27
+Furniture,IKEA,Smart Shopper Week,1855232.17,685,2708.37,508.73,4998.03
+Furniture,IKEA,Spring Refresh Event,2015152.81,710,2838.24,510.54,4995.87
+Furniture,IKEA,Spring Splash Discounts,1823438.70,666,2737.90,502.30,4992.95
+Furniture,IKEA,Summer Sizzle Promo,1773133.63,654,2711.21,511.39,4998.66
+Furniture,IKEA,Super Savings Week,1790724.58,658,2721.47,503.67,4991.69
+Furniture,IKEA,Ultimate Value Event,1793867.60,656,2734.55,502.21,4983.29
+Furniture,IKEA,VIP Access Sale,1699558.75,625,2719.29,506.30,4992.06
+Furniture,IKEA,Weekend Warrior Specials,1785866.24,651,2743.27,501.39,4999.21
+Furniture,IKEA,Winter Clearance Carnival,1915976.16,703,2725.43,505.94,4990.80
+Furniture,IKEA,Winter Wonders Sale,1896242.88,684,2772.28,502.50,4988.05
+Furniture,Pepperfry,12 Days of Deals,1792836.96,643,2788.24,518.52,4998.58
+Furniture,Pepperfry,Autumn Deals Drive,1891493.78,707,2675.38,500.56,4998.96
+Furniture,Pepperfry,BOGO Blitz,1653054.47,608,2718.84,511.25,4994.26
+Furniture,Pepperfry,Back to School Boost,1928318.64,710,2715.94,522.56,4988.70
+Furniture,Pepperfry,Birthday Bash Sale,1777482.21,629,2825.89,505.99,4992.29
+Furniture,Pepperfry,Black Friday Blowout,1987315.08,711,2795.10,507.45,4999.47
+Furniture,Pepperfry,Cart Crasher Campaign,1733881.16,628,2760.96,501.27,4998.24
+Furniture,Pepperfry,Cashback Carnival,1756586.09,641,2740.38,510.52,4993.83
+Furniture,Pepperfry,Clearance Countdown,1757403.54,654,2687.16,510.97,4995.77
+Furniture,Pepperfry,Countdown to Savings,1910024.05,686,2784.29,510.93,4999.16
+Furniture,Pepperfry,Customer Appreciation Week,1822061.27,665,2739.94,502.67,4996.70
+Furniture,Pepperfry,Cyber Monday Mania,1821404.77,662,2751.37,506.92,4993.83
+Furniture,Pepperfry,Deal of the Month,1740465.76,636,2736.58,501.02,4997.12
+Furniture,Pepperfry,Double Points Bonanza,1979237.56,697,2839.65,505.06,4999.14
+Furniture,Pepperfry,Early Bird Specials,1767507.49,632,2796.69,500.89,4997.80
+Furniture,Pepperfry,End of Season Sale,1757855.27,638,2755.26,521.45,4998.80
+Furniture,Pepperfry,Exclusive Insider Offers,1882954.49,679,2773.13,514.75,4995.54
+Furniture,Pepperfry,Festive Fever Promo,1926158.51,692,2783.47,510.18,4998.62
+Furniture,Pepperfry,Final Call Frenzy,1751576.47,634,2762.74,502.89,4998.23
+Furniture,Pepperfry,Flash Frenzy Friday,1976121.80,715,2763.81,503.24,4998.41
+Furniture,Pepperfry,"Gift More, Spend Less",1770073.88,662,2673.83,502.35,4998.32
+Furniture,Pepperfry,Golden Hour Bargains,1786045.70,659,2710.24,506.98,4994.22
+Furniture,Pepperfry,Green Weekend Deals,1865127.99,667,2796.29,503.53,4996.89
+Furniture,Pepperfry,Happy Hour Discounts,1873262.16,670,2795.91,511.00,4998.48
+Furniture,Pepperfry,Holiday Shopping Rush,1719171.29,623,2759.50,512.13,4989.06
+Furniture,Pepperfry,Hot Picks Promo,1878432.07,678,2770.55,504.44,4994.52
+Furniture,Pepperfry,Instant Gratification Sale,1815580.12,658,2759.24,503.79,4999.03
+Furniture,Pepperfry,Limited Time Treasures,2016471.23,725,2781.34,505.62,4994.63
+Furniture,Pepperfry,Loyalty Rewards Blast,1690149.29,629,2687.04,501.05,4999.26
+Furniture,Pepperfry,Mega Weekend Bonanza,1945858.18,698,2787.76,504.00,4988.69
+Furniture,Pepperfry,Mid-Year Madness,1828980.98,660,2771.18,515.95,4987.96
+Furniture,Pepperfry,Midnight Madness,1805714.37,672,2687.07,501.59,4998.12
+Furniture,Pepperfry,Mystery Discount Days,1867040.85,678,2753.75,514.73,4986.60
+Furniture,Pepperfry,New Arrival Showcase,1904421.12,710,2682.28,518.75,4998.89
+Furniture,Pepperfry,New Product Launch Promo,1761678.34,635,2774.30,500.59,4992.74
+Furniture,Pepperfry,New Year Kickoff,1780943.66,650,2739.91,508.25,4997.66
+Furniture,Pepperfry,Price Drop Parade,1880063.81,674,2789.41,515.78,4987.91
+Furniture,Pepperfry,Red Tag Clearance,1626621.24,613,2653.54,503.92,4993.73
+Furniture,Pepperfry,Seasonal Surprise Box,1990400.64,706,2819.26,501.63,4998.54
+Furniture,Pepperfry,Shop & Save Spectacular,1694132.18,619,2736.89,516.37,4979.05
+Furniture,Pepperfry,Smart Shopper Week,1800147.81,643,2799.61,504.73,4992.28
+Furniture,Pepperfry,Spring Refresh Event,1918611.31,694,2764.57,500.36,4994.60
+Furniture,Pepperfry,Spring Splash Discounts,1803671.04,656,2749.50,504.32,4998.77
+Furniture,Pepperfry,Summer Sizzle Promo,1948106.84,703,2771.13,504.85,4998.67
+Furniture,Pepperfry,Super Savings Week,1884950.89,666,2830.26,505.61,4989.93
+Furniture,Pepperfry,Ultimate Value Event,1803877.07,653,2762.45,507.45,4993.55
+Furniture,Pepperfry,VIP Access Sale,1897764.66,706,2688.05,502.41,4994.17
+Furniture,Pepperfry,Weekend Warrior Specials,1930036.08,694,2781.03,504.11,4994.16
+Furniture,Pepperfry,Winter Clearance Carnival,1802560.51,666,2706.55,516.46,4998.34
+Furniture,Pepperfry,Winter Wonders Sale,1752984.79,625,2804.78,507.73,4995.39
+Furniture,Urban Ladder,12 Days of Deals,1869447.71,658,2841.11,502.44,4974.34
+Furniture,Urban Ladder,Autumn Deals Drive,1780934.93,643,2769.73,513.05,4994.21
+Furniture,Urban Ladder,BOGO Blitz,1891345.56,709,2667.62,505.47,4990.46
+Furniture,Urban Ladder,Back to School Boost,1794431.85,658,2727.10,506.98,4996.70
+Furniture,Urban Ladder,Birthday Bash Sale,1795381.87,650,2762.13,501.84,4996.86
+Furniture,Urban Ladder,Black Friday Blowout,1887325.33,677,2787.78,507.23,4999.88
+Furniture,Urban Ladder,Cart Crasher Campaign,1756444.53,662,2653.24,503.66,4994.60
+Furniture,Urban Ladder,Cashback Carnival,1693004.37,631,2683.05,502.45,4999.62
+Furniture,Urban Ladder,Clearance Countdown,1852391.62,659,2810.91,507.62,4992.50
+Furniture,Urban Ladder,Countdown to Savings,1670635.83,634,2635.07,516.93,4989.47
+Furniture,Urban Ladder,Customer Appreciation Week,1737965.98,642,2707.11,501.28,4988.63
+Furniture,Urban Ladder,Cyber Monday Mania,1903524.92,680,2799.30,541.91,4990.19
+Furniture,Urban Ladder,Deal of the Month,2034272.66,735,2767.72,513.90,4999.11
+Furniture,Urban Ladder,Double Points Bonanza,1823608.51,653,2792.66,500.57,4993.12
+Furniture,Urban Ladder,Early Bird Specials,1709986.93,625,2735.98,503.43,4985.13
+Furniture,Urban Ladder,End of Season Sale,1902694.36,680,2798.08,509.93,4989.65
+Furniture,Urban Ladder,Exclusive Insider Offers,1820947.03,671,2713.78,511.93,4989.04
+Furniture,Urban Ladder,Festive Fever Promo,1717104.39,651,2637.64,500.07,4991.65
+Furniture,Urban Ladder,Final Call Frenzy,1851692.67,675,2743.25,501.06,4997.58
+Furniture,Urban Ladder,Flash Frenzy Friday,1867296.77,688,2714.09,502.44,4995.63
+Furniture,Urban Ladder,"Gift More, Spend Less",2025784.00,709,2857.24,507.61,4994.85
+Furniture,Urban Ladder,Golden Hour Bargains,1774579.06,626,2834.79,506.16,4999.31
+Furniture,Urban Ladder,Green Weekend Deals,1847235.24,682,2708.56,502.15,4996.26
+Furniture,Urban Ladder,Happy Hour Discounts,1792008.78,649,2761.18,511.43,4997.56
+Furniture,Urban Ladder,Holiday Shopping Rush,1796990.80,634,2834.37,502.02,4989.87
+Furniture,Urban Ladder,Hot Picks Promo,1888323.65,701,2693.76,502.87,4997.23
+Furniture,Urban Ladder,Instant Gratification Sale,1835004.23,660,2780.31,503.70,4995.76
+Furniture,Urban Ladder,Limited Time Treasures,1883125.05,660,2853.22,500.34,4999.59
+Furniture,Urban Ladder,Loyalty Rewards Blast,1767198.52,657,2689.80,519.34,4998.17
+Furniture,Urban Ladder,Mega Weekend Bonanza,1757625.36,653,2691.62,504.49,4972.66
+Furniture,Urban Ladder,Mid-Year Madness,1751745.23,659,2658.19,501.87,4997.34
+Furniture,Urban Ladder,Midnight Madness,2004246.22,711,2818.91,504.51,4992.67
+Furniture,Urban Ladder,Mystery Discount Days,1910551.78,673,2838.86,508.84,4995.72
+Furniture,Urban Ladder,New Arrival Showcase,1810039.44,647,2797.59,515.29,4993.66
+Furniture,Urban Ladder,New Product Launch Promo,1869931.37,690,2710.05,500.98,4999.22
+Furniture,Urban Ladder,New Year Kickoff,1837447.13,675,2722.14,502.12,4998.26
+Furniture,Urban Ladder,Price Drop Parade,1806403.71,654,2762.09,504.00,4989.67
+Furniture,Urban Ladder,Red Tag Clearance,1772639.86,655,2706.32,501.29,4999.64
+Furniture,Urban Ladder,Seasonal Surprise Box,1912932.52,686,2788.53,508.05,4996.98
+Furniture,Urban Ladder,Shop & Save Spectacular,1869403.29,687,2721.11,504.91,4990.61
+Furniture,Urban Ladder,Smart Shopper Week,1881537.48,657,2863.83,500.56,4996.17
+Furniture,Urban Ladder,Spring Refresh Event,1707092.58,632,2701.10,505.62,4999.58
+Furniture,Urban Ladder,Spring Splash Discounts,1943772.13,698,2784.77,502.65,4996.37
+Furniture,Urban Ladder,Summer Sizzle Promo,1886037.09,693,2721.55,517.24,4990.61
+Furniture,Urban Ladder,Super Savings Week,1942270.44,673,2885.99,500.70,4997.19
+Furniture,Urban Ladder,Ultimate Value Event,1770104.96,621,2850.41,501.69,4989.35
+Furniture,Urban Ladder,VIP Access Sale,1802687.56,645,2794.86,512.62,4995.75
+Furniture,Urban Ladder,Weekend Warrior Specials,1888026.89,670,2817.95,501.38,4997.30
+Furniture,Urban Ladder,Winter Clearance Carnival,1838839.76,663,2773.51,509.43,4998.82
+Furniture,Urban Ladder,Winter Wonders Sale,1874275.73,677,2768.50,500.29,4997.81
+Groceries,Amul,12 Days of Deals,1954778.11,701,2788.56,507.40,4998.30
+Groceries,Amul,Autumn Deals Drive,1865148.40,672,2775.52,502.75,4999.80
+Groceries,Amul,BOGO Blitz,1815176.84,644,2818.60,508.02,4986.67
+Groceries,Amul,Back to School Boost,1710115.90,637,2684.64,510.22,4998.07
+Groceries,Amul,Birthday Bash Sale,1783791.15,649,2748.52,504.89,4991.73
+Groceries,Amul,Black Friday Blowout,1703514.35,645,2641.11,505.81,4987.21
+Groceries,Amul,Cart Crasher Campaign,1786885.72,641,2787.65,503.17,4980.36
+Groceries,Amul,Cashback Carnival,1851451.92,679,2726.73,504.64,4990.08
+Groceries,Amul,Clearance Countdown,1999457.86,708,2824.09,512.75,4996.54
+Groceries,Amul,Countdown to Savings,1944747.09,688,2826.67,514.73,4996.12
+Groceries,Amul,Customer Appreciation Week,1833510.38,661,2773.84,501.25,4985.65
+Groceries,Amul,Cyber Monday Mania,1837590.10,685,2682.61,504.57,4996.97
+Groceries,Amul,Deal of the Month,1686398.11,622,2711.25,504.17,4994.21
+Groceries,Amul,Double Points Bonanza,1863393.85,683,2728.25,501.88,4996.36
+Groceries,Amul,Early Bird Specials,1657253.59,621,2668.69,506.38,4998.19
+Groceries,Amul,End of Season Sale,1763433.51,641,2751.07,504.05,4996.71
+Groceries,Amul,Exclusive Insider Offers,1790424.60,662,2704.57,519.26,4995.02
+Groceries,Amul,Festive Fever Promo,1701407.89,630,2700.65,502.25,4980.61
+Groceries,Amul,Final Call Frenzy,1757170.55,664,2646.34,509.79,4994.94
+Groceries,Amul,Flash Frenzy Friday,1930851.14,682,2831.16,501.88,4990.59
+Groceries,Amul,"Gift More, Spend Less",1928454.58,712,2708.50,504.23,4994.74
+Groceries,Amul,Golden Hour Bargains,1730611.95,651,2658.39,504.10,4987.95
+Groceries,Amul,Green Weekend Deals,1861559.37,672,2770.18,500.26,4994.70
+Groceries,Amul,Happy Hour Discounts,1927687.22,709,2718.88,507.68,4995.48
+Groceries,Amul,Holiday Shopping Rush,1902890.52,691,2753.82,504.65,4996.88
+Groceries,Amul,Hot Picks Promo,1736552.20,648,2679.86,522.20,4991.62
+Groceries,Amul,Instant Gratification Sale,1805798.46,679,2659.50,501.41,4994.91
+Groceries,Amul,Limited Time Treasures,1783039.51,633,2816.81,500.84,4986.97
+Groceries,Amul,Loyalty Rewards Blast,1929488.03,708,2725.27,504.51,4995.73
+Groceries,Amul,Mega Weekend Bonanza,1883123.50,670,2810.63,501.33,4975.12
+Groceries,Amul,Mid-Year Madness,1834848.88,664,2763.33,503.67,4970.79
+Groceries,Amul,Midnight Madness,1772778.57,670,2645.94,500.95,4998.10
+Groceries,Amul,Mystery Discount Days,1866679.30,666,2802.82,501.42,4991.87
+Groceries,Amul,New Arrival Showcase,1904414.57,686,2776.11,505.84,4997.29
+Groceries,Amul,New Product Launch Promo,1820127.60,667,2728.83,512.57,4998.84
+Groceries,Amul,New Year Kickoff,1745727.16,648,2694.02,515.94,4996.25
+Groceries,Amul,Price Drop Parade,1816131.18,653,2781.21,501.52,4984.55
+Groceries,Amul,Red Tag Clearance,1838693.72,674,2728.03,506.29,4993.78
+Groceries,Amul,Seasonal Surprise Box,1716202.69,638,2689.97,525.07,4989.05
+Groceries,Amul,Shop & Save Spectacular,1864830.32,681,2738.37,515.39,4991.95
+Groceries,Amul,Smart Shopper Week,1950459.41,703,2774.48,514.94,4993.62
+Groceries,Amul,Spring Refresh Event,1882086.94,657,2864.67,512.88,4974.41
+Groceries,Amul,Spring Splash Discounts,1902933.51,693,2745.94,509.39,4986.07
+Groceries,Amul,Summer Sizzle Promo,1791698.32,666,2690.24,503.45,4988.04
+Groceries,Amul,Super Savings Week,1869605.53,661,2828.45,505.59,4998.98
+Groceries,Amul,Ultimate Value Event,1886184.46,660,2857.86,500.47,4993.94
+Groceries,Amul,VIP Access Sale,1852322.94,690,2684.53,503.17,4982.39
+Groceries,Amul,Weekend Warrior Specials,1781080.05,664,2682.35,500.62,4994.22
+Groceries,Amul,Winter Clearance Carnival,1821176.74,661,2755.18,504.18,4993.64
+Groceries,Amul,Winter Wonders Sale,1843098.94,678,2718.44,505.32,4995.64
+Groceries,Britannia,12 Days of Deals,1890049.44,690,2739.20,502.31,4998.87
+Groceries,Britannia,Autumn Deals Drive,1926406.80,688,2800.01,521.41,4996.15
+Groceries,Britannia,BOGO Blitz,1825045.59,653,2794.86,527.21,4995.11
+Groceries,Britannia,Back to School Boost,1870581.26,674,2775.34,500.43,4996.41
+Groceries,Britannia,Birthday Bash Sale,1813480.81,646,2807.25,505.10,4997.17
+Groceries,Britannia,Black Friday Blowout,1714298.77,618,2773.95,511.36,4997.76
+Groceries,Britannia,Cart Crasher Campaign,1786344.90,652,2739.79,514.48,4993.97
+Groceries,Britannia,Cashback Carnival,1818119.99,673,2701.52,510.20,4995.88
+Groceries,Britannia,Clearance Countdown,1920665.98,674,2849.65,509.31,4995.69
+Groceries,Britannia,Countdown to Savings,1771893.21,657,2696.95,500.65,4993.99
+Groceries,Britannia,Customer Appreciation Week,1744300.74,630,2768.73,502.48,4997.84
+Groceries,Britannia,Cyber Monday Mania,1780163.71,659,2701.31,504.09,4999.83
+Groceries,Britannia,Deal of the Month,1803072.12,680,2651.58,503.27,4990.87
+Groceries,Britannia,Double Points Bonanza,1786009.36,664,2689.77,509.38,4996.21
+Groceries,Britannia,Early Bird Specials,1827547.37,676,2703.47,508.69,4998.24
+Groceries,Britannia,End of Season Sale,1831291.50,667,2745.56,503.49,4992.46
+Groceries,Britannia,Exclusive Insider Offers,1822262.83,669,2723.86,504.77,4998.29
+Groceries,Britannia,Festive Fever Promo,1723921.17,658,2619.94,507.70,4995.96
+Groceries,Britannia,Final Call Frenzy,1721301.39,639,2693.74,509.45,4987.51
+Groceries,Britannia,Flash Frenzy Friday,1777010.89,648,2742.30,511.49,4971.18
+Groceries,Britannia,"Gift More, Spend Less",1779126.93,658,2703.84,511.37,4988.51
+Groceries,Britannia,Golden Hour Bargains,1880387.66,676,2781.64,504.64,4999.35
+Groceries,Britannia,Green Weekend Deals,1800100.91,654,2752.45,503.85,4986.11
+Groceries,Britannia,Happy Hour Discounts,1736280.66,608,2855.72,500.75,4998.94
+Groceries,Britannia,Holiday Shopping Rush,1808404.09,672,2691.08,531.37,4996.87
+Groceries,Britannia,Hot Picks Promo,1819726.87,679,2680.01,500.98,4992.31
+Groceries,Britannia,Instant Gratification Sale,1935382.50,678,2854.55,503.24,4988.57
+Groceries,Britannia,Limited Time Treasures,1844478.29,678,2720.47,508.03,4985.97
+Groceries,Britannia,Loyalty Rewards Blast,1763700.38,647,2725.97,547.44,4993.48
+Groceries,Britannia,Mega Weekend Bonanza,1632563.03,607,2689.56,507.42,4994.82
+Groceries,Britannia,Mid-Year Madness,1775602.37,649,2735.91,512.41,4982.61
+Groceries,Britannia,Midnight Madness,1825714.18,684,2669.17,502.72,4999.95
+Groceries,Britannia,Mystery Discount Days,1749052.66,659,2654.10,500.94,4999.16
+Groceries,Britannia,New Arrival Showcase,1932225.89,697,2772.20,502.57,4996.06
+Groceries,Britannia,New Product Launch Promo,1795015.67,667,2691.18,502.18,4996.19
+Groceries,Britannia,New Year Kickoff,1715726.21,649,2643.65,508.27,4996.56
+Groceries,Britannia,Price Drop Parade,1776923.91,641,2772.11,509.15,4996.09
+Groceries,Britannia,Red Tag Clearance,1690136.86,625,2704.22,504.16,4995.93
+Groceries,Britannia,Seasonal Surprise Box,1865491.33,655,2848.08,500.56,4991.34
+Groceries,Britannia,Shop & Save Spectacular,1810304.09,646,2802.33,523.23,4973.31
+Groceries,Britannia,Smart Shopper Week,1787208.19,654,2732.73,511.85,4999.40
+Groceries,Britannia,Spring Refresh Event,1933242.23,675,2864.06,521.49,4995.73
+Groceries,Britannia,Spring Splash Discounts,1764861.79,644,2740.47,506.84,4988.22
+Groceries,Britannia,Summer Sizzle Promo,1886971.80,679,2779.05,516.31,4998.54
+Groceries,Britannia,Super Savings Week,1804034.99,653,2762.69,507.93,4990.76
+Groceries,Britannia,Ultimate Value Event,1738971.37,636,2734.23,509.73,4987.11
+Groceries,Britannia,VIP Access Sale,1903024.91,705,2699.33,500.31,4993.43
+Groceries,Britannia,Weekend Warrior Specials,1844001.85,682,2703.82,522.41,4993.10
+Groceries,Britannia,Winter Clearance Carnival,1824676.00,649,2811.52,503.43,4996.82
+Groceries,Britannia,Winter Wonders Sale,1808289.27,665,2719.23,505.12,4999.56
+Groceries,Kellogg's,12 Days of Deals,1724234.02,618,2790.02,507.87,4995.38
+Groceries,Kellogg's,Autumn Deals Drive,1843871.49,668,2760.29,510.46,4998.64
+Groceries,Kellogg's,BOGO Blitz,1852503.97,665,2785.72,500.98,4998.59
+Groceries,Kellogg's,Back to School Boost,1857439.39,674,2755.84,505.75,4954.16
+Groceries,Kellogg's,Birthday Bash Sale,1743541.62,653,2670.05,509.05,4991.43
+Groceries,Kellogg's,Black Friday Blowout,1754702.91,641,2737.45,502.74,4999.51
+Groceries,Kellogg's,Cart Crasher Campaign,1781876.99,655,2720.42,504.51,4999.82
+Groceries,Kellogg's,Cashback Carnival,1770163.48,653,2710.82,505.38,4995.37
+Groceries,Kellogg's,Clearance Countdown,1910804.50,700,2729.72,508.52,4999.80
+Groceries,Kellogg's,Countdown to Savings,1803450.80,678,2659.96,502.00,4997.39
+Groceries,Kellogg's,Customer Appreciation Week,1890177.08,678,2787.87,500.64,4992.51
+Groceries,Kellogg's,Cyber Monday Mania,1855423.53,675,2748.78,508.82,4998.93
+Groceries,Kellogg's,Deal of the Month,1929306.65,689,2800.15,503.06,4995.04
+Groceries,Kellogg's,Double Points Bonanza,1706457.35,646,2641.57,500.95,4991.82
+Groceries,Kellogg's,Early Bird Specials,1930779.26,677,2851.96,512.96,4995.00
+Groceries,Kellogg's,End of Season Sale,1853087.73,676,2741.25,500.37,4997.29
+Groceries,Kellogg's,Exclusive Insider Offers,1805950.40,662,2728.02,513.96,4998.78
+Groceries,Kellogg's,Festive Fever Promo,2026967.15,717,2827.01,512.07,4996.81
+Groceries,Kellogg's,Final Call Frenzy,1915074.88,676,2832.95,503.08,4980.80
+Groceries,Kellogg's,Flash Frenzy Friday,1773270.83,659,2690.85,507.64,4996.77
+Groceries,Kellogg's,"Gift More, Spend Less",1833830.77,665,2757.64,513.62,4991.67
+Groceries,Kellogg's,Golden Hour Bargains,1757372.05,639,2750.19,500.16,4983.47
+Groceries,Kellogg's,Green Weekend Deals,1985014.64,729,2722.93,544.59,4997.22
+Groceries,Kellogg's,Happy Hour Discounts,1785030.29,671,2660.25,508.35,4995.35
+Groceries,Kellogg's,Holiday Shopping Rush,1782162.76,650,2741.79,501.56,4998.79
+Groceries,Kellogg's,Hot Picks Promo,1806300.07,654,2761.93,500.73,4999.96
+Groceries,Kellogg's,Instant Gratification Sale,1822169.16,671,2715.60,517.98,4999.70
+Groceries,Kellogg's,Limited Time Treasures,1771929.85,648,2734.46,513.89,4999.73
+Groceries,Kellogg's,Loyalty Rewards Blast,1883674.41,675,2790.63,509.85,4988.35
+Groceries,Kellogg's,Mega Weekend Bonanza,1830389.43,656,2790.23,507.71,4989.86
+Groceries,Kellogg's,Mid-Year Madness,1928110.75,673,2864.95,507.78,4994.70
+Groceries,Kellogg's,Midnight Madness,1812076.05,666,2720.83,505.05,4995.25
+Groceries,Kellogg's,Mystery Discount Days,1786304.38,659,2710.63,503.39,4982.99
+Groceries,Kellogg's,New Arrival Showcase,1714561.15,615,2787.90,509.54,4999.86
+Groceries,Kellogg's,New Product Launch Promo,1772466.25,645,2748.01,500.73,4999.20
+Groceries,Kellogg's,New Year Kickoff,1884712.24,672,2804.63,500.12,4981.27
+Groceries,Kellogg's,Price Drop Parade,1812530.96,663,2733.83,512.52,4999.58
+Groceries,Kellogg's,Red Tag Clearance,1790036.58,641,2792.57,504.22,4988.88
+Groceries,Kellogg's,Seasonal Surprise Box,1898880.26,668,2842.64,510.72,4991.25
+Groceries,Kellogg's,Shop & Save Spectacular,1775791.22,631,2814.25,508.47,4983.84
+Groceries,Kellogg's,Smart Shopper Week,1883824.50,681,2766.26,500.54,4998.48
+Groceries,Kellogg's,Spring Refresh Event,1857945.51,667,2785.53,501.42,4995.22
+Groceries,Kellogg's,Spring Splash Discounts,1745371.84,644,2710.20,500.68,4992.00
+Groceries,Kellogg's,Summer Sizzle Promo,1759279.78,614,2865.28,514.60,4999.26
+Groceries,Kellogg's,Super Savings Week,1953355.04,721,2709.23,504.29,4971.41
+Groceries,Kellogg's,Ultimate Value Event,1866579.94,675,2765.30,518.09,4997.75
+Groceries,Kellogg's,VIP Access Sale,1833949.50,668,2745.43,504.20,4999.89
+Groceries,Kellogg's,Weekend Warrior Specials,1824765.39,666,2739.89,503.77,4999.20
+Groceries,Kellogg's,Winter Clearance Carnival,1785701.72,657,2717.96,523.06,4996.69
+Groceries,Kellogg's,Winter Wonders Sale,1877875.66,679,2765.65,518.42,4999.85
+Groceries,Nestle,12 Days of Deals,1904520.29,691,2756.18,502.43,4998.90
+Groceries,Nestle,Autumn Deals Drive,1986190.53,719,2762.43,500.76,4997.95
+Groceries,Nestle,BOGO Blitz,1792548.79,648,2766.28,507.32,4996.36
+Groceries,Nestle,Back to School Boost,1908096.40,699,2729.75,500.60,4999.06
+Groceries,Nestle,Birthday Bash Sale,1785804.03,642,2781.63,504.67,4991.37
+Groceries,Nestle,Black Friday Blowout,1846126.85,650,2840.20,505.61,4998.22
+Groceries,Nestle,Cart Crasher Campaign,1776592.20,669,2655.59,506.39,4985.57
+Groceries,Nestle,Cashback Carnival,1843760.48,658,2802.07,502.91,4995.74
+Groceries,Nestle,Clearance Countdown,1738070.18,638,2724.25,519.68,4997.60
+Groceries,Nestle,Countdown to Savings,1924846.47,693,2777.56,517.81,4996.32
+Groceries,Nestle,Customer Appreciation Week,1893116.75,682,2775.83,502.24,4995.70
+Groceries,Nestle,Cyber Monday Mania,1698514.89,620,2739.54,511.89,4998.08
+Groceries,Nestle,Deal of the Month,1799321.53,643,2798.32,508.61,4992.95
+Groceries,Nestle,Double Points Bonanza,1775791.39,637,2787.74,502.21,4976.30
+Groceries,Nestle,Early Bird Specials,1827541.95,668,2735.84,514.86,4999.70
+Groceries,Nestle,End of Season Sale,1825850.77,669,2729.22,500.36,4998.37
+Groceries,Nestle,Exclusive Insider Offers,1770131.19,641,2761.52,501.31,4999.92
+Groceries,Nestle,Festive Fever Promo,1689551.58,621,2720.69,501.65,4997.65
+Groceries,Nestle,Final Call Frenzy,1985428.53,708,2804.28,520.72,4971.01
+Groceries,Nestle,Flash Frenzy Friday,1786439.96,646,2765.39,519.46,4996.14
+Groceries,Nestle,"Gift More, Spend Less",1739891.90,634,2744.31,514.39,4993.41
+Groceries,Nestle,Golden Hour Bargains,1845654.98,678,2722.20,509.01,4997.02
+Groceries,Nestle,Green Weekend Deals,1815752.57,663,2738.69,503.00,4991.78
+Groceries,Nestle,Happy Hour Discounts,1806412.37,661,2732.85,513.29,4995.84
+Groceries,Nestle,Holiday Shopping Rush,1742873.94,645,2702.13,507.76,4999.39
+Groceries,Nestle,Hot Picks Promo,1857810.59,668,2781.15,519.38,4999.88
+Groceries,Nestle,Instant Gratification Sale,1809808.12,654,2767.29,500.03,4988.21
+Groceries,Nestle,Limited Time Treasures,1793269.06,658,2725.33,510.30,4994.82
+Groceries,Nestle,Loyalty Rewards Blast,1857821.08,656,2832.04,501.89,4995.71
+Groceries,Nestle,Mega Weekend Bonanza,1807212.75,638,2832.62,506.20,4998.94
+Groceries,Nestle,Mid-Year Madness,1855305.43,683,2716.41,502.46,4990.79
+Groceries,Nestle,Midnight Madness,1800309.33,654,2752.77,505.39,4997.31
+Groceries,Nestle,Mystery Discount Days,1874381.82,676,2772.75,508.56,4978.06
+Groceries,Nestle,New Arrival Showcase,1819380.84,658,2765.02,503.73,4992.67
+Groceries,Nestle,New Product Launch Promo,1824259.24,658,2772.43,506.06,4991.05
+Groceries,Nestle,New Year Kickoff,1756959.50,644,2728.20,513.17,4991.95
+Groceries,Nestle,Price Drop Parade,1796695.60,662,2714.04,504.15,4988.77
+Groceries,Nestle,Red Tag Clearance,1923580.07,702,2740.14,501.12,4994.41
+Groceries,Nestle,Seasonal Surprise Box,1681808.52,628,2678.04,501.93,4992.02
+Groceries,Nestle,Shop & Save Spectacular,1891317.58,679,2785.45,501.53,4995.39
+Groceries,Nestle,Smart Shopper Week,1894460.89,690,2745.60,508.76,4987.67
+Groceries,Nestle,Spring Refresh Event,1848148.27,667,2770.84,521.03,4998.26
+Groceries,Nestle,Spring Splash Discounts,1757668.87,638,2754.97,505.92,4998.53
+Groceries,Nestle,Summer Sizzle Promo,1730423.78,641,2699.57,501.06,4952.92
+Groceries,Nestle,Super Savings Week,1890903.86,698,2709.03,501.97,4999.88
+Groceries,Nestle,Ultimate Value Event,1888646.33,679,2781.51,502.89,4997.53
+Groceries,Nestle,VIP Access Sale,1861545.58,678,2745.64,504.83,4997.93
+Groceries,Nestle,Weekend Warrior Specials,1748160.22,638,2740.06,502.46,4988.19
+Groceries,Nestle,Winter Clearance Carnival,1859581.65,686,2710.76,502.13,4997.93
+Groceries,Nestle,Winter Wonders Sale,1837690.18,671,2738.73,505.33,4978.26
+Groceries,Tata,12 Days of Deals,1831936.75,651,2814.03,506.22,4989.06
+Groceries,Tata,Autumn Deals Drive,1849265.82,684,2703.60,512.90,4999.13
+Groceries,Tata,BOGO Blitz,1845832.08,685,2694.65,507.25,4992.20
+Groceries,Tata,Back to School Boost,1880959.07,688,2733.95,502.61,4991.91
+Groceries,Tata,Birthday Bash Sale,1851442.21,697,2656.30,503.77,4983.43
+Groceries,Tata,Black Friday Blowout,1896467.60,680,2788.92,500.83,4990.79
+Groceries,Tata,Cart Crasher Campaign,1837087.98,679,2705.58,505.15,4989.38
+Groceries,Tata,Cashback Carnival,1811038.06,656,2760.73,512.58,4993.12
+Groceries,Tata,Clearance Countdown,1782778.25,639,2789.95,502.02,4998.78
+Groceries,Tata,Countdown to Savings,1814571.86,682,2660.66,500.91,4989.73
+Groceries,Tata,Customer Appreciation Week,1788907.38,654,2735.33,505.16,4997.51
+Groceries,Tata,Cyber Monday Mania,1812932.99,670,2705.87,506.44,4998.73
+Groceries,Tata,Deal of the Month,1826377.96,660,2767.24,500.56,4996.71
+Groceries,Tata,Double Points Bonanza,1824186.01,679,2686.58,504.96,4999.34
+Groceries,Tata,Early Bird Specials,1836950.25,661,2779.05,501.54,4983.85
+Groceries,Tata,End of Season Sale,1989417.11,704,2825.88,503.98,4991.22
+Groceries,Tata,Exclusive Insider Offers,1899724.62,672,2826.97,504.09,4999.35
+Groceries,Tata,Festive Fever Promo,1928062.61,696,2770.20,524.48,4986.36
+Groceries,Tata,Final Call Frenzy,1944367.99,710,2738.55,504.53,4995.49
+Groceries,Tata,Flash Frenzy Friday,1716390.79,619,2772.84,500.97,4995.90
+Groceries,Tata,"Gift More, Spend Less",1923076.10,688,2795.17,509.60,4998.23
+Groceries,Tata,Golden Hour Bargains,1892136.65,692,2734.30,506.12,4999.90
+Groceries,Tata,Green Weekend Deals,1919709.35,686,2798.41,508.74,4990.02
+Groceries,Tata,Happy Hour Discounts,1857748.74,679,2736.01,505.89,4967.69
+Groceries,Tata,Holiday Shopping Rush,1755963.02,635,2765.30,505.64,4999.06
+Groceries,Tata,Hot Picks Promo,1845879.15,657,2809.56,501.36,4993.32
+Groceries,Tata,Instant Gratification Sale,1885796.33,666,2831.53,500.33,4987.65
+Groceries,Tata,Limited Time Treasures,1738451.04,634,2742.04,508.05,4983.86
+Groceries,Tata,Loyalty Rewards Blast,1873382.33,667,2808.67,507.01,4993.52
+Groceries,Tata,Mega Weekend Bonanza,1723802.02,666,2588.29,507.64,4996.49
+Groceries,Tata,Mid-Year Madness,1916388.24,689,2781.41,500.32,4995.65
+Groceries,Tata,Midnight Madness,1769281.56,627,2821.82,500.01,4998.75
+Groceries,Tata,Mystery Discount Days,1763749.05,643,2743.00,506.85,4990.44
+Groceries,Tata,New Arrival Showcase,1777324.82,640,2777.07,502.27,4997.81
+Groceries,Tata,New Product Launch Promo,1801260.74,650,2771.17,514.07,4994.79
+Groceries,Tata,New Year Kickoff,1868055.37,699,2672.47,512.57,4990.17
+Groceries,Tata,Price Drop Parade,1818738.94,632,2877.75,505.58,4999.83
+Groceries,Tata,Red Tag Clearance,1904796.38,675,2821.92,505.74,4989.26
+Groceries,Tata,Seasonal Surprise Box,1790757.04,656,2729.81,505.51,4992.27
+Groceries,Tata,Shop & Save Spectacular,1772899.87,629,2818.60,501.87,4993.94
+Groceries,Tata,Smart Shopper Week,1838509.14,664,2768.84,503.56,4989.07
+Groceries,Tata,Spring Refresh Event,1912380.77,679,2816.47,512.51,4974.58
+Groceries,Tata,Spring Splash Discounts,1857024.82,669,2775.82,515.99,4986.70
+Groceries,Tata,Summer Sizzle Promo,1838996.30,670,2744.77,501.39,4981.75
+Groceries,Tata,Super Savings Week,1775190.36,646,2747.97,506.37,4996.91
+Groceries,Tata,Ultimate Value Event,1813504.17,672,2698.67,506.59,4995.88
+Groceries,Tata,VIP Access Sale,1854308.71,683,2714.95,508.05,4974.89
+Groceries,Tata,Weekend Warrior Specials,1856933.61,674,2755.09,504.05,4986.11
+Groceries,Tata,Winter Clearance Carnival,1877360.48,676,2777.16,507.62,4999.97
+Groceries,Tata,Winter Wonders Sale,1823842.30,671,2718.10,515.32,4986.54
+Home Appliances,Bosch,12 Days of Deals,1693270.12,660,2565.56,504.11,4999.32
+Home Appliances,Bosch,Autumn Deals Drive,1766554.13,663,2664.49,506.50,4997.76
+Home Appliances,Bosch,BOGO Blitz,1729938.86,639,2707.26,503.66,4997.47
+Home Appliances,Bosch,Back to School Boost,1770863.87,651,2720.22,500.13,4992.97
+Home Appliances,Bosch,Birthday Bash Sale,1736387.03,657,2642.90,526.70,4996.94
+Home Appliances,Bosch,Black Friday Blowout,1713121.89,641,2672.58,508.64,4973.40
+Home Appliances,Bosch,Cart Crasher Campaign,1758629.36,634,2773.86,507.03,4994.64
+Home Appliances,Bosch,Cashback Carnival,1787415.85,651,2745.65,513.18,4991.33
+Home Appliances,Bosch,Clearance Countdown,1818310.55,675,2693.79,501.02,4995.95
+Home Appliances,Bosch,Countdown to Savings,1705201.46,619,2754.77,502.22,4999.30
+Home Appliances,Bosch,Customer Appreciation Week,1793689.40,662,2709.50,502.07,4990.07
+Home Appliances,Bosch,Cyber Monday Mania,1837223.62,672,2733.96,502.91,4994.48
+Home Appliances,Bosch,Deal of the Month,1788475.77,654,2734.67,501.60,4986.31
+Home Appliances,Bosch,Double Points Bonanza,1905328.65,699,2725.79,503.85,4998.02
+Home Appliances,Bosch,Early Bird Specials,1917294.97,702,2731.19,502.49,4995.57
+Home Appliances,Bosch,End of Season Sale,1863336.95,690,2700.49,512.22,4999.19
+Home Appliances,Bosch,Exclusive Insider Offers,1791857.28,641,2795.41,503.97,4998.02
+Home Appliances,Bosch,Festive Fever Promo,1846397.03,682,2707.33,500.98,4991.17
+Home Appliances,Bosch,Final Call Frenzy,1959362.26,703,2787.14,516.35,4989.24
+Home Appliances,Bosch,Flash Frenzy Friday,1868150.68,687,2719.29,504.30,4988.13
+Home Appliances,Bosch,"Gift More, Spend Less",1813663.91,674,2690.90,515.29,4961.67
+Home Appliances,Bosch,Golden Hour Bargains,1727999.39,622,2778.13,500.65,4990.85
+Home Appliances,Bosch,Green Weekend Deals,1893873.86,692,2736.81,503.05,4996.73
+Home Appliances,Bosch,Happy Hour Discounts,1886368.39,684,2757.85,504.73,4994.66
+Home Appliances,Bosch,Holiday Shopping Rush,1700310.67,618,2751.31,512.78,4986.26
+Home Appliances,Bosch,Hot Picks Promo,1843928.41,689,2676.24,503.76,4994.98
+Home Appliances,Bosch,Instant Gratification Sale,1849587.25,680,2719.98,508.53,4979.59
+Home Appliances,Bosch,Limited Time Treasures,1880323.74,713,2637.20,503.29,4986.23
+Home Appliances,Bosch,Loyalty Rewards Blast,1672552.72,611,2737.40,502.39,4998.98
+Home Appliances,Bosch,Mega Weekend Bonanza,1758951.93,665,2645.04,508.82,4995.11
+Home Appliances,Bosch,Mid-Year Madness,1871274.21,672,2784.63,504.23,4992.45
+Home Appliances,Bosch,Midnight Madness,1746265.87,637,2741.39,502.75,4995.31
+Home Appliances,Bosch,Mystery Discount Days,1715874.69,623,2754.21,503.19,4994.86
+Home Appliances,Bosch,New Arrival Showcase,1837889.79,683,2690.91,524.04,4998.09
+Home Appliances,Bosch,New Product Launch Promo,1961612.12,709,2766.73,500.80,4978.16
+Home Appliances,Bosch,New Year Kickoff,1647317.86,617,2669.88,500.10,4989.14
+Home Appliances,Bosch,Price Drop Parade,2012713.14,712,2826.84,507.80,4992.73
+Home Appliances,Bosch,Red Tag Clearance,1813235.79,662,2739.03,500.88,4998.91
+Home Appliances,Bosch,Seasonal Surprise Box,1816632.36,672,2703.32,505.59,4998.61
+Home Appliances,Bosch,Shop & Save Spectacular,1781830.14,645,2762.53,516.11,4993.98
+Home Appliances,Bosch,Smart Shopper Week,1775219.02,648,2739.54,510.10,4991.04
+Home Appliances,Bosch,Spring Refresh Event,1800652.50,674,2671.59,501.78,4981.60
+Home Appliances,Bosch,Spring Splash Discounts,1858432.04,670,2773.78,503.39,4999.80
+Home Appliances,Bosch,Summer Sizzle Promo,1903368.80,672,2832.39,505.55,4998.36
+Home Appliances,Bosch,Super Savings Week,1922719.03,704,2731.13,501.99,4985.30
+Home Appliances,Bosch,Ultimate Value Event,1853542.44,682,2717.80,501.78,4998.56
+Home Appliances,Bosch,VIP Access Sale,1876813.17,678,2768.16,500.66,4983.36
+Home Appliances,Bosch,Weekend Warrior Specials,1761448.12,646,2726.70,505.78,4987.65
+Home Appliances,Bosch,Winter Clearance Carnival,1811641.75,635,2852.98,502.95,4991.75
+Home Appliances,Bosch,Winter Wonders Sale,1767636.47,655,2698.68,513.89,4999.74
+Home Appliances,Haier,12 Days of Deals,1854071.51,662,2800.71,509.06,4997.95
+Home Appliances,Haier,Autumn Deals Drive,1828160.86,696,2626.67,501.18,4997.36
+Home Appliances,Haier,BOGO Blitz,1891220.52,681,2777.12,502.46,4993.38
+Home Appliances,Haier,Back to School Boost,1803221.68,640,2817.53,512.31,4995.75
+Home Appliances,Haier,Birthday Bash Sale,1900772.77,697,2727.08,503.22,4992.41
+Home Appliances,Haier,Black Friday Blowout,1789798.93,653,2740.89,519.94,4999.91
+Home Appliances,Haier,Cart Crasher Campaign,1857148.27,666,2788.51,503.85,4998.05
+Home Appliances,Haier,Cashback Carnival,1830574.38,670,2732.20,505.90,4985.94
+Home Appliances,Haier,Clearance Countdown,1777941.67,639,2782.38,522.18,4989.53
+Home Appliances,Haier,Countdown to Savings,1825982.84,675,2705.16,500.39,4996.58
+Home Appliances,Haier,Customer Appreciation Week,1883641.67,687,2741.84,507.64,4988.67
+Home Appliances,Haier,Cyber Monday Mania,1727533.20,631,2737.77,504.75,4983.64
+Home Appliances,Haier,Deal of the Month,1830779.74,650,2816.58,501.47,4997.58
+Home Appliances,Haier,Double Points Bonanza,1835040.37,666,2755.32,522.00,4989.32
+Home Appliances,Haier,Early Bird Specials,2054582.57,737,2787.76,503.37,4999.06
+Home Appliances,Haier,End of Season Sale,1968752.11,706,2788.60,512.52,4983.83
+Home Appliances,Haier,Exclusive Insider Offers,1760327.33,635,2772.17,502.55,4998.93
+Home Appliances,Haier,Festive Fever Promo,1899397.09,696,2729.02,500.36,4996.92
+Home Appliances,Haier,Final Call Frenzy,1917217.04,683,2807.05,510.19,4991.35
+Home Appliances,Haier,Flash Frenzy Friday,1987753.59,706,2815.52,506.15,4996.85
+Home Appliances,Haier,"Gift More, Spend Less",1782620.41,647,2755.21,503.14,4998.06
+Home Appliances,Haier,Golden Hour Bargains,1783277.12,659,2706.04,500.66,4992.15
+Home Appliances,Haier,Green Weekend Deals,1861332.89,674,2761.62,516.25,4995.08
+Home Appliances,Haier,Happy Hour Discounts,1848951.89,695,2660.36,501.43,4992.76
+Home Appliances,Haier,Holiday Shopping Rush,1853750.53,675,2746.30,501.74,4997.27
+Home Appliances,Haier,Hot Picks Promo,1960256.49,714,2745.46,500.05,4991.08
+Home Appliances,Haier,Instant Gratification Sale,1845615.26,680,2714.14,517.08,4997.94
+Home Appliances,Haier,Limited Time Treasures,1683915.83,631,2668.65,510.26,4970.34
+Home Appliances,Haier,Loyalty Rewards Blast,1943917.10,716,2714.97,502.48,4996.51
+Home Appliances,Haier,Mega Weekend Bonanza,1726844.51,616,2803.32,502.05,4992.43
+Home Appliances,Haier,Mid-Year Madness,1745109.94,643,2714.01,500.33,4993.47
+Home Appliances,Haier,Midnight Madness,1829593.22,667,2743.02,549.61,4979.63
+Home Appliances,Haier,Mystery Discount Days,1798826.59,644,2793.21,502.59,4993.56
+Home Appliances,Haier,New Arrival Showcase,1794265.56,674,2662.12,501.45,4996.75
+Home Appliances,Haier,New Product Launch Promo,1902899.06,701,2714.55,505.85,4997.06
+Home Appliances,Haier,New Year Kickoff,1785638.97,646,2764.15,502.92,4984.54
+Home Appliances,Haier,Price Drop Parade,1779263.09,669,2659.59,512.13,4987.17
+Home Appliances,Haier,Red Tag Clearance,1712822.02,631,2714.46,534.32,4996.14
+Home Appliances,Haier,Seasonal Surprise Box,1974190.43,698,2828.35,515.41,4998.82
+Home Appliances,Haier,Shop & Save Spectacular,1825467.90,665,2745.06,509.98,4951.29
+Home Appliances,Haier,Smart Shopper Week,1849469.72,674,2744.02,524.75,4992.18
+Home Appliances,Haier,Spring Refresh Event,1770986.89,633,2797.77,519.51,4983.41
+Home Appliances,Haier,Spring Splash Discounts,1949459.32,715,2726.52,504.57,4998.92
+Home Appliances,Haier,Summer Sizzle Promo,1750258.01,635,2756.31,500.57,4994.55
+Home Appliances,Haier,Super Savings Week,1587291.14,592,2681.24,500.00,4974.82
+Home Appliances,Haier,Ultimate Value Event,1796539.60,663,2709.71,523.68,4999.84
+Home Appliances,Haier,VIP Access Sale,1808935.81,664,2724.30,500.69,4994.82
+Home Appliances,Haier,Weekend Warrior Specials,1793783.38,659,2721.98,518.68,4995.52
+Home Appliances,Haier,Winter Clearance Carnival,1898920.01,672,2825.77,505.24,4998.49
+Home Appliances,Haier,Winter Wonders Sale,1851038.49,688,2690.46,500.27,4985.21
+Home Appliances,LG,12 Days of Deals,1938562.25,690,2809.51,523.09,4994.82
+Home Appliances,LG,Autumn Deals Drive,1872000.65,689,2716.98,509.65,4989.91
+Home Appliances,LG,BOGO Blitz,1783451.00,649,2748.00,502.79,4997.96
+Home Appliances,LG,Back to School Boost,1796290.67,658,2729.93,505.89,4997.76
+Home Appliances,LG,Birthday Bash Sale,1779249.95,646,2754.26,505.08,4990.75
+Home Appliances,LG,Black Friday Blowout,1869208.41,670,2789.86,511.75,4986.53
+Home Appliances,LG,Cart Crasher Campaign,1811949.03,658,2753.72,509.43,4986.92
+Home Appliances,LG,Cashback Carnival,1807389.43,656,2755.17,500.98,4990.80
+Home Appliances,LG,Clearance Countdown,1884462.62,690,2731.11,510.91,4989.20
+Home Appliances,LG,Countdown to Savings,1878474.76,698,2691.22,509.56,4998.03
+Home Appliances,LG,Customer Appreciation Week,1836827.07,669,2745.63,502.70,4999.25
+Home Appliances,LG,Cyber Monday Mania,1819041.99,658,2764.50,502.61,4998.54
+Home Appliances,LG,Deal of the Month,1801483.78,658,2737.82,502.44,4996.40
+Home Appliances,LG,Double Points Bonanza,1795108.58,670,2679.27,521.21,4996.88
+Home Appliances,LG,Early Bird Specials,1816924.84,661,2748.75,500.92,4994.19
+Home Appliances,LG,End of Season Sale,1951078.97,705,2767.49,509.35,4991.36
+Home Appliances,LG,Exclusive Insider Offers,1840784.70,678,2715.02,511.95,4988.90
+Home Appliances,LG,Festive Fever Promo,1794205.73,650,2760.32,502.80,4993.32
+Home Appliances,LG,Final Call Frenzy,1756068.80,642,2735.31,507.00,4999.75
+Home Appliances,LG,Flash Frenzy Friday,1872321.00,685,2733.32,503.50,4998.72
+Home Appliances,LG,"Gift More, Spend Less",1848777.65,672,2751.16,503.59,4987.76
+Home Appliances,LG,Golden Hour Bargains,1846772.31,677,2727.88,517.84,4997.61
+Home Appliances,LG,Green Weekend Deals,1845911.51,687,2686.92,502.66,4986.31
+Home Appliances,LG,Happy Hour Discounts,1757939.82,630,2790.38,503.25,4989.69
+Home Appliances,LG,Holiday Shopping Rush,1900848.92,694,2738.98,501.38,4994.25
+Home Appliances,LG,Hot Picks Promo,1886156.46,673,2802.61,501.49,4997.89
+Home Appliances,LG,Instant Gratification Sale,1799889.80,660,2727.11,504.58,4990.00
+Home Appliances,LG,Limited Time Treasures,1802705.27,653,2760.65,507.19,4994.16
+Home Appliances,LG,Loyalty Rewards Blast,1791872.88,655,2735.68,503.07,4998.29
+Home Appliances,LG,Mega Weekend Bonanza,1861061.82,688,2705.03,503.23,4998.42
+Home Appliances,LG,Mid-Year Madness,1817680.08,656,2770.85,509.20,4997.94
+Home Appliances,LG,Midnight Madness,1728534.48,643,2688.23,500.72,4998.30
+Home Appliances,LG,Mystery Discount Days,1926506.58,704,2736.52,504.42,4998.62
+Home Appliances,LG,New Arrival Showcase,1830205.48,651,2811.38,504.80,4993.31
+Home Appliances,LG,New Product Launch Promo,1773067.30,648,2736.21,502.45,4999.48
+Home Appliances,LG,New Year Kickoff,1834667.51,668,2746.51,505.19,4994.13
+Home Appliances,LG,Price Drop Parade,1753713.62,637,2753.08,518.40,4972.63
+Home Appliances,LG,Red Tag Clearance,1916085.19,684,2801.29,513.32,4992.58
+Home Appliances,LG,Seasonal Surprise Box,1851077.56,673,2750.49,503.22,4998.13
+Home Appliances,LG,Shop & Save Spectacular,1909990.17,680,2808.81,517.55,4989.59
+Home Appliances,LG,Smart Shopper Week,1841905.83,650,2833.70,502.77,4999.46
+Home Appliances,LG,Spring Refresh Event,1908269.00,683,2793.95,506.82,4987.43
+Home Appliances,LG,Spring Splash Discounts,1886433.73,671,2811.38,505.95,4996.52
+Home Appliances,LG,Summer Sizzle Promo,1812487.62,665,2725.55,510.56,4994.68
+Home Appliances,LG,Super Savings Week,1863127.84,680,2739.89,500.28,4996.22
+Home Appliances,LG,Ultimate Value Event,1878216.23,691,2718.11,510.45,4999.91
+Home Appliances,LG,VIP Access Sale,1723815.86,632,2727.56,500.93,4999.15
+Home Appliances,LG,Weekend Warrior Specials,1727819.45,627,2755.69,507.56,4999.43
+Home Appliances,LG,Winter Clearance Carnival,1832111.43,682,2686.38,519.01,4993.03
+Home Appliances,LG,Winter Wonders Sale,1879959.40,682,2756.54,514.98,4995.52
+Home Appliances,Samsung,12 Days of Deals,1898716.57,686,2767.81,516.24,4994.43
+Home Appliances,Samsung,Autumn Deals Drive,1736302.12,656,2646.80,511.08,4990.98
+Home Appliances,Samsung,BOGO Blitz,1850160.20,665,2782.20,508.32,4998.46
+Home Appliances,Samsung,Back to School Boost,1976426.90,718,2752.68,500.09,4995.60
+Home Appliances,Samsung,Birthday Bash Sale,1735814.27,640,2712.21,500.93,4993.71
+Home Appliances,Samsung,Black Friday Blowout,1673848.93,627,2669.62,500.99,4999.22
+Home Appliances,Samsung,Cart Crasher Campaign,1887080.46,693,2723.06,505.92,4999.98
+Home Appliances,Samsung,Cashback Carnival,1878378.75,674,2786.91,503.09,4997.90
+Home Appliances,Samsung,Clearance Countdown,1803756.83,634,2845.04,515.09,4988.35
+Home Appliances,Samsung,Countdown to Savings,1897070.21,674,2814.64,504.79,4994.85
+Home Appliances,Samsung,Customer Appreciation Week,1818281.76,653,2784.50,518.27,4977.06
+Home Appliances,Samsung,Cyber Monday Mania,1846630.05,666,2772.72,511.18,4995.39
+Home Appliances,Samsung,Deal of the Month,1917157.27,687,2790.62,500.38,4999.41
+Home Appliances,Samsung,Double Points Bonanza,1842493.17,661,2787.43,505.53,4998.07
+Home Appliances,Samsung,Early Bird Specials,1825039.55,660,2765.21,505.94,4996.45
+Home Appliances,Samsung,End of Season Sale,1763197.84,635,2776.69,501.06,4976.59
+Home Appliances,Samsung,Exclusive Insider Offers,1690548.95,620,2726.69,501.41,4999.90
+Home Appliances,Samsung,Festive Fever Promo,1815451.61,679,2673.71,504.82,4999.21
+Home Appliances,Samsung,Final Call Frenzy,1853534.27,677,2737.86,503.00,4997.52
+Home Appliances,Samsung,Flash Frenzy Friday,1906028.07,680,2802.98,500.13,4995.77
+Home Appliances,Samsung,"Gift More, Spend Less",1791773.02,658,2723.06,506.87,4993.57
+Home Appliances,Samsung,Golden Hour Bargains,1953374.34,668,2924.21,519.85,4995.77
+Home Appliances,Samsung,Green Weekend Deals,1715753.30,633,2710.51,503.87,4997.84
+Home Appliances,Samsung,Happy Hour Discounts,1945891.73,696,2795.82,500.78,4998.71
+Home Appliances,Samsung,Holiday Shopping Rush,1946740.38,702,2773.13,500.68,4996.83
+Home Appliances,Samsung,Hot Picks Promo,1925988.85,691,2787.25,506.73,4992.55
+Home Appliances,Samsung,Instant Gratification Sale,1798791.43,674,2668.83,501.53,4986.07
+Home Appliances,Samsung,Limited Time Treasures,1850291.10,676,2737.12,500.36,4999.73
+Home Appliances,Samsung,Loyalty Rewards Blast,1929269.26,700,2756.10,501.61,4989.79
+Home Appliances,Samsung,Mega Weekend Bonanza,1853643.76,679,2729.96,514.77,4987.17
+Home Appliances,Samsung,Mid-Year Madness,1917809.28,707,2712.60,503.72,4998.26
+Home Appliances,Samsung,Midnight Madness,1830693.01,674,2716.16,502.76,4997.66
+Home Appliances,Samsung,Mystery Discount Days,1831875.63,673,2721.95,500.15,4999.42
+Home Appliances,Samsung,New Arrival Showcase,1854032.68,679,2730.53,500.17,4997.28
+Home Appliances,Samsung,New Product Launch Promo,1886867.01,690,2734.59,504.10,4974.77
+Home Appliances,Samsung,New Year Kickoff,1872706.28,674,2778.50,507.98,4999.87
+Home Appliances,Samsung,Price Drop Parade,1758223.21,648,2713.31,504.91,4994.05
+Home Appliances,Samsung,Red Tag Clearance,1625112.15,597,2722.13,525.61,4994.95
+Home Appliances,Samsung,Seasonal Surprise Box,1897796.00,693,2738.52,509.87,4976.24
+Home Appliances,Samsung,Shop & Save Spectacular,1679352.88,608,2762.09,500.21,4996.07
+Home Appliances,Samsung,Smart Shopper Week,1965426.45,727,2703.48,513.31,4999.94
+Home Appliances,Samsung,Spring Refresh Event,1700014.67,645,2635.68,511.37,4982.74
+Home Appliances,Samsung,Spring Splash Discounts,1752622.50,653,2683.95,503.09,4998.87
+Home Appliances,Samsung,Summer Sizzle Promo,1821861.99,672,2711.10,502.20,4979.55
+Home Appliances,Samsung,Super Savings Week,1890690.54,679,2784.52,508.47,4991.38
+Home Appliances,Samsung,Ultimate Value Event,1756190.14,636,2761.31,503.38,4999.45
+Home Appliances,Samsung,VIP Access Sale,1902438.61,676,2814.26,502.11,4999.37
+Home Appliances,Samsung,Weekend Warrior Specials,1882091.25,674,2792.42,504.80,4996.60
+Home Appliances,Samsung,Winter Clearance Carnival,1900689.53,689,2758.62,509.72,4996.11
+Home Appliances,Samsung,Winter Wonders Sale,1881164.10,672,2799.35,505.48,4997.89
+Home Appliances,Whirlpool,12 Days of Deals,1850739.15,685,2701.81,512.21,4999.73
+Home Appliances,Whirlpool,Autumn Deals Drive,1841622.39,681,2704.29,506.90,4995.61
+Home Appliances,Whirlpool,BOGO Blitz,1872300.98,679,2757.44,509.26,4999.75
+Home Appliances,Whirlpool,Back to School Boost,1811845.09,665,2724.58,516.16,4990.79
+Home Appliances,Whirlpool,Birthday Bash Sale,1869240.88,679,2752.93,502.35,4999.93
+Home Appliances,Whirlpool,Black Friday Blowout,1877417.47,683,2748.78,505.48,4989.56
+Home Appliances,Whirlpool,Cart Crasher Campaign,1786476.08,645,2769.73,504.51,4998.46
+Home Appliances,Whirlpool,Cashback Carnival,1812803.16,667,2717.85,510.98,4999.12
+Home Appliances,Whirlpool,Clearance Countdown,1772469.39,648,2735.29,504.40,4994.45
+Home Appliances,Whirlpool,Countdown to Savings,1954216.62,709,2756.30,518.12,4987.28
+Home Appliances,Whirlpool,Customer Appreciation Week,1743027.82,650,2681.58,508.53,4997.60
+Home Appliances,Whirlpool,Cyber Monday Mania,1997394.79,734,2721.25,519.48,4966.57
+Home Appliances,Whirlpool,Deal of the Month,1658674.13,622,2666.68,502.82,4996.86
+Home Appliances,Whirlpool,Double Points Bonanza,1861296.54,676,2753.40,510.32,4996.53
+Home Appliances,Whirlpool,Early Bird Specials,1835380.55,658,2789.33,503.83,4997.74
+Home Appliances,Whirlpool,End of Season Sale,1785826.13,638,2799.10,500.69,4999.78
+Home Appliances,Whirlpool,Exclusive Insider Offers,1836745.34,658,2791.41,507.26,4999.29
+Home Appliances,Whirlpool,Festive Fever Promo,1842232.65,674,2733.28,512.10,4997.98
+Home Appliances,Whirlpool,Final Call Frenzy,1853738.60,679,2730.10,506.46,4974.86
+Home Appliances,Whirlpool,Flash Frenzy Friday,1879151.05,679,2767.53,510.70,4997.83
+Home Appliances,Whirlpool,"Gift More, Spend Less",1890831.54,702,2693.49,501.53,4999.74
+Home Appliances,Whirlpool,Golden Hour Bargains,1890097.85,680,2779.56,505.82,4992.88
+Home Appliances,Whirlpool,Green Weekend Deals,1927398.94,686,2809.62,500.21,4998.83
+Home Appliances,Whirlpool,Happy Hour Discounts,1823572.25,661,2758.81,510.66,4991.86
+Home Appliances,Whirlpool,Holiday Shopping Rush,1803373.32,679,2655.93,501.35,4996.07
+Home Appliances,Whirlpool,Hot Picks Promo,1890802.50,677,2792.91,502.22,4988.39
+Home Appliances,Whirlpool,Instant Gratification Sale,1779975.39,642,2772.55,501.38,4999.38
+Home Appliances,Whirlpool,Limited Time Treasures,1875621.46,684,2742.14,501.55,4997.90
+Home Appliances,Whirlpool,Loyalty Rewards Blast,1787214.36,649,2753.80,509.23,4998.50
+Home Appliances,Whirlpool,Mega Weekend Bonanza,1869380.36,666,2806.88,505.95,4988.39
+Home Appliances,Whirlpool,Mid-Year Madness,1817448.39,676,2688.53,506.56,4997.77
+Home Appliances,Whirlpool,Midnight Madness,1860291.28,684,2719.72,514.34,4996.41
+Home Appliances,Whirlpool,Mystery Discount Days,1813904.68,670,2707.32,502.03,4996.71
+Home Appliances,Whirlpool,New Arrival Showcase,1997047.52,718,2781.40,500.44,4995.63
+Home Appliances,Whirlpool,New Product Launch Promo,1691714.60,610,2773.30,504.31,4991.97
+Home Appliances,Whirlpool,New Year Kickoff,1827914.65,660,2769.57,516.98,4995.20
+Home Appliances,Whirlpool,Price Drop Parade,1924375.97,697,2760.94,510.58,4988.21
+Home Appliances,Whirlpool,Red Tag Clearance,1702377.43,618,2754.66,520.89,4992.06
+Home Appliances,Whirlpool,Seasonal Surprise Box,1865546.72,676,2759.68,501.18,4990.56
+Home Appliances,Whirlpool,Shop & Save Spectacular,1747739.50,633,2761.04,516.34,4974.57
+Home Appliances,Whirlpool,Smart Shopper Week,1881837.59,709,2654.21,512.44,4995.40
+Home Appliances,Whirlpool,Spring Refresh Event,1778207.68,641,2774.11,505.17,4995.53
+Home Appliances,Whirlpool,Spring Splash Discounts,1862639.00,665,2800.96,510.84,4992.50
+Home Appliances,Whirlpool,Summer Sizzle Promo,1756144.96,634,2769.94,501.49,4996.11
+Home Appliances,Whirlpool,Super Savings Week,1852646.45,663,2794.34,506.58,4998.47
+Home Appliances,Whirlpool,Ultimate Value Event,1717171.89,628,2734.35,509.71,4995.58
+Home Appliances,Whirlpool,VIP Access Sale,1834719.33,674,2722.14,500.61,4999.48
+Home Appliances,Whirlpool,Weekend Warrior Specials,1940739.80,707,2745.04,502.66,4998.33
+Home Appliances,Whirlpool,Winter Clearance Carnival,1893053.19,678,2792.11,503.94,4998.56
+Home Appliances,Whirlpool,Winter Wonders Sale,1923250.83,707,2720.30,504.46,4998.39
+Sports & Outdoors,Adidas,12 Days of Deals,1941620.24,709,2738.53,501.44,4984.11
+Sports & Outdoors,Adidas,Autumn Deals Drive,1934188.30,696,2779.01,500.33,4998.38
+Sports & Outdoors,Adidas,BOGO Blitz,1787208.56,644,2775.17,509.05,4997.05
+Sports & Outdoors,Adidas,Back to School Boost,1859122.36,696,2671.15,507.11,4996.96
+Sports & Outdoors,Adidas,Birthday Bash Sale,1720487.77,637,2700.92,506.71,4998.00
+Sports & Outdoors,Adidas,Black Friday Blowout,1897019.27,671,2827.15,524.52,4991.94
+Sports & Outdoors,Adidas,Cart Crasher Campaign,1827219.28,649,2815.44,512.46,4983.68
+Sports & Outdoors,Adidas,Cashback Carnival,1820496.14,658,2766.71,502.87,4994.16
+Sports & Outdoors,Adidas,Clearance Countdown,1833340.93,667,2748.64,509.58,4998.56
+Sports & Outdoors,Adidas,Countdown to Savings,1884765.66,679,2775.80,510.44,4993.86
+Sports & Outdoors,Adidas,Customer Appreciation Week,1933979.75,690,2802.87,520.41,4988.63
+Sports & Outdoors,Adidas,Cyber Monday Mania,1875821.54,657,2855.13,512.33,4999.05
+Sports & Outdoors,Adidas,Deal of the Month,1552726.61,578,2686.38,511.14,4995.45
+Sports & Outdoors,Adidas,Double Points Bonanza,1672198.50,601,2782.36,502.14,4996.56
+Sports & Outdoors,Adidas,Early Bird Specials,1774730.17,651,2726.16,505.00,4998.17
+Sports & Outdoors,Adidas,End of Season Sale,1733977.97,646,2684.18,507.77,4990.21
+Sports & Outdoors,Adidas,Exclusive Insider Offers,1842118.35,661,2786.87,503.34,4991.28
+Sports & Outdoors,Adidas,Festive Fever Promo,1751546.03,646,2711.37,513.93,4991.54
+Sports & Outdoors,Adidas,Final Call Frenzy,1920274.30,699,2747.17,501.90,4999.33
+Sports & Outdoors,Adidas,Flash Frenzy Friday,1862745.18,686,2715.37,503.51,4997.00
+Sports & Outdoors,Adidas,"Gift More, Spend Less",1959204.08,702,2790.89,504.14,4994.22
+Sports & Outdoors,Adidas,Golden Hour Bargains,1867826.26,687,2718.82,503.10,4998.10
+Sports & Outdoors,Adidas,Green Weekend Deals,1775561.48,631,2813.89,504.25,4996.09
+Sports & Outdoors,Adidas,Happy Hour Discounts,1882798.55,673,2797.62,502.86,4987.84
+Sports & Outdoors,Adidas,Holiday Shopping Rush,1734652.17,662,2620.32,506.26,4981.68
+Sports & Outdoors,Adidas,Hot Picks Promo,1915427.52,695,2756.01,505.94,4990.00
+Sports & Outdoors,Adidas,Instant Gratification Sale,1923413.56,680,2828.55,500.89,4987.32
+Sports & Outdoors,Adidas,Limited Time Treasures,1794102.68,651,2755.92,500.43,4991.05
+Sports & Outdoors,Adidas,Loyalty Rewards Blast,1815138.45,652,2783.95,502.35,4993.88
+Sports & Outdoors,Adidas,Mega Weekend Bonanza,1942290.68,691,2810.84,515.58,4981.52
+Sports & Outdoors,Adidas,Mid-Year Madness,1780816.01,659,2702.30,502.53,4991.08
+Sports & Outdoors,Adidas,Midnight Madness,1878335.41,673,2790.99,500.23,4994.43
+Sports & Outdoors,Adidas,Mystery Discount Days,1763772.60,654,2696.90,506.53,4998.07
+Sports & Outdoors,Adidas,New Arrival Showcase,1872647.32,659,2841.65,513.56,4997.59
+Sports & Outdoors,Adidas,New Product Launch Promo,1842329.04,654,2817.02,500.73,4991.43
+Sports & Outdoors,Adidas,New Year Kickoff,1831426.14,653,2804.63,503.01,4995.24
+Sports & Outdoors,Adidas,Price Drop Parade,1801633.72,646,2788.91,508.85,4992.13
+Sports & Outdoors,Adidas,Red Tag Clearance,1935434.00,674,2871.56,504.13,4992.12
+Sports & Outdoors,Adidas,Seasonal Surprise Box,1843210.33,673,2738.80,501.08,4992.17
+Sports & Outdoors,Adidas,Shop & Save Spectacular,1856923.50,662,2805.02,503.19,4995.87
+Sports & Outdoors,Adidas,Smart Shopper Week,1956305.92,709,2759.25,507.17,4988.00
+Sports & Outdoors,Adidas,Spring Refresh Event,1761951.85,650,2710.70,506.81,4999.78
+Sports & Outdoors,Adidas,Spring Splash Discounts,1795693.39,660,2720.75,514.92,4998.18
+Sports & Outdoors,Adidas,Summer Sizzle Promo,1868663.00,663,2818.50,501.65,4985.23
+Sports & Outdoors,Adidas,Super Savings Week,1862144.32,678,2746.53,502.34,4975.91
+Sports & Outdoors,Adidas,Ultimate Value Event,1841084.67,685,2687.71,501.61,4998.24
+Sports & Outdoors,Adidas,VIP Access Sale,1768663.07,639,2767.86,516.95,4992.01
+Sports & Outdoors,Adidas,Weekend Warrior Specials,1921216.72,698,2752.46,501.48,4998.83
+Sports & Outdoors,Adidas,Winter Clearance Carnival,2024015.79,730,2772.62,509.53,4997.18
+Sports & Outdoors,Adidas,Winter Wonders Sale,1785711.63,653,2734.63,504.80,4995.17
+Sports & Outdoors,Decathlon,12 Days of Deals,1726240.52,647,2668.07,508.37,4985.06
+Sports & Outdoors,Decathlon,Autumn Deals Drive,1726676.75,633,2727.77,503.74,4990.55
+Sports & Outdoors,Decathlon,BOGO Blitz,1774679.10,647,2742.94,514.68,4997.17
+Sports & Outdoors,Decathlon,Back to School Boost,1908742.65,687,2778.37,515.62,4988.23
+Sports & Outdoors,Decathlon,Birthday Bash Sale,1865872.58,661,2822.80,501.68,4990.77
+Sports & Outdoors,Decathlon,Black Friday Blowout,1792471.75,658,2724.12,500.60,4990.38
+Sports & Outdoors,Decathlon,Cart Crasher Campaign,1867153.67,690,2706.02,504.84,4997.58
+Sports & Outdoors,Decathlon,Cashback Carnival,1747639.94,649,2692.82,500.39,4996.22
+Sports & Outdoors,Decathlon,Clearance Countdown,1806206.23,664,2720.19,501.31,4995.72
+Sports & Outdoors,Decathlon,Countdown to Savings,1848563.37,687,2690.78,500.09,4994.28
+Sports & Outdoors,Decathlon,Customer Appreciation Week,1980304.43,706,2804.96,531.10,4994.09
+Sports & Outdoors,Decathlon,Cyber Monday Mania,1752173.57,644,2720.77,501.43,4995.64
+Sports & Outdoors,Decathlon,Deal of the Month,1845019.11,659,2799.73,503.70,4999.17
+Sports & Outdoors,Decathlon,Double Points Bonanza,1805937.12,660,2736.27,502.80,4996.95
+Sports & Outdoors,Decathlon,Early Bird Specials,1855813.05,677,2741.23,524.55,4997.07
+Sports & Outdoors,Decathlon,End of Season Sale,1792828.06,666,2691.93,509.18,4999.05
+Sports & Outdoors,Decathlon,Exclusive Insider Offers,1881532.26,662,2842.19,524.76,4999.97
+Sports & Outdoors,Decathlon,Festive Fever Promo,1833586.80,662,2769.77,506.01,4997.72
+Sports & Outdoors,Decathlon,Final Call Frenzy,1861150.98,660,2819.93,510.70,4998.08
+Sports & Outdoors,Decathlon,Flash Frenzy Friday,1849030.57,695,2660.48,501.01,4996.10
+Sports & Outdoors,Decathlon,"Gift More, Spend Less",1917745.48,728,2634.27,500.46,4996.60
+Sports & Outdoors,Decathlon,Golden Hour Bargains,2045958.16,741,2761.08,506.18,4995.64
+Sports & Outdoors,Decathlon,Green Weekend Deals,1777466.11,646,2751.50,521.12,4985.58
+Sports & Outdoors,Decathlon,Happy Hour Discounts,1914953.97,672,2849.63,500.42,4989.33
+Sports & Outdoors,Decathlon,Holiday Shopping Rush,1869435.31,680,2749.17,514.08,4997.18
+Sports & Outdoors,Decathlon,Hot Picks Promo,1662771.89,628,2647.73,504.54,4994.34
+Sports & Outdoors,Decathlon,Instant Gratification Sale,1831863.91,654,2801.02,523.68,4998.94
+Sports & Outdoors,Decathlon,Limited Time Treasures,1805670.58,677,2667.16,513.55,4983.80
+Sports & Outdoors,Decathlon,Loyalty Rewards Blast,1806642.52,662,2729.07,500.22,4985.62
+Sports & Outdoors,Decathlon,Mega Weekend Bonanza,1860211.43,672,2768.17,500.15,4995.42
+Sports & Outdoors,Decathlon,Mid-Year Madness,1963871.00,711,2762.13,509.74,4999.49
+Sports & Outdoors,Decathlon,Midnight Madness,1753746.08,637,2753.13,501.16,4994.22
+Sports & Outdoors,Decathlon,Mystery Discount Days,1782572.18,632,2820.53,508.52,4979.54
+Sports & Outdoors,Decathlon,New Arrival Showcase,1921724.12,675,2847.00,506.47,4991.35
+Sports & Outdoors,Decathlon,New Product Launch Promo,1730696.06,638,2712.69,503.51,4989.97
+Sports & Outdoors,Decathlon,New Year Kickoff,1782509.15,653,2729.72,501.31,4997.16
+Sports & Outdoors,Decathlon,Price Drop Parade,1693675.66,634,2671.41,500.07,4991.46
+Sports & Outdoors,Decathlon,Red Tag Clearance,1858833.63,667,2786.86,500.15,4981.94
+Sports & Outdoors,Decathlon,Seasonal Surprise Box,1804484.95,661,2729.93,539.15,4992.97
+Sports & Outdoors,Decathlon,Shop & Save Spectacular,1816129.37,666,2726.92,502.57,4996.23
+Sports & Outdoors,Decathlon,Smart Shopper Week,1900653.53,693,2742.65,505.62,4995.51
+Sports & Outdoors,Decathlon,Spring Refresh Event,1922340.39,680,2826.97,500.56,4992.08
+Sports & Outdoors,Decathlon,Spring Splash Discounts,1927665.58,693,2781.62,508.67,4991.41
+Sports & Outdoors,Decathlon,Summer Sizzle Promo,1886138.71,706,2671.58,502.21,4991.16
+Sports & Outdoors,Decathlon,Super Savings Week,1902534.16,665,2860.95,501.50,4999.25
+Sports & Outdoors,Decathlon,Ultimate Value Event,1877596.22,680,2761.17,510.52,4996.78
+Sports & Outdoors,Decathlon,VIP Access Sale,1703757.47,616,2765.84,500.51,4993.65
+Sports & Outdoors,Decathlon,Weekend Warrior Specials,1722696.38,635,2712.91,514.80,4989.44
+Sports & Outdoors,Decathlon,Winter Clearance Carnival,1979211.75,713,2775.89,506.66,4999.77
+Sports & Outdoors,Decathlon,Winter Wonders Sale,1706240.77,620,2752.00,503.85,4993.77
+Sports & Outdoors,Nike,12 Days of Deals,2075108.51,749,2770.51,505.19,4999.67
+Sports & Outdoors,Nike,Autumn Deals Drive,1873986.57,708,2646.87,504.53,4988.18
+Sports & Outdoors,Nike,BOGO Blitz,1856763.15,660,2813.28,503.15,4985.60
+Sports & Outdoors,Nike,Back to School Boost,1847212.20,672,2748.83,513.03,4989.50
+Sports & Outdoors,Nike,Birthday Bash Sale,1813649.44,659,2752.12,500.14,4992.00
+Sports & Outdoors,Nike,Black Friday Blowout,1929784.10,693,2784.68,503.37,4996.57
+Sports & Outdoors,Nike,Cart Crasher Campaign,1957282.08,685,2857.35,514.47,4995.45
+Sports & Outdoors,Nike,Cashback Carnival,1742900.36,645,2702.17,512.71,4981.41
+Sports & Outdoors,Nike,Clearance Countdown,1803142.40,672,2683.25,511.98,4992.16
+Sports & Outdoors,Nike,Countdown to Savings,1830928.33,654,2799.58,505.40,4997.94
+Sports & Outdoors,Nike,Customer Appreciation Week,1881412.29,684,2750.60,523.80,4999.02
+Sports & Outdoors,Nike,Cyber Monday Mania,1830740.00,677,2704.19,502.42,4998.69
+Sports & Outdoors,Nike,Deal of the Month,1772376.71,656,2701.79,511.13,4995.46
+Sports & Outdoors,Nike,Double Points Bonanza,1918483.51,686,2796.62,507.25,4998.97
+Sports & Outdoors,Nike,Early Bird Specials,1889907.23,659,2867.84,507.63,4996.32
+Sports & Outdoors,Nike,End of Season Sale,1931466.84,696,2775.10,503.93,4993.65
+Sports & Outdoors,Nike,Exclusive Insider Offers,1893652.35,678,2793.00,502.99,4988.56
+Sports & Outdoors,Nike,Festive Fever Promo,1805466.29,651,2773.37,508.47,4973.24
+Sports & Outdoors,Nike,Final Call Frenzy,1742690.06,652,2672.84,502.59,4997.60
+Sports & Outdoors,Nike,Flash Frenzy Friday,1944084.91,691,2813.44,502.29,4995.14
+Sports & Outdoors,Nike,"Gift More, Spend Less",1763247.21,644,2737.96,521.61,4992.10
+Sports & Outdoors,Nike,Golden Hour Bargains,1862583.47,675,2759.38,500.01,4982.43
+Sports & Outdoors,Nike,Green Weekend Deals,1903416.58,705,2699.88,503.13,4996.20
+Sports & Outdoors,Nike,Happy Hour Discounts,1769618.36,646,2739.35,519.18,4998.95
+Sports & Outdoors,Nike,Holiday Shopping Rush,1840942.02,677,2719.26,502.99,4998.76
+Sports & Outdoors,Nike,Hot Picks Promo,1938053.10,706,2745.12,503.06,4997.69
+Sports & Outdoors,Nike,Instant Gratification Sale,1958154.89,712,2750.22,500.07,4995.28
+Sports & Outdoors,Nike,Limited Time Treasures,1781945.99,655,2720.53,501.18,4997.70
+Sports & Outdoors,Nike,Loyalty Rewards Blast,1773820.73,642,2762.96,500.80,4996.03
+Sports & Outdoors,Nike,Mega Weekend Bonanza,1907465.83,698,2732.76,503.85,4998.00
+Sports & Outdoors,Nike,Mid-Year Madness,1769881.89,647,2735.52,517.63,4992.54
+Sports & Outdoors,Nike,Midnight Madness,1823756.08,644,2831.92,509.62,4993.16
+Sports & Outdoors,Nike,Mystery Discount Days,1801280.61,670,2688.48,501.05,4999.19
+Sports & Outdoors,Nike,New Arrival Showcase,1756304.63,650,2702.01,503.53,4998.83
+Sports & Outdoors,Nike,New Product Launch Promo,1912889.00,693,2760.30,503.65,4998.73
+Sports & Outdoors,Nike,New Year Kickoff,1813947.40,655,2769.39,507.42,4996.00
+Sports & Outdoors,Nike,Price Drop Parade,1863275.46,681,2736.09,511.87,4996.87
+Sports & Outdoors,Nike,Red Tag Clearance,1805377.66,656,2752.10,516.57,4999.05
+Sports & Outdoors,Nike,Seasonal Surprise Box,1859775.29,693,2683.66,500.31,4992.44
+Sports & Outdoors,Nike,Shop & Save Spectacular,1911092.62,688,2777.75,512.09,4995.87
+Sports & Outdoors,Nike,Smart Shopper Week,1810321.76,651,2780.83,514.53,4996.44
+Sports & Outdoors,Nike,Spring Refresh Event,1904120.83,657,2898.21,503.69,4993.39
+Sports & Outdoors,Nike,Spring Splash Discounts,1740080.72,649,2681.17,502.55,4999.83
+Sports & Outdoors,Nike,Summer Sizzle Promo,1969912.89,692,2846.69,504.80,4998.50
+Sports & Outdoors,Nike,Super Savings Week,1933347.28,686,2818.29,509.07,4994.88
+Sports & Outdoors,Nike,Ultimate Value Event,1908347.97,707,2699.22,506.99,4999.44
+Sports & Outdoors,Nike,VIP Access Sale,1925779.58,685,2811.36,502.72,4991.94
+Sports & Outdoors,Nike,Weekend Warrior Specials,1744867.60,665,2623.86,500.79,4989.77
+Sports & Outdoors,Nike,Winter Clearance Carnival,1864804.53,673,2770.88,503.08,4998.38
+Sports & Outdoors,Nike,Winter Wonders Sale,1970136.66,684,2880.32,517.25,4992.09
+Sports & Outdoors,Puma,12 Days of Deals,1881176.81,678,2774.60,502.11,4987.18
+Sports & Outdoors,Puma,Autumn Deals Drive,1730888.36,657,2634.53,501.93,4997.04
+Sports & Outdoors,Puma,BOGO Blitz,1866796.94,690,2705.50,503.44,4997.71
+Sports & Outdoors,Puma,Back to School Boost,1965800.38,705,2788.37,501.48,4998.09
+Sports & Outdoors,Puma,Birthday Bash Sale,1984322.31,721,2752.18,503.09,4984.92
+Sports & Outdoors,Puma,Black Friday Blowout,1874255.47,703,2666.08,511.67,4997.46
+Sports & Outdoors,Puma,Cart Crasher Campaign,1697874.54,645,2632.36,510.88,4993.76
+Sports & Outdoors,Puma,Cashback Carnival,1824886.58,661,2760.80,502.29,4993.05
+Sports & Outdoors,Puma,Clearance Countdown,1778272.69,664,2678.12,501.13,4989.35
+Sports & Outdoors,Puma,Countdown to Savings,1957287.58,698,2804.14,500.66,4999.61
+Sports & Outdoors,Puma,Customer Appreciation Week,1900769.00,681,2791.14,529.19,4993.43
+Sports & Outdoors,Puma,Cyber Monday Mania,1999061.90,727,2749.74,508.24,4992.50
+Sports & Outdoors,Puma,Deal of the Month,1825138.49,666,2740.45,503.87,4999.89
+Sports & Outdoors,Puma,Double Points Bonanza,1836281.24,659,2786.47,504.90,4998.01
+Sports & Outdoors,Puma,Early Bird Specials,1774545.08,653,2717.53,501.96,4972.38
+Sports & Outdoors,Puma,End of Season Sale,1900302.31,673,2823.63,502.75,4996.88
+Sports & Outdoors,Puma,Exclusive Insider Offers,1945399.60,700,2779.14,513.77,4998.46
+Sports & Outdoors,Puma,Festive Fever Promo,1991925.00,708,2813.45,503.49,4996.45
+Sports & Outdoors,Puma,Final Call Frenzy,1732968.74,637,2720.52,500.03,4987.28
+Sports & Outdoors,Puma,Flash Frenzy Friday,1788624.55,658,2718.27,504.35,4997.51
+Sports & Outdoors,Puma,"Gift More, Spend Less",1896104.82,700,2708.72,510.02,4991.44
+Sports & Outdoors,Puma,Golden Hour Bargains,1865251.91,700,2664.65,506.68,4989.95
+Sports & Outdoors,Puma,Green Weekend Deals,1874868.43,687,2729.07,504.95,4997.63
+Sports & Outdoors,Puma,Happy Hour Discounts,1900415.81,690,2754.23,516.34,4999.78
+Sports & Outdoors,Puma,Holiday Shopping Rush,1886098.41,675,2794.22,503.52,4985.94
+Sports & Outdoors,Puma,Hot Picks Promo,1833802.47,669,2741.11,500.04,4996.43
+Sports & Outdoors,Puma,Instant Gratification Sale,1966486.78,719,2735.03,500.41,4988.31
+Sports & Outdoors,Puma,Limited Time Treasures,1776542.53,652,2724.76,509.04,4988.87
+Sports & Outdoors,Puma,Loyalty Rewards Blast,1719996.95,640,2687.50,514.60,4988.95
+Sports & Outdoors,Puma,Mega Weekend Bonanza,1749355.87,621,2817.00,502.77,4993.01
+Sports & Outdoors,Puma,Mid-Year Madness,1822938.77,669,2724.87,502.72,4998.69
+Sports & Outdoors,Puma,Midnight Madness,1818303.95,658,2763.38,510.11,4996.42
+Sports & Outdoors,Puma,Mystery Discount Days,1820536.63,655,2779.45,500.04,4995.75
+Sports & Outdoors,Puma,New Arrival Showcase,1954920.50,704,2776.88,500.37,4994.48
+Sports & Outdoors,Puma,New Product Launch Promo,1799110.73,639,2815.51,503.81,4994.43
+Sports & Outdoors,Puma,New Year Kickoff,1803728.27,644,2800.82,514.47,4994.88
+Sports & Outdoors,Puma,Price Drop Parade,1759939.00,646,2724.36,504.82,4990.43
+Sports & Outdoors,Puma,Red Tag Clearance,1760832.83,660,2667.93,504.14,4991.35
+Sports & Outdoors,Puma,Seasonal Surprise Box,1882804.35,699,2693.57,503.60,4996.14
+Sports & Outdoors,Puma,Shop & Save Spectacular,1844906.44,666,2770.13,505.73,4998.60
+Sports & Outdoors,Puma,Smart Shopper Week,1841096.24,675,2727.55,509.78,4996.42
+Sports & Outdoors,Puma,Spring Refresh Event,1861971.68,685,2718.21,502.39,4991.31
+Sports & Outdoors,Puma,Spring Splash Discounts,1783146.50,626,2848.48,506.18,4994.34
+Sports & Outdoors,Puma,Summer Sizzle Promo,1907985.45,686,2781.32,500.10,4997.06
+Sports & Outdoors,Puma,Super Savings Week,1819659.56,657,2769.65,515.06,4981.53
+Sports & Outdoors,Puma,Ultimate Value Event,1792343.07,643,2787.47,503.10,4996.51
+Sports & Outdoors,Puma,VIP Access Sale,1860218.65,660,2818.51,507.72,4995.80
+Sports & Outdoors,Puma,Weekend Warrior Specials,1906821.67,695,2743.63,506.15,4984.56
+Sports & Outdoors,Puma,Winter Clearance Carnival,1804305.34,635,2841.43,505.00,4990.30
+Sports & Outdoors,Puma,Winter Wonders Sale,1835687.41,676,2715.51,534.89,4993.15
+Sports & Outdoors,Reebok,12 Days of Deals,1908706.56,684,2790.51,515.75,4998.61
+Sports & Outdoors,Reebok,Autumn Deals Drive,1856698.73,663,2800.45,500.04,4996.59
+Sports & Outdoors,Reebok,BOGO Blitz,1695190.41,636,2665.39,508.28,4996.52
+Sports & Outdoors,Reebok,Back to School Boost,1749697.06,646,2708.51,505.03,4999.33
+Sports & Outdoors,Reebok,Birthday Bash Sale,1804382.01,661,2729.78,517.17,4999.34
+Sports & Outdoors,Reebok,Black Friday Blowout,1868212.38,676,2763.63,504.45,4999.65
+Sports & Outdoors,Reebok,Cart Crasher Campaign,1797660.96,664,2707.32,500.78,4996.75
+Sports & Outdoors,Reebok,Cashback Carnival,1939712.52,690,2811.18,504.12,4990.45
+Sports & Outdoors,Reebok,Clearance Countdown,1727120.43,643,2686.03,500.37,4996.31
+Sports & Outdoors,Reebok,Countdown to Savings,1867743.04,682,2738.63,506.58,4996.44
+Sports & Outdoors,Reebok,Customer Appreciation Week,1880512.56,675,2785.94,502.81,4998.61
+Sports & Outdoors,Reebok,Cyber Monday Mania,1983364.93,708,2801.36,504.92,4998.53
+Sports & Outdoors,Reebok,Deal of the Month,1915434.15,697,2748.11,509.93,4993.19
+Sports & Outdoors,Reebok,Double Points Bonanza,1990393.77,722,2756.78,521.66,4994.46
+Sports & Outdoors,Reebok,Early Bird Specials,1830562.15,664,2756.87,508.41,4996.35
+Sports & Outdoors,Reebok,End of Season Sale,1775930.81,650,2732.20,503.46,4996.20
+Sports & Outdoors,Reebok,Exclusive Insider Offers,1762732.44,626,2815.87,504.56,4996.28
+Sports & Outdoors,Reebok,Festive Fever Promo,1842949.13,681,2706.24,506.83,4998.24
+Sports & Outdoors,Reebok,Final Call Frenzy,1783292.54,660,2701.96,500.30,4982.79
+Sports & Outdoors,Reebok,Flash Frenzy Friday,1900630.14,677,2807.43,503.56,4996.39
+Sports & Outdoors,Reebok,"Gift More, Spend Less",1927285.31,683,2821.79,501.32,4974.13
+Sports & Outdoors,Reebok,Golden Hour Bargains,1778442.69,648,2744.51,502.76,4995.89
+Sports & Outdoors,Reebok,Green Weekend Deals,1796059.26,663,2708.99,500.26,4999.53
+Sports & Outdoors,Reebok,Happy Hour Discounts,1907808.13,689,2768.95,506.19,4995.06
+Sports & Outdoors,Reebok,Holiday Shopping Rush,1695599.29,636,2666.04,501.14,4972.41
+Sports & Outdoors,Reebok,Hot Picks Promo,1946064.30,690,2820.38,517.08,4996.34
+Sports & Outdoors,Reebok,Instant Gratification Sale,1820185.83,672,2708.61,504.24,4991.13
+Sports & Outdoors,Reebok,Limited Time Treasures,1922301.49,680,2826.91,502.11,4998.98
+Sports & Outdoors,Reebok,Loyalty Rewards Blast,1788383.34,652,2742.92,501.42,4987.16
+Sports & Outdoors,Reebok,Mega Weekend Bonanza,1898424.93,689,2755.33,508.48,4986.53
+Sports & Outdoors,Reebok,Mid-Year Madness,1924705.83,691,2785.39,508.91,4994.65
+Sports & Outdoors,Reebok,Midnight Madness,1767372.48,660,2677.84,524.44,4997.31
+Sports & Outdoors,Reebok,Mystery Discount Days,1878693.21,678,2770.93,502.16,4999.55
+Sports & Outdoors,Reebok,New Arrival Showcase,1849191.63,669,2764.11,506.32,4996.77
+Sports & Outdoors,Reebok,New Product Launch Promo,1877117.38,688,2728.37,514.75,4999.30
+Sports & Outdoors,Reebok,New Year Kickoff,1866348.56,684,2728.58,503.09,4996.62
+Sports & Outdoors,Reebok,Price Drop Parade,1823467.73,671,2717.54,500.50,4989.65
+Sports & Outdoors,Reebok,Red Tag Clearance,1898979.47,667,2847.05,502.70,4997.25
+Sports & Outdoors,Reebok,Seasonal Surprise Box,1944656.09,706,2754.47,501.12,4993.02
+Sports & Outdoors,Reebok,Shop & Save Spectacular,1896271.49,689,2752.21,502.76,4992.07
+Sports & Outdoors,Reebok,Smart Shopper Week,1724508.37,658,2620.83,500.78,4998.20
+Sports & Outdoors,Reebok,Spring Refresh Event,1901514.59,694,2739.93,507.06,4986.59
+Sports & Outdoors,Reebok,Spring Splash Discounts,1930200.17,705,2737.87,502.90,4991.81
+Sports & Outdoors,Reebok,Summer Sizzle Promo,1893670.81,701,2701.38,502.59,4995.91
+Sports & Outdoors,Reebok,Super Savings Week,1881784.03,665,2829.75,522.37,4973.55
+Sports & Outdoors,Reebok,Ultimate Value Event,1813613.11,664,2731.35,510.65,4994.22
+Sports & Outdoors,Reebok,VIP Access Sale,1861673.83,657,2833.60,506.74,4998.87
+Sports & Outdoors,Reebok,Weekend Warrior Specials,1841221.51,663,2777.11,501.32,4997.81
+Sports & Outdoors,Reebok,Winter Clearance Carnival,1789701.49,640,2796.41,513.07,4981.24
+Sports & Outdoors,Reebok,Winter Wonders Sale,1961485.37,691,2838.62,508.42,4987.57

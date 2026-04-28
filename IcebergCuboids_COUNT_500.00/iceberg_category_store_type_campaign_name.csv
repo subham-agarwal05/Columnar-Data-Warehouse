@@ -1,0 +1,901 @@
+category,store_type,campaign_name,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Large Malls / Complexes,12 Days of Deals,2791226.47,1032,2704.68,500.37,4991.32
+Clothing,Large Malls / Complexes,Autumn Deals Drive,2945447.85,1065,2765.68,501.91,4994.06
+Clothing,Large Malls / Complexes,BOGO Blitz,3283759.78,1133,2898.29,502.29,4998.71
+Clothing,Large Malls / Complexes,Back to School Boost,2956880.11,1080,2737.85,501.92,4998.12
+Clothing,Large Malls / Complexes,Birthday Bash Sale,2952184.68,1063,2777.22,501.83,4997.95
+Clothing,Large Malls / Complexes,Black Friday Blowout,2811710.72,1010,2783.87,502.05,4997.07
+Clothing,Large Malls / Complexes,Cart Crasher Campaign,2837571.46,1044,2717.98,508.37,4994.25
+Clothing,Large Malls / Complexes,Cashback Carnival,2874783.00,1045,2750.99,500.72,4994.40
+Clothing,Large Malls / Complexes,Clearance Countdown,2916549.94,1070,2725.75,500.46,4999.80
+Clothing,Large Malls / Complexes,Countdown to Savings,2864390.34,1050,2727.99,504.03,4976.47
+Clothing,Large Malls / Complexes,Customer Appreciation Week,2975509.83,1072,2775.66,504.64,4994.47
+Clothing,Large Malls / Complexes,Cyber Monday Mania,2965956.79,1076,2756.47,502.02,4991.94
+Clothing,Large Malls / Complexes,Deal of the Month,2775220.13,1008,2753.19,504.75,4999.45
+Clothing,Large Malls / Complexes,Double Points Bonanza,3004515.88,1078,2787.12,501.38,4999.44
+Clothing,Large Malls / Complexes,Early Bird Specials,3092032.61,1139,2714.69,501.20,4999.19
+Clothing,Large Malls / Complexes,End of Season Sale,2889584.22,1063,2718.33,503.81,4997.48
+Clothing,Large Malls / Complexes,Exclusive Insider Offers,2916535.34,1068,2730.84,500.29,4988.97
+Clothing,Large Malls / Complexes,Festive Fever Promo,2821408.31,1036,2723.37,513.43,4991.64
+Clothing,Large Malls / Complexes,Final Call Frenzy,2782102.43,1020,2727.55,501.00,4996.06
+Clothing,Large Malls / Complexes,Flash Frenzy Friday,2816296.74,1041,2705.38,518.09,4993.36
+Clothing,Large Malls / Complexes,"Gift More, Spend Less",2812003.86,996,2823.30,504.71,4985.65
+Clothing,Large Malls / Complexes,Golden Hour Bargains,2942600.15,1046,2813.19,501.59,4999.76
+Clothing,Large Malls / Complexes,Green Weekend Deals,2838279.64,1031,2752.94,513.09,4999.76
+Clothing,Large Malls / Complexes,Happy Hour Discounts,2941397.10,1073,2741.28,505.67,4997.02
+Clothing,Large Malls / Complexes,Holiday Shopping Rush,2907497.92,1050,2769.05,501.97,4996.42
+Clothing,Large Malls / Complexes,Hot Picks Promo,2993717.76,1070,2797.87,502.01,4999.60
+Clothing,Large Malls / Complexes,Instant Gratification Sale,2904577.04,1064,2729.87,503.90,4997.63
+Clothing,Large Malls / Complexes,Limited Time Treasures,2925651.44,1083,2701.43,504.55,4983.53
+Clothing,Large Malls / Complexes,Loyalty Rewards Blast,2976729.68,1079,2758.79,500.82,4998.22
+Clothing,Large Malls / Complexes,Mega Weekend Bonanza,2713192.84,984,2757.31,500.60,4997.25
+Clothing,Large Malls / Complexes,Mid-Year Madness,2974675.90,1086,2739.11,501.32,4998.11
+Clothing,Large Malls / Complexes,Midnight Madness,2942738.26,1070,2750.22,502.64,4997.93
+Clothing,Large Malls / Complexes,Mystery Discount Days,2799893.32,1032,2713.07,500.93,4992.01
+Clothing,Large Malls / Complexes,New Arrival Showcase,2897214.29,1056,2743.57,511.56,4998.00
+Clothing,Large Malls / Complexes,New Product Launch Promo,2765232.83,1019,2713.67,500.83,4999.95
+Clothing,Large Malls / Complexes,New Year Kickoff,2777340.57,1013,2741.70,502.81,4991.55
+Clothing,Large Malls / Complexes,Price Drop Parade,2795722.09,1054,2652.49,506.30,4997.22
+Clothing,Large Malls / Complexes,Red Tag Clearance,2913201.42,1058,2753.50,502.58,4999.45
+Clothing,Large Malls / Complexes,Seasonal Surprise Box,2882712.04,1055,2732.43,500.11,4996.71
+Clothing,Large Malls / Complexes,Shop & Save Spectacular,2884105.72,1026,2811.02,500.18,4999.91
+Clothing,Large Malls / Complexes,Smart Shopper Week,2777440.52,1017,2731.01,504.15,4999.86
+Clothing,Large Malls / Complexes,Spring Refresh Event,2899734.86,1030,2815.28,506.20,4996.53
+Clothing,Large Malls / Complexes,Spring Splash Discounts,2787019.23,1018,2737.74,500.66,4993.20
+Clothing,Large Malls / Complexes,Summer Sizzle Promo,2821789.68,1023,2758.35,506.00,4998.58
+Clothing,Large Malls / Complexes,Super Savings Week,2873215.54,1021,2814.12,502.63,4993.53
+Clothing,Large Malls / Complexes,Ultimate Value Event,2870789.63,1050,2734.09,504.23,4999.12
+Clothing,Large Malls / Complexes,VIP Access Sale,2759750.70,1023,2697.70,501.68,4999.97
+Clothing,Large Malls / Complexes,Weekend Warrior Specials,2934066.73,1086,2701.72,503.41,4998.79
+Clothing,Large Malls / Complexes,Winter Clearance Carnival,2953441.13,1063,2778.40,504.78,4999.04
+Clothing,Large Malls / Complexes,Winter Wonders Sale,2794665.93,1055,2648.97,508.14,4996.58
+Clothing,Small Stores / Shops,12 Days of Deals,3101078.69,1116,2778.74,510.36,4999.40
+Clothing,Small Stores / Shops,Autumn Deals Drive,3284823.81,1189,2762.68,514.37,4995.34
+Clothing,Small Stores / Shops,BOGO Blitz,3181155.81,1152,2761.42,500.64,4999.45
+Clothing,Small Stores / Shops,Back to School Boost,2783742.95,1021,2726.49,500.65,4994.39
+Clothing,Small Stores / Shops,Birthday Bash Sale,3073868.34,1096,2804.62,500.58,4997.78
+Clothing,Small Stores / Shops,Black Friday Blowout,3216193.30,1159,2774.97,500.74,4996.66
+Clothing,Small Stores / Shops,Cart Crasher Campaign,2947336.56,1057,2788.40,508.66,4996.24
+Clothing,Small Stores / Shops,Cashback Carnival,2964454.03,1081,2742.33,509.31,4998.40
+Clothing,Small Stores / Shops,Clearance Countdown,3040203.18,1120,2714.47,511.56,4996.24
+Clothing,Small Stores / Shops,Countdown to Savings,2949444.86,1087,2713.38,504.23,4995.55
+Clothing,Small Stores / Shops,Customer Appreciation Week,3168580.39,1136,2789.24,503.51,4996.89
+Clothing,Small Stores / Shops,Cyber Monday Mania,3027330.86,1105,2739.67,505.15,4993.46
+Clothing,Small Stores / Shops,Deal of the Month,3007811.50,1113,2702.44,503.19,4999.41
+Clothing,Small Stores / Shops,Double Points Bonanza,3230316.49,1166,2770.43,514.48,4996.75
+Clothing,Small Stores / Shops,Early Bird Specials,3269414.00,1168,2799.16,504.72,4997.16
+Clothing,Small Stores / Shops,End of Season Sale,3049441.26,1107,2754.69,504.46,4984.90
+Clothing,Small Stores / Shops,Exclusive Insider Offers,3165575.24,1155,2740.76,500.07,4997.63
+Clothing,Small Stores / Shops,Festive Fever Promo,3053366.77,1098,2780.84,503.50,4995.75
+Clothing,Small Stores / Shops,Final Call Frenzy,3061759.04,1120,2733.71,506.19,4994.06
+Clothing,Small Stores / Shops,Flash Frenzy Friday,3113527.08,1124,2770.04,506.08,4996.58
+Clothing,Small Stores / Shops,"Gift More, Spend Less",3173595.77,1143,2776.55,505.29,4995.93
+Clothing,Small Stores / Shops,Golden Hour Bargains,2993174.35,1096,2731.00,500.57,4998.56
+Clothing,Small Stores / Shops,Green Weekend Deals,3124504.52,1147,2724.07,502.55,4996.15
+Clothing,Small Stores / Shops,Happy Hour Discounts,3092044.46,1106,2795.70,507.84,4992.66
+Clothing,Small Stores / Shops,Holiday Shopping Rush,3052637.80,1125,2713.46,503.85,4998.34
+Clothing,Small Stores / Shops,Hot Picks Promo,2969535.31,1063,2793.54,504.12,4984.66
+Clothing,Small Stores / Shops,Instant Gratification Sale,3015779.42,1072,2813.23,501.81,4998.85
+Clothing,Small Stores / Shops,Limited Time Treasures,3007426.62,1111,2706.95,504.90,4999.81
+Clothing,Small Stores / Shops,Loyalty Rewards Blast,3266782.34,1145,2853.09,503.40,4996.42
+Clothing,Small Stores / Shops,Mega Weekend Bonanza,3108007.88,1106,2810.13,503.43,4996.59
+Clothing,Small Stores / Shops,Mid-Year Madness,3138028.97,1130,2777.02,502.52,4997.99
+Clothing,Small Stores / Shops,Midnight Madness,3082045.46,1130,2727.47,500.50,4998.11
+Clothing,Small Stores / Shops,Mystery Discount Days,3002669.42,1100,2729.70,500.17,4995.70
+Clothing,Small Stores / Shops,New Arrival Showcase,3129363.19,1113,2811.65,501.06,4996.20
+Clothing,Small Stores / Shops,New Product Launch Promo,3041100.79,1106,2749.64,507.38,4988.38
+Clothing,Small Stores / Shops,New Year Kickoff,3151527.00,1145,2752.43,503.46,4992.69
+Clothing,Small Stores / Shops,Price Drop Parade,3027497.50,1128,2683.95,503.07,4999.68
+Clothing,Small Stores / Shops,Red Tag Clearance,3225493.89,1158,2785.40,501.14,4997.50
+Clothing,Small Stores / Shops,Seasonal Surprise Box,3135919.58,1144,2741.19,505.17,4990.98
+Clothing,Small Stores / Shops,Shop & Save Spectacular,3282493.56,1170,2805.55,500.14,4999.95
+Clothing,Small Stores / Shops,Smart Shopper Week,3037465.20,1114,2726.63,501.31,4999.73
+Clothing,Small Stores / Shops,Spring Refresh Event,2958960.24,1093,2707.19,500.55,4995.99
+Clothing,Small Stores / Shops,Spring Splash Discounts,3075657.19,1121,2743.67,503.97,4998.97
+Clothing,Small Stores / Shops,Summer Sizzle Promo,3037043.13,1115,2723.81,507.53,4998.14
+Clothing,Small Stores / Shops,Super Savings Week,3008004.42,1079,2787.77,506.81,4999.08
+Clothing,Small Stores / Shops,Ultimate Value Event,3025965.74,1086,2786.34,500.17,4999.82
+Clothing,Small Stores / Shops,VIP Access Sale,3264057.97,1154,2828.47,506.38,4983.73
+Clothing,Small Stores / Shops,Weekend Warrior Specials,3061174.07,1142,2680.54,502.44,4995.02
+Clothing,Small Stores / Shops,Winter Clearance Carnival,2964060.90,1063,2788.39,501.25,4998.41
+Clothing,Small Stores / Shops,Winter Wonders Sale,3191606.36,1178,2709.34,502.80,4999.21
+Clothing,Supermarkets ,12 Days of Deals,3186434.08,1163,2739.84,502.77,4998.46
+Clothing,Supermarkets ,Autumn Deals Drive,3165973.33,1141,2774.74,500.77,4999.75
+Clothing,Supermarkets ,BOGO Blitz,3196544.60,1179,2711.23,500.97,4997.55
+Clothing,Supermarkets ,Back to School Boost,3158755.88,1163,2716.04,501.52,4999.86
+Clothing,Supermarkets ,Birthday Bash Sale,3111291.39,1121,2775.46,502.19,4991.13
+Clothing,Supermarkets ,Black Friday Blowout,3068614.18,1134,2706.01,503.18,4992.36
+Clothing,Supermarkets ,Cart Crasher Campaign,3345561.44,1207,2771.80,501.15,4997.29
+Clothing,Supermarkets ,Cashback Carnival,3135938.24,1134,2765.38,505.92,4997.64
+Clothing,Supermarkets ,Clearance Countdown,3185736.39,1176,2708.96,500.53,4995.43
+Clothing,Supermarkets ,Countdown to Savings,3212441.09,1177,2729.35,501.16,4998.86
+Clothing,Supermarkets ,Customer Appreciation Week,3194964.05,1157,2761.42,508.47,4998.60
+Clothing,Supermarkets ,Cyber Monday Mania,3104596.13,1127,2754.74,502.07,4995.44
+Clothing,Supermarkets ,Deal of the Month,3330959.39,1206,2761.99,502.13,4994.87
+Clothing,Supermarkets ,Double Points Bonanza,3096984.97,1125,2752.88,500.63,4989.35
+Clothing,Supermarkets ,Early Bird Specials,3031122.15,1088,2785.96,501.24,4996.74
+Clothing,Supermarkets ,End of Season Sale,3053245.67,1109,2753.15,509.09,4999.17
+Clothing,Supermarkets ,Exclusive Insider Offers,3009221.82,1085,2773.48,504.62,4998.51
+Clothing,Supermarkets ,Festive Fever Promo,3332624.30,1230,2709.45,501.90,4998.89
+Clothing,Supermarkets ,Final Call Frenzy,3286338.27,1167,2816.06,503.34,4993.90
+Clothing,Supermarkets ,Flash Frenzy Friday,3076369.41,1134,2712.85,501.20,4998.23
+Clothing,Supermarkets ,"Gift More, Spend Less",2968508.03,1096,2708.49,501.94,4997.42
+Clothing,Supermarkets ,Golden Hour Bargains,3271775.81,1183,2765.66,507.62,4999.85
+Clothing,Supermarkets ,Green Weekend Deals,3216854.59,1172,2744.76,501.10,4999.98
+Clothing,Supermarkets ,Happy Hour Discounts,3114250.77,1126,2765.76,503.04,4994.57
+Clothing,Supermarkets ,Holiday Shopping Rush,3033526.85,1090,2783.05,506.38,4999.33
+Clothing,Supermarkets ,Hot Picks Promo,3133866.15,1147,2732.23,500.12,4989.96
+Clothing,Supermarkets ,Instant Gratification Sale,2889083.91,1059,2728.12,500.95,4998.40
+Clothing,Supermarkets ,Limited Time Treasures,3187049.82,1133,2812.93,501.46,4999.38
+Clothing,Supermarkets ,Loyalty Rewards Blast,2976186.58,1091,2727.94,507.26,4997.44
+Clothing,Supermarkets ,Mega Weekend Bonanza,3321840.07,1215,2734.02,508.93,4996.67
+Clothing,Supermarkets ,Mid-Year Madness,3143729.64,1175,2675.51,500.82,4994.34
+Clothing,Supermarkets ,Midnight Madness,3229507.67,1162,2779.27,504.20,4981.54
+Clothing,Supermarkets ,Mystery Discount Days,3123750.33,1142,2735.33,502.13,4999.85
+Clothing,Supermarkets ,New Arrival Showcase,3103258.26,1156,2684.48,500.17,4996.95
+Clothing,Supermarkets ,New Product Launch Promo,3113712.06,1123,2772.67,500.27,4988.99
+Clothing,Supermarkets ,New Year Kickoff,3064554.48,1123,2728.90,500.45,4994.72
+Clothing,Supermarkets ,Price Drop Parade,3178906.24,1143,2781.20,503.25,4998.25
+Clothing,Supermarkets ,Red Tag Clearance,3089710.99,1126,2743.97,501.79,4985.45
+Clothing,Supermarkets ,Seasonal Surprise Box,3282294.47,1162,2824.69,500.52,4988.87
+Clothing,Supermarkets ,Shop & Save Spectacular,3259049.39,1170,2785.51,500.33,4997.38
+Clothing,Supermarkets ,Smart Shopper Week,3118801.04,1102,2830.13,507.97,4996.33
+Clothing,Supermarkets ,Spring Refresh Event,3293244.19,1196,2753.55,500.43,4997.20
+Clothing,Supermarkets ,Spring Splash Discounts,3123533.67,1151,2713.76,500.46,4999.01
+Clothing,Supermarkets ,Summer Sizzle Promo,3143415.24,1147,2740.55,502.32,4998.80
+Clothing,Supermarkets ,Super Savings Week,3032369.97,1118,2712.32,501.26,4994.09
+Clothing,Supermarkets ,Ultimate Value Event,3251516.65,1184,2746.21,500.07,4998.67
+Clothing,Supermarkets ,VIP Access Sale,3341993.59,1216,2748.35,506.71,4996.65
+Clothing,Supermarkets ,Weekend Warrior Specials,3202343.20,1178,2718.46,501.72,4998.52
+Clothing,Supermarkets ,Winter Clearance Carnival,3072848.01,1116,2753.45,505.16,4997.27
+Clothing,Supermarkets ,Winter Wonders Sale,3137516.52,1153,2721.18,502.39,4998.47
+Electronics,Large Malls / Complexes,12 Days of Deals,2624153.88,974,2694.20,512.15,4992.13
+Electronics,Large Malls / Complexes,Autumn Deals Drive,2952243.79,1040,2838.70,502.40,4996.51
+Electronics,Large Malls / Complexes,BOGO Blitz,2822527.68,1003,2814.09,504.25,4997.65
+Electronics,Large Malls / Complexes,Back to School Boost,2708979.12,1021,2653.26,506.31,4988.38
+Electronics,Large Malls / Complexes,Birthday Bash Sale,2877166.12,1041,2763.85,502.96,4994.15
+Electronics,Large Malls / Complexes,Black Friday Blowout,2956458.35,1076,2747.64,500.70,4997.94
+Electronics,Large Malls / Complexes,Cart Crasher Campaign,2982296.18,1072,2781.99,502.87,4995.09
+Electronics,Large Malls / Complexes,Cashback Carnival,2959710.83,1067,2773.86,510.86,4995.33
+Electronics,Large Malls / Complexes,Clearance Countdown,2841140.75,1050,2705.85,502.39,4998.50
+Electronics,Large Malls / Complexes,Countdown to Savings,2887968.58,1050,2750.45,500.60,4989.61
+Electronics,Large Malls / Complexes,Customer Appreciation Week,2824626.67,1021,2766.53,504.71,4998.63
+Electronics,Large Malls / Complexes,Cyber Monday Mania,2841196.03,1051,2703.33,503.56,4999.50
+Electronics,Large Malls / Complexes,Deal of the Month,2902334.96,1059,2740.64,501.76,4995.33
+Electronics,Large Malls / Complexes,Double Points Bonanza,2783767.26,1002,2778.21,502.33,4999.96
+Electronics,Large Malls / Complexes,Early Bird Specials,2918202.46,1069,2729.84,502.05,4993.50
+Electronics,Large Malls / Complexes,End of Season Sale,2775256.43,1021,2718.17,502.83,4998.76
+Electronics,Large Malls / Complexes,Exclusive Insider Offers,3017008.92,1090,2767.90,503.43,4993.72
+Electronics,Large Malls / Complexes,Festive Fever Promo,2829942.23,1038,2726.34,500.64,4998.89
+Electronics,Large Malls / Complexes,Final Call Frenzy,2956565.10,1071,2760.56,500.25,4995.31
+Electronics,Large Malls / Complexes,Flash Frenzy Friday,2916161.96,1079,2702.65,504.09,4999.95
+Electronics,Large Malls / Complexes,"Gift More, Spend Less",2813503.83,1047,2687.21,502.74,4998.35
+Electronics,Large Malls / Complexes,Golden Hour Bargains,2919286.52,1061,2751.45,502.34,4995.98
+Electronics,Large Malls / Complexes,Green Weekend Deals,2752791.59,993,2772.20,505.65,4999.78
+Electronics,Large Malls / Complexes,Happy Hour Discounts,3066081.13,1113,2754.79,515.98,4993.94
+Electronics,Large Malls / Complexes,Holiday Shopping Rush,2871237.10,1025,2801.21,501.27,4999.40
+Electronics,Large Malls / Complexes,Hot Picks Promo,2757395.11,1014,2719.32,502.73,4996.10
+Electronics,Large Malls / Complexes,Instant Gratification Sale,2894909.15,1064,2720.78,502.13,4998.62
+Electronics,Large Malls / Complexes,Limited Time Treasures,3118957.98,1112,2804.82,515.94,4987.13
+Electronics,Large Malls / Complexes,Loyalty Rewards Blast,2808797.65,1030,2726.99,507.60,4992.76
+Electronics,Large Malls / Complexes,Mega Weekend Bonanza,3045731.58,1109,2746.38,504.44,4994.32
+Electronics,Large Malls / Complexes,Mid-Year Madness,2950745.71,1064,2773.26,502.59,4997.31
+Electronics,Large Malls / Complexes,Midnight Madness,2784239.62,1023,2721.64,505.60,4999.83
+Electronics,Large Malls / Complexes,Mystery Discount Days,3100080.52,1103,2810.59,500.77,4995.07
+Electronics,Large Malls / Complexes,New Arrival Showcase,3158869.08,1098,2876.93,504.98,4999.20
+Electronics,Large Malls / Complexes,New Product Launch Promo,3013069.00,1113,2707.16,515.51,4998.61
+Electronics,Large Malls / Complexes,New Year Kickoff,3157421.36,1129,2796.65,501.48,4996.42
+Electronics,Large Malls / Complexes,Price Drop Parade,2804827.73,1026,2733.75,500.55,4999.10
+Electronics,Large Malls / Complexes,Red Tag Clearance,2906013.87,1074,2705.79,508.61,4990.05
+Electronics,Large Malls / Complexes,Seasonal Surprise Box,2898778.55,1052,2755.49,504.53,4997.26
+Electronics,Large Malls / Complexes,Shop & Save Spectacular,3087313.12,1109,2783.87,502.74,4992.95
+Electronics,Large Malls / Complexes,Smart Shopper Week,2853515.89,1044,2733.25,509.76,4997.75
+Electronics,Large Malls / Complexes,Spring Refresh Event,3003057.07,1079,2783.19,500.80,4999.83
+Electronics,Large Malls / Complexes,Spring Splash Discounts,2714477.51,972,2792.67,504.23,4999.02
+Electronics,Large Malls / Complexes,Summer Sizzle Promo,2884478.95,1036,2784.25,501.20,4995.40
+Electronics,Large Malls / Complexes,Super Savings Week,2877936.37,1050,2740.89,508.42,4996.76
+Electronics,Large Malls / Complexes,Ultimate Value Event,2970811.98,1064,2792.12,506.64,4998.93
+Electronics,Large Malls / Complexes,VIP Access Sale,2998918.56,1081,2774.21,507.71,4995.20
+Electronics,Large Malls / Complexes,Weekend Warrior Specials,2933550.68,1054,2783.25,503.52,4998.12
+Electronics,Large Malls / Complexes,Winter Clearance Carnival,3044280.01,1084,2808.38,501.55,4993.31
+Electronics,Large Malls / Complexes,Winter Wonders Sale,2770734.30,1027,2697.89,501.34,4996.43
+Electronics,Small Stores / Shops,12 Days of Deals,2952748.72,1084,2723.94,502.99,4999.82
+Electronics,Small Stores / Shops,Autumn Deals Drive,3068182.46,1098,2794.34,500.20,4984.76
+Electronics,Small Stores / Shops,BOGO Blitz,2965078.05,1109,2673.65,501.56,4998.43
+Electronics,Small Stores / Shops,Back to School Boost,3175712.75,1178,2695.85,500.14,4994.40
+Electronics,Small Stores / Shops,Birthday Bash Sale,3178273.58,1152,2758.92,501.00,4993.29
+Electronics,Small Stores / Shops,Black Friday Blowout,3056220.72,1113,2745.93,502.51,4989.77
+Electronics,Small Stores / Shops,Cart Crasher Campaign,3136101.34,1130,2775.31,503.57,4996.42
+Electronics,Small Stores / Shops,Cashback Carnival,2967490.11,1094,2712.51,500.55,4998.33
+Electronics,Small Stores / Shops,Clearance Countdown,3175935.57,1161,2735.52,500.08,4991.96
+Electronics,Small Stores / Shops,Countdown to Savings,3060187.87,1112,2751.97,500.75,4993.48
+Electronics,Small Stores / Shops,Customer Appreciation Week,3096998.83,1130,2740.71,507.61,4997.50
+Electronics,Small Stores / Shops,Cyber Monday Mania,3178245.63,1130,2812.61,511.34,4999.28
+Electronics,Small Stores / Shops,Deal of the Month,3042352.41,1107,2748.29,507.33,4997.93
+Electronics,Small Stores / Shops,Double Points Bonanza,3236396.47,1178,2747.37,500.59,4997.47
+Electronics,Small Stores / Shops,Early Bird Specials,3158659.58,1153,2739.51,505.82,4999.11
+Electronics,Small Stores / Shops,End of Season Sale,3225435.46,1154,2795.00,511.30,4996.48
+Electronics,Small Stores / Shops,Exclusive Insider Offers,3155369.54,1140,2767.87,507.60,4999.96
+Electronics,Small Stores / Shops,Festive Fever Promo,3061234.86,1094,2798.20,500.15,4996.28
+Electronics,Small Stores / Shops,Final Call Frenzy,3176605.04,1155,2750.31,501.33,4996.78
+Electronics,Small Stores / Shops,Flash Frenzy Friday,2993907.32,1081,2769.57,508.81,4996.92
+Electronics,Small Stores / Shops,"Gift More, Spend Less",3135931.08,1134,2765.37,506.16,4997.81
+Electronics,Small Stores / Shops,Golden Hour Bargains,2922456.63,1071,2728.72,506.47,4995.35
+Electronics,Small Stores / Shops,Green Weekend Deals,3153441.04,1161,2716.14,502.12,4998.39
+Electronics,Small Stores / Shops,Happy Hour Discounts,3061634.02,1101,2780.78,504.99,4987.73
+Electronics,Small Stores / Shops,Holiday Shopping Rush,3031042.38,1087,2788.45,500.26,4988.74
+Electronics,Small Stores / Shops,Hot Picks Promo,3073509.99,1106,2778.94,510.19,4996.56
+Electronics,Small Stores / Shops,Instant Gratification Sale,3015131.15,1123,2684.89,509.81,4993.60
+Electronics,Small Stores / Shops,Limited Time Treasures,3219982.32,1148,2804.86,501.60,4999.20
+Electronics,Small Stores / Shops,Loyalty Rewards Blast,3159006.19,1148,2751.75,500.73,4996.70
+Electronics,Small Stores / Shops,Mega Weekend Bonanza,3081908.01,1121,2749.25,503.47,4999.69
+Electronics,Small Stores / Shops,Mid-Year Madness,3075364.52,1120,2745.86,500.34,4995.57
+Electronics,Small Stores / Shops,Midnight Madness,3118090.37,1112,2804.04,510.89,4998.66
+Electronics,Small Stores / Shops,Mystery Discount Days,3131466.46,1101,2844.20,501.23,4996.44
+Electronics,Small Stores / Shops,New Arrival Showcase,3015809.48,1084,2782.11,502.12,4998.70
+Electronics,Small Stores / Shops,New Product Launch Promo,3101400.46,1139,2722.92,501.09,4995.58
+Electronics,Small Stores / Shops,New Year Kickoff,3117264.27,1123,2775.84,512.45,4998.59
+Electronics,Small Stores / Shops,Price Drop Parade,2974705.38,1087,2736.62,501.39,4998.12
+Electronics,Small Stores / Shops,Red Tag Clearance,3108107.86,1126,2760.31,501.05,4993.50
+Electronics,Small Stores / Shops,Seasonal Surprise Box,3163761.35,1139,2777.67,501.42,4997.91
+Electronics,Small Stores / Shops,Shop & Save Spectacular,3138356.96,1163,2698.50,500.49,4996.66
+Electronics,Small Stores / Shops,Smart Shopper Week,3025324.19,1106,2735.37,504.91,4998.63
+Electronics,Small Stores / Shops,Spring Refresh Event,2917094.40,1054,2767.64,509.43,4997.36
+Electronics,Small Stores / Shops,Spring Splash Discounts,3222963.53,1153,2795.28,502.11,4998.48
+Electronics,Small Stores / Shops,Summer Sizzle Promo,3046277.61,1127,2703.00,506.50,4995.77
+Electronics,Small Stores / Shops,Super Savings Week,3054899.86,1107,2759.62,501.34,4998.99
+Electronics,Small Stores / Shops,Ultimate Value Event,3117896.44,1131,2756.76,503.14,4999.80
+Electronics,Small Stores / Shops,VIP Access Sale,3115834.67,1158,2690.70,503.41,4996.84
+Electronics,Small Stores / Shops,Weekend Warrior Specials,3090910.51,1134,2725.67,501.99,4991.20
+Electronics,Small Stores / Shops,Winter Clearance Carnival,3219439.75,1147,2806.84,501.06,4991.72
+Electronics,Small Stores / Shops,Winter Wonders Sale,3105991.30,1142,2719.78,509.63,4997.71
+Electronics,Supermarkets ,12 Days of Deals,3110456.91,1132,2747.75,507.68,4999.60
+Electronics,Supermarkets ,Autumn Deals Drive,3130171.16,1123,2787.33,501.19,4999.09
+Electronics,Supermarkets ,BOGO Blitz,3232412.17,1179,2741.66,506.14,4998.29
+Electronics,Supermarkets ,Back to School Boost,3141156.66,1150,2731.44,503.72,4997.92
+Electronics,Supermarkets ,Birthday Bash Sale,3071027.96,1109,2769.19,500.20,4999.90
+Electronics,Supermarkets ,Black Friday Blowout,3121188.74,1145,2725.93,505.50,4999.87
+Electronics,Supermarkets ,Cart Crasher Campaign,3333986.04,1193,2794.62,502.78,4998.84
+Electronics,Supermarkets ,Cashback Carnival,3207766.90,1163,2758.18,500.13,4992.85
+Electronics,Supermarkets ,Clearance Countdown,3304579.84,1205,2742.39,503.09,4998.92
+Electronics,Supermarkets ,Countdown to Savings,3223258.35,1176,2740.87,514.69,4995.30
+Electronics,Supermarkets ,Customer Appreciation Week,3322580.00,1216,2732.38,505.23,4996.51
+Electronics,Supermarkets ,Cyber Monday Mania,3256493.83,1174,2773.84,504.44,4993.63
+Electronics,Supermarkets ,Deal of the Month,3146671.29,1145,2748.18,504.69,4999.96
+Electronics,Supermarkets ,Double Points Bonanza,3005225.77,1083,2774.91,500.48,4998.12
+Electronics,Supermarkets ,Early Bird Specials,3077829.28,1132,2718.93,503.12,4992.90
+Electronics,Supermarkets ,End of Season Sale,2940101.58,1084,2712.27,501.39,4998.09
+Electronics,Supermarkets ,Exclusive Insider Offers,3255369.90,1191,2733.31,511.49,4999.75
+Electronics,Supermarkets ,Festive Fever Promo,3215946.18,1190,2702.48,501.00,4995.38
+Electronics,Supermarkets ,Final Call Frenzy,3090282.35,1129,2737.19,504.31,4999.96
+Electronics,Supermarkets ,Flash Frenzy Friday,3048432.83,1105,2758.76,502.31,4989.37
+Electronics,Supermarkets ,"Gift More, Spend Less",3107691.22,1131,2747.74,503.92,4993.14
+Electronics,Supermarkets ,Golden Hour Bargains,3074073.55,1123,2737.38,504.46,4997.22
+Electronics,Supermarkets ,Green Weekend Deals,3161318.68,1129,2800.11,508.81,4996.94
+Electronics,Supermarkets ,Happy Hour Discounts,3070002.63,1098,2796.00,503.77,4998.47
+Electronics,Supermarkets ,Holiday Shopping Rush,3185151.62,1177,2706.16,500.17,4999.67
+Electronics,Supermarkets ,Hot Picks Promo,3092406.82,1131,2734.22,506.70,4995.24
+Electronics,Supermarkets ,Instant Gratification Sale,3231226.16,1180,2738.33,501.85,4996.98
+Electronics,Supermarkets ,Limited Time Treasures,3136617.37,1131,2773.31,502.69,4999.11
+Electronics,Supermarkets ,Loyalty Rewards Blast,3350614.24,1222,2741.91,503.58,4991.91
+Electronics,Supermarkets ,Mega Weekend Bonanza,3210569.84,1157,2774.91,502.17,4999.15
+Electronics,Supermarkets ,Mid-Year Madness,3045257.81,1099,2770.94,503.80,4999.11
+Electronics,Supermarkets ,Midnight Madness,3218889.03,1179,2730.19,500.93,4996.09
+Electronics,Supermarkets ,Mystery Discount Days,3228415.98,1167,2766.42,503.05,4996.73
+Electronics,Supermarkets ,New Arrival Showcase,3097422.78,1124,2755.71,503.69,4999.95
+Electronics,Supermarkets ,New Product Launch Promo,3339653.22,1209,2762.33,500.19,4995.68
+Electronics,Supermarkets ,New Year Kickoff,3384271.47,1202,2815.53,501.31,4999.63
+Electronics,Supermarkets ,Price Drop Parade,3143337.59,1144,2747.67,505.19,4997.91
+Electronics,Supermarkets ,Red Tag Clearance,3147105.11,1128,2789.99,501.03,4993.37
+Electronics,Supermarkets ,Seasonal Surprise Box,2965188.23,1089,2722.85,500.70,4995.48
+Electronics,Supermarkets ,Shop & Save Spectacular,3129130.49,1142,2740.04,500.09,4997.54
+Electronics,Supermarkets ,Smart Shopper Week,3169388.11,1157,2739.32,512.34,4999.77
+Electronics,Supermarkets ,Spring Refresh Event,3207434.64,1171,2739.06,500.05,4997.79
+Electronics,Supermarkets ,Spring Splash Discounts,3234491.17,1160,2788.35,504.51,4999.08
+Electronics,Supermarkets ,Summer Sizzle Promo,3019071.26,1082,2790.27,510.94,4988.14
+Electronics,Supermarkets ,Super Savings Week,3273588.15,1161,2819.63,510.02,4998.89
+Electronics,Supermarkets ,Ultimate Value Event,3314107.33,1189,2787.31,511.37,4999.13
+Electronics,Supermarkets ,VIP Access Sale,3173790.22,1166,2721.95,502.59,4998.82
+Electronics,Supermarkets ,Weekend Warrior Specials,3279692.50,1188,2760.68,503.53,4999.71
+Electronics,Supermarkets ,Winter Clearance Carnival,3240412.73,1200,2700.34,504.20,4995.61
+Electronics,Supermarkets ,Winter Wonders Sale,3154989.94,1173,2689.68,501.94,4989.20
+Furniture,Large Malls / Complexes,12 Days of Deals,2965714.51,1058,2803.13,502.44,4991.30
+Furniture,Large Malls / Complexes,Autumn Deals Drive,2936596.78,1066,2754.78,500.56,4999.01
+Furniture,Large Malls / Complexes,BOGO Blitz,2954532.85,1081,2733.15,504.41,4993.32
+Furniture,Large Malls / Complexes,Back to School Boost,3054032.65,1131,2700.29,501.66,4993.19
+Furniture,Large Malls / Complexes,Birthday Bash Sale,2824961.88,1012,2791.46,510.42,4997.22
+Furniture,Large Malls / Complexes,Black Friday Blowout,3026007.24,1109,2728.59,500.23,4999.88
+Furniture,Large Malls / Complexes,Cart Crasher Campaign,2781995.78,1020,2727.45,510.50,4998.52
+Furniture,Large Malls / Complexes,Cashback Carnival,2989032.69,1070,2793.49,500.92,4999.62
+Furniture,Large Malls / Complexes,Clearance Countdown,2971467.25,1070,2777.07,500.68,4995.19
+Furniture,Large Malls / Complexes,Countdown to Savings,2836003.26,1035,2740.10,505.04,4999.16
+Furniture,Large Malls / Complexes,Customer Appreciation Week,2613114.84,1006,2597.53,502.67,4988.63
+Furniture,Large Malls / Complexes,Cyber Monday Mania,2946742.84,1060,2779.95,500.56,4994.23
+Furniture,Large Malls / Complexes,Deal of the Month,2893498.95,1075,2691.63,501.02,4999.11
+Furniture,Large Malls / Complexes,Double Points Bonanza,2902389.41,1043,2782.73,505.06,4999.60
+Furniture,Large Malls / Complexes,Early Bird Specials,2989835.05,1090,2742.97,503.43,4996.66
+Furniture,Large Malls / Complexes,End of Season Sale,2728070.83,979,2786.59,504.42,4987.50
+Furniture,Large Malls / Complexes,Exclusive Insider Offers,2827210.64,1013,2790.93,516.07,4995.57
+Furniture,Large Malls / Complexes,Festive Fever Promo,2867113.23,1056,2715.07,501.32,4997.00
+Furniture,Large Malls / Complexes,Final Call Frenzy,2805674.48,1022,2745.28,501.98,4991.12
+Furniture,Large Malls / Complexes,Flash Frenzy Friday,3065998.11,1087,2820.61,502.44,4990.62
+Furniture,Large Malls / Complexes,"Gift More, Spend Less",2889761.02,1041,2775.95,502.35,4998.32
+Furniture,Large Malls / Complexes,Golden Hour Bargains,2911973.74,1056,2757.55,502.72,4997.28
+Furniture,Large Malls / Complexes,Green Weekend Deals,2833955.43,1049,2701.58,502.15,4999.33
+Furniture,Large Malls / Complexes,Happy Hour Discounts,2825955.47,1023,2762.42,501.14,4998.48
+Furniture,Large Malls / Complexes,Holiday Shopping Rush,2915267.11,1053,2768.53,502.02,4996.98
+Furniture,Large Malls / Complexes,Hot Picks Promo,3038848.93,1115,2725.43,506.63,4995.82
+Furniture,Large Malls / Complexes,Instant Gratification Sale,3044982.19,1087,2801.27,503.79,4997.47
+Furniture,Large Malls / Complexes,Limited Time Treasures,3141303.49,1115,2817.31,508.15,4997.24
+Furniture,Large Malls / Complexes,Loyalty Rewards Blast,2954708.57,1079,2738.38,500.38,4998.17
+Furniture,Large Malls / Complexes,Mega Weekend Bonanza,2965089.75,1081,2742.91,505.20,4993.16
+Furniture,Large Malls / Complexes,Mid-Year Madness,2681483.75,985,2722.32,501.87,4999.77
+Furniture,Large Malls / Complexes,Midnight Madness,2950605.35,1087,2714.45,501.59,4998.34
+Furniture,Large Malls / Complexes,Mystery Discount Days,3059895.15,1107,2764.13,502.26,4994.16
+Furniture,Large Malls / Complexes,New Arrival Showcase,2936713.93,1061,2767.87,515.29,4997.71
+Furniture,Large Malls / Complexes,New Product Launch Promo,2878763.53,1056,2726.10,500.59,4996.31
+Furniture,Large Malls / Complexes,New Year Kickoff,3092718.03,1108,2791.26,504.13,4998.10
+Furniture,Large Malls / Complexes,Price Drop Parade,2888433.68,1020,2831.80,506.58,4992.90
+Furniture,Large Malls / Complexes,Red Tag Clearance,2754825.11,995,2768.67,511.21,4999.64
+Furniture,Large Malls / Complexes,Seasonal Surprise Box,3014972.02,1101,2738.39,501.63,4998.58
+Furniture,Large Malls / Complexes,Shop & Save Spectacular,2960014.26,1049,2821.75,506.96,4993.55
+Furniture,Large Malls / Complexes,Smart Shopper Week,2977672.58,1080,2757.10,500.56,4994.01
+Furniture,Large Malls / Complexes,Spring Refresh Event,2987329.80,1085,2753.30,500.36,4997.69
+Furniture,Large Malls / Complexes,Spring Splash Discounts,3028019.81,1130,2679.66,500.35,4996.37
+Furniture,Large Malls / Complexes,Summer Sizzle Promo,2980425.36,1080,2759.65,505.17,4995.89
+Furniture,Large Malls / Complexes,Super Savings Week,2916136.04,1049,2779.92,503.67,4992.27
+Furniture,Large Malls / Complexes,Ultimate Value Event,2760461.99,1001,2757.70,502.11,4985.73
+Furniture,Large Malls / Complexes,VIP Access Sale,2836319.13,1039,2729.85,512.62,4987.26
+Furniture,Large Malls / Complexes,Weekend Warrior Specials,2986981.75,1086,2750.44,501.07,4999.65
+Furniture,Large Malls / Complexes,Winter Clearance Carnival,2950875.64,1051,2807.68,509.43,4998.34
+Furniture,Large Malls / Complexes,Winter Wonders Sale,2807491.34,1029,2728.37,500.29,4997.81
+Furniture,Small Stores / Shops,12 Days of Deals,3134386.33,1137,2756.72,511.57,4998.57
+Furniture,Small Stores / Shops,Autumn Deals Drive,3065034.43,1120,2736.64,502.71,4998.96
+Furniture,Small Stores / Shops,BOGO Blitz,3193133.29,1142,2796.09,505.02,4994.26
+Furniture,Small Stores / Shops,Back to School Boost,2882397.83,1038,2776.88,503.95,4996.70
+Furniture,Small Stores / Shops,Birthday Bash Sale,3013854.81,1106,2725.00,501.84,4996.86
+Furniture,Small Stores / Shops,Black Friday Blowout,3196851.77,1131,2826.57,503.75,4999.47
+Furniture,Small Stores / Shops,Cart Crasher Campaign,3038418.91,1100,2762.20,501.27,4993.56
+Furniture,Small Stores / Shops,Cashback Carnival,3006495.52,1097,2740.65,502.45,4999.14
+Furniture,Small Stores / Shops,Clearance Countdown,2993619.09,1089,2748.96,500.93,4996.82
+Furniture,Small Stores / Shops,Countdown to Savings,3072658.44,1114,2758.22,508.05,4997.53
+Furniture,Small Stores / Shops,Customer Appreciation Week,3104191.72,1139,2725.37,501.28,4996.95
+Furniture,Small Stores / Shops,Cyber Monday Mania,3134483.97,1126,2783.73,502.75,4990.19
+Furniture,Small Stores / Shops,Deal of the Month,3145185.97,1147,2742.10,506.65,4985.15
+Furniture,Small Stores / Shops,Double Points Bonanza,3141685.13,1107,2838.02,500.57,4996.14
+Furniture,Small Stores / Shops,Early Bird Specials,2986007.28,1086,2749.55,506.72,4997.80
+Furniture,Small Stores / Shops,End of Season Sale,2985510.04,1089,2741.52,510.38,4998.04
+Furniture,Small Stores / Shops,Exclusive Insider Offers,3047297.69,1129,2699.11,501.18,4992.03
+Furniture,Small Stores / Shops,Festive Fever Promo,3101378.47,1119,2771.56,500.07,4996.22
+Furniture,Small Stores / Shops,Final Call Frenzy,3248729.27,1177,2760.18,501.06,4998.78
+Furniture,Small Stores / Shops,Flash Frenzy Friday,3176223.38,1161,2735.77,505.21,4999.30
+Furniture,Small Stores / Shops,"Gift More, Spend Less",3079091.07,1124,2739.40,508.69,4998.02
+Furniture,Small Stores / Shops,Golden Hour Bargains,3026980.28,1070,2828.95,503.86,4999.31
+Furniture,Small Stores / Shops,Green Weekend Deals,3078213.10,1123,2741.06,503.53,4993.14
+Furniture,Small Stores / Shops,Happy Hour Discounts,3098416.52,1119,2768.92,500.31,4998.88
+Furniture,Small Stores / Shops,Holiday Shopping Rush,3055747.46,1115,2740.58,504.36,4997.57
+Furniture,Small Stores / Shops,Hot Picks Promo,3134834.71,1134,2764.40,502.87,4997.56
+Furniture,Small Stores / Shops,Instant Gratification Sale,3114357.71,1114,2795.65,502.68,4999.03
+Furniture,Small Stores / Shops,Limited Time Treasures,3215286.31,1178,2729.45,500.34,4997.33
+Furniture,Small Stores / Shops,Loyalty Rewards Blast,2944456.76,1070,2751.83,500.57,4979.86
+Furniture,Small Stores / Shops,Mega Weekend Bonanza,3101847.12,1112,2789.43,504.00,4992.81
+Furniture,Small Stores / Shops,Mid-Year Madness,3059889.37,1115,2744.30,507.51,4999.10
+Furniture,Small Stores / Shops,Midnight Madness,3181887.91,1148,2771.68,501.83,4998.12
+Furniture,Small Stores / Shops,Mystery Discount Days,2997727.34,1084,2765.43,502.33,4995.72
+Furniture,Small Stores / Shops,New Arrival Showcase,3145069.72,1145,2746.79,503.77,4999.20
+Furniture,Small Stores / Shops,New Product Launch Promo,3090930.17,1109,2787.13,501.02,4999.40
+Furniture,Small Stores / Shops,New Year Kickoff,3222120.72,1168,2758.67,501.02,4998.26
+Furniture,Small Stores / Shops,Price Drop Parade,3188832.17,1141,2794.77,500.06,4997.34
+Furniture,Small Stores / Shops,Red Tag Clearance,3025792.56,1108,2730.86,501.29,4997.86
+Furniture,Small Stores / Shops,Seasonal Surprise Box,3039519.12,1126,2699.40,503.81,4996.98
+Furniture,Small Stores / Shops,Shop & Save Spectacular,3129455.28,1122,2789.18,507.30,4998.65
+Furniture,Small Stores / Shops,Smart Shopper Week,3001627.34,1073,2797.42,503.09,4999.64
+Furniture,Small Stores / Shops,Spring Refresh Event,3060858.56,1085,2821.07,505.62,4985.39
+Furniture,Small Stores / Shops,Spring Splash Discounts,3137285.56,1131,2773.90,504.61,4999.44
+Furniture,Small Stores / Shops,Summer Sizzle Promo,3107992.40,1142,2721.53,504.85,4998.67
+Furniture,Small Stores / Shops,Super Savings Week,3063467.79,1127,2718.25,500.70,4999.89
+Furniture,Small Stores / Shops,Ultimate Value Event,2945409.07,1062,2773.45,501.69,4996.74
+Furniture,Small Stores / Shops,VIP Access Sale,3002793.07,1082,2775.22,502.41,4992.06
+Furniture,Small Stores / Shops,Weekend Warrior Specials,2998342.16,1099,2728.25,501.38,4999.21
+Furniture,Small Stores / Shops,Winter Clearance Carnival,3024123.38,1099,2751.70,501.40,4984.84
+Furniture,Small Stores / Shops,Winter Wonders Sale,3214903.69,1150,2795.57,502.50,4977.90
+Furniture,Supermarkets ,12 Days of Deals,3063942.30,1122,2730.79,502.40,4998.58
+Furniture,Supermarkets ,Autumn Deals Drive,3197507.72,1192,2682.47,507.41,4996.10
+Furniture,Supermarkets ,BOGO Blitz,3025499.37,1136,2663.29,503.27,4986.49
+Furniture,Supermarkets ,Back to School Boost,3377818.84,1246,2710.93,506.98,4988.70
+Furniture,Supermarkets ,Birthday Bash Sale,3108132.93,1116,2785.07,501.52,4999.90
+Furniture,Supermarkets ,Black Friday Blowout,3320567.36,1182,2809.28,504.85,4995.43
+Furniture,Supermarkets ,Cart Crasher Campaign,3221057.86,1187,2713.61,501.43,4998.49
+Furniture,Supermarkets ,Cashback Carnival,3216609.23,1172,2744.55,503.47,4999.22
+Furniture,Supermarkets ,Clearance Countdown,3246188.51,1169,2776.89,503.67,4995.77
+Furniture,Supermarkets ,Countdown to Savings,3219605.83,1163,2768.36,502.09,4996.95
+Furniture,Supermarkets ,Customer Appreciation Week,3166034.39,1173,2699.09,504.04,4997.65
+Furniture,Supermarkets ,Cyber Monday Mania,2947445.33,1078,2734.18,510.59,4993.83
+Furniture,Supermarkets ,Deal of the Month,3184368.08,1169,2724.01,503.22,4999.17
+Furniture,Supermarkets ,Double Points Bonanza,3342717.12,1205,2774.04,522.80,4999.14
+Furniture,Supermarkets ,Early Bird Specials,3001421.47,1108,2708.86,500.89,4997.79
+Furniture,Supermarkets ,End of Season Sale,3270958.36,1188,2753.33,500.31,4998.80
+Furniture,Supermarkets ,Exclusive Insider Offers,3085099.39,1124,2744.75,501.83,4998.36
+Furniture,Supermarkets ,Festive Fever Promo,3173295.46,1181,2686.96,502.37,4998.62
+Furniture,Supermarkets ,Final Call Frenzy,3095715.95,1111,2786.42,502.39,4998.23
+Furniture,Supermarkets ,Flash Frenzy Friday,3162183.45,1155,2737.82,508.18,4995.77
+Furniture,Supermarkets ,"Gift More, Spend Less",3013864.76,1127,2674.24,500.71,4997.79
+Furniture,Supermarkets ,Golden Hour Bargains,3047896.66,1127,2704.43,506.16,4996.13
+Furniture,Supermarkets ,Green Weekend Deals,3246391.50,1178,2755.85,505.86,4997.02
+Furniture,Supermarkets ,Happy Hour Discounts,3145168.88,1156,2720.73,501.84,4987.78
+Furniture,Supermarkets ,Holiday Shopping Rush,3085544.69,1105,2792.35,503.97,4996.87
+Furniture,Supermarkets ,Hot Picks Promo,3166822.35,1140,2777.91,507.08,4997.23
+Furniture,Supermarkets ,Instant Gratification Sale,3210165.29,1150,2791.45,503.70,4992.46
+Furniture,Supermarkets ,Limited Time Treasures,3211932.39,1184,2712.78,502.15,4999.59
+Furniture,Supermarkets ,Loyalty Rewards Blast,3108420.69,1166,2665.88,500.58,4999.26
+Furniture,Supermarkets ,Mega Weekend Bonanza,3145073.31,1155,2723.01,502.08,4987.63
+Furniture,Supermarkets ,Mid-Year Madness,3268749.79,1184,2760.77,509.88,4989.43
+Furniture,Supermarkets ,Midnight Madness,3307525.88,1177,2810.13,503.86,4995.95
+Furniture,Supermarkets ,Mystery Discount Days,3262695.59,1177,2772.04,503.79,4995.76
+Furniture,Supermarkets ,New Arrival Showcase,3155797.34,1170,2697.26,508.31,4997.96
+Furniture,Supermarkets ,New Product Launch Promo,3209168.17,1190,2696.78,501.50,4999.22
+Furniture,Supermarkets ,New Year Kickoff,3200094.35,1162,2753.95,505.38,4997.66
+Furniture,Supermarkets ,Price Drop Parade,3145823.69,1142,2754.66,512.25,4990.23
+Furniture,Supermarkets ,Red Tag Clearance,3178767.90,1158,2745.05,503.92,4993.73
+Furniture,Supermarkets ,Seasonal Surprise Box,3344818.73,1205,2775.78,502.27,4998.54
+Furniture,Supermarkets ,Shop & Save Spectacular,3152883.61,1165,2706.34,504.91,4997.78
+Furniture,Supermarkets ,Smart Shopper Week,3210321.06,1150,2791.58,502.89,4998.03
+Furniture,Supermarkets ,Spring Refresh Event,3289510.34,1205,2729.88,505.59,4999.58
+Furniture,Supermarkets ,Spring Splash Discounts,3164016.75,1131,2797.54,502.65,4998.36
+Furniture,Supermarkets ,Summer Sizzle Promo,3224444.89,1174,2746.55,517.05,4988.62
+Furniture,Supermarkets ,Super Savings Week,3287173.62,1165,2821.61,504.79,4997.19
+Furniture,Supermarkets ,Ultimate Value Event,3201312.30,1155,2771.70,503.68,4998.80
+Furniture,Supermarkets ,VIP Access Sale,3181308.61,1169,2721.39,500.23,4995.75
+Furniture,Supermarkets ,Weekend Warrior Specials,3256771.56,1159,2809.98,501.39,4999.39
+Furniture,Supermarkets ,Winter Clearance Carnival,3226179.20,1199,2690.72,505.98,4998.82
+Furniture,Supermarkets ,Winter Wonders Sale,3287811.20,1194,2753.61,522.10,4995.12
+Groceries,Large Malls / Complexes,12 Days of Deals,3017174.94,1062,2841.03,508.70,4998.87
+Groceries,Large Malls / Complexes,Autumn Deals Drive,2882737.04,1074,2684.11,502.75,4999.80
+Groceries,Large Malls / Complexes,BOGO Blitz,2956447.26,1056,2799.67,507.32,4996.27
+Groceries,Large Malls / Complexes,Back to School Boost,2937369.61,1048,2802.83,509.58,4999.06
+Groceries,Large Malls / Complexes,Birthday Bash Sale,2917390.99,1068,2731.64,503.77,4991.73
+Groceries,Large Malls / Complexes,Black Friday Blowout,2670476.95,1000,2670.48,509.93,4999.51
+Groceries,Large Malls / Complexes,Cart Crasher Campaign,2740676.75,1021,2684.31,504.65,4976.29
+Groceries,Large Malls / Complexes,Cashback Carnival,2908062.29,1056,2753.85,510.20,4995.37
+Groceries,Large Malls / Complexes,Clearance Countdown,2931503.72,1059,2768.18,512.75,4998.78
+Groceries,Large Malls / Complexes,Countdown to Savings,2846858.32,1049,2713.88,502.00,4993.99
+Groceries,Large Malls / Complexes,Customer Appreciation Week,2893866.52,1043,2774.56,502.48,4997.51
+Groceries,Large Malls / Complexes,Cyber Monday Mania,2874089.51,1056,2721.68,505.34,4998.93
+Groceries,Large Malls / Complexes,Deal of the Month,2894713.44,1045,2770.06,507.49,4994.21
+Groceries,Large Malls / Complexes,Double Points Bonanza,2920449.48,1077,2711.65,502.21,4996.36
+Groceries,Large Malls / Complexes,Early Bird Specials,3045571.52,1084,2809.57,501.54,4998.24
+Groceries,Large Malls / Complexes,End of Season Sale,2905461.62,1041,2791.03,500.36,4996.20
+Groceries,Large Malls / Complexes,Exclusive Insider Offers,2835836.04,1041,2724.15,501.31,4999.92
+Groceries,Large Malls / Complexes,Festive Fever Promo,3070386.93,1103,2783.67,505.30,4996.81
+Groceries,Large Malls / Complexes,Final Call Frenzy,2949172.12,1073,2748.53,503.08,4995.49
+Groceries,Large Malls / Complexes,Flash Frenzy Friday,2757369.81,1006,2740.92,504.91,4991.58
+Groceries,Large Malls / Complexes,"Gift More, Spend Less",2798195.52,1030,2716.69,511.37,4994.67
+Groceries,Large Malls / Complexes,Golden Hour Bargains,2821602.47,1048,2692.37,504.10,4999.90
+Groceries,Large Malls / Complexes,Green Weekend Deals,2925575.33,1073,2726.54,500.26,4990.34
+Groceries,Large Malls / Complexes,Happy Hour Discounts,2902496.59,1077,2694.98,513.29,4998.94
+Groceries,Large Malls / Complexes,Holiday Shopping Rush,2770995.65,993,2790.53,513.31,4999.39
+Groceries,Large Malls / Complexes,Hot Picks Promo,2763348.01,1023,2701.22,500.98,4999.96
+Groceries,Large Malls / Complexes,Instant Gratification Sale,2897246.76,1035,2799.27,501.41,4994.62
+Groceries,Large Malls / Complexes,Limited Time Treasures,2852248.50,1010,2824.01,513.89,4986.97
+Groceries,Large Malls / Complexes,Loyalty Rewards Blast,2973716.66,1063,2797.48,501.89,4995.73
+Groceries,Large Malls / Complexes,Mega Weekend Bonanza,2624425.39,979,2680.72,501.33,4996.99
+Groceries,Large Malls / Complexes,Mid-Year Madness,2836810.26,1021,2778.46,500.32,4982.61
+Groceries,Large Malls / Complexes,Midnight Madness,2905207.11,1053,2758.98,500.95,4999.95
+Groceries,Large Malls / Complexes,Mystery Discount Days,2669048.39,979,2726.30,502.96,4978.06
+Groceries,Large Malls / Complexes,New Arrival Showcase,2844533.90,1017,2796.99,505.15,4999.86
+Groceries,Large Malls / Complexes,New Product Launch Promo,2960220.84,1062,2787.40,500.73,4999.20
+Groceries,Large Malls / Complexes,New Year Kickoff,2734647.69,1005,2721.04,520.12,4990.17
+Groceries,Large Malls / Complexes,Price Drop Parade,2755509.84,998,2761.03,504.57,4999.83
+Groceries,Large Malls / Complexes,Red Tag Clearance,2874621.72,1029,2793.61,504.16,4994.41
+Groceries,Large Malls / Complexes,Seasonal Surprise Box,2880557.29,1047,2751.25,502.74,4990.82
+Groceries,Large Malls / Complexes,Shop & Save Spectacular,2871702.07,1043,2753.31,501.87,4995.39
+Groceries,Large Malls / Complexes,Smart Shopper Week,2910712.84,1048,2777.40,500.54,4999.40
+Groceries,Large Malls / Complexes,Spring Refresh Event,2968422.17,1054,2816.34,501.42,4998.26
+Groceries,Large Malls / Complexes,Spring Splash Discounts,2924664.29,1072,2728.23,515.99,4998.53
+Groceries,Large Malls / Complexes,Summer Sizzle Promo,2790359.63,1015,2749.12,501.06,4991.99
+Groceries,Large Malls / Complexes,Super Savings Week,2980443.17,1088,2739.38,502.78,4998.49
+Groceries,Large Malls / Complexes,Ultimate Value Event,2885492.69,1040,2774.51,500.47,4997.75
+Groceries,Large Malls / Complexes,VIP Access Sale,2762877.29,1032,2677.21,503.17,4995.38
+Groceries,Large Malls / Complexes,Weekend Warrior Specials,2960787.42,1087,2723.82,522.36,4994.74
+Groceries,Large Malls / Complexes,Winter Clearance Carnival,2918852.17,1059,2756.23,507.62,4999.97
+Groceries,Large Malls / Complexes,Winter Wonders Sale,2795801.86,1017,2749.07,505.12,4999.56
+Groceries,Small Stores / Shops,12 Days of Deals,3083894.54,1111,2775.78,502.31,4995.38
+Groceries,Small Stores / Shops,Autumn Deals Drive,3296215.25,1185,2781.62,500.76,4998.35
+Groceries,Small Stores / Shops,BOGO Blitz,3112894.78,1116,2789.33,507.25,4998.59
+Groceries,Small Stores / Shops,Back to School Boost,3072219.28,1146,2680.82,500.43,4996.41
+Groceries,Small Stores / Shops,Birthday Bash Sale,3026141.57,1098,2756.05,504.67,4991.37
+Groceries,Small Stores / Shops,Black Friday Blowout,3107186.75,1107,2806.85,500.83,4990.79
+Groceries,Small Stores / Shops,Cart Crasher Campaign,3060449.09,1117,2739.88,504.51,4993.97
+Groceries,Small Stores / Shops,Cashback Carnival,3103968.33,1127,2754.19,502.91,4995.88
+Groceries,Small Stores / Shops,Clearance Countdown,3135605.27,1125,2787.20,502.02,4999.80
+Groceries,Small Stores / Shops,Countdown to Savings,3149038.48,1159,2717.03,500.65,4996.32
+Groceries,Small Stores / Shops,Customer Appreciation Week,3183698.56,1147,2775.67,500.64,4997.84
+Groceries,Small Stores / Shops,Cyber Monday Mania,2998791.20,1113,2694.33,504.09,4999.83
+Groceries,Small Stores / Shops,Deal of the Month,2966612.31,1096,2706.76,500.56,4996.71
+Groceries,Small Stores / Shops,Double Points Bonanza,2931845.55,1085,2702.16,500.95,4991.82
+Groceries,Small Stores / Shops,Early Bird Specials,2971038.74,1111,2674.20,508.69,4999.70
+Groceries,Small Stores / Shops,End of Season Sale,3118107.67,1125,2771.65,500.37,4998.37
+Groceries,Small Stores / Shops,Exclusive Insider Offers,3104263.98,1122,2766.72,504.77,4999.35
+Groceries,Small Stores / Shops,Festive Fever Promo,2874577.80,1069,2689.03,502.25,4983.92
+Groceries,Small Stores / Shops,Final Call Frenzy,3213678.59,1153,2787.23,504.53,4994.94
+Groceries,Small Stores / Shops,Flash Frenzy Friday,2992580.94,1104,2710.67,511.49,4996.14
+Groceries,Small Stores / Shops,"Gift More, Spend Less",3144341.52,1134,2772.79,509.81,4998.23
+Groceries,Small Stores / Shops,Golden Hour Bargains,3201516.94,1163,2752.81,504.86,4987.95
+Groceries,Small Stores / Shops,Green Weekend Deals,3181098.39,1144,2780.68,507.29,4994.05
+Groceries,Small Stores / Shops,Happy Hour Discounts,3015006.93,1114,2706.47,500.75,4984.58
+Groceries,Small Stores / Shops,Holiday Shopping Rush,3046912.88,1135,2684.50,501.56,4998.79
+Groceries,Small Stores / Shops,Hot Picks Promo,3134815.31,1123,2791.47,500.73,4998.48
+Groceries,Small Stores / Shops,Instant Gratification Sale,3178784.56,1152,2759.36,503.24,4998.35
+Groceries,Small Stores / Shops,Limited Time Treasures,2888092.34,1069,2701.68,508.05,4987.05
+Groceries,Small Stores / Shops,Loyalty Rewards Blast,3086543.99,1122,2750.93,507.01,4995.57
+Groceries,Small Stores / Shops,Mega Weekend Bonanza,3084528.53,1123,2746.69,506.20,4994.82
+Groceries,Small Stores / Shops,Mid-Year Madness,3265036.26,1179,2769.33,500.47,4994.70
+Groceries,Small Stores / Shops,Midnight Madness,3004728.58,1122,2678.01,500.01,4995.25
+Groceries,Small Stores / Shops,Mystery Discount Days,3195531.55,1155,2766.69,500.94,4994.43
+Groceries,Small Stores / Shops,New Arrival Showcase,3098895.97,1095,2830.04,502.27,4995.28
+Groceries,Small Stores / Shops,New Product Launch Promo,2923546.05,1047,2792.31,504.86,4998.84
+Groceries,Small Stores / Shops,New Year Kickoff,3126536.44,1145,2730.60,508.27,4996.56
+Groceries,Small Stores / Shops,Price Drop Parade,3118327.23,1117,2791.70,501.52,4996.09
+Groceries,Small Stores / Shops,Red Tag Clearance,3084882.69,1130,2729.98,501.12,4989.26
+Groceries,Small Stores / Shops,Seasonal Surprise Box,3098380.00,1114,2781.31,501.54,4992.27
+Groceries,Small Stores / Shops,Shop & Save Spectacular,3146775.76,1116,2819.69,501.53,4988.98
+Groceries,Small Stores / Shops,Smart Shopper Week,3198608.31,1179,2712.98,503.56,4995.84
+Groceries,Small Stores / Shops,Spring Refresh Event,3231419.93,1129,2862.20,512.88,4995.87
+Groceries,Small Stores / Shops,Spring Splash Discounts,2939968.23,1059,2776.17,500.68,4991.56
+Groceries,Small Stores / Shops,Summer Sizzle Promo,3101859.36,1114,2784.43,503.45,4999.26
+Groceries,Small Stores / Shops,Super Savings Week,2990827.78,1091,2741.36,501.97,4998.98
+Groceries,Small Stores / Shops,Ultimate Value Event,3125507.08,1118,2795.62,505.35,4995.88
+Groceries,Small Stores / Shops,VIP Access Sale,3114808.99,1154,2699.14,500.31,4999.89
+Groceries,Small Stores / Shops,Weekend Warrior Specials,3023640.67,1128,2680.53,500.62,4999.20
+Groceries,Small Stores / Shops,Winter Clearance Carnival,3007170.73,1114,2699.44,503.43,4998.44
+Groceries,Small Stores / Shops,Winter Wonders Sale,3154310.23,1144,2757.26,513.51,4995.64
+Groceries,Supermarkets ,12 Days of Deals,3204449.13,1178,2720.25,502.43,4998.90
+Groceries,Supermarkets ,Autumn Deals Drive,3291930.75,1172,2808.81,504.45,4997.96
+Groceries,Supermarkets ,BOGO Blitz,3061765.23,1123,2726.42,500.98,4996.77
+Groceries,Supermarkets ,Back to School Boost,3217603.12,1178,2731.41,502.61,4980.36
+Groceries,Supermarkets ,Birthday Bash Sale,3034527.26,1121,2706.98,509.05,4997.17
+Groceries,Supermarkets ,Black Friday Blowout,3137446.79,1127,2783.89,505.81,4998.22
+Groceries,Supermarkets ,Cart Crasher Campaign,3167661.95,1158,2735.46,503.17,4999.82
+Groceries,Supermarkets ,Cashback Carnival,3082503.31,1136,2713.47,505.38,4995.74
+Groceries,Supermarkets ,Clearance Countdown,3284667.78,1175,2795.46,508.52,4997.60
+Groceries,Supermarkets ,Countdown to Savings,3263612.63,1190,2742.53,504.50,4997.39
+Groceries,Supermarkets ,Customer Appreciation Week,3072447.25,1115,2755.56,502.24,4995.70
+Groceries,Supermarkets ,Cyber Monday Mania,3111744.51,1140,2729.60,504.57,4996.97
+Groceries,Supermarkets ,Deal of the Month,3183150.62,1153,2760.76,507.71,4992.95
+Groceries,Supermarkets ,Double Points Bonanza,3103542.93,1147,2705.79,501.88,4999.34
+Groceries,Supermarkets ,Early Bird Specials,3063462.16,1108,2764.86,506.38,4996.80
+Groceries,Supermarkets ,End of Season Sale,3239511.33,1191,2719.99,504.05,4997.30
+Groceries,Supermarkets ,Exclusive Insider Offers,3148393.62,1143,2754.50,504.09,4996.14
+Groceries,Supermarkets ,Festive Fever Promo,3124945.66,1150,2717.34,501.65,4997.65
+Groceries,Supermarkets ,Final Call Frenzy,3160492.63,1171,2698.97,508.87,4987.51
+Groceries,Supermarkets ,Flash Frenzy Friday,3234012.86,1144,2826.93,500.97,4996.77
+Groceries,Supermarkets ,"Gift More, Spend Less",3261843.23,1193,2734.15,504.23,4994.74
+Groceries,Supermarkets ,Golden Hour Bargains,3083043.88,1125,2740.48,500.16,4982.52
+Groceries,Supermarkets ,Green Weekend Deals,3275463.12,1187,2759.45,500.74,4997.22
+Groceries,Supermarkets ,Happy Hour Discounts,3195655.75,1137,2810.60,507.68,4995.84
+Groceries,Supermarkets ,Holiday Shopping Rush,3174385.80,1165,2724.79,505.64,4997.86
+Groceries,Supermarkets ,Hot Picks Promo,3168105.56,1160,2731.13,518.84,4999.88
+Groceries,Supermarkets ,Instant Gratification Sale,3182923.25,1161,2741.54,500.03,4999.70
+Groceries,Supermarkets ,Limited Time Treasures,3190826.91,1172,2722.55,500.84,4999.73
+Groceries,Supermarkets ,Loyalty Rewards Blast,3247805.58,1168,2780.66,504.51,4993.48
+Groceries,Supermarkets ,Mega Weekend Bonanza,3168136.81,1135,2791.31,507.42,4998.94
+Groceries,Supermarkets ,Mid-Year Madness,3208409.15,1158,2770.65,513.15,4995.65
+Groceries,Supermarkets ,Midnight Madness,3070224.00,1126,2726.66,505.05,4998.75
+Groceries,Supermarkets ,Mystery Discount Days,3175587.27,1169,2716.50,503.39,4999.16
+Groceries,Supermarkets ,New Arrival Showcase,3204477.40,1184,2706.48,505.84,4997.29
+Groceries,Supermarkets ,New Product Launch Promo,3129362.61,1178,2656.50,507.93,4994.23
+Groceries,Supermarkets ,New Year Kickoff,3109996.35,1162,2676.42,500.12,4995.56
+Groceries,Supermarkets ,Price Drop Parade,3147183.51,1136,2770.41,504.15,4999.58
+Groceries,Supermarkets ,Red Tag Clearance,3187739.20,1158,2752.80,504.22,4995.93
+Groceries,Supermarkets ,Seasonal Surprise Box,2974202.55,1084,2743.73,500.56,4991.34
+Groceries,Supermarkets ,Shop & Save Spectacular,3096665.25,1107,2797.35,508.47,4993.94
+Groceries,Supermarkets ,Smart Shopper Week,3245140.98,1165,2785.53,511.85,4994.55
+Groceries,Supermarkets ,Spring Refresh Event,3233961.62,1162,2783.10,517.46,4995.73
+Groceries,Supermarkets ,Spring Splash Discounts,3163228.31,1157,2733.99,506.63,4992.00
+Groceries,Supermarkets ,Summer Sizzle Promo,3115150.99,1141,2730.19,523.99,4986.64
+Groceries,Supermarkets ,Super Savings Week,3321818.83,1200,2768.18,511.54,4999.88
+Groceries,Supermarkets ,Ultimate Value Event,3182886.50,1164,2734.44,526.12,4997.53
+Groceries,Supermarkets ,VIP Access Sale,3427465.37,1238,2768.55,506.56,4997.93
+Groceries,Supermarkets ,Weekend Warrior Specials,3070513.03,1109,2768.72,502.46,4967.39
+Groceries,Supermarkets ,Winter Clearance Carnival,3242473.69,1156,2804.91,502.13,4997.93
+Groceries,Supermarkets ,Winter Wonders Sale,3240684.26,1203,2693.84,505.32,4999.85
+Home Appliances,Large Malls / Complexes,12 Days of Deals,2971216.66,1101,2698.65,509.29,4997.95
+Home Appliances,Large Malls / Complexes,Autumn Deals Drive,2991442.91,1118,2675.71,501.18,4995.61
+Home Appliances,Large Malls / Complexes,BOGO Blitz,2998560.41,1069,2805.01,503.66,4991.95
+Home Appliances,Large Malls / Complexes,Back to School Boost,3003407.24,1075,2793.87,522.15,4997.76
+Home Appliances,Large Malls / Complexes,Birthday Bash Sale,2931557.56,1079,2716.92,509.03,4996.94
+Home Appliances,Large Malls / Complexes,Black Friday Blowout,2896103.31,1051,2755.57,503.07,4995.14
+Home Appliances,Large Malls / Complexes,Cart Crasher Campaign,2984844.58,1071,2786.97,503.85,4998.01
+Home Appliances,Large Malls / Complexes,Cashback Carnival,2954366.56,1057,2795.05,511.18,4997.90
+Home Appliances,Large Malls / Complexes,Clearance Countdown,2863858.43,1027,2788.57,511.35,4989.53
+Home Appliances,Large Malls / Complexes,Countdown to Savings,2873368.24,1055,2723.57,504.79,4999.30
+Home Appliances,Large Malls / Complexes,Customer Appreciation Week,2855862.75,1052,2714.70,502.70,4997.57
+Home Appliances,Large Malls / Complexes,Cyber Monday Mania,2790258.30,1036,2693.30,504.93,4995.39
+Home Appliances,Large Malls / Complexes,Deal of the Month,2830179.74,1022,2769.26,500.90,4999.41
+Home Appliances,Large Malls / Complexes,Double Points Bonanza,2980507.04,1064,2801.23,510.32,4996.68
+Home Appliances,Large Malls / Complexes,Early Bird Specials,2939469.48,1074,2736.94,500.92,4994.29
+Home Appliances,Large Malls / Complexes,End of Season Sale,3030245.04,1088,2785.15,509.35,4991.36
+Home Appliances,Large Malls / Complexes,Exclusive Insider Offers,2904519.70,1062,2734.95,503.60,4999.90
+Home Appliances,Large Malls / Complexes,Festive Fever Promo,2886684.79,1059,2725.86,500.36,4997.98
+Home Appliances,Large Malls / Complexes,Final Call Frenzy,3073241.35,1110,2768.69,520.49,4999.75
+Home Appliances,Large Malls / Complexes,Flash Frenzy Friday,3024457.33,1088,2779.83,500.13,4998.72
+Home Appliances,Large Malls / Complexes,"Gift More, Spend Less",2873673.83,1060,2711.01,503.14,4999.74
+Home Appliances,Large Malls / Complexes,Golden Hour Bargains,2904939.96,1047,2774.54,500.71,4995.77
+Home Appliances,Large Malls / Complexes,Green Weekend Deals,2937344.12,1087,2702.25,502.66,4998.83
+Home Appliances,Large Malls / Complexes,Happy Hour Discounts,3096842.79,1118,2769.98,504.73,4992.76
+Home Appliances,Large Malls / Complexes,Holiday Shopping Rush,2917491.16,1068,2731.73,511.58,4997.27
+Home Appliances,Large Malls / Complexes,Hot Picks Promo,3133662.37,1130,2773.15,501.49,4991.02
+Home Appliances,Large Malls / Complexes,Instant Gratification Sale,2849234.61,1042,2734.39,501.53,4989.05
+Home Appliances,Large Malls / Complexes,Limited Time Treasures,2933833.15,1085,2703.99,505.55,4999.73
+Home Appliances,Large Malls / Complexes,Loyalty Rewards Blast,2791113.57,1023,2728.36,503.96,4998.98
+Home Appliances,Large Malls / Complexes,Mega Weekend Bonanza,2920614.83,1061,2752.70,502.05,4998.42
+Home Appliances,Large Malls / Complexes,Mid-Year Madness,2794007.39,1022,2733.86,500.33,4998.26
+Home Appliances,Large Malls / Complexes,Midnight Madness,2661109.35,1019,2611.49,510.44,4994.87
+Home Appliances,Large Malls / Complexes,Mystery Discount Days,2809727.74,1040,2701.66,502.59,4999.42
+Home Appliances,Large Malls / Complexes,New Arrival Showcase,2982074.14,1088,2740.88,501.45,4996.75
+Home Appliances,Large Malls / Complexes,New Product Launch Promo,2959862.86,1073,2758.49,500.80,4999.48
+Home Appliances,Large Malls / Complexes,New Year Kickoff,2898218.68,1030,2813.80,507.98,4994.13
+Home Appliances,Large Malls / Complexes,Price Drop Parade,2958255.19,1081,2736.59,512.13,4992.73
+Home Appliances,Large Malls / Complexes,Red Tag Clearance,2743816.74,1005,2730.17,500.88,4998.91
+Home Appliances,Large Malls / Complexes,Seasonal Surprise Box,2817115.10,1028,2740.38,501.18,4998.58
+Home Appliances,Large Malls / Complexes,Shop & Save Spectacular,2930468.85,1058,2769.82,509.98,4996.07
+Home Appliances,Large Malls / Complexes,Smart Shopper Week,2903761.45,1044,2781.38,510.10,4999.94
+Home Appliances,Large Malls / Complexes,Spring Refresh Event,2862867.77,1052,2721.36,501.78,4987.43
+Home Appliances,Large Malls / Complexes,Spring Splash Discounts,2944701.64,1068,2757.21,504.57,4998.92
+Home Appliances,Large Malls / Complexes,Summer Sizzle Promo,2922962.63,1054,2773.21,502.08,4998.36
+Home Appliances,Large Malls / Complexes,Super Savings Week,2969213.28,1083,2741.66,500.28,4998.47
+Home Appliances,Large Malls / Complexes,Ultimate Value Event,2899523.23,1061,2732.82,512.34,4999.91
+Home Appliances,Large Malls / Complexes,VIP Access Sale,2864957.23,1052,2723.34,500.61,4999.37
+Home Appliances,Large Malls / Complexes,Weekend Warrior Specials,3064506.57,1097,2793.53,505.78,4995.52
+Home Appliances,Large Malls / Complexes,Winter Clearance Carnival,2771600.97,1015,2730.64,502.95,4991.60
+Home Appliances,Large Malls / Complexes,Winter Wonders Sale,2993490.26,1076,2782.05,500.27,4999.74
+Home Appliances,Small Stores / Shops,12 Days of Deals,3097401.29,1137,2724.19,504.11,4999.73
+Home Appliances,Small Stores / Shops,Autumn Deals Drive,2868743.34,1088,2636.71,506.90,4997.76
+Home Appliances,Small Stores / Shops,BOGO Blitz,3016680.45,1083,2785.49,502.46,4997.06
+Home Appliances,Small Stores / Shops,Back to School Boost,3022157.76,1115,2710.46,500.09,4995.60
+Home Appliances,Small Stores / Shops,Birthday Bash Sale,3021597.14,1107,2729.54,500.93,4993.71
+Home Appliances,Small Stores / Shops,Black Friday Blowout,3021008.84,1126,2682.96,506.58,4999.22
+Home Appliances,Small Stores / Shops,Cart Crasher Campaign,2946764.37,1086,2713.41,510.58,4999.98
+Home Appliances,Small Stores / Shops,Cashback Carnival,2930171.42,1086,2698.13,500.98,4993.50
+Home Appliances,Small Stores / Shops,Clearance Countdown,3126281.07,1125,2778.92,504.40,4995.95
+Home Appliances,Small Stores / Shops,Countdown to Savings,3112642.14,1124,2769.25,502.22,4998.01
+Home Appliances,Small Stores / Shops,Customer Appreciation Week,3126992.68,1140,2742.98,502.07,4984.13
+Home Appliances,Small Stores / Shops,Cyber Monday Mania,3272930.66,1188,2754.99,502.61,4998.54
+Home Appliances,Small Stores / Shops,Deal of the Month,2978766.18,1103,2700.60,500.38,4986.45
+Home Appliances,Small Stores / Shops,Double Points Bonanza,3082519.37,1138,2708.72,503.85,4998.02
+Home Appliances,Small Stores / Shops,Early Bird Specials,3338772.32,1179,2831.87,503.37,4999.06
+Home Appliances,Small Stores / Shops,End of Season Sale,3072813.01,1118,2748.49,500.69,4999.78
+Home Appliances,Small Stores / Shops,Exclusive Insider Offers,3034565.65,1092,2778.91,501.41,4997.98
+Home Appliances,Small Stores / Shops,Festive Fever Promo,3177873.78,1196,2657.09,500.98,4996.29
+Home Appliances,Small Stores / Shops,Final Call Frenzy,2976175.93,1090,2730.44,507.00,4989.24
+Home Appliances,Small Stores / Shops,Flash Frenzy Friday,3207474.17,1166,2750.84,503.50,4990.20
+Home Appliances,Small Stores / Shops,"Gift More, Spend Less",3076425.32,1131,2720.09,506.35,4982.35
+Home Appliances,Small Stores / Shops,Golden Hour Bargains,3002946.71,1083,2772.80,500.66,4997.61
+Home Appliances,Small Stores / Shops,Green Weekend Deals,3047376.38,1122,2716.02,500.21,4997.45
+Home Appliances,Small Stores / Shops,Happy Hour Discounts,2980958.34,1100,2709.96,501.29,4998.71
+Home Appliances,Small Stores / Shops,Holiday Shopping Rush,3104321.13,1134,2737.50,501.74,4996.83
+Home Appliances,Small Stores / Shops,Hot Picks Promo,3104584.23,1135,2735.32,500.05,4992.55
+Home Appliances,Small Stores / Shops,Instant Gratification Sale,3171054.96,1170,2710.30,507.74,4997.94
+Home Appliances,Small Stores / Shops,Limited Time Treasures,3041762.87,1128,2696.60,503.29,4997.90
+Home Appliances,Small Stores / Shops,Loyalty Rewards Blast,3022738.57,1114,2713.41,501.61,4998.50
+Home Appliances,Small Stores / Shops,Mega Weekend Bonanza,3191521.82,1158,2756.06,508.82,4995.11
+Home Appliances,Small Stores / Shops,Mid-Year Madness,3139844.24,1155,2718.48,503.72,4997.94
+Home Appliances,Small Stores / Shops,Midnight Madness,3051734.02,1106,2759.25,502.75,4998.30
+Home Appliances,Small Stores / Shops,Mystery Discount Days,3165862.24,1134,2791.77,500.15,4994.86
+Home Appliances,Small Stores / Shops,New Arrival Showcase,3138007.73,1162,2700.52,500.17,4997.28
+Home Appliances,Small Stores / Shops,New Product Launch Promo,3016744.93,1116,2703.18,502.45,4993.94
+Home Appliances,Small Stores / Shops,New Year Kickoff,2984706.24,1109,2691.35,502.92,4999.87
+Home Appliances,Small Stores / Shops,Price Drop Parade,3161695.74,1143,2766.14,510.91,4983.62
+Home Appliances,Small Stores / Shops,Red Tag Clearance,2903311.57,1063,2731.24,513.32,4992.06
+Home Appliances,Small Stores / Shops,Seasonal Surprise Box,3246346.11,1185,2739.53,503.22,4990.56
+Home Appliances,Small Stores / Shops,Shop & Save Spectacular,2953979.33,1078,2740.24,500.21,4990.91
+Home Appliances,Small Stores / Shops,Smart Shopper Week,3255367.31,1183,2751.79,502.77,4995.40
+Home Appliances,Small Stores / Shops,Spring Refresh Event,2989620.38,1094,2732.74,511.23,4983.41
+Home Appliances,Small Stores / Shops,Spring Splash Discounts,3089984.85,1130,2734.50,503.09,4998.87
+Home Appliances,Small Stores / Shops,Summer Sizzle Promo,3029410.91,1095,2766.59,500.57,4994.72
+Home Appliances,Small Stores / Shops,Super Savings Week,3022581.11,1102,2742.81,501.03,4990.42
+Home Appliances,Small Stores / Shops,Ultimate Value Event,3017313.79,1105,2730.60,503.38,4999.45
+Home Appliances,Small Stores / Shops,VIP Access Sale,3104755.33,1103,2814.83,502.76,4999.15
+Home Appliances,Small Stores / Shops,Weekend Warrior Specials,2889588.78,1076,2685.49,504.80,4998.33
+Home Appliances,Small Stores / Shops,Winter Clearance Carnival,3292289.20,1170,2813.92,503.94,4996.10
+Home Appliances,Small Stores / Shops,Winter Wonders Sale,3032738.32,1117,2715.07,514.42,4998.01
+Home Appliances,Supermarkets ,12 Days of Deals,3166741.65,1145,2765.71,509.13,4999.32
+Home Appliances,Supermarkets ,Autumn Deals Drive,3184453.90,1179,2700.98,506.50,4997.36
+Home Appliances,Supermarkets ,BOGO Blitz,3111830.70,1161,2680.30,504.57,4999.75
+Home Appliances,Supermarkets ,Back to School Boost,3133083.21,1142,2743.51,500.13,4995.75
+Home Appliances,Supermarkets ,Birthday Bash Sale,3068310.19,1133,2708.13,502.35,4999.93
+Home Appliances,Supermarkets ,Black Friday Blowout,3006283.48,1097,2740.46,500.99,4999.91
+Home Appliances,Supermarkets ,Cart Crasher Campaign,3169674.25,1139,2782.86,504.51,4998.18
+Home Appliances,Supermarkets ,Cashback Carnival,3232023.59,1175,2750.66,503.09,4999.12
+Home Appliances,Supermarkets ,Clearance Countdown,3066801.56,1134,2704.41,501.02,4994.45
+Home Appliances,Supermarkets ,Countdown to Savings,3274935.51,1196,2738.24,500.39,4994.85
+Home Appliances,Supermarkets ,Customer Appreciation Week,3092612.29,1129,2739.25,508.53,4999.25
+Home Appliances,Supermarkets ,Cyber Monday Mania,3164634.69,1137,2783.32,502.91,4994.48
+Home Appliances,Supermarkets ,Deal of the Month,3187624.78,1146,2781.52,501.29,4996.86
+Home Appliances,Supermarkets ,Double Points Bonanza,3176240.90,1170,2714.74,505.53,4998.07
+Home Appliances,Supermarkets ,Early Bird Specials,3170980.68,1165,2721.87,506.07,4997.74
+Home Appliances,Supermarkets ,End of Season Sale,3229133.95,1168,2764.67,509.93,4999.19
+Home Appliances,Supermarkets ,Exclusive Insider Offers,2981178.25,1078,2765.47,513.19,4999.29
+Home Appliances,Supermarkets ,Festive Fever Promo,3133125.54,1126,2782.53,504.82,4999.21
+Home Appliances,Supermarkets ,Final Call Frenzy,3290503.69,1184,2779.14,503.00,4995.18
+Home Appliances,Supermarkets ,Flash Frenzy Friday,3281472.89,1183,2773.86,510.70,4997.83
+Home Appliances,Supermarkets ,"Gift More, Spend Less",3177567.38,1162,2734.57,501.53,4998.06
+Home Appliances,Supermarkets ,Golden Hour Bargains,3293634.33,1176,2800.71,500.65,4992.88
+Home Appliances,Supermarkets ,Green Weekend Deals,3259550.00,1163,2802.71,503.29,4990.86
+Home Appliances,Supermarkets ,Happy Hour Discounts,3184922.95,1148,2774.32,500.78,4994.66
+Home Appliances,Supermarkets ,Holiday Shopping Rush,3183211.52,1166,2730.03,500.68,4994.25
+Home Appliances,Supermarkets ,Hot Picks Promo,3268886.11,1179,2772.59,502.00,4997.89
+Home Appliances,Supermarkets ,Instant Gratification Sale,3053569.56,1124,2716.70,501.38,4999.38
+Home Appliances,Supermarkets ,Limited Time Treasures,3117261.38,1144,2724.88,500.36,4986.23
+Home Appliances,Supermarkets ,Loyalty Rewards Blast,3310974.18,1194,2773.01,502.39,4991.63
+Home Appliances,Supermarkets ,Mega Weekend Bonanza,2957745.73,1095,2701.14,520.37,4979.67
+Home Appliances,Supermarkets ,Mid-Year Madness,3235470.27,1177,2748.91,504.23,4997.77
+Home Appliances,Supermarkets ,Midnight Madness,3282534.49,1180,2781.81,500.72,4997.66
+Home Appliances,Supermarkets ,Mystery Discount Days,3111398.18,1140,2729.30,503.19,4998.62
+Home Appliances,Supermarkets ,New Arrival Showcase,3193359.16,1155,2764.81,504.80,4998.09
+Home Appliances,Supermarkets ,New Product Launch Promo,3239552.30,1169,2771.22,504.10,4991.97
+Home Appliances,Supermarkets ,New Year Kickoff,3085320.35,1126,2740.07,500.10,4998.67
+Home Appliances,Supermarkets ,Price Drop Parade,3108338.10,1139,2729.01,504.91,4994.05
+Home Appliances,Supermarkets ,Red Tag Clearance,3122504.27,1124,2778.03,507.44,4996.14
+Home Appliances,Supermarkets ,Seasonal Surprise Box,3341781.86,1199,2787.14,508.60,4998.82
+Home Appliances,Supermarkets ,Shop & Save Spectacular,3059932.41,1095,2794.46,516.34,4993.98
+Home Appliances,Supermarkets ,Smart Shopper Week,3154729.86,1181,2671.24,509.77,4999.66
+Home Appliances,Supermarkets ,Spring Refresh Event,3105642.59,1130,2748.36,508.23,4995.53
+Home Appliances,Supermarkets ,Spring Splash Discounts,3274900.10,1176,2784.78,503.39,4999.80
+Home Appliances,Supermarkets ,Summer Sizzle Promo,3091747.84,1129,2738.48,505.80,4986.22
+Home Appliances,Supermarkets ,Super Savings Week,3124680.61,1133,2757.88,500.00,4982.65
+Home Appliances,Supermarkets ,Ultimate Value Event,3084823.28,1134,2720.30,501.78,4999.84
+Home Appliances,Supermarkets ,VIP Access Sale,3177010.22,1169,2717.72,500.66,4999.48
+Home Appliances,Supermarkets ,Weekend Warrior Specials,3151786.65,1140,2764.73,502.66,4999.43
+Home Appliances,Supermarkets ,Winter Clearance Carnival,3272525.74,1171,2794.64,509.72,4998.56
+Home Appliances,Supermarkets ,Winter Wonders Sale,3276820.72,1211,2705.88,505.46,4998.39
+Sports & Outdoors,Large Malls / Complexes,12 Days of Deals,3005296.81,1109,2709.92,504.41,4999.02
+Sports & Outdoors,Large Malls / Complexes,Autumn Deals Drive,2977278.01,1094,2721.46,500.76,4996.59
+Sports & Outdoors,Large Malls / Complexes,BOGO Blitz,2843223.88,1055,2695.00,509.14,4996.45
+Sports & Outdoors,Large Malls / Complexes,Back to School Boost,2901334.79,1080,2686.42,507.11,4998.09
+Sports & Outdoors,Large Malls / Complexes,Birthday Bash Sale,2784855.77,1009,2760.02,501.68,4999.34
+Sports & Outdoors,Large Malls / Complexes,Black Friday Blowout,2915106.52,1061,2747.51,503.37,4987.34
+Sports & Outdoors,Large Malls / Complexes,Cart Crasher Campaign,2828118.39,1057,2675.61,510.88,4995.47
+Sports & Outdoors,Large Malls / Complexes,Cashback Carnival,2808976.98,1021,2751.20,500.42,4990.45
+Sports & Outdoors,Large Malls / Complexes,Clearance Countdown,2875403.26,1058,2717.77,502.34,4995.72
+Sports & Outdoors,Large Malls / Complexes,Countdown to Savings,2964088.19,1072,2765.01,508.34,4999.61
+Sports & Outdoors,Large Malls / Complexes,Customer Appreciation Week,2945420.76,1086,2712.17,513.44,4974.30
+Sports & Outdoors,Large Malls / Complexes,Cyber Monday Mania,3015351.84,1075,2804.98,501.43,4994.89
+Sports & Outdoors,Large Malls / Complexes,Deal of the Month,2814752.52,1008,2792.41,503.70,4993.19
+Sports & Outdoors,Large Malls / Complexes,Double Points Bonanza,2981403.22,1075,2773.40,508.18,4998.01
+Sports & Outdoors,Large Malls / Complexes,Early Bird Specials,2845492.53,1017,2797.93,501.96,4998.17
+Sports & Outdoors,Large Malls / Complexes,End of Season Sale,2834404.12,1033,2743.86,503.57,4995.91
+Sports & Outdoors,Large Malls / Complexes,Exclusive Insider Offers,3008980.47,1058,2844.03,503.34,4992.70
+Sports & Outdoors,Large Malls / Complexes,Festive Fever Promo,2857766.73,1019,2804.48,506.83,4995.28
+Sports & Outdoors,Large Malls / Complexes,Final Call Frenzy,2860264.05,1069,2675.64,500.30,4997.60
+Sports & Outdoors,Large Malls / Complexes,Flash Frenzy Friday,3012654.31,1087,2771.53,501.01,4997.51
+Sports & Outdoors,Large Malls / Complexes,"Gift More, Spend Less",3057119.06,1110,2754.16,504.14,4995.74
+Sports & Outdoors,Large Malls / Complexes,Golden Hour Bargains,3112877.87,1159,2685.83,503.10,4998.10
+Sports & Outdoors,Large Malls / Complexes,Green Weekend Deals,2894479.45,1055,2743.58,500.26,4997.63
+Sports & Outdoors,Large Malls / Complexes,Happy Hour Discounts,3099262.25,1098,2822.64,512.26,4999.78
+Sports & Outdoors,Large Malls / Complexes,Holiday Shopping Rush,2933154.34,1070,2741.27,506.26,4997.18
+Sports & Outdoors,Large Malls / Complexes,Hot Picks Promo,2949705.21,1075,2743.91,505.64,4996.34
+Sports & Outdoors,Large Malls / Complexes,Instant Gratification Sale,3093054.44,1113,2779.02,504.23,4995.28
+Sports & Outdoors,Large Malls / Complexes,Limited Time Treasures,2886701.73,1040,2775.67,500.43,4997.70
+Sports & Outdoors,Large Malls / Complexes,Loyalty Rewards Blast,2791647.90,1031,2707.71,501.80,4993.88
+Sports & Outdoors,Large Malls / Complexes,Mega Weekend Bonanza,3046721.26,1071,2844.74,508.48,4993.01
+Sports & Outdoors,Large Malls / Complexes,Mid-Year Madness,2857913.96,1047,2729.62,508.91,4998.69
+Sports & Outdoors,Large Malls / Complexes,Midnight Madness,2962114.39,1058,2799.73,500.23,4994.43
+Sports & Outdoors,Large Malls / Complexes,Mystery Discount Days,2861445.68,1053,2717.42,502.74,4999.19
+Sports & Outdoors,Large Malls / Complexes,New Arrival Showcase,2994644.01,1067,2806.60,500.37,4992.00
+Sports & Outdoors,Large Malls / Complexes,New Product Launch Promo,2946959.45,1072,2749.03,508.78,4998.73
+Sports & Outdoors,Large Malls / Complexes,New Year Kickoff,2885196.53,1035,2787.63,503.01,4996.62
+Sports & Outdoors,Large Malls / Complexes,Price Drop Parade,2793754.51,1035,2699.28,500.07,4996.87
+Sports & Outdoors,Large Malls / Complexes,Red Tag Clearance,2849567.14,1056,2698.45,504.14,4997.25
+Sports & Outdoors,Large Malls / Complexes,Seasonal Surprise Box,2893016.21,1060,2729.26,501.08,4996.14
+Sports & Outdoors,Large Malls / Complexes,Shop & Save Spectacular,3119916.00,1103,2828.57,502.57,4998.60
+Sports & Outdoors,Large Malls / Complexes,Smart Shopper Week,2771649.71,1026,2701.41,509.40,4990.11
+Sports & Outdoors,Large Malls / Complexes,Spring Refresh Event,2921952.41,1046,2793.45,500.56,4993.39
+Sports & Outdoors,Large Malls / Complexes,Spring Splash Discounts,2980733.01,1093,2727.11,506.18,4998.18
+Sports & Outdoors,Large Malls / Complexes,Summer Sizzle Promo,2763254.93,1024,2698.49,500.10,4997.66
+Sports & Outdoors,Large Malls / Complexes,Super Savings Week,3022207.38,1093,2765.06,501.50,4998.97
+Sports & Outdoors,Large Malls / Complexes,Ultimate Value Event,2956086.25,1061,2786.13,511.53,4998.24
+Sports & Outdoors,Large Malls / Complexes,VIP Access Sale,2944487.40,1049,2806.95,507.72,4998.87
+Sports & Outdoors,Large Malls / Complexes,Weekend Warrior Specials,2967340.80,1051,2823.35,509.15,4992.44
+Sports & Outdoors,Large Malls / Complexes,Winter Clearance Carnival,3155163.63,1111,2839.93,506.66,4997.18
+Sports & Outdoors,Large Malls / Complexes,Winter Wonders Sale,2931656.34,1060,2765.71,504.80,4987.57
+Sports & Outdoors,Small Stores / Shops,12 Days of Deals,3153643.64,1148,2747.08,502.11,4999.67
+Sports & Outdoors,Small Stores / Shops,Autumn Deals Drive,3046518.44,1116,2729.86,504.53,4998.38
+Sports & Outdoors,Small Stores / Shops,BOGO Blitz,3212217.30,1153,2785.96,509.05,4997.71
+Sports & Outdoors,Small Stores / Shops,Back to School Boost,3186969.86,1151,2768.87,503.12,4989.50
+Sports & Outdoors,Small Stores / Shops,Birthday Bash Sale,3072599.82,1127,2726.35,500.14,4998.00
+Sports & Outdoors,Small Stores / Shops,Black Friday Blowout,3086984.90,1120,2756.24,503.63,4999.65
+Sports & Outdoors,Small Stores / Shops,Cart Crasher Campaign,3193018.77,1160,2752.60,500.78,4997.58
+Sports & Outdoors,Small Stores / Shops,Cashback Carnival,3033660.43,1098,2762.90,500.39,4994.16
+Sports & Outdoors,Small Stores / Shops,Clearance Countdown,2938847.51,1089,2698.67,500.37,4996.31
+Sports & Outdoors,Small Stores / Shops,Countdown to Savings,3377686.51,1203,2807.72,500.23,4996.57
+Sports & Outdoors,Small Stores / Shops,Customer Appreciation Week,3297131.22,1156,2852.19,520.00,4998.61
+Sports & Outdoors,Small Stores / Shops,Cyber Monday Mania,3146282.08,1137,2767.18,502.42,4999.05
+Sports & Outdoors,Small Stores / Shops,Deal of the Month,3129556.51,1154,2711.92,503.87,4995.46
+Sports & Outdoors,Small Stores / Shops,Double Points Bonanza,2995122.85,1090,2747.82,502.80,4998.97
+Sports & Outdoors,Small Stores / Shops,Early Bird Specials,3104455.22,1120,2771.84,505.00,4997.07
+Sports & Outdoors,Small Stores / Shops,End of Season Sale,3064700.47,1131,2709.73,502.75,4996.88
+Sports & Outdoors,Small Stores / Shops,Exclusive Insider Offers,2980654.67,1089,2737.06,502.99,4998.46
+Sports & Outdoors,Small Stores / Shops,Festive Fever Promo,3206134.62,1152,2783.10,503.49,4998.24
+Sports & Outdoors,Small Stores / Shops,Final Call Frenzy,3178287.33,1139,2790.42,500.03,4991.04
+Sports & Outdoors,Small Stores / Shops,Flash Frenzy Friday,3109542.46,1137,2734.87,504.35,4996.10
+Sports & Outdoors,Small Stores / Shops,"Gift More, Spend Less",3089148.02,1131,2731.34,501.32,4992.10
+Sports & Outdoors,Small Stores / Shops,Golden Hour Bargains,3147968.44,1142,2756.54,500.01,4995.64
+Sports & Outdoors,Small Stores / Shops,Green Weekend Deals,3022535.10,1088,2778.07,504.95,4996.20
+Sports & Outdoors,Small Stores / Shops,Happy Hour Discounts,3077614.15,1122,2742.97,505.31,4993.63
+Sports & Outdoors,Small Stores / Shops,Holiday Shopping Rush,3010111.35,1108,2716.71,503.52,4978.01
+Sports & Outdoors,Small Stores / Shops,Hot Picks Promo,3082785.84,1134,2718.51,500.04,4997.69
+Sports & Outdoors,Small Stores / Shops,Instant Gratification Sale,3225765.43,1160,2780.83,500.07,4998.94
+Sports & Outdoors,Small Stores / Shops,Limited Time Treasures,3076805.48,1103,2789.49,508.79,4988.75
+Sports & Outdoors,Small Stores / Shops,Loyalty Rewards Blast,3023581.23,1098,2753.72,500.22,4996.03
+Sports & Outdoors,Small Stores / Shops,Mega Weekend Bonanza,3169039.68,1140,2779.86,500.15,4982.69
+Sports & Outdoors,Small Stores / Shops,Mid-Year Madness,3167047.45,1157,2737.29,503.20,4995.13
+Sports & Outdoors,Small Stores / Shops,Midnight Madness,2934433.05,1084,2707.04,506.71,4997.31
+Sports & Outdoors,Small Stores / Shops,Mystery Discount Days,3093339.13,1135,2725.41,501.05,4995.72
+Sports & Outdoors,Small Stores / Shops,New Arrival Showcase,3175025.86,1158,2741.82,506.15,4998.83
+Sports & Outdoors,Small Stores / Shops,New Product Launch Promo,3192062.95,1144,2790.26,500.73,4999.30
+Sports & Outdoors,Small Stores / Shops,New Year Kickoff,3114338.43,1137,2739.08,503.31,4997.16
+Sports & Outdoors,Small Stores / Shops,Price Drop Parade,2980296.15,1091,2731.71,500.50,4987.08
+Sports & Outdoors,Small Stores / Shops,Red Tag Clearance,3109120.00,1105,2813.68,506.04,4992.12
+Sports & Outdoors,Small Stores / Shops,Seasonal Surprise Box,3377254.34,1236,2732.41,501.12,4992.44
+Sports & Outdoors,Small Stores / Shops,Shop & Save Spectacular,3174119.09,1134,2799.05,503.19,4996.23
+Sports & Outdoors,Small Stores / Shops,Smart Shopper Week,3239173.11,1181,2742.74,500.78,4996.42
+Sports & Outdoors,Small Stores / Shops,Spring Refresh Event,3069255.69,1127,2723.39,502.39,4999.78
+Sports & Outdoors,Small Stores / Shops,Spring Splash Discounts,3163930.35,1126,2809.88,508.67,4999.83
+Sports & Outdoors,Small Stores / Shops,Summer Sizzle Promo,3303869.44,1185,2788.08,501.65,4998.50
+Sports & Outdoors,Small Stores / Shops,Super Savings Week,3142363.09,1104,2846.34,523.55,4999.25
+Sports & Outdoors,Small Stores / Shops,Ultimate Value Event,3082351.18,1143,2696.72,502.59,4999.44
+Sports & Outdoors,Small Stores / Shops,VIP Access Sale,2968633.56,1068,2779.62,500.51,4994.03
+Sports & Outdoors,Small Stores / Shops,Weekend Warrior Specials,3101332.77,1146,2706.22,500.79,4989.44
+Sports & Outdoors,Small Stores / Shops,Winter Clearance Carnival,3062403.29,1111,2756.44,503.87,4998.38
+Sports & Outdoors,Small Stores / Shops,Winter Wonders Sale,3045679.04,1100,2768.80,503.85,4995.17
+Sports & Outdoors,Supermarkets ,12 Days of Deals,3373912.19,1210,2788.36,501.44,4987.26
+Sports & Outdoors,Supermarkets ,Autumn Deals Drive,3098642.26,1147,2701.52,500.04,4997.38
+Sports & Outdoors,Supermarkets ,BOGO Blitz,2925196.98,1069,2736.39,503.15,4996.52
+Sports & Outdoors,Supermarkets ,Back to School Boost,3242270.00,1175,2759.38,501.48,4999.33
+Sports & Outdoors,Supermarkets ,Birthday Bash Sale,3331258.52,1203,2769.13,501.50,4990.08
+Sports & Outdoors,Supermarkets ,Black Friday Blowout,3359651.55,1220,2753.81,500.60,4998.42
+Sports & Outdoors,Supermarkets ,Cart Crasher Campaign,3126053.37,1116,2801.12,519.31,4995.24
+Sports & Outdoors,Supermarkets ,Cashback Carnival,3232998.13,1184,2730.57,502.87,4996.22
+Sports & Outdoors,Supermarkets ,Clearance Countdown,3133831.91,1163,2694.61,501.31,4998.56
+Sports & Outdoors,Supermarkets ,Countdown to Savings,3047513.28,1125,2708.90,500.09,4997.94
+Sports & Outdoors,Supermarkets ,Customer Appreciation Week,3334426.05,1194,2792.65,502.81,4999.02
+Sports & Outdoors,Supermarkets ,Cyber Monday Mania,3279528.02,1201,2730.66,504.92,4998.69
+Sports & Outdoors,Supermarkets ,Deal of the Month,2966386.04,1094,2711.50,511.82,4999.89
+Sports & Outdoors,Supermarkets ,Double Points Bonanza,3246768.07,1163,2791.72,502.14,4985.88
+Sports & Outdoors,Supermarkets ,Early Bird Specials,3175609.93,1167,2721.17,505.26,4996.32
+Sports & Outdoors,Supermarkets ,End of Season Sale,3235401.40,1167,2772.41,503.46,4999.05
+Sports & Outdoors,Supermarkets ,Exclusive Insider Offers,3335799.86,1180,2826.95,506.05,4999.97
+Sports & Outdoors,Supermarkets ,Festive Fever Promo,3161571.91,1177,2686.13,503.81,4997.72
+Sports & Outdoors,Supermarkets ,Final Call Frenzy,3001825.24,1100,2728.93,501.90,4999.33
+Sports & Outdoors,Supermarkets ,Flash Frenzy Friday,3222918.58,1183,2724.36,502.29,4997.00
+Sports & Outdoors,Supermarkets ,"Gift More, Spend Less",3317319.82,1216,2728.06,500.46,4996.60
+Sports & Outdoors,Supermarkets ,Golden Hour Bargains,3159216.18,1150,2747.14,506.96,4995.89
+Sports & Outdoors,Supermarkets ,Green Weekend Deals,3210357.31,1189,2700.05,503.13,4999.53
+Sports & Outdoors,Supermarkets ,Happy Hour Discounts,3198718.42,1150,2781.49,500.42,4995.06
+Sports & Outdoors,Supermarkets ,Holiday Shopping Rush,3083461.51,1152,2676.62,501.14,4998.76
+Sports & Outdoors,Supermarkets ,Hot Picks Promo,3263628.24,1179,2768.13,504.54,4994.34
+Sports & Outdoors,Supermarkets ,Instant Gratification Sale,3181285.10,1164,2733.06,500.89,4987.32
+Sports & Outdoors,Supermarkets ,Limited Time Treasures,3117056.06,1172,2659.60,501.18,4998.98
+Sports & Outdoors,Supermarkets ,Loyalty Rewards Blast,3088752.86,1119,2760.28,500.80,4987.16
+Sports & Outdoors,Supermarkets ,Mega Weekend Bonanza,3141987.80,1160,2708.61,501.48,4998.00
+Sports & Outdoors,Supermarkets ,Mid-Year Madness,3237252.09,1173,2759.81,502.53,4999.49
+Sports & Outdoors,Supermarkets ,Midnight Madness,3144966.56,1130,2783.16,500.45,4996.42
+Sports & Outdoors,Supermarkets ,Mystery Discount Days,3092070.42,1101,2808.42,500.04,4999.55
+Sports & Outdoors,Supermarkets ,New Arrival Showcase,3185118.33,1132,2813.71,503.53,4997.59
+Sports & Outdoors,Supermarkets ,New Product Launch Promo,3023119.81,1096,2758.32,501.61,4998.60
+Sports & Outdoors,Supermarkets ,New Year Kickoff,3098424.56,1117,2773.88,501.31,4988.03
+Sports & Outdoors,Supermarkets ,Price Drop Parade,3167940.91,1152,2749.95,505.89,4992.13
+Sports & Outdoors,Supermarkets ,Red Tag Clearance,3300770.45,1163,2838.15,500.15,4999.05
+Sports & Outdoors,Supermarkets ,Seasonal Surprise Box,3064660.46,1136,2697.76,500.31,4995.90
+Sports & Outdoors,Supermarkets ,Shop & Save Spectacular,3031288.33,1134,2673.09,505.73,4997.56
+Sports & Outdoors,Supermarkets ,Smart Shopper Week,3222063.00,1179,2732.88,511.12,4998.20
+Sports & Outdoors,Supermarkets ,Spring Refresh Event,3360691.25,1193,2817.01,502.50,4992.74
+Sports & Outdoors,Supermarkets ,Spring Splash Discounts,3032123.00,1114,2721.83,502.55,4991.41
+Sports & Outdoors,Supermarkets ,Summer Sizzle Promo,3459246.48,1239,2791.97,500.81,4995.91
+Sports & Outdoors,Supermarkets ,Super Savings Week,3234898.89,1154,2803.21,506.36,4981.53
+Sports & Outdoors,Supermarkets ,Ultimate Value Event,3194547.61,1175,2718.76,501.61,4996.78
+Sports & Outdoors,Supermarkets ,VIP Access Sale,3206971.65,1140,2813.13,506.74,4995.80
+Sports & Outdoors,Supermarkets ,Weekend Warrior Specials,3068150.32,1159,2647.24,501.48,4998.83
+Sports & Outdoors,Supermarkets ,Winter Clearance Carnival,3244471.98,1169,2775.43,503.08,4999.77
+Sports & Outdoors,Supermarkets ,Winter Wonders Sale,3281926.47,1164,2819.52,506.23,4993.77

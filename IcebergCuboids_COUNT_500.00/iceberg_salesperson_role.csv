@@ -1,0 +1,5 @@
+salesperson_role,sum_amount,count,avg_amount,min_amount,max_amount
+Manager,688819492.67,250403,2750.84,500.00,4999.97
+Sales Associate,724922510.33,263582,2750.27,500.01,4999.98
+Salesperson,713588676.46,259333,2751.63,500.01,4999.97
+Senior Salesperson,623543915.24,226682,2750.74,500.03,4999.98

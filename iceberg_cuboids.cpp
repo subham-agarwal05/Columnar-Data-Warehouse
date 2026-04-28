@@ -5,6 +5,7 @@ using namespace std;
 using namespace pugi;
 namespace fs = filesystem;
 
+
 struct CdsColumnInfo {
     string file;
     string dict;
@@ -142,6 +143,24 @@ string get_measure_column() {
 }
 
 
+// Get aggregate value by function name
+double get_aggregate_value(const AggregateResult& agg, const string& func_name) {
+    if (func_name == "SUM") return agg.sum_amount;
+    if (func_name == "COUNT") return static_cast<double>(agg.count);
+    if (func_name == "AVG") return agg.avg();
+    if (func_name == "MIN") return agg.min_amount;
+    if (func_name == "MAX") return agg.max_amount;
+    return agg.sum_amount;  // default to SUM
+}
+
+// Check if aggregate function is anti-monotone (for Apriori pruning)
+bool is_antimonotone(const string& func_name) {
+    // Anti-monotone functions: child value <= parent value
+    // SUM, COUNT, MAX are anti-monotone
+    // AVG, MIN are NOT anti-monotone
+    return (func_name == "SUM" || func_name == "COUNT" || func_name == "MAX");
+}
+
 string abbreviate(const string& name) {
     static unordered_map<string, string> abbr = {
         {"category", "cat"},     {"brand", "brd"},
@@ -276,6 +295,40 @@ string mask_to_dim_string(int mask, int K, const vector<string>& dim_names) {
     return s.empty() ? "(apex)" : s;
 }
 
+// Read offset from file (returns 0 if file doesn't exist)
+size_t read_offset(const string& path) {
+    ifstream in(path);
+    if (!in.is_open()) return 0;
+    size_t offset = 0;
+    in >> offset;
+    return offset;
+}
+
+// Write offset to file
+void write_offset(const string& path, size_t offset) {
+    ofstream out(path, ios::trunc);
+    out << offset << endl;
+}
+
+struct IcebergMetadata {
+    size_t offset = 0;
+    string agg_func = "";
+    double threshold = 0.0;
+};
+
+IcebergMetadata read_iceberg_metadata(const string& path) {
+    IcebergMetadata meta;
+    ifstream in(path);
+    if (in.is_open()) {
+        in >> meta.offset >> meta.agg_func >> meta.threshold;
+    }
+    return meta;
+}
+
+void write_iceberg_metadata(const string& path, const IcebergMetadata& meta) {
+    ofstream out(path, ios::trunc);
+    out << meta.offset << "\n" << meta.agg_func << "\n" << fixed << setprecision(2) << meta.threshold << "\n";
+}
 
 int main(int argc, char* argv[]) {
 
@@ -283,15 +336,18 @@ int main(int argc, char* argv[]) {
         cerr << "=========================================================\n"
              << "  Iceberg Cuboid Generator  (with Apriori Pruning)\n"
              << "=========================================================\n"
-             << "  Usage:   iceberg_cuboids.exe <min_sales_threshold>\n\n"
-             << "  Example: iceberg_cuboids.exe 50000\n"
-             << "           Only cells with SUM(total_amount) >= 50000\n"
-             << "           will be materialized.\n\n"
-             << "  Optimization: anti-monotone (Apriori) pruning — child\n"
-             << "  cuboids inherit pruning decisions from parents, so\n"
-             << "  entire rows are skipped when a parent key is already\n"
-             << "  below the threshold.\n"
-             << "========================================================="
+             << "  Usage:   iceberg_cuboids <threshold> [aggregate_func]\n\n"
+             << "  <threshold>     : Threshold value for pruning\n"
+             << "  [aggregate_func]: SUM (default), COUNT, MAX\n\n"
+             << "  Examples:\n"
+             << "    iceberg_cuboids 50000       (SUM >= 50000)\n"
+             << "    iceberg_cuboids 100 COUNT   (COUNT >= 100)\n"
+             << "    iceberg_cuboids 50000 MAX   (MAX >= 50000)\n\n"
+             << "  Optimization: anti-monotone (Apriori/BUC) pruning applied\n"
+             << "  to all supported aggregate functions. Child cuboids inherit\n"
+             << "  pruning decisions from parents, skipping rows when a parent\n"
+             << "  key is already below the threshold.\n"
+             << "=========================================================\n"
              << endl;
         return 1;
     }
@@ -304,10 +360,24 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+    string agg_func = "SUM";
+    if (argc >= 3) {
+        agg_func = argv[2];
+        // Normalize to uppercase
+        for (auto& c : agg_func) c = toupper(c);
+        
+        // Validate
+        if (agg_func != "SUM" && agg_func != "COUNT" && agg_func != "MAX") {
+            cerr << "Error: Invalid aggregation function '" << agg_func 
+                 << "'. Supported functions: SUM, COUNT, MAX." << endl;
+            return 1;
+        }
+    }
+
     cout << "=========================================================\n"
          << "  Iceberg Cuboid Generator  (with Apriori Pruning)\n"
          << "=========================================================\n"
-         << "  Iceberg Condition : SUM(total_amount) >= " << fixed
+         << "  Iceberg Condition : " << agg_func << "(total_amount) >= " << fixed
          << setprecision(2) << threshold << "\n"
          << "  Pruning Strategy  : Anti-monotone (Apriori/BUC)\n"
          << "=========================================================" << endl;
@@ -331,6 +401,46 @@ int main(int argc, char* argv[]) {
     cout << ")\nMeasure    : " << measure_col
          << "\nTotal lattice nodes: " << total_cuboids << "\n" << endl;
 
+    // Check if cuboids already exist and if there's new data
+    ostringstream dir_oss;
+    dir_oss << "IcebergCuboids_" << agg_func << "_" << fixed << setprecision(2) << threshold;
+    string output_dir = dir_oss.str();
+
+    ostringstream meta_oss;
+    meta_oss << "DB/.iceberg_metadata_" << agg_func << "_" << fixed << setprecision(2) << threshold;
+    string metadata_file = meta_oss.str();
+
+    size_t db_offset = read_offset("DB/.offset");           // total rows in column store
+    IcebergMetadata meta = read_iceberg_metadata(metadata_file);
+    size_t iceberg_offset = meta.offset;
+
+    bool cuboids_exist = fs::exists(output_dir) && !fs::is_empty(output_dir);
+    bool config_match = (meta.agg_func == agg_func && abs(meta.threshold - threshold) < 1e-9);
+    
+    if (cuboids_exist && config_match) {
+        if (db_offset <= iceberg_offset) {
+            cout << "\n✓ Iceberg cuboids are up to date for configuration: " << agg_func << " " << threshold << endl;
+            cout << "  Column store: " << db_offset << " rows" << endl;
+            cout << "  Last processed: " << iceberg_offset << " rows" << endl;
+            cout << "  No new data to process." << endl;
+            return 0;
+        } else {
+            cout << "\n→ New data detected. Refreshing iceberg cuboids..." << endl;
+            // For iceberg cuboids, we need to regenerate all since they depend on full dataset
+            // Clear and recreate
+            for (auto& entry : fs::directory_iterator(output_dir))
+                fs::remove(entry.path());
+        }
+    } else {
+        cout << "\n→ Configuration change or first run detected. Creating iceberg cuboids from scratch..." << endl;
+        if (fs::exists(output_dir)) {
+            for (auto& entry : fs::directory_iterator(output_dir))
+                fs::remove(entry.path());
+        } else {
+            fs::create_directory(output_dir);
+        }
+    }
+
     cout << "Loading columns from column store..." << endl;
     vector<vector<string>> dim_data(K);
     for (int i = 0; i < K; i++) {
@@ -351,15 +461,6 @@ int main(int argc, char* argv[]) {
                  << " row count mismatch." << endl;
             return 1;
         }
-    }
-
-    //Prepare output directory
-    string output_dir = "IcebergCuboids";
-    if (fs::exists(output_dir)) {
-        for (auto& entry : fs::directory_iterator(output_dir))
-            fs::remove(entry.path());
-    } else {
-        fs::create_directory(output_dir);
     }
 
     // Group bitmasks by popcount (level)
@@ -417,7 +518,8 @@ int main(int argc, char* argv[]) {
 
             // Check if we can skip this cuboid entirely.
             bool skip_entirely = false;
-            if (level >= 1) {
+            if (level >= 1 && is_antimonotone(agg_func)) {
+                // Only apply Apriori pruning for anti-monotone aggregates
                 auto parents = get_parent_masks(mask);
                 for (int pmask : parents) {
                     if (fully_pruned_masks.count(pmask)) {
@@ -443,23 +545,27 @@ int main(int argc, char* argv[]) {
                 // Get immediate parent masks for Apriori check
                 auto parents = get_parent_masks(mask);
 
-                // Filter to only parents that have pruned keys
+                // Filter to only parents that have pruned keys (only for anti-monotone functions)
                 vector<int> active_parents;
-                for (int pmask : parents) {
-                    if (pruned_keys.count(pmask) && !pruned_keys[pmask].empty()) {
-                        active_parents.push_back(pmask);
+                if (is_antimonotone(agg_func)) {
+                    for (int pmask : parents) {
+                        if (pruned_keys.count(pmask) && !pruned_keys[pmask].empty()) {
+                            active_parents.push_back(pmask);
+                        }
                     }
                 }
 
                 for (size_t row = 0; row < num_rows; row++) {
-                    // Apriori check: can we skip this row?
+                    // Apriori check: can we skip this row? (only for anti-monotone functions)
                     bool skip_row = false;
-                    for (int pmask : active_parents) {
-                        string parent_key =
-                            build_key_from_bits(dim_data, pmask, K, row);
-                        if (pruned_keys[pmask].count(parent_key)) {
-                            skip_row = true;
-                            break;
+                    if (!active_parents.empty()) {
+                        for (int pmask : active_parents) {
+                            string parent_key =
+                                build_key_from_bits(dim_data, pmask, K, row);
+                            if (pruned_keys[pmask].count(parent_key)) {
+                                skip_row = true;
+                                break;
+                            }
                         }
                     }
 
@@ -482,7 +588,8 @@ int main(int argc, char* argv[]) {
             unordered_set<string> this_pruned;
 
             for (auto it = agg_map.begin(); it != agg_map.end(); ) {
-                if (it->second.sum_amount < threshold) {
+                double agg_value = get_aggregate_value(it->second, agg_func);
+                if (agg_value < threshold) {
                     this_pruned.insert(it->first);
                     it = agg_map.erase(it);
                     pruned_count++;
@@ -492,7 +599,8 @@ int main(int argc, char* argv[]) {
             }
 
             // Store pruned keys for this cuboid (children will read them)
-            if (!this_pruned.empty()) {
+            // Only store for anti-monotone functions (where Apriori pruning is valid)
+            if (!this_pruned.empty() && is_antimonotone(agg_func)) {
                 pruned_keys[mask] = std::move(this_pruned);
             }
 
@@ -536,8 +644,9 @@ int main(int argc, char* argv[]) {
     cout << "\n========================================================="
          << "\n  ICEBERG CUBOID GENERATION — SUMMARY (Apriori-Optimized)"
          << "\n========================================================="
-         << "\n  Threshold (min SUM sales)   : " << threshold
+         << "\n  Threshold (" << agg_func << " >= )        : " << threshold
          << "\n  Total lattice nodes         : " << total_cuboids
+         << "\n  Apriori Pruning             : " << (is_antimonotone(agg_func) ? "ENABLED" : "DISABLED (non-monotone)")
          << "\n  Cuboids materialized        : " << cuboids_materialized
          << "\n  Cuboids fully pruned        : " << cuboids_fully_pruned
          << "\n  Cuboids skipped (Apriori)   : " << cuboids_skipped_apriori
@@ -583,6 +692,14 @@ int main(int argc, char* argv[]) {
     }
 
     cout << "\nOutput directory: " << output_dir << "/" << endl;
+    
+    // Update metadata to mark that we've processed all data for this config
+    IcebergMetadata new_meta;
+    new_meta.offset = num_rows;
+    new_meta.agg_func = agg_func;
+    new_meta.threshold = threshold;
+    write_iceberg_metadata(metadata_file, new_meta);
+    
     cout << "Done!" << endl;
 
     return 0;

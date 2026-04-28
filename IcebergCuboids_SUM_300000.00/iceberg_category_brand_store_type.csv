@@ -1,0 +1,91 @@
+category,brand,store_type,sum_amount,count,avg_amount,min_amount,max_amount
+Clothing,Adidas,Large Malls / Complexes,28840925.84,10457,2758.05,500.11,4999.95
+Clothing,Adidas,Small Stores / Shops,29956164.55,10909,2746.00,500.17,4999.41
+Clothing,Adidas,Supermarkets ,31263888.22,11488,2721.44,500.46,4999.86
+Clothing,Levi's,Large Malls / Complexes,29142589.07,10591,2751.64,500.37,4999.97
+Clothing,Levi's,Small Stores / Shops,31474375.69,11447,2749.57,500.17,4999.49
+Clothing,Levi's,Supermarkets ,31729892.21,11528,2752.42,500.12,4999.85
+Clothing,Nike,Large Malls / Complexes,28927260.74,10594,2730.53,500.29,4999.19
+Clothing,Nike,Small Stores / Shops,31570150.49,11387,2772.47,500.14,4999.95
+Clothing,Nike,Supermarkets ,31840172.03,11481,2773.29,500.43,4999.75
+Clothing,Puma,Large Malls / Complexes,28570080.02,10439,2736.86,500.18,4999.45
+Clothing,Puma,Small Stores / Shops,31040568.16,11199,2771.73,500.07,4999.68
+Clothing,Puma,Supermarkets ,31431615.86,11442,2747.04,500.07,4999.98
+Clothing,Zara,Large Malls / Complexes,28853208.81,10443,2762.92,500.46,4999.91
+Clothing,Zara,Small Stores / Shops,30291788.31,11011,2751.05,500.32,4999.82
+Clothing,Zara,Supermarkets ,31437146.66,11439,2748.24,501.28,4998.98
+Electronics,Apple,Large Malls / Complexes,28575533.96,10392,2749.76,500.25,4999.96
+Electronics,Apple,Small Stores / Shops,31017471.44,11258,2755.15,500.26,4999.80
+Electronics,Apple,Supermarkets ,31515180.92,11508,2738.55,500.70,4999.96
+Electronics,LG,Large Malls / Complexes,29462848.05,10599,2779.78,500.70,4999.45
+Electronics,LG,Small Stores / Shops,30786546.20,11189,2751.50,500.75,4999.20
+Electronics,LG,Supermarkets ,31462851.67,11482,2740.19,500.17,4999.77
+Electronics,Panasonic,Large Malls / Complexes,29228558.92,10591,2759.75,500.80,4999.83
+Electronics,Panasonic,Small Stores / Shops,31308535.62,11336,2761.87,500.14,4999.96
+Electronics,Panasonic,Supermarkets ,31965732.58,11558,2765.68,500.09,4999.90
+Electronics,Samsung,Large Malls / Complexes,28794625.23,10459,2753.10,501.27,4999.50
+Electronics,Samsung,Small Stores / Shops,31578857.00,11424,2764.26,501.42,4999.69
+Electronics,Samsung,Supermarkets ,32123219.62,11639,2759.96,500.13,4999.71
+Electronics,Sony,Large Malls / Complexes,29277952.66,10704,2735.23,500.55,4999.95
+Electronics,Sony,Small Stores / Shops,30084728.22,10999,2735.22,500.08,4999.82
+Electronics,Sony,Supermarkets ,31553262.82,11446,2756.71,500.05,4999.96
+Furniture,Godrej Interio,Large Malls / Complexes,28803334.74,10448,2756.83,500.23,4999.77
+Furniture,Godrej Interio,Small Stores / Shops,30735639.41,11277,2725.52,500.57,4999.44
+Furniture,Godrej Interio,Supermarkets ,31736972.36,11605,2734.77,501.67,4999.39
+Furniture,Home Centre,Large Malls / Complexes,29390646.09,10643,2761.50,500.35,4999.60
+Furniture,Home Centre,Small Stores / Shops,31508943.19,11303,2787.66,500.93,4999.89
+Furniture,Home Centre,Supermarkets ,31591076.21,11532,2739.43,500.23,4999.90
+Furniture,IKEA,Large Malls / Complexes,28987225.17,10556,2746.04,501.95,4999.69
+Furniture,IKEA,Small Stores / Shops,30951609.96,11228,2756.64,500.06,4999.21
+Furniture,IKEA,Supermarkets ,32299038.72,11777,2742.55,500.31,4999.12
+Furniture,Pepperfry,Large Malls / Complexes,29033091.43,10533,2756.39,500.36,4999.16
+Furniture,Pepperfry,Small Stores / Shops,30859802.13,11147,2768.44,501.05,4999.47
+Furniture,Pepperfry,Supermarkets ,31763725.95,11579,2743.22,500.89,4999.26
+Furniture,Urban Ladder,Large Malls / Complexes,29737679.79,10801,2753.23,500.29,4999.88
+Furniture,Urban Ladder,Small Stores / Shops,30098807.05,10874,2767.96,500.07,4999.31
+Furniture,Urban Ladder,Supermarkets ,31971810.85,11603,2755.48,502.37,4999.59
+Groceries,Amul,Large Malls / Complexes,28518845.32,10409,2739.83,500.26,4999.80
+Groceries,Amul,Small Stores / Shops,30931403.35,11265,2745.80,500.62,4998.98
+Groceries,Amul,Supermarkets ,32036538.55,11694,2739.57,500.74,4998.75
+Groceries,Britannia,Large Malls / Complexes,28147572.65,10299,2733.04,500.98,4999.95
+Groceries,Britannia,Small Stores / Shops,30636265.51,11138,2750.61,500.31,4999.83
+Groceries,Britannia,Supermarkets ,31601556.56,11549,2736.30,500.56,4999.16
+Groceries,Kellogg's,Large Malls / Complexes,29303358.94,10626,2757.70,500.54,4999.96
+Groceries,Kellogg's,Small Stores / Shops,30840970.55,11209,2751.45,500.37,4999.89
+Groceries,Kellogg's,Supermarkets ,31406746.69,11388,2757.88,500.12,4999.85
+Groceries,Nestle,Large Malls / Complexes,28255923.95,10281,2748.36,500.36,4999.92
+Groceries,Nestle,Small Stores / Shops,30897628.70,11181,2763.40,500.60,4999.70
+Groceries,Nestle,Supermarkets ,32022427.02,11665,2745.17,500.03,4999.88
+Groceries,Tata,Large Malls / Complexes,29291037.51,10544,2777.98,500.32,4999.97
+Groceries,Tata,Small Stores / Shops,31108943.77,11352,2740.39,500.01,4999.35
+Groceries,Tata,Supermarkets ,31615963.49,11484,2753.04,500.33,4999.34
+Home Appliances,Bosch,Large Malls / Complexes,28547242.56,10492,2720.86,500.71,4999.74
+Home Appliances,Bosch,Small Stores / Shops,30194993.21,11078,2725.67,500.98,4998.56
+Home Appliances,Bosch,Supermarkets ,31872253.53,11656,2734.41,500.10,4999.80
+Home Appliances,Haier,Large Malls / Complexes,28804900.24,10455,2755.13,500.27,4998.92
+Home Appliances,Haier,Small Stores / Shops,31085274.17,11378,2732.05,500.05,4999.06
+Home Appliances,Haier,Supermarkets ,31828984.90,11583,2747.91,500.00,4999.91
+Home Appliances,LG,Large Malls / Complexes,29714825.75,10783,2755.71,500.28,4999.91
+Home Appliances,LG,Small Stores / Shops,30623171.16,11196,2735.19,500.98,4999.15
+Home Appliances,LG,Supermarkets ,31404498.11,11397,2755.51,500.36,4999.43
+Home Appliances,Samsung,Large Malls / Complexes,29489989.84,10700,2756.07,500.13,4999.94
+Home Appliances,Samsung,Small Stores / Shops,30857807.92,11274,2737.08,500.09,4999.98
+Home Appliances,Samsung,Supermarkets ,31587295.10,11454,2757.75,500.36,4999.66
+Home Appliances,Whirlpool,Large Malls / Complexes,29338184.46,10695,2743.17,500.61,4999.74
+Home Appliances,Whirlpool,Small Stores / Shops,30900657.57,11262,2743.80,500.21,4999.78
+Home Appliances,Whirlpool,Supermarkets ,31730796.22,11526,2752.98,501.35,4999.93
+Sports & Outdoors,Adidas,Large Malls / Complexes,29741671.38,10738,2769.76,500.23,4998.24
+Sports & Outdoors,Adidas,Small Stores / Shops,30890089.80,11215,2754.35,500.73,4999.78
+Sports & Outdoors,Adidas,Supermarkets ,31396219.58,11364,2762.78,500.33,4999.33
+Sports & Outdoors,Decathlon,Large Malls / Complexes,28593395.85,10402,2748.84,500.07,4998.97
+Sports & Outdoors,Decathlon,Small Stores / Shops,31195530.57,11307,2758.96,500.15,4999.25
+Sports & Outdoors,Decathlon,Supermarkets ,31862492.60,11640,2737.33,500.09,4999.97
+Sports & Outdoors,Nike,Large Malls / Complexes,29070916.44,10559,2753.19,501.80,4999.19
+Sports & Outdoors,Nike,Small Stores / Shops,31455896.66,11331,2776.09,500.01,4999.83
+Sports & Outdoors,Nike,Supermarkets ,32402772.89,11823,2740.66,500.31,4999.05
+Sports & Outdoors,Puma,Large Malls / Complexes,29092216.18,10573,2751.56,500.10,4999.78
+Sports & Outdoors,Puma,Small Stores / Shops,31513465.61,11507,2738.63,500.03,4998.46
+Sports & Outdoors,Puma,Supermarkets ,31801076.79,11535,2756.92,500.04,4999.89
+Sports & Outdoors,Reebok,Large Malls / Complexes,30025756.54,10893,2756.43,500.26,4999.34
+Sports & Outdoors,Reebok,Small Stores / Shops,30880414.64,11208,2755.21,500.37,4999.65
+Sports & Outdoors,Reebok,Supermarkets ,31781487.28,11547,2752.36,500.04,4999.55

@@ -1,0 +1,21 @@
+category,customer_segment,store_type,sum_amount,count,avg_amount
+Home Appliances,Deal Seeker,Supermarkets ,16343194.62,5929,2756.48
+Furniture,Online Shopper,Supermarkets ,16317675.95,5953,2741.08
+Electronics,Churn Risk,Supermarkets ,16231713.1,5885,2758.15
+Groceries,High Value,Supermarkets ,16227589.18,5892,2754.17
+Furniture,Loyal Customer,Supermarkets ,16218808.3,5920,2739.66
+Sports & Outdoors,Online Shopper,Supermarkets ,16204178.49,5869,2760.98
+Home Appliances,Online Shopper,Supermarkets ,16183421.57,5875,2754.62
+Sports & Outdoors,Occasional Shopper,Supermarkets ,16181349.89,5932,2727.81
+Groceries,Loyal Customer,Supermarkets ,16129682.69,5792,2784.82
+Home Appliances,Loyal Customer,Supermarkets ,16124710.22,5810,2775.34
+Sports & Outdoors,Budget Shopper,Supermarkets ,16120490.15,5852,2754.7
+Groceries,Occasional Shopper,Supermarkets ,16108947.68,5881,2739.15
+Furniture,High Value,Small Stores / Shops,16075396.51,5799,2772.1
+Sports & Outdoors,Churn Risk,Supermarkets ,16050985.81,5847,2745.17
+Clothing,Occasional Shopper,Supermarkets ,16047869.29,5833,2751.22
+Electronics,Premium Shopper,Supermarkets ,16045371.72,5819,2757.41
+Sports & Outdoors,First-time Buyer,Supermarkets ,16044329.36,5839,2747.79
+Furniture,Churn Risk,Supermarkets ,16023749.7,5822,2752.28
+Sports & Outdoors,High Value,Supermarkets ,16010472.59,5823,2749.52
+Furniture,Occasional Shopper,Supermarkets ,16008088.38,5794,2762.87

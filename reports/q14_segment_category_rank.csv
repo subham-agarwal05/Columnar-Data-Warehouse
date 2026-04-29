@@ -1,0 +1,31 @@
+customer_segment,category,sum_amount,count,rnk
+Budget Shopper,Furniture,45885406.89,16719,1
+Budget Shopper,Sports & Outdoors,45756310.87,16613,2
+Budget Shopper,Clothing,45722204.28,16600,3
+Churn Risk,Sports & Outdoors,46698414.51,16906,1
+Churn Risk,Electronics,45924919.41,16738,2
+Churn Risk,Furniture,45817845.76,16700,3
+Deal Seeker,Sports & Outdoors,46447342.58,16844,1
+Deal Seeker,Groceries,46232011.04,16743,2
+Deal Seeker,Home Appliances,46224364.09,16889,3
+First-time Buyer,Sports & Outdoors,46091012.87,16744,1
+First-time Buyer,Furniture,45947901.07,16645,2
+First-time Buyer,Electronics,45695188.87,16592,3
+High Value,Sports & Outdoors,46798807.43,16960,1
+High Value,Furniture,46381164.25,16856,2
+High Value,Groceries,46250161.2,16863,3
+In-Store Regular,Sports & Outdoors,46168221.44,16675,1
+In-Store Regular,Electronics,45823630.24,16695,2
+In-Store Regular,Groceries,45684699.74,16612,3
+Loyal Customer,Furniture,46377057.39,16805,1
+Loyal Customer,Sports & Outdoors,46021025.13,16770,2
+Loyal Customer,Clothing,45918634.24,16698,3
+Occasional Shopper,Electronics,46519733.2,16830,1
+Occasional Shopper,Sports & Outdoors,46505817.49,16942,2
+Occasional Shopper,Home Appliances,46160064.37,16835,3
+Online Shopper,Furniture,46782229.1,16997,1
+Online Shopper,Home Appliances,46762761.73,17056,2
+Online Shopper,Sports & Outdoors,46185599.44,16794,3
+Premium Shopper,Electronics,45971856.65,16688,1
+Premium Shopper,Furniture,45470023.77,16469,2
+Premium Shopper,Home Appliances,45314517.52,16453,3

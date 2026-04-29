@@ -1,0 +1,31 @@
+customer_segment,salesperson_role,sum_amount,count,rnk
+Budget Shopper,Sales Associate,71927255.7,26147,1
+Budget Shopper,Salesperson,71158392.97,25817,2
+Budget Shopper,Manager,68469060.2,24860,3
+Churn Risk,Sales Associate,72387897.74,26379,1
+Churn Risk,Salesperson,71496537.62,25891,2
+Churn Risk,Manager,69529536.87,25264,3
+Deal Seeker,Sales Associate,73321214.91,26617,1
+Deal Seeker,Salesperson,72314402.09,26414,2
+Deal Seeker,Manager,69330207.77,25120,3
+First-time Buyer,Sales Associate,72509962.56,26322,1
+First-time Buyer,Salesperson,71432499.9,25929,2
+First-time Buyer,Manager,68605234.01,24886,3
+High Value,Sales Associate,72254248.35,26392,1
+High Value,Salesperson,71051014.8,25855,2
+High Value,Manager,69651536.43,25349,3
+In-Store Regular,Sales Associate,72509489.19,26366,1
+In-Store Regular,Salesperson,70253780.62,25581,2
+In-Store Regular,Manager,68123900.83,24699,3
+Loyal Customer,Sales Associate,72602110.16,26335,1
+Loyal Customer,Salesperson,71728317.58,25990,2
+Loyal Customer,Manager,68824167.92,25146,3
+Occasional Shopper,Sales Associate,73701561.29,26691,1
+Occasional Shopper,Salesperson,71318103.19,25925,2
+Occasional Shopper,Manager,68758620.88,25173,3
+Online Shopper,Sales Associate,72489348.27,26354,1
+Online Shopper,Salesperson,71883740.16,26174,2
+Online Shopper,Manager,70105241.04,25386,3
+Premium Shopper,Sales Associate,71219422.17,25979,1
+Premium Shopper,Salesperson,70951887.52,25757,2
+Premium Shopper,Manager,67421986.7,24520,3

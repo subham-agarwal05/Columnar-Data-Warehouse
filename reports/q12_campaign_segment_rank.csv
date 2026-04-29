@@ -1,0 +1,51 @@
+campaign_name,customer_segment,sum_amount,count,rnk
+12 Days of Deals,Deal Seeker,5758952.24,2105,1
+12 Days of Deals,First-time Buyer,5665024.02,2089,2
+12 Days of Deals,Online Shopper,5629744.41,2041,3
+Autumn Deals Drive,High Value,5698147.67,2068,1
+Autumn Deals Drive,Occasional Shopper,5639670.14,2065,2
+Autumn Deals Drive,In-Store Regular,5636072.34,2078,3
+Back to School Boost,Churn Risk,5718247.06,2100,1
+Back to School Boost,Deal Seeker,5712430.25,2074,2
+Back to School Boost,Budget Shopper,5558110.31,2020,3
+Birthday Bash Sale,Churn Risk,5731060.21,2049,1
+Birthday Bash Sale,Loyal Customer,5567197.38,2005,2
+Birthday Bash Sale,Occasional Shopper,5463731.27,1994,3
+Black Friday Blowout,Online Shopper,5674043.64,2054,1
+Black Friday Blowout,Budget Shopper,5606470.86,2021,2
+Black Friday Blowout,High Value,5589739.8,2036,3
+BOGO Blitz,Online Shopper,5588346.04,2033,1
+BOGO Blitz,Deal Seeker,5577246.96,2007,2
+BOGO Blitz,Churn Risk,5570893.45,2023,3
+Cart Crasher Campaign,Occasional Shopper,5708367.98,2080,1
+Cart Crasher Campaign,Online Shopper,5631390.98,2047,2
+Cart Crasher Campaign,High Value,5591432.34,2026,3
+Cashback Carnival,Budget Shopper,5763764.74,2055,1
+Cashback Carnival,High Value,5574813.93,2045,2
+Cashback Carnival,Occasional Shopper,5537065.52,2045,3
+Clearance Countdown,Loyal Customer,5756069.52,2105,1
+Clearance Countdown,Deal Seeker,5704142.87,2093,2
+Clearance Countdown,Online Shopper,5616916.78,2039,3
+Countdown to Savings,High Value,5717589.65,2066,1
+Countdown to Savings,Online Shopper,5709842.83,2079,2
+Countdown to Savings,Deal Seeker,5623593.87,2048,3
+Customer Appreciation Week,High Value,5708312.81,2084,1
+Customer Appreciation Week,Occasional Shopper,5703960.99,2049,2
+Customer Appreciation Week,First-time Buyer,5690622.5,2056,3
+Cyber Monday Mania,High Value,5821108.02,2121,1
+Cyber Monday Mania,First-time Buyer,5623482.63,2044,2
+Cyber Monday Mania,Deal Seeker,5619712.57,2051,3
+Deal of the Month,High Value,5556111.93,2038,1
+Deal of the Month,Churn Risk,5549456.43,2021,2
+Deal of the Month,Occasional Shopper,5500123.51,2004,3
+Double Points Bonanza,Deal Seeker,5746644.37,2040,1
+Double Points Bonanza,Premium Shopper,5626599.7,1999,2
+Double Points Bonanza,First-time Buyer,5610119.05,2015,3
+Early Bird Specials,Online Shopper,5777458.11,2135,1
+Early Bird Specials,In-Store Regular,5637501.01,2029,2
+Early Bird Specials,High Value,5531963.6,2040,3
+End of Season Sale,First-time Buyer,5645042.15,2043,1
+End of Season Sale,Deal Seeker,5603288.67,2036,2
+End of Season Sale,Churn Risk,5560987.96,2049,3
+Exclusive Insider Offers,Loyal Customer,5682565.98,2046,1
+Exclusive Insider Offers,First-time Buyer,5623490.85,2017,2

@@ -6,7 +6,7 @@ PUGI = pugixml.cpp
 MYSQL_INCLUDE = -I/usr/include/mysql
 MYSQL_LIB = -L/usr/lib/x86_64-linux-gnu -lmysqlclient
 
-all: db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids
+all: db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids query_cuboids
 
 db_init: db_init.cpp $(PUGI)
 	$(CXX) $(CXXFLAGS) db_init.cpp $(PUGI) -o db_init
@@ -35,7 +35,10 @@ compare_performance: compare_performance.cpp
 clean_cuboids: clean_cuboids.cpp
 	$(CXX) $(CXXFLAGS) clean_cuboids.cpp -o clean_cuboids $(MYSQL_INCLUDE) $(MYSQL_LIB)
 
+query_cuboids: query_cuboids.cpp
+	$(CXX) $(CXXFLAGS) query_cuboids.cpp -o query_cuboids $(MYSQL_INCLUDE) $(MYSQL_LIB)
+
 clean:
-	rm -f db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids
+	rm -f db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids query_cuboids
 
 .PHONY: all clean db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids

@@ -1,0 +1,31 @@
+customer_segment,store_type,sum_amount,count,computed_avg
+Budget Shopper,Supermarkets ,94914928.18,34452,2754.99
+Budget Shopper,Small Stores / Shops,91863385.06,33441,2747.03
+Budget Shopper,Large Malls / Complexes,86673749.64,31465,2754.61
+Churn Risk,Supermarkets ,95557683.52,34670,2756.21
+Churn Risk,Small Stores / Shops,92922850.36,33826,2747.08
+Churn Risk,Large Malls / Complexes,87077275.88,31730,2744.32
+Deal Seeker,Supermarkets ,95521291.04,34858,2740.3
+Deal Seeker,Small Stores / Shops,93446921.53,33956,2752
+Deal Seeker,Large Malls / Complexes,88110525.51,32031,2750.79
+First-time Buyer,Supermarkets ,94609418.09,34401,2750.19
+First-time Buyer,Small Stores / Shops,91821041.41,33359,2752.51
+First-time Buyer,Large Malls / Complexes,87700674.51,31735,2763.53
+High Value,Supermarkets ,94836940.39,34663,2735.97
+High Value,Small Stores / Shops,94327180.95,34298,2750.22
+High Value,Large Malls / Complexes,86896665.3,31630,2747.29
+In-Store Regular,Supermarkets ,94141019.51,34308,2744
+In-Store Regular,Small Stores / Shops,92707730.04,33685,2752.2
+In-Store Regular,Large Malls / Complexes,86599819.11,31346,2762.71
+Loyal Customer,Supermarkets ,95973369.77,34813,2756.83
+Loyal Customer,Small Stores / Shops,92831824.39,33690,2755.47
+Loyal Customer,Large Malls / Complexes,86641806.56,31541,2746.96
+Occasional Shopper,Supermarkets ,95737239.41,34918,2741.77
+Occasional Shopper,Small Stores / Shops,93093474.98,33705,2762.01
+Occasional Shopper,Large Malls / Complexes,87610188.14,31935,2743.39
+Online Shopper,Supermarkets ,96438782.3,35025,2753.43
+Online Shopper,Small Stores / Shops,92982078.29,33821,2749.24
+Online Shopper,Large Malls / Complexes,88232957.49,31973,2759.61
+Premium Shopper,Supermarkets ,94306023.76,34304,2749.13
+Premium Shopper,Small Stores / Shops,91280013.62,33108,2757.04
+Premium Shopper,Large Malls / Complexes,86017735.96,31313,2747.03

@@ -1,0 +1,31 @@
+customer_segment,campaign_name,sum_amount,count,rnk
+Budget Shopper,Cashback Carnival,5763764.74,2055,1
+Budget Shopper,Seasonal Surprise Box,5717808.61,2033,2
+Budget Shopper,Spring Refresh Event,5692650.88,2052,3
+Churn Risk,Green Weekend Deals,5770003.4,2076,1
+Churn Risk,Super Savings Week,5758664.33,2077,2
+Churn Risk,Birthday Bash Sale,5731060.21,2049,3
+Deal Seeker,Ultimate Value Event,5820785.22,2083,1
+Deal Seeker,12 Days of Deals,5758952.24,2105,2
+Deal Seeker,Double Points Bonanza,5746644.37,2040,3
+First-time Buyer,Customer Appreciation Week,5690622.5,2056,1
+First-time Buyer,Smart Shopper Week,5686490.19,2055,2
+First-time Buyer,Festive Fever Promo,5668529.38,2019,3
+High Value,Cyber Monday Mania,5821108.02,2121,1
+High Value,Winter Clearance Carnival,5742308.09,2048,2
+High Value,Countdown to Savings,5717589.65,2066,3
+In-Store Regular,Instant Gratification Sale,5692813.99,2011,1
+In-Store Regular,Festive Fever Promo,5670137.17,2056,2
+In-Store Regular,Early Bird Specials,5637501.01,2029,3
+Loyal Customer,Summer Sizzle Promo,5845355.17,2093,1
+Loyal Customer,Hot Picks Promo,5791966.56,2093,2
+Loyal Customer,Clearance Countdown,5756069.52,2105,3
+Occasional Shopper,New Year Kickoff,5759404.73,2040,1
+Occasional Shopper,Shop & Save Spectacular,5744994.61,2033,2
+Occasional Shopper,Smart Shopper Week,5732181.5,2073,3
+Online Shopper,New Arrival Showcase,5878630.29,2101,1
+Online Shopper,Early Bird Specials,5777458.11,2135,2
+Online Shopper,Flash Frenzy Friday,5744425.66,2072,3
+Premium Shopper,Golden Hour Bargains,5643109.18,2040,1
+Premium Shopper,Seasonal Surprise Box,5639370.8,2057,2
+Premium Shopper,Double Points Bonanza,5626599.7,1999,3

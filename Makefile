@@ -6,7 +6,7 @@ PUGI = pugixml.cpp
 MYSQL_INCLUDE = -I/usr/include/mysql
 MYSQL_LIB = -L/usr/lib/x86_64-linux-gnu -lmysqlclient
 
-all: db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids query_cuboids
+all: db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids query_cuboids ingest_mock_row generate_valid_mock_csv
 
 db_init: db_init.cpp $(PUGI)
 	$(CXX) $(CXXFLAGS) db_init.cpp $(PUGI) -o db_init
@@ -38,7 +38,13 @@ clean_cuboids: clean_cuboids.cpp
 query_cuboids: query_cuboids.cpp
 	$(CXX) $(CXXFLAGS) query_cuboids.cpp -o query_cuboids $(MYSQL_INCLUDE) $(MYSQL_LIB)
 
+ingest_mock_row: ingest_mock_row.cpp
+	$(CXX) $(CXXFLAGS) ingest_mock_row.cpp -o ingest_mock_row
+
+generate_valid_mock_csv: generate_valid_mock_csv.cpp
+	$(CXX) $(CXXFLAGS) generate_valid_mock_csv.cpp -o generate_valid_mock_csv
+
 clean:
-	rm -f db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids query_cuboids
+	rm -f db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids load_raw_mysql sql_lattice compare_performance clean_cuboids query_cuboids ingest_mock_row generate_valid_mock_csv
 
 .PHONY: all clean db_init db_load_data generate_cuboids load_to_mysql iceberg_cuboids

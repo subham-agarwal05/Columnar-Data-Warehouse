@@ -69,6 +69,27 @@ This project builds a columnar data store, generates a full cuboid lattice, load
 7. (Optional) Run benchmarks:
 	- ./compare_performance
 
+## Demonstrating Refresh Feature (Demo Tip)
+To show the "refresh" feature to your professor without actually modifying the source CSV, you can manually manipulate the **offset** files. This tricks the system into thinking there is new data to process.
+
+### 1. For Full Lattice (`generate_cuboids`)
+- **Logic**: It compares the total rows loaded (`DB/.offset`) with the rows already in cuboids (`DB/.cuboid_offset`).
+- **How to Demo**:
+  1. Run `./generate_cuboids` (creates all cuboids).
+  2. Check `DB/.cuboid_offset` (it will match the total rows).
+  3. Manually **decrease** the value in `DB/.cuboid_offset` (e.g., set it to 1000).
+  4. Run `./generate_cuboids refresh`.
+  5. **Observation**: The system will detect "new data" and perform incremental **upserts** into MySQL.
+
+### 2. For Iceberg Cuboids (`iceberg_cuboids`)
+- **Logic**: It compares `DB/.offset` with the offset in the iceberg metadata file.
+- **How to Demo**:
+  1. Run `./iceberg_cuboids 300000 SUM`.
+  2. Locate the metadata file: `DB/.iceberg_metadata_SUM_300000.00`.
+  3. Open it and **decrease** the first number (the offset).
+  4. Run `./iceberg_cuboids 300000 SUM` again.
+  5. **Observation**: The system will detect new data, clear the previous iceberg folder, and **regenerate** the cuboids from the full dataset.
+
 ## Example Outputs
 Query menu (query_cuboids):
 ```

@@ -695,11 +695,6 @@ int refresh_cuboids(const map<string, CdsColumnInfo>& cds_schema) {
 }
 
 int main(int argc, char* argv[]) {
-    string mode = "generate"; // default
-    if (argc > 1) mode = argv[1];
-
-    cout << "=== Cuboid Manager ===" << endl;
-
     // Parse schemas (shared)
     auto dim_schema = parse_dim_schema("dim_schema.xml");
     auto cds_schema = parse_cds_schema("cds_schema.xml");
@@ -708,12 +703,31 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+    string mode = "";
+    if (argc > 1) mode = argv[1];
+
+    cout << "=== Cuboid Manager ===" << endl;
+
     if (mode == "generate") {
         cout << "Mode: GENERATE (full computation)" << endl;
         return generate_cuboids(cds_schema);
     } else if (mode == "refresh") {
         cout << "Mode: REFRESH (incremental update)" << endl;
         return refresh_cuboids(cds_schema);
+    } else if (mode == "") {
+        // Auto-detect mode
+        size_t db_offset = read_offset("DB/.offset");
+        size_t cuboid_offset = read_offset(CUBOID_OFFSET_FILE);
+
+        if (cuboid_offset < db_offset) {
+            cout << "-> New data detected (" << cuboid_offset << " rows processed < " << db_offset << " total)." << endl;
+            cout << "Mode: REFRESH (automatic)" << endl;
+            return refresh_cuboids(cds_schema);
+        } else {
+            cout << "-> Data is up to date (" << db_offset << " rows). Running full GENERATE mode..." << endl;
+            cout << "Mode: GENERATE (automatic)" << endl;
+            return generate_cuboids(cds_schema);
+        }
     } else {
         cerr << "Unknown mode: " << mode << endl;
         cerr << "Usage: generate_cuboids [generate|refresh]" << endl;

@@ -1,9 +1,11 @@
 # Columnar Data Warehouse
 
 ## Overview
+
 This project builds a columnar data store, generates a full cuboid lattice, loads it into MySQL, and provides menu-driven business queries plus performance comparisons. The flow is: initialize storage, load data, generate cuboids, optionally load cuboids into MySQL, and run analytics or benchmarks.
 
 ## High-Level Workflow
+
 1. Initialize storage for the columnar database.
 2. Load denormalized fact data into the columnar files.
 3. Generate cuboids (full lattice or iceberg) from the columnar store.
@@ -11,10 +13,12 @@ This project builds a columnar data store, generates a full cuboid lattice, load
 5. Run interactive queries or performance comparisons.
 
 ## Key Schemas
+
 - cds_schema.xml: Column store layout and file paths for each column.
 - dim_schema.xml: Logical schema and validation rules for each column.
 
 ## Core Binaries and What They Do
+
 - db_init / db_init.cpp: Prepares the DB/ column store layout so later steps can write binary columns consistently.
 - db_load_data / db_load_data.cpp: Loads the denormalized fact CSV into the column store, validates schema rules, and maintains dictionaries for encoded columns.
 - generate_cuboids / generate_cuboids.cpp: Scans the column store and materializes the full cuboid lattice into CSVs for fast rollups.
@@ -28,6 +32,7 @@ This project builds a columnar data store, generates a full cuboid lattice, load
 - join_tables.py: Builds a denormalized fact table from source tables to feed the pipeline.
 
 ## Data and Output Folders
+
 - DB/: Columnar storage files and dictionaries.
 - Data/: Source CSV data used for loading.
 - Cuboids/: Full lattice CSV outputs.
@@ -36,6 +41,7 @@ This project builds a columnar data store, generates a full cuboid lattice, load
 - report.html: Performance comparison report.
 
 ## How Everything Helps
+
 - Columnar storage speeds up scanning and aggregation for large analytical workloads.
 - Cuboid lattices precompute aggregations to answer business queries quickly.
 - Iceberg cuboids keep only high-value groups to cut storage and query time.
@@ -44,6 +50,7 @@ This project builds a columnar data store, generates a full cuboid lattice, load
 - The performance report documents tradeoffs between the custom columnar engine and MySQL.
 
 ## Pipeline (How Everything Is Stitched)
+
 1. join_tables.py creates a denormalized fact CSV (Data/).
 2. db_init creates the columnar storage files in DB/.
 3. db_load_data loads the fact CSV into DB/ with validation and encoding.
@@ -53,35 +60,39 @@ This project builds a columnar data store, generates a full cuboid lattice, load
 7. compare_performance benchmarks the columnar path against sql_lattice.
 
 ## How to Run (Guide)
-1. Build binaries:
-	- make
-2. Initialize the column store:
-	- ./db_init
-3. Load data into the column store:
-	- ./db_load_data
-4. Generate cuboids:
-	- ./generate_cuboids
-	- Or iceberg: ./iceberg_cuboids 300000 SUM
-5. Load cuboids into MySQL:
-	- ./load_to_mysql
-6. Run business queries:
-	- ./query_cuboids
-7. (Optional) Run benchmarks:
-	- ./compare_performance
 
-## Demonstrating Refresh Feature (Demo Tip)
+1. Build binaries:
+   - make
+2. Initialize the column store:
+   - ./db_init
+3. Load data into the column store:
+   - ./db_load_data
+4. Generate cuboids:
+   - ./generate_cuboids
+   - Or iceberg: ./iceberg_cuboids 300000 SUM
+5. Load cuboids into MySQL:
+   - ./load_to_mysql
+6. Run business queries:
+   - ./query_cuboids
+7. (Optional) Run benchmarks:
+   - ./compare_performance
+
+## Demonstrating Refresh Feature
+
 To show the "refresh" feature to your professor without actually modifying the source CSV, you can manually manipulate the **offset** files. This tricks the system into thinking there is new data to process.
 
 ### 1. For Full Lattice (`generate_cuboids`)
+
 - **Logic**: It compares the total rows loaded (`DB/.offset`) with the rows already in cuboids (`DB/.cuboid_offset`).
 - **How to Demo**:
   1. Run `./generate_cuboids` (creates all cuboids).
   2. Check `DB/.cuboid_offset` (it will match the total rows).
-  3. Manually **decrease** the value in `DB/.cuboid_offset` (e.g., set it to 1000).
+  3. Manually **decrease** the value in `DB/.cuboid_offset` (e.g., set it to 999998).
   4. Run `./generate_cuboids refresh`.
   5. **Observation**: The system will detect "new data" and perform incremental **upserts** into MySQL.
 
 ### 2. For Iceberg Cuboids (`iceberg_cuboids`)
+
 - **Logic**: It compares `DB/.offset` with the offset in the iceberg metadata file.
 - **How to Demo**:
   1. Run `./iceberg_cuboids 300000 SUM`.
@@ -91,7 +102,9 @@ To show the "refresh" feature to your professor without actually modifying the s
   5. **Observation**: The system will detect new data, clear the previous iceberg folder, and **regenerate** the cuboids from the full dataset.
 
 ## Example Outputs
+
 Query menu (query_cuboids):
+
 ```
 1.  Show overall sales, transactions, and order value
 2.  Which categories contribute most to revenue?
@@ -101,6 +114,7 @@ Query menu (query_cuboids):
 ```
 
 Sample query result (abbreviated):
+
 ```
 +------------------+------------+-------+------------+
 | customer_segment | sum_amount | count | avg_amount |
@@ -111,4 +125,5 @@ Sample query result (abbreviated):
 ```
 
 Performance report:
+
 - report.html contains side-by-side timings and cuboid table counts for columnar vs MySQL runs.

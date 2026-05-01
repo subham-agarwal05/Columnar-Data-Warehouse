@@ -90,22 +90,22 @@ void html_render_section(ofstream& out, const string& title, const ExecResult& c
 
 int main() {
     cout << "\n[1/4] Running Full Lattice on Columnar DB...\n";
-    auto ft_col = measure_and_capture("./generate_cuboids");
+    auto ft_col = measure_and_capture("generate_cuboids");
     vector<pair<string, size_t>> f_col_tables; size_t f_col_total;
     read_directory_metrics("Cuboids", f_col_tables, f_col_total);
 
     cout << "\n[2/4] Running Full Lattice on MySQL DB...\n";
-    auto ft_sql = measure_and_capture("./sql_lattice");
+    auto ft_sql = measure_and_capture("sql_lattice");
     vector<pair<string, size_t>> f_sql_tables; size_t f_sql_total;
     parse_sql_metrics(ft_sql.output, f_sql_tables, f_sql_total);
 
     cout << "\n[3/4] Running Iceberg Lattice (300000 SUM) on Columnar DB...\n";
-    auto it_col = measure_and_capture("./iceberg_cuboids 300000 SUM");
+    auto it_col = measure_and_capture("iceberg_cuboids 300000 SUM");
     vector<pair<string, size_t>> i_col_tables; size_t i_col_total;
     read_directory_metrics("IcebergCuboids_SUM_300000.00", i_col_tables, i_col_total);
 
     cout << "\n[4/4] Running Iceberg Lattice (300000 SUM) on MySQL DB...\n";
-    auto it_sql = measure_and_capture("./sql_lattice 300000 SUM");
+    auto it_sql = measure_and_capture("sql_lattice 300000 SUM");
     vector<pair<string, size_t>> i_sql_tables; size_t i_sql_total;
     parse_sql_metrics(it_sql.output, i_sql_tables, i_sql_total);
     

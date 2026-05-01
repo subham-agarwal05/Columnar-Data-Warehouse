@@ -719,7 +719,11 @@ int main(int argc, char* argv[]) {
         size_t db_offset = read_offset("DB/.offset");
         size_t cuboid_offset = read_offset(CUBOID_OFFSET_FILE);
 
-        if (cuboid_offset < db_offset) {
+        if (cuboid_offset == 0) {
+            cout << "-> Initial run detected (0 rows processed). Running full GENERATE mode..." << endl;
+            cout << "Mode: GENERATE (automatic)" << endl;
+            return generate_cuboids(cds_schema);
+        } else if (cuboid_offset < db_offset) {
             cout << "-> New data detected (" << cuboid_offset << " rows processed < " << db_offset << " total)." << endl;
             cout << "Mode: REFRESH (automatic)" << endl;
             return refresh_cuboids(cds_schema);

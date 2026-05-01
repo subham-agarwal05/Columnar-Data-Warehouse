@@ -617,33 +617,12 @@ int refresh_cuboids(const map<string, CdsColumnInfo>& cds_schema) {
             delta_agg[key].add(measure_data[row]);
         }
 
-        // Upsert each group into MySQL
-        for (auto& [key, agg] : delta_agg) {
-            vector<string> key_parts;
-            if (!subset.empty()) {
-                stringstream ss(key);
-                string token;
-                while (getline(ss, token, '|')) key_parts.push_back(token);
-            }
-
-            // Build WHERE clause
-            string where_clause;
-            for (size_t i = 0; i < subset.size(); i++) {
-                if (i > 0) where_clause += " AND ";
-                where_clause += "`" + selected_dims[subset[i]] + "`='" + mysql_escape(key_parts[i]) + "'";
-            }
-
-            // Check if row exists in MySQL
-            string check_query;
-            if (subset.empty())
-                check_query = "SELECT sum_amount,count,min_amount,max_amount FROM " + table_name + " LIMIT 1;";
-            else
-                check_query = "SELECT sum_amount,count,min_amount,max_amount FROM " + table_name + " WHERE " + where_clause + " LIMIT 1;";
-
+        if (subset.empty()) {
+            string check_query = "SELECT sum_amount,count,min_amount,max_amount FROM " + table_name + " LIMIT 1;";
             auto existing = db.query(check_query);
+            auto& agg = delta_agg["ALL"];
 
             if (!existing.empty()) {
-                // UPDATE: merge old + delta
                 double old_sum = stod(existing[0][0]);
                 int64_t old_count = stoll(existing[0][1]);
                 double old_min = stod(existing[0][2]);
@@ -662,24 +641,44 @@ int refresh_cuboids(const map<string, CdsColumnInfo>& cds_schema) {
                    << "count=" << new_count << ","
                    << "avg_amount=" << new_avg << ","
                    << "min_amount=" << new_min << ","
-                   << "max_amount=" << new_max;
-                if (!subset.empty()) uq << " WHERE " << where_clause;
-                uq << ";";
+                   << "max_amount=" << new_max << ";";
                 db.execute(uq.str());
             } else {
-                // INSERT: new group
                 ostringstream iq;
                 iq << fixed << setprecision(2);
-                iq << "INSERT INTO " << table_name << " (";
-                for (size_t i = 0; i < subset.size(); i++)
-                    iq << "`" << selected_dims[subset[i]] << "`,";
-                iq << "sum_amount,count,avg_amount,min_amount,max_amount) VALUES (";
-                for (size_t i = 0; i < key_parts.size(); i++)
-                    iq << "'" << mysql_escape(key_parts[i]) << "',";
-                iq << agg.sum_amount << "," << agg.count << "," << agg.avg() << ","
+                iq << "INSERT INTO " << table_name << " (sum_amount,count,avg_amount,min_amount,max_amount) VALUES ("
+                   << agg.sum_amount << "," << agg.count << "," << agg.avg() << ","
                    << agg.min_amount << "," << agg.max_amount << ");";
                 db.execute(iq.str());
             }
+        } else {
+            string temp_csv = "Cuboids/delta_" + table_name + ".csv";
+            write_cuboid_csv("Cuboids", "delta_" + table_name, selected_dims, subset, delta_agg);
+            
+            string abs_path = fs::absolute(temp_csv).string();
+            replace(abs_path.begin(), abs_path.end(), '\\', '/');
+            
+            string temp_table = "t_delta";
+            db.execute("CREATE TEMPORARY TABLE " + temp_table + " LIKE " + table_name + ";");
+            
+            string load_query = "LOAD DATA LOCAL INFILE '" + abs_path + "' "
+                                "INTO TABLE " + temp_table + " "
+                                "FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '\\\"' "
+                                "LINES TERMINATED BY '\\n' "
+                                "IGNORE 1 LINES;";
+            db.execute(load_query);
+            
+            string insert_query = "INSERT INTO " + table_name + " SELECT * FROM " + temp_table + " "
+                                  "ON DUPLICATE KEY UPDATE "
+                                  "sum_amount = " + table_name + ".sum_amount + VALUES(sum_amount), "
+                                  "count = " + table_name + ".count + VALUES(count), "
+                                  "avg_amount = (" + table_name + ".sum_amount + VALUES(sum_amount)) / (" + table_name + ".count + VALUES(count)), "
+                                  "min_amount = LEAST(" + table_name + ".min_amount, VALUES(min_amount)), "
+                                  "max_amount = GREATEST(" + table_name + ".max_amount, VALUES(max_amount));";
+            db.execute(insert_query);
+            
+            db.execute("DROP TEMPORARY TABLE " + temp_table + ";");
+            fs::remove(temp_csv);
         }
 
         progress++;

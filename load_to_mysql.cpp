@@ -94,7 +94,7 @@ CuboidFile parse_cuboid_csv(const string& filepath) {
         } else if (col == "count") {
             cf.col_types.push_back("BIGINT");
         } else {
-            cf.col_types.push_back("VARCHAR(255)");
+            cf.col_types.push_back("VARCHAR(64)");
         }
     }
     return cf;
@@ -112,6 +112,16 @@ bool create_table(MySQLConnection& db, const CuboidFile& cf) {
         if (i > 0) create_query += ",\n";
         create_query += "    `" + cf.columns[i] + "` " + cf.col_types[i];
     }
+    
+    if (cf.columns.size() > 5) {
+        create_query += ",\n    PRIMARY KEY (";
+        for (size_t i = 0; i < cf.columns.size() - 5; i++) {
+            if (i > 0) create_query += ", ";
+            create_query += "`" + cf.columns[i] + "`";
+        }
+        create_query += ")";
+    }
+    
     create_query += "\n);";
 
     if (!db.execute(create_query)) return false;

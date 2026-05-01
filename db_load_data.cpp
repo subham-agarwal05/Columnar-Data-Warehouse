@@ -106,7 +106,7 @@ void write_dictionary(const ColumnSchema& col) {
 int main() {
     string cds_path = "cds_schema.xml";
     string dim_path = "dim_schema.xml";
-    string csv_path = "Data/fact_sales_denormalized_generated.csv";
+    string csv_path = "Data/fact_sales_900k.csv";
     
     //Load Dimensional Schema validations
     xml_document dim_doc;
